@@ -1,0 +1,15 @@
+name: Prueba SENAPRED
+
+on:
+  workflow_dispatch:
+
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mostrar mensaje
+        run: |
+          echo "Hola Camilo"
+          echo "GitHub Actions funcionando"
+          date
