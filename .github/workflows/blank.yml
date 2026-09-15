@@ -15,6 +15,11 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Instalar Playwright
+        run: |
+          pip install playwright
+          playwright install chromium
+
       - name: Ejecutar scraper
         run: |
           python scraper.py
