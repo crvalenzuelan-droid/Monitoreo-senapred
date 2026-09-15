@@ -8,8 +8,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Mostrar mensaje
+      - name: Obtener HTML SENAPRED
         run: |
-          echo "Hola Camilo"
-          echo "GitHub Actions funcionando"
-          date
+          curl -L https://www.senapred.cl/alertas | head -100
