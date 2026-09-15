@@ -1,4 +1,4 @@
-name: Probar SENAPRED
+name: Probar Python
 
 on:
   workflow_dispatch:
@@ -8,10 +8,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Descargar página
-        run: |
-          curl -L https://www.senapred.cl/alertas > senapred.html
+      - uses: actions/checkout@v4
 
-      - name: Mostrar contenido
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ejecutar scraper
         run: |
-          head -100 senapred.html
+          python scraper.py
