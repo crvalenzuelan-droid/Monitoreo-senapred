@@ -1,13 +1,23 @@
-name: Prueba SENAPRED
+name: Generar JSON SENAPRED
 
 on:
   workflow_dispatch:
 
 jobs:
-  prueba:
+  generar-json:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Obtener HTML SENAPRED
+      - name: Crear JSON de prueba
         run: |
-          curl -L https://www.senapred.cl/alertas | head -100
+          cat > alertas.json << EOF
+          {
+            "titulo": "Prueba SENAPRED",
+            "fecha": "2026-09-14",
+            "region": "Maule",
+            "tipo": "Alerta Amarilla"
+          }
+          EOF
+
+      - name: Mostrar JSON
+        run: cat alertas.json
