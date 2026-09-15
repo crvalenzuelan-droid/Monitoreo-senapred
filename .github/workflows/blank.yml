@@ -1,44 +1,17 @@
-name: Generar RSS SENAPRED
+name: Probar SENAPRED
 
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generar-rss:
+  prueba:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repositorio
-        uses: actions/checkout@v4
-
-      - name: Crear RSS
+      - name: Descargar página
         run: |
-          cat > rss.xml << 'EOF'
-          <?xml version="1.0" encoding="UTF-8"?>
-          <rss version="2.0">
-            <channel>
-              <title>Alertas SENAPRED</title>
-              <link>https://github.com/crvalenzuela-droid/Monitoreo-senapred</link>
-              <description>Feed de prueba SENAPRED</description>
+          curl -L https://www.senapred.cl/alertas > senapred.html
 
-              <item>
-                <title>Prueba SENAPRED</title>
-                <description>Alerta Amarilla Maule</description>
-                <pubDate>Tue, 15 Sep 2026 19:00:00 GMT</pubDate>
-              </item>
-
-            </channel>
-          </rss>
-          EOF
-
-      - name: Guardar RSS
+      - name: Mostrar contenido
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
-          git add rss.xml
-          git commit -m "Actualizar rss.xml" || echo "Sin cambios"
-          git push
+          head -100 senapred.html
