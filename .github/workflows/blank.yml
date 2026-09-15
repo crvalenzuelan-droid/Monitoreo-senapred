@@ -1,4 +1,4 @@
-name: Generar JSON SENAPRED 2
+name: Generar JSON SENAPRED
 
 on:
   workflow_dispatch:
@@ -33,4 +33,3 @@ jobs:
           git add alertas.json
           git commit -m "Actualizar alertas.json" || echo "Sin cambios"
           git push
-`
