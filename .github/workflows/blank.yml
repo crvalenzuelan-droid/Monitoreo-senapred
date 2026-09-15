@@ -1,4 +1,4 @@
-name: Generar JSON SENAPRED
+name: Generar RSS SENAPRED
 
 on:
   workflow_dispatch:
@@ -7,29 +7,38 @@ permissions:
   contents: write
 
 jobs:
-  generar-json:
+  generar-rss:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repositorio
         uses: actions/checkout@v4
 
-      - name: Crear JSON
+      - name: Crear RSS
         run: |
-          cat > alertas.json << EOF
-          {
-            "titulo": "Prueba SENAPRED",
-            "fecha": "2026-09-14",
-            "region": "Maule",
-            "tipo": "Alerta Amarilla"
-          }
+          cat > rss.xml << 'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <rss version="2.0">
+            <channel>
+              <title>Alertas SENAPRED</title>
+              <link>https://github.com/crvalenzuela-droid/Monitoreo-senapred</link>
+              <description>Feed de prueba SENAPRED</description>
+
+              <item>
+                <title>Prueba SENAPRED</title>
+                <description>Alerta Amarilla Maule</description>
+                <pubDate>Tue, 15 Sep 2026 19:00:00 GMT</pubDate>
+              </item>
+
+            </channel>
+          </rss>
           EOF
 
-      - name: Guardar JSON en repositorio
+      - name: Guardar RSS
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add alertas.json
-          git commit -m "Actualizar alertas.json" || echo "Sin cambios"
+          git add rss.xml
+          git commit -m "Actualizar rss.xml" || echo "Sin cambios"
           git push
