@@ -1,17 +1,22 @@
-name: Probar Python
+name: Monitor SENAPRED
 
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
 jobs:
-  prueba:
+  monitor:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Configurar Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -23,3 +28,14 @@ jobs:
       - name: Ejecutar scraper
         run: |
           python scraper.py
+
+      - name: Guardar cambios
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add rss.xml
+
+          git commit -m "Actualizar RSS SENAPRED" || echo "Sin cambios"
+
+          git push
