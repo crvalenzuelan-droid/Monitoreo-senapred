@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+from datetime import datetime, timezone
 
 titulo = ""
 fecha = ""
@@ -30,6 +31,10 @@ with sync_playwright() as p:
 
     browser.close()
 
+fecha_rss = datetime.now(timezone.utc).strftime(
+    "%a, %d %b %Y %H:%M:%S GMT"
+)
+
 rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
@@ -39,8 +44,10 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 
 <item>
 <title>{titulo}</title>
+<link>https://www.senapred.cl/alertas</link>
+<guid>{titulo}</guid>
 <description>{fecha}</description>
-<pubDate>{fecha}</pubDate>
+<pubDate>{fecha_rss}</pubDate>
 </item>
 
 </channel>
@@ -51,5 +58,5 @@ with open("rss.xml", "w", encoding="utf-8") as archivo:
     archivo.write(rss)
 
 print("RSS actualizado")
-print(titulo)
-print(fecha)
+print("ALERTA:", titulo)
+print("FECHA:", fecha)
