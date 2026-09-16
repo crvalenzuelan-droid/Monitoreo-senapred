@@ -35,6 +35,9 @@ fecha_rss = datetime.now(timezone.utc).strftime(
     "%a, %d %b %Y %H:%M:%S GMT"
 )
 
+# ID ÚNICO DE LA ALERTA
+id_alerta = f"{titulo}|{fecha}"
+
 rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
@@ -46,7 +49,7 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <item>
 <title><![CDATA[{titulo}]]></title>
 <link>https://www.senapred.cl/alertas</link>
-<guid isPermaLink="false"><![CDATA[{titulo}]]></guid>
+<guid isPermaLink="false"><![CDATA[{id_alerta}]]></guid>
 <description><![CDATA[{fecha}]]></description>
 <pubDate>{fecha_rss}</pubDate>
 </item>
@@ -57,7 +60,3 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 
 with open("rss.xml", "w", encoding="utf-8") as archivo:
     archivo.write(rss)
-
-print("RSS actualizado")
-print("ALERTA:", titulo)
-print("FECHA:", fecha)
