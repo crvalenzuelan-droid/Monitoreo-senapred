@@ -1,5 +1,8 @@
 from playwright.sync_api import sync_playwright
 
+titulo = ""
+fecha = ""
+
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
@@ -18,13 +21,35 @@ with sync_playwright() as p:
 
         if linea.startswith("Monitoreo") or linea.startswith("Se declara"):
 
-            print("ALERTA:")
-            print(linea)
+            titulo = linea
 
             if i + 1 < len(lineas):
-                print("FECHA:")
-                print(lineas[i + 1])
+                fecha = lineas[i + 1]
 
             break
 
     browser.close()
+
+rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Alertas SENAPRED</title>
+<link>https://www.senapred.cl</link>
+<description>Alertas SENAPRED</description>
+
+<item>
+<title>{titulo}</title>
+<description>{fecha}</description>
+<pubDate>{fecha}</pubDate>
+</item>
+
+</channel>
+</rss>
+"""
+
+with open("rss.xml", "w", encoding="utf-8") as archivo:
+    archivo.write(rss)
+
+print("RSS actualizado")
+print(titulo)
+print(fecha)
