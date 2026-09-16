@@ -38,15 +38,16 @@ fecha_rss = datetime.now(timezone.utc).strftime(
 rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
+
 <title>Alertas SENAPRED</title>
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 
 <item>
-<title>{titulo}</title>
+<title><![CDATA[{titulo}]]></title>
 <link>https://www.senapred.cl/alertas</link>
-<guid>{titulo}</guid>
-<description>{fecha}</description>
+<guid isPermaLink="false"><![CDATA[{titulo}]]></guid>
+<description><![CDATA[{fecha}]]></description>
 <pubDate>{fecha_rss}</pubDate>
 </item>
 
