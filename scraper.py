@@ -16,7 +16,7 @@ with sync_playwright() as p:
 
     for i, linea in enumerate(lineas):
 
-        if "Alerta" in linea:
+        if linea.startswith("Monitoreo") or linea.startswith("Se declara"):
 
             print("ALERTA:")
             print(linea)
