@@ -1,6 +1,7 @@
 from playwright.sync_api import sync_playwright
 
 with sync_playwright() as p:
+
     browser = p.chromium.launch(headless=True)
 
     page = browser.new_page()
@@ -9,6 +10,21 @@ with sync_playwright() as p:
 
     page.wait_for_timeout(10000)
 
-    print(page.locator("body").inner_text())
+    texto = page.locator("body").inner_text()
+
+    lineas = [x.strip() for x in texto.split("\n") if x.strip()]
+
+    for i, linea in enumerate(lineas):
+
+        if "Alerta" in linea:
+
+            print("ALERTA:")
+            print(linea)
+
+            if i + 1 < len(lineas):
+                print("FECHA:")
+                print(lineas[i + 1])
+
+            break
 
     browser.close()
