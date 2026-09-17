@@ -19,13 +19,22 @@ with sync_playwright() as p:
 
     browser.close()
 
-    with open("enlaces.txt", "w", encoding="utf-8") as f:
+urls_alertas = []
 
-        for e in enlaces:
+for e in enlaces:
 
-            if e["href"] and "alerta" in e["href"]:
+    href = e.get("href", "")
 
-                f.write(f"{e['texto']} | {e['href']}\n")
-                print(e["texto"])
-                print(e["href"])
-                print("-" * 50)
+    if "/alerta/" in href:
+
+        if href not in urls_alertas:
+
+            urls_alertas.append(href)
+
+with open("alertas_urls.txt", "w", encoding="utf-8") as f:
+
+    for url in urls_alertas:
+
+        f.write(url + "\n")
+
+print(f"ALERTAS ENCONTRADAS: {len(urls_alertas)}")
