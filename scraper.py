@@ -4,7 +4,11 @@ with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
 
-    page = browser.new_page()
+    context = browser.new_context(
+        timezone_id="America/Santiago"
+    )
+
+    page = context.new_page()
 
     page.goto("https://www.senapred.cl/alertas")
 
