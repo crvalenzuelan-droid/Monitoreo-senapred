@@ -31,7 +31,9 @@ with sync_playwright() as p:
 
     browser.close()
 
+# --------------------------------------------------
 # Tipo de alerta
+# --------------------------------------------------
 
 tipo_alerta = "No definido"
 prioridad = "Baja"
@@ -48,7 +50,9 @@ elif "Temprana Preventiva" in titulo:
     tipo_alerta = "ATP"
     prioridad = "Baja"
 
+# --------------------------------------------------
 # Región / Zona
+# --------------------------------------------------
 
 region = "No identificada"
 
@@ -61,13 +65,23 @@ elif "para las comunas de " in titulo:
 elif "para la Provincia de " in titulo:
     region = titulo.split("para la Provincia de ")[1].split(" por ")[0]
 
+# --------------------------------------------------
 # ID único
+# --------------------------------------------------
 
 id_alerta = f"{titulo}|{fecha}"
+
+# --------------------------------------------------
+# Fecha RSS válida
+# --------------------------------------------------
 
 fecha_rss = datetime.now(timezone.utc).strftime(
     "%a, %d %b %Y %H:%M:%S GMT"
 )
+
+# --------------------------------------------------
+# Summary para Power Automate
+# --------------------------------------------------
 
 summary = (
     f"Fecha={fecha}"
@@ -76,4 +90,51 @@ summary = (
     f"|Prioridad={prioridad}"
 )
 
-rss = f"""<?xml version
+# --------------------------------------------------
+# RSS
+# --------------------------------------------------
+
+rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>Alertas SENAPRED</title>
+<link>https://www.senapred.cl</link>
+<description>Alertas SENAPRED</description>
+
+<item>
+
+<title><![CDATA[{titulo}]]></title>
+
+<link>https://www.senapred.cl/alertas</link>
+
+<guid isPermaLink="false"><![CDATA[{id_alerta}]]></guid>
+
+<description><![CDATA[{summary}]]></description>
+
+<pubDate>{fecha_rss}</pubDate>
+
+</item>
+
+</channel>
+</rss>
+"""
+
+# --------------------------------------------------
+# Guardar RSS
+# --------------------------------------------------
+
+with open("rss.xml", "w", encoding="utf-8") as archivo:
+    archivo.write(rss)
+
+# --------------------------------------------------
+# Logs
+# --------------------------------------------------
+
+print("RSS actualizado")
+print("ALERTA:", titulo)
+print("FECHA:", fecha)
+print("TIPO:", tipo_alerta)
+print("REGION:", region)
+print("PRIORIDAD:", prioridad)
+print("ID_ALERTA:", id_alerta)
