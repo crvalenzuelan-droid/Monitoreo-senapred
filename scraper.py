@@ -1,4 +1,7 @@
 from playwright.sync_api import sync_playwright
+import json
+
+detalles = []
 
 with sync_playwright() as p:
 
@@ -17,24 +20,61 @@ with sync_playwright() as p:
         }))
     """)
 
+    urls = []
+
+    for e in enlaces:
+
+        href = e.get("href", "")
+
+        if "/alerta/" in href:
+
+            if href not in urls:
+
+                urls.append(href)
+
+    urls = urls[:10]
+
+    print(f"Alertas encontradas: {len(urls)}")
+
+    for url in urls:
+
+        try:
+
+            detalle_page = browser.new_page()
+
+            detalle_page.goto(url)
+
+            detalle_page.wait_for_timeout(5000)
+
+            texto = detalle_page.locator("body").inner_text()
+
+            detalles.append({
+                "url": url,
+                "contenido": texto[:8000]
+            })
+
+            print("OK:", url)
+
+            detalle_page.close()
+
+        except Exception as e:
+
+            print("ERROR:", url)
+            print(str(e))
+
     browser.close()
 
-urls_alertas = []
+with open(
+    "alertas_detalle.json",
+    "w",
+    encoding="utf-8"
+) as f:
 
-for e in enlaces:
+    json.dump(
+        detalles,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
 
-    href = e.get("href", "")
-
-    if "/alerta/" in href:
-
-        if href not in urls_alertas:
-
-            urls_alertas.append(href)
-
-with open("alertas_urls.txt", "w", encoding="utf-8") as f:
-
-    for url in urls_alertas:
-
-        f.write(url + "\n")
-
-print(f"ALERTAS ENCONTRADAS: {len(urls_alertas)}")
+print("JSON generado")
