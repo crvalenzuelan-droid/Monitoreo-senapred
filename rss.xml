@@ -4,23 +4,19 @@
 
 <title>Alertas SENAPRED</title>
 <link>https://www.senapred.cl</link>
+<description>Alertas SENAPRED</description>
 
 <item>
+
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico]]></title>
 
 <link>https://www.senapred.cl/alertas</link>
 
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico|16-09-2026 23:35]]></guid>
 
-<description><![CDATA[16-09-2026 23:35]]></description>
+<description><![CDATA[Fecha=16-09-2026 23:35|Tipo=ATP|Region=Tarapacá|Prioridad=Baja]]></description>
 
-<category><![CDATA[ATP]]></category>
-
-<region><![CDATA[Tarapacá]]></region>
-
-<priority><![CDATA[Baja]]></priority>
-
-<pubDate>Thu, 17 Sep 2026 00:20:41 GMT</pubDate>
+<pubDate>Thu, 17 Sep 2026 00:27:13 GMT</pubDate>
 
 </item>
 
