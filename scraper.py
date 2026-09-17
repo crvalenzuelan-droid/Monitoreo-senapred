@@ -34,7 +34,7 @@ with sync_playwright() as p:
 
                 urls.append(href)
 
-    # SOLO LAS 5 MAS RECIENTES
+    # SOLO LAS 5 MÁS RECIENTES
     urls = urls[:5]
 
     print(f"Alertas encontradas: {len(urls)}")
@@ -94,15 +94,26 @@ with sync_playwright() as p:
 
             # ------------------------------------------------
             # FECHA SENAPRED
+            # BUSCAR LA FECHA DEBAJO DEL TITULO
             # ------------------------------------------------
 
-            fecha_match = re.search(
-                r"\d{2}-\d{2}-\d{4}\s\d{2}:\d{2}",
-                texto
-            )
+            for i, linea in enumerate(lineas):
 
-            if fecha_match:
-                fecha = fecha_match.group(0)
+                if titulo and linea == titulo:
+
+                    for j in range(i + 1, min(i + 10, len(lineas))):
+
+                        fecha_match = re.search(
+                            r"\d{2}-\d{2}-\d{4}\s\d{2}:\d{2}",
+                            lineas[j]
+                        )
+
+                        if fecha_match:
+
+                            fecha = fecha_match.group(0)
+                            break
+
+                    break
 
             # ------------------------------------------------
             # TIPO ALERTA
@@ -195,7 +206,7 @@ with sync_playwright() as p:
                 region = "No identificada"
 
             # ------------------------------------------------
-            # LIMPIAR DETALLE
+            # LIMPIEZA DE DETALLE
             # ------------------------------------------------
 
             detalle = texto
