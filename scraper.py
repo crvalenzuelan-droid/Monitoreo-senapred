@@ -33,7 +33,7 @@ with sync_playwright() as p:
 
                 urls.append(href)
 
-    # Solo las últimas 10
+    # Últimas 10 alertas
     urls = urls[:10]
 
     print(f"Alertas encontradas: {len(urls)}")
@@ -58,7 +58,10 @@ with sync_playwright() as p:
             tipo = ""
             region = ""
 
-            # Buscar título y acción
+            # -------------------------
+            # TITULO / ACCION
+            # -------------------------
+
             for linea in lineas:
 
                 if (
@@ -88,7 +91,10 @@ with sync_playwright() as p:
 
                     break
 
-            # Buscar fecha SENAPRED
+            # -------------------------
+            # FECHA SENAPRED
+            # -------------------------
+
             fecha_match = re.search(
                 r"\d{2}-\d{2}-\d{4}\s\d{2}:\d{2}",
                 texto
@@ -97,7 +103,10 @@ with sync_playwright() as p:
             if fecha_match:
                 fecha = fecha_match.group(0)
 
-            # Tipo alerta
+            # -------------------------
+            # TIPO
+            # -------------------------
+
             if "Alerta Roja" in titulo:
                 tipo = "Roja"
 
@@ -110,31 +119,72 @@ with sync_playwright() as p:
             else:
                 tipo = "No definido"
 
-            # Región / cobertura
+            # -------------------------
+            # REGION
+            # -------------------------
+
             if "para la Región de " in titulo:
 
                 region = (
-                    titulo.split("para la Región de ")[1]
+                    titulo
+                    .split("para la Región de ")[1]
                     .split(" por ")[0]
                 )
 
             elif "para las comunas de " in titulo:
 
                 region = (
-                    titulo.split("para las comunas de ")[1]
+                    titulo
+                    .split("para las comunas de ")[1]
                     .split(" por ")[0]
                 )
 
             elif "para la Provincia de " in titulo:
 
                 region = (
-                    titulo.split("para la Provincia de ")[1]
+                    titulo
+                    .split("para la Provincia de ")[1]
                     .split(" por ")[0]
                 )
 
             else:
 
                 region = "No identificada"
+
+            # -------------------------
+            # LIMPIEZA DE DETALLE
+            # -------------------------
+
+            detalle = texto
+
+            inicio = detalle.find("De acuerdo con la información")
+
+            if inicio == -1:
+                inicio = detalle.find(
+                    "En consideración a estos antecedentes"
+                )
+
+            if inicio > 0:
+                detalle = detalle[inicio:]
+
+            pie = [
+                "Volver",
+                "Ayuda",
+                "Biblio GRD",
+                "Planos de evacuación",
+                "Visor Chile Preparado",
+                "Contacto"
+            ]
+
+            for texto_pie in pie:
+
+                posicion = detalle.find(texto_pie)
+
+                if posicion > 0:
+                    detalle = detalle[:posicion]
+                    break
+
+            detalle = detalle.strip()
 
             alerta = {
                 "id_alerta": f"{titulo}|{fecha}",
@@ -144,7 +194,7 @@ with sync_playwright() as p:
                 "fecha_senapred": fecha,
                 "titulo": titulo,
                 "url": url,
-                "detalle": texto[:15000]
+                "detalle": detalle
             }
 
             alertas.append(alerta)
