@@ -34,7 +34,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add rss.xml enlaces.txt
+          git add rss.xml detalle.html enlaces.txt alertas_urls.txt
 
           git commit -m "Actualizar RSS SENAPRED" || echo "Sin cambios"
 
