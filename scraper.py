@@ -4,6 +4,8 @@ from datetime import datetime, timezone
 titulo = ""
 fecha = ""
 
+alertas = []
+
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
@@ -16,24 +18,59 @@ with sync_playwright() as p:
 
     texto = page.locator("body").inner_text()
 
-    lineas = [x.strip() for x in texto.split("\n") if x.strip()]
-
-    for i, linea in enumerate(lineas):
-
-        if linea.startswith("Monitoreo") or linea.startswith("Se declara"):
-
-            titulo = linea
-
-            if i + 1 < len(lineas):
-                fecha = lineas[i + 1]
-
-            break
-
     browser.close()
 
-# --------------------------------------------------
-# Tipo de alerta
-# --------------------------------------------------
+lineas = [x.strip() for x in texto.split("\n") if x.strip()]
+
+for i, linea in enumerate(lineas):
+
+    es_alerta = (
+        linea.startswith("Monitoreo")
+        or linea.startswith("Se declara")
+        or linea.startswith("Se modifica")
+        or linea.startswith("Se cancela")
+        or linea.startswith("Se actualiza")
+    )
+
+    if es_alerta:
+
+        if i + 1 < len(lineas):
+
+            fecha_texto = lineas[i + 1]
+
+            try:
+
+                fecha_dt = datetime.strptime(
+                    fecha_texto,
+                    "%d-%m-%Y %H:%M"
+                )
+
+                alertas.append(
+                    {
+                        "titulo": linea,
+                        "fecha": fecha_texto,
+                        "fecha_dt": fecha_dt,
+                    }
+                )
+
+            except:
+                pass
+
+if not alertas:
+    raise Exception("No se encontraron alertas")
+
+alerta_reciente = sorted(
+    alertas,
+    key=lambda x: x["fecha_dt"],
+    reverse=True
+)[0]
+
+titulo = alerta_reciente["titulo"]
+fecha = alerta_reciente["fecha"]
+
+# ---------------------------
+# Tipo alerta
+# ---------------------------
 
 tipo_alerta = "No definido"
 prioridad = "Baja"
@@ -50,9 +87,9 @@ elif "Temprana Preventiva" in titulo:
     tipo_alerta = "ATP"
     prioridad = "Baja"
 
-# --------------------------------------------------
-# Región / Zona
-# --------------------------------------------------
+# ---------------------------
+# Región
+# ---------------------------
 
 region = "No identificada"
 
@@ -65,23 +102,15 @@ elif "para las comunas de " in titulo:
 elif "para la Provincia de " in titulo:
     region = titulo.split("para la Provincia de ")[1].split(" por ")[0]
 
-# --------------------------------------------------
-# ID único
-# --------------------------------------------------
+# ---------------------------
+# ID
+# ---------------------------
 
 id_alerta = f"{titulo}|{fecha}"
-
-# --------------------------------------------------
-# Fecha RSS válida
-# --------------------------------------------------
 
 fecha_rss = datetime.now(timezone.utc).strftime(
     "%a, %d %b %Y %H:%M:%S GMT"
 )
-
-# --------------------------------------------------
-# Summary para Power Automate
-# --------------------------------------------------
 
 summary = (
     f"Fecha={fecha}"
@@ -89,10 +118,6 @@ summary = (
     f"|Region={region}"
     f"|Prioridad={prioridad}"
 )
-
-# --------------------------------------------------
-# RSS
-# --------------------------------------------------
 
 rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -120,21 +145,9 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 </rss>
 """
 
-# --------------------------------------------------
-# Guardar RSS
-# --------------------------------------------------
-
 with open("rss.xml", "w", encoding="utf-8") as archivo:
     archivo.write(rss)
 
-# --------------------------------------------------
-# Logs
-# --------------------------------------------------
-
-print("RSS actualizado")
-print("ALERTA:", titulo)
-print("FECHA:", fecha)
-print("TIPO:", tipo_alerta)
-print("REGION:", region)
-print("PRIORIDAD:", prioridad)
-print("ID_ALERTA:", id_alerta)
+print("ALERTA MAS RECIENTE")
+print(titulo)
+print(fecha)
