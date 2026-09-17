@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+from datetime import datetime, timezone
 import json
 import re
 
@@ -33,7 +34,6 @@ with sync_playwright() as p:
 
                 urls.append(href)
 
-    # Últimas 10 alertas
     urls = urls[:10]
 
     print(f"Alertas encontradas: {len(urls)}")
@@ -58,9 +58,7 @@ with sync_playwright() as p:
             tipo = ""
             region = ""
 
-            # -------------------------
-            # TITULO / ACCION
-            # -------------------------
+            # ACCION / TITULO
 
             for linea in lineas:
 
@@ -91,9 +89,7 @@ with sync_playwright() as p:
 
                     break
 
-            # -------------------------
             # FECHA SENAPRED
-            # -------------------------
 
             fecha_match = re.search(
                 r"\d{2}-\d{2}-\d{4}\s\d{2}:\d{2}",
@@ -103,9 +99,7 @@ with sync_playwright() as p:
             if fecha_match:
                 fecha = fecha_match.group(0)
 
-            # -------------------------
             # TIPO
-            # -------------------------
 
             if "Alerta Roja" in titulo:
                 tipo = "Roja"
@@ -119,9 +113,17 @@ with sync_playwright() as p:
             else:
                 tipo = "No definido"
 
-            # -------------------------
+            # PRIORIDAD
+
+            prioridad = "Baja"
+
+            if tipo == "Roja":
+                prioridad = "Alta"
+
+            elif tipo == "Amarilla":
+                prioridad = "Media"
+
             # REGION
-            # -------------------------
 
             if "para la Región de " in titulo:
 
@@ -151,20 +153,22 @@ with sync_playwright() as p:
 
                 region = "No identificada"
 
-            # -------------------------
-            # LIMPIEZA DE DETALLE
-            # -------------------------
+            # LIMPIAR DETALLE
 
             detalle = texto
 
-            inicio = detalle.find("De acuerdo con la información")
+            inicio = detalle.find(
+                "De acuerdo con la información"
+            )
 
             if inicio == -1:
+
                 inicio = detalle.find(
                     "En consideración a estos antecedentes"
                 )
 
             if inicio > 0:
+
                 detalle = detalle[inicio:]
 
             pie = [
@@ -176,20 +180,24 @@ with sync_playwright() as p:
                 "Contacto"
             ]
 
-            for texto_pie in pie:
+            for x in pie:
 
-                posicion = detalle.find(texto_pie)
+                pos = detalle.find(x)
 
-                if posicion > 0:
-                    detalle = detalle[:posicion]
+                if pos > 0:
+
+                    detalle = detalle[:pos]
                     break
 
             detalle = detalle.strip()
 
+            id_alerta = f"{titulo}|{fecha}"
+
             alerta = {
-                "id_alerta": f"{titulo}|{fecha}",
+                "id_alerta": id_alerta,
                 "accion": accion,
                 "tipo": tipo,
+                "prioridad": prioridad,
                 "region": region,
                 "fecha_senapred": fecha,
                 "titulo": titulo,
@@ -210,6 +218,10 @@ with sync_playwright() as p:
 
     browser.close()
 
+# ----------------------------------------
+# JSON
+# ----------------------------------------
+
 with open(
     "alertas.json",
     "w",
@@ -223,4 +235,66 @@ with open(
         indent=2
     )
 
-print(f"Alertas procesadas: {len(alertas)}")
+# ----------------------------------------
+# RSS MULTIPLE
+# ----------------------------------------
+
+fecha_rss = datetime.now(
+    timezone.utc
+).strftime(
+    "%a, %d %b %Y %H:%M:%S GMT"
+)
+
+items = ""
+
+for alerta in alertas:
+
+    summary = (
+        f"Accion={alerta['accion']}"
+        f"|Tipo={alerta['tipo']}"
+        f"|Region={alerta['region']}"
+        f"|Prioridad={alerta['prioridad']}"
+        f"|Fecha={alerta['fecha_senapred']}"
+    )
+
+    items += f"""
+<item>
+
+<title><![CDATA[{alerta['titulo']}]]></title>
+
+<link>{alerta['url']}</link>
+
+<guid isPermaLink="false"><![CDATA[{alerta['id_alerta']}]]></guid>
+
+<description><![CDATA[{summary}]]></description>
+
+<pubDate>{fecha_rss}</pubDate>
+
+</item>
+"""
+
+rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>Alertas SENAPRED</title>
+
+<link>https://www.senapred.cl</link>
+
+<description>Alertas SENAPRED</description>
+
+{items}
+
+</channel>
+</rss>
+"""
+
+with open(
+    "rss.xml",
+    "w",
+    encoding="utf-8"
+) as archivo:
+
+    archivo.write(rss)
+
+print(f"RSS generado con {len(alertas)} alertas")
