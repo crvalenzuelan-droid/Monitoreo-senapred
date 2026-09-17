@@ -1,5 +1,16 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico|17-09-2026 18:27",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca",
+    "fecha_senapred": "17-09-2026 18:27",
+    "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-09-17-18-59-54",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A483-1\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n19-09\n\n\t\n\n20-09\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A492\n\n\t\n\nProbables tormentas eléctricas en cordillera.\n\n\t\n\n17-09\n\n\t\n\n18-09\n\n\t\n\nAbrir Aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico, vigente desde hoy hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|17-09-2026 15:31",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -42,16 +53,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por viento",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAlerta AA165\n\n\t\n\nViento moderado a fuerte con desarrollo de ventisca en cordillera.\n\n\t\n\n20-09\n\n\t\n\n20-09\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A483\n\n\t\n\nViento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n19-09\n\n\t\n\n21-09\n\n\t\n\nAbrir Aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por viento,que se encuentravigente desde el 16 de septiembre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la Región del Maule por viento\n\n16-09-2026 16:39"
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico|17-09-2026 11:03",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Ñuble",
-    "fecha_senapred": "17-09-2026 11:03",
-    "titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-09-17-11-34-15",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A483\n\n\t\n\nViento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n19-09\n\n\t\n\n21-09\n\n\t\n\nAbrir\naquí\n\nPor otra parte, conforme a lo indicado en su Boletín de Amenaza Meteorológica, los montos estimados para los próximos días en la región son los siguientes:\n\nPrecipitación: Entre 10 y 25 mm.\nNevadas: Entre 20 y 30 cm, en zona cordillerana.\nViento: Velocidades estimadas entre 25 y 70 km/h.\nIsoterma 0 °C: Elevación estimada entre 2.200 y 3.500 m.s.n.m.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por Evento Meteorológico vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
   }
 ]

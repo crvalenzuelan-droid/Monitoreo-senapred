@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
+
+17-09-2026 18:27
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 17-09-2026 15:31
@@ -33,6 +37,10 @@ Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por Evento M
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por viento
 
 17-09-2026 14:31
+
+Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+17-09-2026 13:21
 
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico
 
