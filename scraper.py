@@ -1,5 +1,4 @@
 from playwright.sync_api import sync_playwright
-from datetime import datetime, timezone
 import json
 import re
 
@@ -24,9 +23,9 @@ with sync_playwright() as p:
 
     urls = []
 
-    for e in enlaces:
+    for enlace in enlaces:
 
-        href = e.get("href", "")
+        href = enlace.get("href", "")
 
         if "/alerta/" in href:
 
@@ -34,6 +33,7 @@ with sync_playwright() as p:
 
                 urls.append(href)
 
+    # Solo las últimas 10
     urls = urls[:10]
 
     print(f"Alertas encontradas: {len(urls)}")
@@ -58,6 +58,7 @@ with sync_playwright() as p:
             tipo = ""
             region = ""
 
+            # Buscar título y acción
             for linea in lineas:
 
                 if (
@@ -87,14 +88,16 @@ with sync_playwright() as p:
 
                     break
 
-            fecha_regex = re.search(
+            # Buscar fecha SENAPRED
+            fecha_match = re.search(
                 r"\d{2}-\d{2}-\d{4}\s\d{2}:\d{2}",
                 texto
             )
 
-            if fecha_regex:
-                fecha = fecha_regex.group()
+            if fecha_match:
+                fecha = fecha_match.group(0)
 
+            # Tipo alerta
             if "Alerta Roja" in titulo:
                 tipo = "Roja"
 
@@ -107,16 +110,67 @@ with sync_playwright() as p:
             else:
                 tipo = "No definido"
 
+            # Región / cobertura
             if "para la Región de " in titulo:
 
                 region = (
-                    titulo
-                    .split("para la Región de ")[1]
+                    titulo.split("para la Región de ")[1]
                     .split(" por ")[0]
                 )
 
             elif "para las comunas de " in titulo:
 
                 region = (
-                    titulo
-                    .split("para 
+                    titulo.split("para las comunas de ")[1]
+                    .split(" por ")[0]
+                )
+
+            elif "para la Provincia de " in titulo:
+
+                region = (
+                    titulo.split("para la Provincia de ")[1]
+                    .split(" por ")[0]
+                )
+
+            else:
+
+                region = "No identificada"
+
+            alerta = {
+                "id_alerta": f"{titulo}|{fecha}",
+                "accion": accion,
+                "tipo": tipo,
+                "region": region,
+                "fecha_senapred": fecha,
+                "titulo": titulo,
+                "url": url,
+                "detalle": texto[:15000]
+            }
+
+            alertas.append(alerta)
+
+            print("OK:", titulo)
+
+            detalle_page.close()
+
+        except Exception as e:
+
+            print("ERROR:", url)
+            print(str(e))
+
+    browser.close()
+
+with open(
+    "alertas.json",
+    "w",
+    encoding="utf-8"
+) as archivo:
+
+    json.dump(
+        alertas,
+        archivo,
+        ensure_ascii=False,
+        indent=2
+    )
+
+print(f"Alertas procesadas: {len(alertas)}")
