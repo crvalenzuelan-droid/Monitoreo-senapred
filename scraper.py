@@ -48,7 +48,7 @@ elif "Temprana Preventiva" in titulo:
     tipo_alerta = "ATP"
     prioridad = "Baja"
 
-# Región / zona
+# Región / Zona
 
 region = "No identificada"
 
@@ -61,7 +61,7 @@ elif "para las comunas de " in titulo:
 elif "para la Provincia de " in titulo:
     region = titulo.split("para la Provincia de ")[1].split(" por ")[0]
 
-# IDs
+# ID único
 
 id_alerta = f"{titulo}|{fecha}"
 
@@ -69,41 +69,11 @@ fecha_rss = datetime.now(timezone.utc).strftime(
     "%a, %d %b %Y %H:%M:%S GMT"
 )
 
-rss = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
+summary = (
+    f"Fecha={fecha}"
+    f"|Tipo={tipo_alerta}"
+    f"|Region={region}"
+    f"|Prioridad={prioridad}"
+)
 
-<title>Alertas SENAPRED</title>
-<link>https://www.senapred.cl</link>
-
-<item>
-<title><![CDATA[{titulo}]]></title>
-
-<link>https://www.senapred.cl/alertas</link>
-
-<guid isPermaLink="false"><![CDATA[{id_alerta}]]></guid>
-
-<description><![CDATA[{fecha}]]></description>
-
-<category><![CDATA[{tipo_alerta}]]></category>
-
-<region><![CDATA[{region}]]></region>
-
-<priority><![CDATA[{prioridad}]]></priority>
-
-<pubDate>{fecha_rss}</pubDate>
-
-</item>
-
-</channel>
-</rss>
-"""
-
-with open("rss.xml", "w", encoding="utf-8") as archivo:
-    archivo.write(rss)
-
-print("RSS actualizado")
-print("ALERTA:", titulo)
-print("TIPO:", tipo_alerta)
-print("REGION:", region)
-print("PRIORIDAD:", prioridad)
+rss = f"""<?xml version
