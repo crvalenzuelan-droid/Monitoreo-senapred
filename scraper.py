@@ -34,7 +34,7 @@ with sync_playwright() as p:
 
                 urls.append(href)
 
-    urls = urls[:10]
+    urls = urls[:5]
 
     print(f"Alertas encontradas: {len(urls)}")
 
