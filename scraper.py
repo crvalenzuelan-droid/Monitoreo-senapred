@@ -34,6 +34,7 @@ with sync_playwright() as p:
 
                 urls.append(href)
 
+    # SOLO LAS 5 MAS RECIENTES
     urls = urls[:5]
 
     print(f"Alertas encontradas: {len(urls)}")
@@ -58,7 +59,9 @@ with sync_playwright() as p:
             tipo = ""
             region = ""
 
-            # ACCION / TITULO
+            # ------------------------------------------------
+            # TITULO / ACCION
+            # ------------------------------------------------
 
             for linea in lineas:
 
@@ -89,7 +92,9 @@ with sync_playwright() as p:
 
                     break
 
+            # ------------------------------------------------
             # FECHA SENAPRED
+            # ------------------------------------------------
 
             fecha_match = re.search(
                 r"\d{2}-\d{2}-\d{4}\s\d{2}:\d{2}",
@@ -99,61 +104,99 @@ with sync_playwright() as p:
             if fecha_match:
                 fecha = fecha_match.group(0)
 
-            # TIPO
+            # ------------------------------------------------
+            # TIPO ALERTA
+            # ------------------------------------------------
 
             if "Alerta Roja" in titulo:
                 tipo = "Roja"
+                prioridad = "Alta"
 
             elif "Alerta Amarilla" in titulo:
                 tipo = "Amarilla"
+                prioridad = "Media"
 
             elif "Temprana Preventiva" in titulo:
                 tipo = "ATP"
+                prioridad = "Baja"
 
             else:
                 tipo = "No definido"
+                prioridad = "Baja"
 
-            # PRIORIDAD
-
-            prioridad = "Baja"
-
-            if tipo == "Roja":
-                prioridad = "Alta"
-
-            elif tipo == "Amarilla":
-                prioridad = "Media"
-
+            # ------------------------------------------------
             # REGION
+            # ------------------------------------------------
 
-            if "para la Región de " in titulo:
+            try:
 
-                region = (
-                    titulo
-                    .split("para la Región de ")[1]
-                    .split(" por ")[0]
-                )
+                if "para la Región de " in titulo:
 
-            elif "para las comunas de " in titulo:
+                    region = (
+                        titulo
+                        .split("para la Región de ")[1]
+                        .split(" por ")[0]
+                    )
 
-                region = (
-                    titulo
-                    .split("para las comunas de ")[1]
-                    .split(" por ")[0]
-                )
+                elif "para la Región del " in titulo:
 
-            elif "para la Provincia de " in titulo:
+                    region = (
+                        titulo
+                        .split("para la Región del ")[1]
+                        .split(" por ")[0]
+                    )
 
-                region = (
-                    titulo
-                    .split("para la Provincia de ")[1]
-                    .split(" por ")[0]
-                )
+                elif "para la Región de los " in titulo:
 
-            else:
+                    region = (
+                        titulo
+                        .split("para la Región de los ")[1]
+                        .split(" por ")[0]
+                    )
+
+                elif "para la Región de las " in titulo:
+
+                    region = (
+                        titulo
+                        .split("para la Región de las ")[1]
+                        .split(" por ")[0]
+                    )
+
+                elif "para las comunas de " in titulo:
+
+                    region = (
+                        titulo
+                        .split("para las comunas de ")[1]
+                        .split(" por ")[0]
+                    )
+
+                elif "para la comuna de " in titulo:
+
+                    region = (
+                        titulo
+                        .split("para la comuna de ")[1]
+                        .split(" por ")[0]
+                    )
+
+                elif "para la Provincia de " in titulo:
+
+                    region = (
+                        titulo
+                        .split("para la Provincia de ")[1]
+                        .split(" por ")[0]
+                    )
+
+                else:
+
+                    region = "No identificada"
+
+            except:
 
                 region = "No identificada"
 
+            # ------------------------------------------------
             # LIMPIAR DETALLE
+            # ------------------------------------------------
 
             detalle = texto
 
@@ -211,16 +254,19 @@ with sync_playwright() as p:
 
             detalle_page.close()
 
-        except Exception as e:
+        except Exception as error:
 
-            print("ERROR:", url)
-            print(str(e))
+            print("ERROR PROCESANDO ALERTA")
+            print(url)
+            print(str(error))
+
+            continue
 
     browser.close()
 
-# ----------------------------------------
+# ------------------------------------------------
 # JSON
-# ----------------------------------------
+# ------------------------------------------------
 
 with open(
     "alertas.json",
@@ -235,9 +281,9 @@ with open(
         indent=2
     )
 
-# ----------------------------------------
-# RSS MULTIPLE
-# ----------------------------------------
+# ------------------------------------------------
+# RSS
+# ------------------------------------------------
 
 fecha_rss = datetime.now(
     timezone.utc
@@ -259,17 +305,11 @@ for alerta in alertas:
 
     items += f"""
 <item>
-
 <title><![CDATA[{alerta['titulo']}]]></title>
-
 <link>{alerta['url']}</link>
-
 <guid isPermaLink="false"><![CDATA[{alerta['id_alerta']}]]></guid>
-
 <description><![CDATA[{summary}]]></description>
-
 <pubDate>{fecha_rss}</pubDate>
-
 </item>
 """
 
@@ -278,9 +318,7 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <channel>
 
 <title>Alertas SENAPRED</title>
-
 <link>https://www.senapred.cl</link>
-
 <description>Alertas SENAPRED</description>
 
 {items}
