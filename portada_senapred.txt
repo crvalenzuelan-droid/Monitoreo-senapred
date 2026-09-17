@@ -20,63 +20,63 @@ Limpiar Filtros
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
-17-09-2026 18:31
+17-09-2026 15:31
 
 Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico
 
-17-09-2026 18:29
+17-09-2026 15:29
 
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por Evento Meteorológico
 
-17-09-2026 18:25
+17-09-2026 15:25
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por viento
 
-17-09-2026 17:31
+17-09-2026 14:31
 
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico
 
-17-09-2026 14:03
+17-09-2026 11:03
 
 Se modifica evento y cobertura de Alerta Temprana Preventiva a evento meteorológico para la Provincia de El Loa y comuna de Antofagasta
 
-16-09-2026 23:55
+16-09-2026 20:55
 
 Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
 
-16-09-2026 23:35
+16-09-2026 20:35
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
 
-16-09-2026 22:34
+16-09-2026 19:34
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica
 
-16-09-2026 22:33
+16-09-2026 19:33
 
 Se declara Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
-16-09-2026 19:53
+16-09-2026 16:53
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
-15-09-2026 15:52
+15-09-2026 12:52
 
 Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por heladas
 
-14-09-2026 23:40
+14-09-2026 20:40
 
 Monitoreo Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico
 
-14-09-2026 20:43
+14-09-2026 17:43
 
 Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por alteración sanitaria
 
-08-09-2026 22:39
+08-09-2026 19:39
 
 Se declara Alerta Temprana Preventiva para la comuna de Tortel por crecida
 
-01-09-2026 23:27
+01-09-2026 19:27
 
 Ayuda
 Biblio GRD
