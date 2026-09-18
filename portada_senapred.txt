@@ -18,13 +18,13 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
+
+18-09-2026 06:09
+
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 17-09-2026 23:26
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
-
-17-09-2026 22:14
 
 Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
 
