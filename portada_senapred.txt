@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+18-09-2026 12:41
+
 Monitoreo Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por evento meteorológico
 
 18-09-2026 11:10
@@ -69,10 +73,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por a
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica
 
 16-09-2026 19:33
-
-Se declara Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
-
-16-09-2026 16:53
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
