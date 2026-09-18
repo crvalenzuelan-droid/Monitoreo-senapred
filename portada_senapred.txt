@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+18-09-2026 16:11
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 18-09-2026 15:58
@@ -45,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento m
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 18-09-2026 12:41
-
-Monitoreo Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por evento meteorológico
-
-18-09-2026 11:10
 
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
