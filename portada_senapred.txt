@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por evento meteorológico
+
+18-09-2026 11:10
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 18-09-2026 10:46
@@ -35,10 +39,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento met
 17-09-2026 18:49
 
 Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-17-09-2026 18:37
-
-Declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina, por evento meteorológico
 
 17-09-2026 18:37
 
