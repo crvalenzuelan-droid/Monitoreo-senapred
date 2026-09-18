@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+18-09-2026 15:58
+
+Se modifica evento de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+18-09-2026 15:26
+
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+18-09-2026 15:12
+
 Se declara Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
 18-09-2026 15:02
@@ -58,21 +70,9 @@ Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteo
 
 17-09-2026 15:29
 
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por viento
-
-17-09-2026 14:31
-
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 17-09-2026 13:21
-
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico
-
-17-09-2026 11:03
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
-
-16-09-2026 19:34
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica
 
