@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+18-09-2026 10:46
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 18-09-2026 06:09
@@ -41,10 +45,6 @@ Declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puent
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 17-09-2026 18:31
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-17-09-2026 15:31
 
 Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico
 
