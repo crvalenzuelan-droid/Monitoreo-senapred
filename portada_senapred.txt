@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
+
+17-09-2026 23:26
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 17-09-2026 22:14
@@ -37,10 +41,6 @@ Declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puent
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 17-09-2026 18:31
-
-Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
-
-17-09-2026 18:27
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
