@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región de La Araucanía por viento
+
+18-09-2026 23:38
+
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 18-09-2026 21:31
