@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+19-09-2026 16:27
+
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 19-09-2026 13:30
@@ -57,10 +61,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitan
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 18-09-2026 15:58
-
-Se modifica evento de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-18-09-2026 15:26
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
