@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+18-09-2026 21:31
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 18-09-2026 20:41
@@ -53,10 +57,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento met
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 18-09-2026 14:37
-
-Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
-
-18-09-2026 12:41
 
 Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
 
