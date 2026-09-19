@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica la cobertura y evento de la Alerta Temprana Preventiva para las comuna de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por viento
+
+19-09-2026 03:19
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 19-09-2026 01:33
@@ -37,10 +41,6 @@ Se declara Alerta Temprana Preventiva para la Región de La Araucanía por vient
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 18-09-2026 21:31
-
-Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
-
-18-09-2026 19:14
 
 Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
