@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+19-09-2026 13:30
+
+Se modifica evento de Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico
+
+19-09-2026 13:15
+
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
 19-09-2026 13:01
@@ -42,10 +50,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento met
 
 19-09-2026 01:21
 
-Se declara Alerta Temprana Preventiva para la Región de La Araucanía por viento
-
-18-09-2026 23:38
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 18-09-2026 16:11
@@ -69,10 +73,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento met
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 18-09-2026 14:37
-
-Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-17-09-2026 18:37
 
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
