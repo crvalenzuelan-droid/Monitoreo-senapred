@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+19-09-2026 17:23
+
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 19-09-2026 16:27
@@ -65,10 +69,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 18-09-2026 15:12
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-18-09-2026 14:58
 
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
