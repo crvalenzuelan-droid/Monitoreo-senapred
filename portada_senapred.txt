@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+20-09-2026 19:53
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 20-09-2026 17:01
@@ -33,10 +37,6 @@ Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Cop
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
 
 19-09-2026 21:13
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-19-09-2026 16:27
 
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
