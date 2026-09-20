@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico
+
+20-09-2026 15:08
+
 Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
 20-09-2026 07:55
@@ -89,10 +93,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Cu
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 15-09-2026 12:52
-
-Monitoreo Alerta Temprana Preventiva para la comuna de Torres del Paine por evento meteorológico
-
-14-09-2026 17:43
 
 Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por alteración sanitaria
 
