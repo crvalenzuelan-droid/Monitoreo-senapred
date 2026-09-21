@@ -17,7 +17,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=20-09-2026 19:53]]></description>
 
-<pubDate>Mon, 21 Sep 2026 01:05:52 GMT</pubDate>
+<pubDate>Mon, 21 Sep 2026 02:05:24 GMT</pubDate>
 
 </item>
 
@@ -31,7 +31,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=20-09-2026 17:01]]></description>
 
-<pubDate>Mon, 21 Sep 2026 01:05:52 GMT</pubDate>
+<pubDate>Mon, 21 Sep 2026 02:05:24 GMT</pubDate>
 
 </item>
 
@@ -45,21 +45,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=La Araucanía|Prioridad=Baja|Fecha=20-09-2026 17:00]]></description>
 
-<pubDate>Mon, 21 Sep 2026 01:05:52 GMT</pubDate>
-
-</item>
-
-<item>
-
-<title><![CDATA[Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento]]></title>
-
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41</link>
-
-<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento|20-09-2026 07:55]]></guid>
-
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen|Prioridad=Baja|Fecha=20-09-2026 07:55]]></description>
-
-<pubDate>Mon, 21 Sep 2026 01:05:52 GMT</pubDate>
+<pubDate>Mon, 21 Sep 2026 02:05:24 GMT</pubDate>
 
 </item>
 
@@ -73,7 +59,21 @@
 
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=19-09-2026 21:13]]></description>
 
-<pubDate>Mon, 21 Sep 2026 01:05:52 GMT</pubDate>
+<pubDate>Mon, 21 Sep 2026 02:05:24 GMT</pubDate>
+
+</item>
+
+<item>
+
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico]]></title>
+
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-09-17-19-17-59</link>
+
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico|19-09-2026 13:30]]></guid>
+
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=19-09-2026 13:30]]></description>
+
+<pubDate>Mon, 21 Sep 2026 02:05:24 GMT</pubDate>
 
 </item>
 
