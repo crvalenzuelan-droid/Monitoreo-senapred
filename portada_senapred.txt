@@ -42,10 +42,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento mete
 
 19-09-2026 13:01
 
-Se modifica la cobertura y evento de la Alerta Temprana Preventiva para las comuna de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por viento
-
-19-09-2026 03:19
-
 Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico
 
 19-09-2026 01:28
