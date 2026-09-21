@@ -18,6 +18,26 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
+
+21-09-2026 18:30
+
+Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por precipitaciones
+
+21-09-2026 18:00
+
+Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por altas temperaturas
+
+21-09-2026 17:00
+
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico
+
+21-09-2026 16:40
+
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+21-09-2026 16:36
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 21-09-2026 13:05
@@ -29,14 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento mete
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 20-09-2026 19:53
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico
-
-20-09-2026 17:00
-
-Se declara Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-19-09-2026 21:13
 
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
@@ -53,10 +65,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitan
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 18-09-2026 15:58
-
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-18-09-2026 15:12
 
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
