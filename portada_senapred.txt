@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la provincia de Última Esperanza por precipitaciones
+
+21-09-2026 23:09
+
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 21-09-2026 22:45
@@ -45,10 +49,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Al
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
 21-09-2026 18:30
-
-Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por precipitaciones
-
-21-09-2026 18:00
 
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por altas temperaturas
 
