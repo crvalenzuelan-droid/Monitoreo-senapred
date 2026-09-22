@@ -70,10 +70,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento met
 
 19-09-2026 01:21
 
-Se modifica cobertura de Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-18-09-2026 16:11
-
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 18-09-2026 15:58
