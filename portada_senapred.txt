@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+21-09-2026 22:45
+
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 21-09-2026 21:32
@@ -57,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 21-09-2026 16:36
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-20-09-2026 19:53
 
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
