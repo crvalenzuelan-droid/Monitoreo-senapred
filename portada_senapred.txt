@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Los Ríos por evento meteorológico
+
+22-09-2026 14:46
+
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+22-09-2026 13:38
+
+Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Los Lagos por evento meteorológico
+
+22-09-2026 13:32
+
 Se cancela Alerta Temprana Preventiva y declara alerta Amarilla para la Región de La Araucanía por evento meteorológico
 
 22-09-2026 11:49
@@ -30,21 +42,9 @@ Monitoreo Alerta Temprana Preventiva para la provincia de Última Esperanza por 
 
 21-09-2026 23:09
 
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-21-09-2026 22:45
-
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 21-09-2026 21:32
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-21-09-2026 19:20
-
-Se declara la Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-21-09-2026 19:20
 
 Se declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas
 
