@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas
+
+23-09-2026 17:27
+
 Monitoreo Alerta Amarilla para la Región de La Araucanía por Evento Meteorológico
 
 23-09-2026 16:15
@@ -61,10 +65,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Al
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
 21-09-2026 18:30
-
-Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por altas temperaturas
-
-21-09-2026 17:00
 
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
