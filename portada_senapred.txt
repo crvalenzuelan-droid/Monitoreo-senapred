@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+23-09-2026 18:55
+
 Se modifica Alerta Temprana Preventiva para la Provincia de Última Esperanza a Heladas
 
 23-09-2026 18:25
@@ -49,10 +53,6 @@ Monitoreo Alerta Amarilla para la Región de Los Lagos por evento meteorológico
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 23-09-2026 07:51
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-22-09-2026 18:49
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico
 
