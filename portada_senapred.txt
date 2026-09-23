@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán
+
+22-09-2026 21:46
+
 Monitoreo Alerta Amarilla para La Región de La Araucanía por evento meteorológico
 
 22-09-2026 20:18
@@ -65,10 +69,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedr
 Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
 
 19-09-2026 01:21
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-18-09-2026 15:58
 
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
