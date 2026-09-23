@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva para la Provincia de Última Esperanza a Heladas
+
+23-09-2026 18:25
+
 Se modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas
 
 23-09-2026 17:27
@@ -49,10 +53,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 22-09-2026 18:49
-
-Se modifica Alerta Temprana Preventiva para la Provincia de Última Esperanza a evento meteorológico
-
-22-09-2026 18:11
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico
 
