@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde
+
+24-09-2026 14:10
+
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 24-09-2026 13:27
@@ -25,10 +29,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 Se declara alerta roja para la provincia de Valdivia por desborde
 
 24-09-2026 09:34
-
-Se declara Alerta Roja para la comuna de Arauco por desborde
-
-24-09-2026 09:24
 
 Se declara Alerta Roja por desborde para la Provincia de Cautín
 

@@ -9,6 +9,20 @@
 
 <item>
 
+<title><![CDATA[Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde]]></title>
+
+<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57</link>
+
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde|24-09-2026 14:10]]></guid>
+
+<description><![CDATA[Accion=Se modifica|Tipo=Roja|Region=Biobío|Prioridad=Alta|Fecha=24-09-2026 14:10]]></description>
+
+<pubDate>Thu, 24 Sep 2026 18:06:50 GMT</pubDate>
+
+</item>
+
+<item>
+
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico]]></title>
 
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26</link>
@@ -17,7 +31,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=24-09-2026 13:27]]></description>
 
-<pubDate>Thu, 24 Sep 2026 17:05:20 GMT</pubDate>
+<pubDate>Thu, 24 Sep 2026 18:06:50 GMT</pubDate>
 
 </item>
 
@@ -31,21 +45,7 @@
 
 <description><![CDATA[Accion=Se declara|Tipo=No definido|Region=No identificada|Prioridad=Baja|Fecha=24-09-2026 09:34]]></description>
 
-<pubDate>Thu, 24 Sep 2026 17:05:20 GMT</pubDate>
-
-</item>
-
-<item>
-
-<title><![CDATA[Se declara Alerta Roja para la comuna de Arauco por desborde]]></title>
-
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57</link>
-
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Roja para la comuna de Arauco por desborde|24-09-2026 09:24]]></guid>
-
-<description><![CDATA[Accion=Se declara|Tipo=Roja|Region=Arauco|Prioridad=Alta|Fecha=24-09-2026 09:24]]></description>
-
-<pubDate>Thu, 24 Sep 2026 17:05:20 GMT</pubDate>
+<pubDate>Thu, 24 Sep 2026 18:06:50 GMT</pubDate>
 
 </item>
 
@@ -59,7 +59,7 @@
 
 <description><![CDATA[Accion=Se declara|Tipo=Roja|Region=Cautín|Prioridad=Alta|Fecha=24-09-2026 08:26]]></description>
 
-<pubDate>Thu, 24 Sep 2026 17:05:20 GMT</pubDate>
+<pubDate>Thu, 24 Sep 2026 18:06:50 GMT</pubDate>
 
 </item>
 
@@ -73,7 +73,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Pinto y Coihueco|Prioridad=Baja|Fecha=24-09-2026 06:33]]></description>
 
-<pubDate>Thu, 24 Sep 2026 17:05:20 GMT</pubDate>
+<pubDate>Thu, 24 Sep 2026 18:06:50 GMT</pubDate>
 
 </item>
 
