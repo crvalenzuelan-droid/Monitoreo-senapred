@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+24-09-2026 06:33
+
+Se declara Alerta Amarilla para la comuna de Arauco por crecida
+
+24-09-2026 06:28
+
 Se declara Alerta Amarilla para las comunas de Mariquina y Lanco por crecida
 
 24-09-2026 04:09
@@ -57,10 +65,6 @@ Monitoreo Alerta Amarilla para la Región de Los Ríos por evento meteorológico
 Monitoreo Alerta Amarilla para la Región de Los Lagos por evento meteorológico
 
 23-09-2026 08:06
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-23-09-2026 07:51
 
 Se declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas
 
