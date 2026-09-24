@@ -18,13 +18,13 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Roja para la comuna de Arauco por desborde
+
+24-09-2026 09:24
+
 Se declara Alerta Roja por desborde para la Provincia de Cautín
 
 24-09-2026 08:26
-
-Se modifica cobertura de Alerta Amarilla para la región del Biobío por crecida
-
-24-09-2026 08:10
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
