@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico
+
+24-09-2026 16:47
+
 Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde
 
 24-09-2026 14:10
@@ -53,10 +57,6 @@ Se modifica Alerta Temprana Preventiva para la Provincia de Última Esperanza a 
 Se modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas
 
 23-09-2026 17:27
-
-Monitoreo Alerta Amarilla para la Región de La Araucanía por Evento Meteorológico
-
-23-09-2026 16:15
 
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
