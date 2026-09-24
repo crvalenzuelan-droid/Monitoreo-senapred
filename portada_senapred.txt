@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Ñuble por evento meteorológico
+
+23-09-2026 21:51
+
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 23-09-2026 18:55
@@ -53,10 +57,6 @@ Monitoreo Alerta Amarilla para la Región de Los Lagos por evento meteorológico
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 23-09-2026 07:51
-
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por Evento Meteorológico
-
-22-09-2026 17:41
 
 Se declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas
 
