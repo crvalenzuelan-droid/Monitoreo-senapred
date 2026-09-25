@@ -62,10 +62,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Ñuble por evento meteo
 
 23-09-2026 21:51
 
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-23-09-2026 18:55
-
 Se modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas
 
 23-09-2026 17:27
