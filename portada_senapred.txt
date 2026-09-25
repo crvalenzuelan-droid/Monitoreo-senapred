@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+25-09-2026 10:39
+
 Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse Ralco
 
 24-09-2026 19:25
@@ -53,10 +57,6 @@ Se declara alerta roja para la provincia de Valdivia por desborde
 Se declara Alerta Roja por desborde para la Provincia de Cautín
 
 24-09-2026 08:26
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-24-09-2026 06:33
 
 Monitoreo Alerta Temprana Preventiva para la Región del Ñuble por evento meteorológico
 
