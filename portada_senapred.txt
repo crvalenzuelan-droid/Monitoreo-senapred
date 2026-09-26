@@ -58,10 +58,6 @@ Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteoroló
 
 24-09-2026 16:47
 
-Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde
-
-24-09-2026 14:10
-
 Se declara alerta roja para la provincia de Valdivia por desborde
 
 24-09-2026 09:34
