@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+26-09-2026 19:43
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 26-09-2026 18:24
@@ -41,10 +45,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Alm
 Monitoreo Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas
 
 25-09-2026 20:29
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-25-09-2026 13:17
 
 Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse Ralco
 
