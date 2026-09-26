@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
+
+26-09-2026 17:00
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 26-09-2026 09:24

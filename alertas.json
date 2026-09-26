@@ -1,5 +1,16 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento|26-09-2026 17:00",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "No identificada",
+    "fecha_senapred": "26-09-2026 17:00",
+    "titulo": "Se declara Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-09-26-17-01-44",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A506\n\n\t\n\nViento normal a moderado con probabilidad de tormentas de arena en cordillera.\n\n\t\n\n29-09\n\n\t\n\n30-09\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para la provincia de Parinacota y la comuna de Camarones, vigente desde hoy y hasta que las condiciones meteorológicas así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n​"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario|26-09-2026 09:24",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -42,16 +53,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nA501-2\n\n\t\n\nAltas temperaturas en precordillera de la región.\n\n\t\n\n25-09\n\n\t\n\n27-09\n\n\t\n\nAbrir Aquí\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas, que se encuentra vigente desde el 21 de septiembre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población evitar exponerse al sol durante las horas centrales del día (11:00 a 17:00 hrs.máxima radiación ultravioleta); y vigilar la temperatura corporal y condición de niños/as y adultos mayores, ya que dichos grupos suelen deshidratarse con facilidad.\n\n\nSe declara Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas\n\n21-09-2026 19:00"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas|25-09-2026 20:29",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama",
-    "fecha_senapred": "25-09-2026 20:29",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-altas-temperaturas-2026-09-21-19-49-58",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas, que se encuentra vigente desde el 21 de septiembre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población evitar exponerse al sol durante las horas centrales del día (11:00 a 17:00 hrs.máxima radiación ultravioleta); y vigilar la temperatura corporal y condición de niños/as y adultos mayores, ya que dichos grupos suelen deshidratarse con facilidad.\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nA501-2\n\n\t\n\nAltas temperaturas en pampa y precordillera salar de la región.\n\n\t\n\n25-09\n\n\t\n\n27-09\n\n\t\n\nAbrir Aquí\n\n\n\n\nSe modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas\n\n23-09-2026 17:27\n\nSe declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por altas temperaturas\n\n21-09-2026 17:00"
   }
 ]
