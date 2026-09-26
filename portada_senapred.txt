@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
+
+26-09-2026 09:24
+
 Se declara Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
 
 26-09-2026 02:09
@@ -77,10 +81,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteo
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica
 
 16-09-2026 19:33
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
-
-15-09-2026 12:52
 
 Ayuda
 Biblio GRD
