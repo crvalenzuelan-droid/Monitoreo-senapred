@@ -18,9 +18,9 @@ Limpiar Filtros
 <<
 >>
 
-Se modifica Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico
+Se modifica cobertura y Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen, Huasco y Freirina por evento meteorológico
 
-27-09-2026 17:02
+27-09-2026 17:11
 
 Se modifica Alerta Temprana Preventiva para la Región de Los Ríos a viento
 
