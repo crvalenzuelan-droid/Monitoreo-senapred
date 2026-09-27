@@ -9,15 +9,29 @@
 
 <item>
 
-<title><![CDATA[Se modifica cobertura y Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen, Huasco y Freirina por evento meteorológico]]></title>
+<title><![CDATA[Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento]]></title>
 
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49</link>
 
-<guid isPermaLink="false"><![CDATA[Se modifica cobertura y Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen, Huasco y Freirina por evento meteorológico|27-09-2026 17:11]]></guid>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento|27-09-2026 19:13]]></guid>
 
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen, Huasco y Freirina|Prioridad=Baja|Fecha=27-09-2026 17:11]]></description>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Huasco y Freirina|Prioridad=Baja|Fecha=27-09-2026 19:13]]></description>
 
-<pubDate>Sun, 27 Sep 2026 22:05:11 GMT</pubDate>
+<pubDate>Sun, 27 Sep 2026 23:05:26 GMT</pubDate>
+
+</item>
+
+<item>
+
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
+
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-17-11-54-26</link>
+
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|27-09-2026 19:07]]></guid>
+
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=27-09-2026 19:07]]></description>
+
+<pubDate>Sun, 27 Sep 2026 23:05:26 GMT</pubDate>
 
 </item>
 
@@ -31,7 +45,7 @@
 
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Los Ríos a viento|Prioridad=Baja|Fecha=27-09-2026 16:50]]></description>
 
-<pubDate>Sun, 27 Sep 2026 22:05:11 GMT</pubDate>
+<pubDate>Sun, 27 Sep 2026 23:05:26 GMT</pubDate>
 
 </item>
 
@@ -45,7 +59,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=No identificada|Prioridad=Baja|Fecha=27-09-2026 16:29]]></description>
 
-<pubDate>Sun, 27 Sep 2026 22:05:11 GMT</pubDate>
+<pubDate>Sun, 27 Sep 2026 23:05:26 GMT</pubDate>
 
 </item>
 
@@ -59,21 +73,7 @@
 
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Antofagasta y San Pedro de Atacama|Prioridad=Baja|Fecha=27-09-2026 16:17]]></description>
 
-<pubDate>Sun, 27 Sep 2026 22:05:11 GMT</pubDate>
-
-</item>
-
-<item>
-
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán]]></title>
-
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
-
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|27-09-2026 06:42]]></guid>
-
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Pinto y Coihueco|Prioridad=Baja|Fecha=27-09-2026 06:42]]></description>
-
-<pubDate>Sun, 27 Sep 2026 22:05:11 GMT</pubDate>
+<pubDate>Sun, 27 Sep 2026 23:05:26 GMT</pubDate>
 
 </item>
 
