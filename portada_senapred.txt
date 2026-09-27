@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
+
+27-09-2026 00:04
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 27-09-2026 00:01
@@ -53,10 +57,6 @@ Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
 24-09-2026 18:52
-
-Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-24-09-2026 18:27
 
 Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico
 
