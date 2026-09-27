@@ -18,21 +18,29 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico
+
+27-09-2026 17:02
+
+Se modifica Alerta Temprana Preventiva para la Región de Los Ríos a viento
+
+27-09-2026 16:50
+
+Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
+
+27-09-2026 16:29
+
+Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento
+
+27-09-2026 16:17
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 27-09-2026 06:42
 
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-27-09-2026 00:04
-
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 26-09-2026 22:02
-
-Se declara Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
-
-26-09-2026 17:00
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
@@ -41,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoo
 Se declara Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
 
 26-09-2026 02:09
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Chañaral, Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por altas temperaturas
-
-25-09-2026 20:35
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por altas temperaturas
 
