@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
+
+28-09-2026 19:51
+
 Se modifica cobertura Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 28-09-2026 18:26
@@ -65,10 +69,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedr
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 26-09-2026 09:24
-
-Se declara Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
-
-26-09-2026 02:09
 
 Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse Ralco
 
