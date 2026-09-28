@@ -1,5 +1,16 @@
 [
   {
+    "id_alerta": "Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida|27-09-2026 22:00",
+    "accion": "Se cancela",
+    "tipo": "Roja",
+    "prioridad": "Alta",
+    "region": "No identificada",
+    "fecha_senapred": "27-09-2026 22:00",
+    "titulo": "Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
+    "detalle": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica del “ríoLeufucade en Purulón” indica una disminución en su caudal, alcanzando valores normales, lo que supone una disminución del riesgo para la población cercana a este curso de agua.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Roja por desborde y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia\n\nSe declara alerta roja para la provincia de Valdivia por desborde\n\n24-09-2026 09:34\n\nSe declara Alerta Amarilla para las comunas de Mariquina y Lanco por crecida\n\n24-09-2026 04:09"
+  },
+  {
     "id_alerta": "Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento|27-09-2026 19:13",
     "accion": "Se modifica",
     "tipo": "ATP",
@@ -42,16 +53,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-09-26-17-01-44",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A506-1\n\n\t\n\nViento normal a moderado con probabilidad de tormentas de arena en cordillera.\n\n\t\n\n28-09\n\n\t\n\n30-09\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para la provincia de Parinacota y la comuna de Camarones, que se encuentra vigente desde el 26 de septiembre y hasta que las condiciones meteorológicas así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento\n\n26-09-2026 17:00"
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento|27-09-2026 16:17",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Antofagasta y San Pedro de Atacama",
-    "fecha_senapred": "27-09-2026 16:17",
-    "titulo": "Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-y-san-pedro-de-atacama-por-viento-2026-09-27-16-18-51",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A506-1\n\n\t\n\nViento normal a moderado en precordillera salar, con probabilidad de tormentas de arena.\n\n\t\n\n28-09\n\n\t\n\n30-09\n\n\t\n\nAbrir Aquí\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por viento para las comunas de Antofagasta y San Pedro de Atacama, que se encuentra vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
   }
 ]
