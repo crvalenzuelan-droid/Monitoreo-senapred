@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+28-09-2026 11:03
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 28-09-2026 07:56
@@ -41,10 +45,6 @@ Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento
 
 27-09-2026 16:17
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-27-09-2026 06:42
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
