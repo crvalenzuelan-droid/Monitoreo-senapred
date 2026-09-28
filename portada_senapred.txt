@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+28-09-2026 07:56
+
 Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida
 
 27-09-2026 22:00
@@ -25,10 +29,6 @@ Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la provincia de
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento
 
 27-09-2026 19:13
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-27-09-2026 19:07
 
 Se modifica Alerta Temprana Preventiva para la Región de Los Ríos a viento
 
