@@ -201,13 +201,17 @@ with sync_playwright() as p:
                         .split(" por ")[0]
                     )
 
-                elif "para la Provincia de " in titulo:
+                elif "para la provincia de " in titulo.lower():
 
-                    region = (
-                        titulo
-                        .split("para la Provincia de ")[1]
-                        .split(" por ")[0]
-                    )
+                     region = (
+                         re.split(
+                         r"para la provincia de ",
+                         titulo,
+                          flags=re.IGNORECASE
+                           )[1]
+                          .split(" por ")[0]
+                           .strip()
+                      )
 
                 else:
 
