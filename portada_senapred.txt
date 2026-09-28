@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+28-09-2026 18:26
+
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas
 
 28-09-2026 17:00
@@ -45,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento met
 Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida
 
 27-09-2026 22:00
-
-Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento
-
-27-09-2026 19:13
 
 Se modifica Alerta Temprana Preventiva para la Región de Los Ríos a viento
 
