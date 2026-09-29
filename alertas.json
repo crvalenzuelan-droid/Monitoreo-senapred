@@ -1,5 +1,16 @@
 [
   {
+    "id_alerta": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas|28-09-2026 20:52",
+    "accion": "Se cancela",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Los Ríos",
+    "fecha_senapred": "28-09-2026 20:52",
+    "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+    "url": "https://www.senapred.cl/alerta/se-declara-la-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-2026-09-21-20-35-05",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Ríos:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nEnlace\n\n\n\n\nAviso A510\n\n\t\n\nProbables Tormentas Eléctricas en cordillera de la costa, valle y precordillera.\n\n\t\n\nAbrir aquí.\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas, que se mantuvo vigente desde el 24 de septiembre de 2026.\n\nSe modifica Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas\n\n27-09-2026 16:52\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico\n\n27-09-2026 00:04\n\nSe cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico\n\n24-09-2026 18:27\n\nMonitoreo Alerta Amarilla para la Región de Los Ríos por evento meteorológico\n\n23-09-2026 10:24\n\nSe cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Los Ríos por evento meteorológico\n\n22-09-2026 14:46\n\nSe declara la Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico\n\n21-09-2026 19:20"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida|28-09-2026 19:51",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -42,16 +53,5 @@
     "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-09-28-14-28-42",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A511-2\n\n\t\n\nProbables tormentas eléctricas asociadas con chubascos aislados en valle, precordillera y cordillera.\n\n\t\n\n28-09\n\n\t\n\n28-09\n\n\t\n\nAbrir\naquí\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por tormentas eléctricas, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n\n\n\nSENAPRED recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. \n\n​"
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico|28-09-2026 14:03",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "O'Higgins",
-    "fecha_senapred": "28-09-2026 14:03",
-    "titulo": "Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A511-2\n\n\t\n\nProbables tormentas eléctricas asociadas con chubascos débiles en valle y precordillera.\n\n\t\n\n28-09\n\n\t\n\n28-09\n\n\t\n\nAbrir\naquí\n\n\n\n\nAviso A512\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n29-09\n\n\t\n\n29-09\n\n\t\n\nAbrir\naquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n\n\n\nSENAPRED recomienda a la población informarse sobre las condiciones del tiempo; revisar y limpiar el techo y canaletas de las viviendas; mantener las vías de evacuación de aguas lluvias libres de tierra y desperdicios; evitar transitar a pie o en vehículos por zonas o caminos anegados; y evitar internarse en zonas montañosas, ríos, lagos y mar, especialmente cuando las condiciones meteorológicas sean desfavorables."
   }
 ]
