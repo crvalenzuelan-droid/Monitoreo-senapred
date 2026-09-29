@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+29-09-2026 10:05
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 29-09-2026 07:34
@@ -41,14 +45,6 @@ Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento me
 Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 28-09-2026 12:47
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-28-09-2026 07:56
-
-Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la provincia de Valdivia por crecida
-
-27-09-2026 22:00
 
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
 
