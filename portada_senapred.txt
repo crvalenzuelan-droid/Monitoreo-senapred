@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+29-09-2026 18:50
+
+Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+29-09-2026 18:43
+
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 29-09-2026 16:30
@@ -37,10 +45,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
 
 28-09-2026 19:51
-
-Se modifica cobertura Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
-
-28-09-2026 18:26
 
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas
 
