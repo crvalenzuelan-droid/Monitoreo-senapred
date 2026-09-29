@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+29-09-2026 14:12
+
 Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 29-09-2026 10:05
