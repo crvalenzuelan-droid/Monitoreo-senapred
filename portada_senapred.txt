@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+29-09-2026 07:34
+
 Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
 
 28-09-2026 19:51
@@ -41,10 +45,6 @@ Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento me
 Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 28-09-2026 12:47
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-28-09-2026 11:03
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
