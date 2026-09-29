@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
+
+29-09-2026 16:30
+
 Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 29-09-2026 14:12
@@ -65,10 +69,6 @@ Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
 21-09-2026 18:30
-
-Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
-
-17-09-2026 13:21
 
 Ayuda
 Biblio GRD
