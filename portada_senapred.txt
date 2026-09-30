@@ -18,9 +18,17 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+30-09-2026 19:14
+
 Se declara Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y comuna de Torres del Paine por precipitaciones
 
-30-09-2026 17:09
+30-09-2026 19:05
+
+Monitoreo Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico
+
+30-09-2026 18:57
 
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
@@ -29,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento mete
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 30-09-2026 12:38
-
-Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-30-09-2026 11:30
 
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
@@ -61,10 +65,6 @@ Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por creci
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas
 
 28-09-2026 17:00
-
-Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-28-09-2026 14:03
 
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
 
