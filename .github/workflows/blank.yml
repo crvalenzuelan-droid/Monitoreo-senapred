@@ -4,24 +4,33 @@ on:
   workflow_dispatch:
 
   schedule:
-  - cron: '0 * * * *'
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: repositorio-alertas-gobierno
+  cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
         with:
-          python-version: '3.11'
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
       - name: Instalar Playwright
         run: |
+          python -m pip install --upgrade pip
           pip install playwright
           playwright install chromium
 
@@ -29,7 +38,7 @@ jobs:
         run: |
           python scraper.py
 
-            - name: Guardar cambios
+      - name: Guardar cambios
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
@@ -45,8 +54,7 @@ jobs:
 
             for intento in 1 2 3
             do
-              if git push origin main
-              then
+              if git push origin main; then
                 echo "Cambios enviados correctamente."
                 break
               fi
@@ -55,14 +63,9 @@ jobs:
               git pull --rebase origin main
               sleep 5
 
-              if [ "$intento" -eq 3 ]
-              then
+              if [ "$intento" -eq 3 ]; then
                 echo "No fue posible enviar los cambios después de 3 intentos."
                 exit 1
               fi
             done
           fi
-
-          git commit -m "Actualizar RSS SENAPRED" || echo "Sin cambios"
-
-          git push
