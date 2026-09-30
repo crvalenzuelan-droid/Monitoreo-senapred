@@ -13,6 +13,12 @@ URLS_UV = [
     )
 ]
 
+URL_SCRIPT_UV = (
+    "https://archivos.meteochile.gob.cl/"
+    "portaldmc/localJS/js/otrosPronosticos/"
+    "radiacionUv.js"
+)
+
 
 def guardar_error(mensaje):
 
@@ -67,6 +73,10 @@ with sync_playwright() as p:
     url_utilizada = ""
     ultimo_error = ""
 
+    # ---------------------------------
+    # ABRIR PAGINA DE METEOCHILE
+    # ---------------------------------
+
     for url in URLS_UV:
 
         if pagina_cargada:
@@ -109,13 +119,13 @@ with sync_playwright() as p:
                     url_utilizada = url
 
                     print(
-                        "Página UV cargada correctamente."
+                        "Pagina UV cargada correctamente."
                     )
 
                     break
 
                 ultimo_error = (
-                    "La página respondió, pero el cuerpo "
+                    "La pagina respondio, pero el cuerpo "
                     "no contiene texto."
                 )
 
@@ -132,6 +142,7 @@ with sync_playwright() as p:
                 print(ultimo_error)
 
                 if intento < 3:
+
                     print(
                         "Esperando 15 segundos antes "
                         "del siguiente intento..."
@@ -139,12 +150,16 @@ with sync_playwright() as p:
 
                     time.sleep(15)
 
+    # ---------------------------------
+    # CONTROL DE ERROR DE PAGINA
+    # ---------------------------------
+
     if not pagina_cargada:
 
         mensaje_error = (
-            "No fue posible acceder a la página UV "
+            "No fue posible acceder a la pagina UV "
             "de MeteoChile desde GitHub Actions.\n\n"
-            f"Último error:\n{ultimo_error}\n"
+            f"Ultimo error:\n{ultimo_error}\n"
         )
 
         guardar_error(mensaje_error)
@@ -155,9 +170,13 @@ with sync_playwright() as p:
         browser.close()
 
         raise RuntimeError(
-            "MeteoChile no respondió después "
+            "MeteoChile no respondio despues "
             "de todos los intentos."
         )
+
+    # ---------------------------------
+    # GUARDAR TEXTO VISIBLE
+    # ---------------------------------
 
     texto_pagina = page.locator(
         "body"
@@ -175,6 +194,10 @@ with sync_playwright() as p:
 
         archivo.write(texto_pagina)
 
+    # ---------------------------------
+    # GUARDAR HTML COMPLETO
+    # ---------------------------------
+
     html_pagina = page.content()
 
     with open(
@@ -185,10 +208,18 @@ with sync_playwright() as p:
 
         archivo.write(html_pagina)
 
+    # ---------------------------------
+    # GUARDAR CAPTURA COMPLETA
+    # ---------------------------------
+
     page.screenshot(
         path="meteochile_uv/captura_uv.png",
         full_page=True
     )
+
+    # ---------------------------------
+    # EXTRAER ENLACES
+    # ---------------------------------
 
     enlaces = page.locator(
         "a"
@@ -220,6 +251,10 @@ with sync_playwright() as p:
             archivo.write(
                 f"{texto} | {href}\n"
             )
+
+    # ---------------------------------
+    # EXTRAER LISTADO DE SCRIPTS
+    # ---------------------------------
 
     scripts = page.locator(
         "script"
@@ -255,9 +290,93 @@ with sync_playwright() as p:
 
             archivo.write("\n")
 
+    # ---------------------------------
+    # DESCARGAR RADIACIONUV.JS
+    # ---------------------------------
+
+    try:
+
+        print("")
+        print("-----------------------------------")
+        print("Descargando radiacionUv.js...")
+        print("-----------------------------------")
+
+        respuesta_script = context.request.get(
+            URL_SCRIPT_UV,
+            timeout=120000,
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 "
+                    "(Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) "
+                    "Chrome/140.0.0.0 Safari/537.36"
+                ),
+                "Accept": (
+                    "text/javascript,application/javascript,"
+                    "application/ecmascript,*/*;q=0.8"
+                ),
+                "Referer": url_utilizada
+            }
+        )
+
+        print(
+            "Estado radiacionUv.js:",
+            respuesta_script.status
+        )
+
+        if not respuesta_script.ok:
+
+            raise RuntimeError(
+                "La descarga de radiacionUv.js "
+                f"respondio con estado {respuesta_script.status}"
+            )
+
+        contenido_script_uv = respuesta_script.text()
+
+        if not contenido_script_uv.strip():
+
+            raise RuntimeError(
+                "radiacionUv.js fue descargado, "
+                "pero su contenido esta vacio."
+            )
+
+        with open(
+            "meteochile_uv/radiacionUv.js",
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            archivo.write(contenido_script_uv)
+
+        print(
+            "Archivo radiacionUv.js guardado correctamente."
+        )
+
+    except Exception as error:
+
+        mensaje_error_script = (
+            "No fue posible descargar radiacionUv.js.\n\n"
+            f"Error:\n{str(error)}\n"
+        )
+
+        print(mensaje_error_script)
+
+        with open(
+            "meteochile_uv/error_script_uv.txt",
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            archivo.write(mensaje_error_script)
+
+    # ---------------------------------
+    # RESUMEN FINAL
+    # ---------------------------------
+
     print("")
     print("-----------------------------------")
-    print("Diagnóstico UV terminado.")
+    print("Diagnostico UV terminado.")
     print(f"URL utilizada: {url_utilizada}")
     print("-----------------------------------")
     print("")
@@ -267,5 +386,6 @@ with sync_playwright() as p:
     print("meteochile_uv/captura_uv.png")
     print("meteochile_uv/enlaces_uv.txt")
     print("meteochile_uv/scripts_uv.txt")
+    print("meteochile_uv/radiacionUv.js")
 
     browser.close()
