@@ -1,0 +1,91 @@
+name: Pronostico Nacional UV
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 11 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repositorio-alertas-gobierno
+  cancel-in-progress: false
+
+jobs:
+  pronostico-uv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar Playwright
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Validar sintaxis del scraper
+        run: |
+          python -m py_compile meteochile_uv/scraper_uv_pronostico.py
+
+      - name: Ejecutar pronostico UV
+        run: |
+          python meteochile_uv/scraper_uv_pronostico.py
+
+      - name: Verificar archivos generados
+        run: |
+          echo "Archivos generados:"
+          ls -la meteochile_uv
+
+          echo ""
+          echo "Contenido inicial del JSON:"
+          head -n 40 meteochile_uv/pronostico_uv.json
+
+          echo ""
+          echo "Contenido del RSS:"
+          cat meteochile_uv/pronostico_uv.xml
+
+      - name: Guardar pronostico UV en GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -f meteochile_uv/pronostico_uv.json
+          git add -f meteochile_uv/pronostico_uv.xml
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios en el pronostico UV."
+          else
+            git commit -m "Actualizar pronostico nacional UV"
+
+            git pull --rebase origin main
+
+            for intento in 1 2 3
+            do
+              if git push origin main; then
+                echo "Pronostico UV guardado correctamente."
+                break
+              fi
+
+              echo "Push rechazado. Actualizando repositorio."
+              echo "Intento $intento de 3."
+
+              git pull --rebase origin main
+              sleep 5
+
+              if [ "$intento" -eq 3 ]; then
+                echo "No fue posible guardar el pronostico UV."
+                exit 1
+              fi
+            done
+          fi
