@@ -1,0 +1,53 @@
+name: Diagnostico MeteoChile UV
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diagnostico-uv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar Playwright
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Ejecutar diagnostico UV
+        run: |
+          python meteochile_uv/diagnostico_uv.py
+
+      - name: Verificar archivos generados
+        run: |
+          echo "Archivos generados:"
+          ls -la meteochile_uv
+
+      - name: Guardar resultados en GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add meteochile_uv/texto_uv.txt
+          git add meteochile_uv/pagina_uv.html
+          git add meteochile_uv/captura_uv.png
+          git add meteochile_uv/enlaces_uv.txt
+          git add meteochile_uv/scripts_uv.txt
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios para guardar."
+          else
+            git commit -m "Actualizar diagnostico MeteoChile UV"
+            git push
+          fi
