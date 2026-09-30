@@ -369,19 +369,32 @@ with open(
 
 
 def crear_lista_regiones(nivel):
+
     resultados = []
 
-    for registro in gruposif registro["indice_uv"]:
+    registros_nivel = grupos.get(
+        nivel,
+        []
+    )
+
+    for registro in registros_nivel:
+
+        if registro["indice_uv"]:
+
             resultados.append(
                 f"{registro['region']} "
                 f"({registro['indice_uv']})"
             )
+
         else:
+
             resultados.append(
                 registro["region"]
             )
 
-    return ", ".join(resultados)
+    return ", ".join(
+        resultados
+    )
 
 
 resumen_extremo = crear_lista_regiones(
