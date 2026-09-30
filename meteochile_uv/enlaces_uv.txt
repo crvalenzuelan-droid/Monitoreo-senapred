@@ -1,0 +1,66 @@
+Índice UV-B estación PUTRE (Univ. de Tarapacá) | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=180017
+Índice Horario | 
+Índice UV-B estación ARICA (Univ. de Tarapacá) | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=180016
+Índice Horario | 
+Índice UV-B estación IQUIQUE | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=200006
+Índice Horario | 
+Índice UV-B estación SAN PEDRO DE ATACAMA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=220009
+Índice Horario | 
+Índice UV-B estación ANTOFAGASTA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=230001
+Índice Horario | 
+Índice UV-B estación ISLA DE PASCUA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=270001
+Índice Horario | 
+Índice UV-B estación CALDERA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=270008
+Índice Horario | 
+Índice UV-B estación VALLENAR AD. | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=280003
+Índice UV-B estación LA SERENA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=290004
+Índice Horario | 
+Índice UV-B estación EL TOLOLO | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=300034
+Índice Horario | 
+Índice UV-B estación SANTIAGO | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=330020
+Índice Horario | 
+Índice UV-B estación CORDILLERA REGIÓN METROPOLITANA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=330077
+Índice Horario | 
+Índice UV-B estación LITORAL CENTRAL | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=330120
+Índice Horario | 
+Índice UV-B estación GENERAL FREIRE, CURICÓ AD. | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=340031
+Índice Horario | 
+Índice UV-B estación RANCAGUA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=340045
+Índice Horario | 
+Índice UV-B estación TALCA (UNIVERSIDAD AUTÓNOMA) | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=350050
+Índice Horario | 
+Índice UV-B estación GENERAL BERNARDO O'HIGGINS, CHILLÁN AD. | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=360011
+Índice UV-B estación CONCEPCIÓN | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=360019
+Índice Horario | 
+Índice UV-B estación MARÍA DOLORES, LOS ANGELES AD. | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=370033
+Índice Horario | 
+Índice UV-B estación TERMAS DE CHILLAN | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=360042
+Índice UV-B estación TEMUCO, LA ARAUCANÍA AD. | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=380029
+Índice Horario | 
+Índice UV-B estación VALDIVIA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=390026
+Índice UV-B estación PUERTO MONTT | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=410005
+Índice Horario | 
+Índice UV-B estación COYHAIQUE | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=450004
+Índice Horario | 
+Índice UV-B estación PUNTA ARENAS | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=520006
+Índice Horario | 
+Índice UV-B estación ANTÁRTICA | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=950001
+Índice Horario | 
+Región Antofagasta | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región Arica y Parinacota | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región Atacama | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región Coquimbo | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región de Aysén | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región de la Araucanía | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región del Biobío | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región del Libertador Gral. Bernardo O’Higgins | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región del Maule | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región de Los Lagos | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región de Los Ríos | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región de Magallanes y de la Antártica Chilena | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región Metropolitana de Santiago | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región Tarapacá | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Región Valparaíso | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv.xhtml#
+Información General | https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/indice_radiacion_uv/informacion_general.xhtml
+Ley de Ozono Nº20.096 "ESTABLECE MECANISMOS DE CONTROL APLICABLES A LAS SUSTANCIAS AGOTADORAS DE LA CAPA DE OZONO" | https://archivos.meteochile.gob.cl/portaldmc/meteochile/documentos/sq_ley_aa_ozono_20096.pdf#page=1
+Nota: Si no tiene Documento formato PDF Adobe Acrobat Reader, haga click aquí para descargarlo. | http://get.adobe.com/es/reader/
