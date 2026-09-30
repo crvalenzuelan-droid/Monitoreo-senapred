@@ -6,6 +6,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: repositorio-alertas-gobierno
+  cancel-in-progress: false
+
 jobs:
   diagnostico-uv:
     runs-on: ubuntu-latest
@@ -13,6 +17,8 @@ jobs:
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -30,24 +36,58 @@ jobs:
           python meteochile_uv/diagnostico_uv.py
 
       - name: Verificar archivos generados
+        if: always()
         run: |
-          echo "Archivos generados:"
+          echo "Archivos encontrados en meteochile_uv:"
           ls -la meteochile_uv
 
+          echo ""
+          echo "Verificando radiacionUv.js:"
+
+          if [ -f "meteochile_uv/radiacionUv.js" ]; then
+            echo "radiacionUv.js fue generado correctamente."
+            echo "Tamano del archivo:"
+            wc -c meteochile_uv/radiacionUv.js
+          else
+            echo "radiacionUv.js no fue encontrado."
+          fi
+
       - name: Guardar resultados en GitHub
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add meteochile_uv/texto_uv.txt
-          git add meteochile_uv/pagina_uv.html
-          git add meteochile_uv/captura_uv.png
-          git add meteochile_uv/enlaces_uv.txt
-          git add meteochile_uv/scripts_uv.txt
+          git add meteochile_uv/ || true
+          git add -f meteochile_uv/radiacionUv.js || true
+
+          echo ""
+          echo "Estado de archivos antes del commit:"
+          git status --short
 
           if git diff --cached --quiet; then
-            echo "No hay cambios para guardar."
+            echo "No hay resultados nuevos para guardar."
           else
             git commit -m "Actualizar diagnostico MeteoChile UV"
-            git push
+
+            git pull --rebase origin main
+
+            for intento in 1 2 3
+            do
+              if git push origin main; then
+                echo "Resultados UV enviados correctamente."
+                break
+              fi
+
+              echo "Push rechazado. Actualizando repositorio."
+              echo "Intento $intento de 3."
+
+              git pull --rebase origin main
+              sleep 5
+
+              if [ "$intento" -eq 3 ]; then
+                echo "No fue posible guardar los resultados UV."
+                exit 1
+              fi
+            done
           fi
