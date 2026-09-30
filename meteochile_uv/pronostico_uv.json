@@ -1,0 +1,185 @@
+{
+  "fuente": "Dirección Meteorológica de Chile",
+  "producto": "Pronóstico nacional de radiación UV",
+  "fecha_pronostico": "30-09-2026",
+  "fecha_generacion_utc": "2026-09-30T03:10:27.639026+00:00",
+  "valor_maximo_nacional": 10,
+  "regiones": [
+    {
+      "region": "Arica y Parinacota",
+      "estacion": "Arica",
+      "codigo_estacion": "180016",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "6-7",
+      "valor_maximo": 7,
+      "riesgo": "Alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=180016",
+      "error": ""
+    },
+    {
+      "region": "Tarapacá",
+      "estacion": "Iquique",
+      "codigo_estacion": "200006",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "8-10",
+      "valor_maximo": 10,
+      "riesgo": "Muy alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=200006",
+      "error": ""
+    },
+    {
+      "region": "Antofagasta",
+      "estacion": "Antofagasta",
+      "codigo_estacion": "230001",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "6-7",
+      "valor_maximo": 7,
+      "riesgo": "Alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=230001",
+      "error": ""
+    },
+    {
+      "region": "Atacama",
+      "estacion": "Caldera",
+      "codigo_estacion": "270008",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "6-7",
+      "valor_maximo": 7,
+      "riesgo": "Alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=270008",
+      "error": ""
+    },
+    {
+      "region": "Coquimbo",
+      "estacion": "La Serena",
+      "codigo_estacion": "290004",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "8-10",
+      "valor_maximo": 10,
+      "riesgo": "Muy alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=290004",
+      "error": ""
+    },
+    {
+      "region": "Valparaíso",
+      "estacion": "Litoral Central",
+      "codigo_estacion": "330120",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "6-7",
+      "valor_maximo": 7,
+      "riesgo": "Alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=330120",
+      "error": ""
+    },
+    {
+      "region": "Metropolitana",
+      "estacion": "Santiago",
+      "codigo_estacion": "330020",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "6-7",
+      "valor_maximo": 7,
+      "riesgo": "Alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=330020",
+      "error": ""
+    },
+    {
+      "region": "O'Higgins",
+      "estacion": "Rancagua",
+      "codigo_estacion": "340045",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "6-7",
+      "valor_maximo": 7,
+      "riesgo": "Alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=340045",
+      "error": ""
+    },
+    {
+      "region": "Maule",
+      "estacion": "Talca",
+      "codigo_estacion": "350050",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "6-7",
+      "valor_maximo": 7,
+      "riesgo": "Alto",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=350050",
+      "error": ""
+    },
+    {
+      "region": "Ñuble",
+      "estacion": "Chillán",
+      "codigo_estacion": "360011",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "3-5",
+      "valor_maximo": 5,
+      "riesgo": "Moderado",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=360011",
+      "error": ""
+    },
+    {
+      "region": "Biobío",
+      "estacion": "Concepción",
+      "codigo_estacion": "360019",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "3-5",
+      "valor_maximo": 5,
+      "riesgo": "Moderado",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=360019",
+      "error": ""
+    },
+    {
+      "region": "La Araucanía",
+      "estacion": "Temuco",
+      "codigo_estacion": "380029",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "1-2",
+      "valor_maximo": 2,
+      "riesgo": "Bajo",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=380029",
+      "error": ""
+    },
+    {
+      "region": "Los Ríos",
+      "estacion": "Valdivia",
+      "codigo_estacion": "390026",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "3-5",
+      "valor_maximo": 5,
+      "riesgo": "Moderado",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=390026",
+      "error": ""
+    },
+    {
+      "region": "Los Lagos",
+      "estacion": "Puerto Montt",
+      "codigo_estacion": "410005",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "1-2",
+      "valor_maximo": 2,
+      "riesgo": "Bajo",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=410005",
+      "error": ""
+    },
+    {
+      "region": "Aysén",
+      "estacion": "Coyhaique",
+      "codigo_estacion": "450004",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "3-5",
+      "valor_maximo": 5,
+      "riesgo": "Moderado",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=450004",
+      "error": ""
+    },
+    {
+      "region": "Magallanes",
+      "estacion": "Punta Arenas",
+      "codigo_estacion": "520006",
+      "fecha_pronostico": "30-09-2026",
+      "indice_uv": "3-5",
+      "valor_maximo": 5,
+      "riesgo": "Moderado",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/otros_pronosticos/radiacion_uv_region.xhtml?estacion=520006",
+      "error": ""
+    }
+  ]
+}
