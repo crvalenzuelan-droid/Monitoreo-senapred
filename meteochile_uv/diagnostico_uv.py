@@ -388,4 +388,133 @@ with sync_playwright() as p:
     print("meteochile_uv/scripts_uv.txt")
     print("meteochile_uv/radiacionUv.js")
 
+        # ---------------------------------
+    # DIAGNOSTICO PAGINA UV REGIONAL
+    # ---------------------------------
+
+    url_uv_regional = (
+        "https://www.meteochile.gob.cl/"
+        "PortalDMC-web/otros_pronosticos/"
+        "radiacion_uv_region.xhtml"
+        "?estacion=330020"
+    )
+
+    try:
+
+        print("")
+        print("-----------------------------------")
+        print("Abriendo pagina UV regional...")
+        print(url_uv_regional)
+        print("-----------------------------------")
+
+        pagina_regional = context.new_page()
+
+        respuesta_regional = pagina_regional.goto(
+            url_uv_regional,
+            wait_until="domcontentloaded",
+            timeout=120000
+        )
+
+        pagina_regional.wait_for_timeout(15000)
+
+        if respuesta_regional is not None:
+
+            print(
+                "Estado pagina regional:",
+                respuesta_regional.status
+            )
+
+        texto_regional = pagina_regional.locator(
+            "body"
+        ).inner_text(
+            timeout=30000
+        )
+
+        with open(
+            "meteochile_uv/texto_uv_regional.txt",
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            archivo.write(texto_regional)
+
+        html_regional = pagina_regional.content()
+
+        with open(
+            "meteochile_uv/pagina_uv_regional.html",
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            archivo.write(html_regional)
+
+        pagina_regional.screenshot(
+            path=(
+                "meteochile_uv/"
+                "captura_uv_regional.png"
+            ),
+            full_page=True
+        )
+
+        recursos_regionales = (
+            pagina_regional.locator(
+                "script, img, iframe"
+            ).evaluate_all("""
+                elementos => elementos.map(elemento => ({
+                    etiqueta: elemento.tagName,
+                    src: elemento.src || "",
+                    id: elemento.id || "",
+                    clase: elemento.className || ""
+                }))
+            """)
+        )
+
+        with open(
+            "meteochile_uv/"
+            "recursos_uv_regional.txt",
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            for recurso in recursos_regionales:
+
+                archivo.write(
+                    f"ETIQUETA: "
+                    f"{recurso.get('etiqueta', '')}\n"
+                )
+
+                archivo.write(
+                    f"SRC: "
+                    f"{recurso.get('src', '')}\n"
+                )
+
+                archivo.write(
+                    f"ID: "
+                    f"{recurso.get('id', '')}\n"
+                )
+
+                archivo.write(
+                    f"CLASE: "
+                    f"{recurso.get('clase', '')}\n"
+                )
+
+                archivo.write(
+                    "-----------------------------------\n"
+                )
+
+        print(
+            "Diagnostico regional UV completado."
+        )
+
+        pagina_regional.close()
+
+    except Exception as error:
+
+        print(
+            "No fue posible diagnosticar "
+            "la pagina UV regional:"
+        )
+
+        print(str(error))
+        
     browser.close()
