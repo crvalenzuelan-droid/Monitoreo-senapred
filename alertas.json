@@ -1,5 +1,16 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|30-09-2026 12:38",
+    "accion": "Monitoreo",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "La Araucanía",
+    "fecha_senapred": "30-09-2026 12:38",
+    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía.\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A515\n\n\t\n\nProbables tormentas eléctricas en cordillera de la costa y valle\n\n\t\n\n30-09\n\n\t\n\n30-09\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A520-1\n\n\t\n\nProbables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en litoral, cordillera de la costa y valle.\n\n\t\n\n02-10\n\n\t\n\n03-10\n\n\t\n\nAbrir\naquí\n\nAsimismo, el Centro Meteorológico Marítimo de la Armada emitió un Aviso Especial por la Probabilidad de ocurrencia de nubes convectivas factible de generar trombas marinas en el sector oceánico y costero de la región, entre las 08:00 y las 15:00 horas de hoy 30 de septiembre.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED mantiene Alerta Temprana Preventiva regional por tormentas eléctricas, que se mantiene vigente desde el 29 de septiembre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. \n\n\nSe declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas\n\n29-09-2026 18:50"
+  },
+  {
     "id_alerta": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|30-09-2026 11:30",
     "accion": "Se declara",
     "tipo": "ATP",
@@ -9,17 +20,6 @@
     "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-09-30-11-40-54",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A518\n\n\t\n\nViento normal a moderado en precordillera y cordillera.\n\n\t\n\n02-10\n\n\t\n\n03-10\n\n\t\n\nAbrir\naquí\n\nPor otra parte, según lo señalado en el Informe de Amenaza Meteorológica, se pronostican los siguientes montos de precipitaciones, viento e isoterma 0°C en la región:\n\nPrecipitaciones: entre 2 y 35 mm.\nNevadas: entre 10 y 40 cm.\nViento: 25 – 70 km/h.\nIsoterma 0:  entre 1.700 – 3.500 m.s.n.m.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED Declara Alerta Temprana Preventiva Regional por evento meteorológico, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|29-09-2026 18:50",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "La Araucanía",
-    "fecha_senapred": "29-09-2026 18:50",
-    "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-29-18-52-18",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía.\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A515\n\n\t\n\nProbables tormentas eléctricas en cordillera de la costa y valle\n\n\t\n\n30-09\n\n\t\n\n30-09\n\n\t\n\nAbrir aquí\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n\n\n\nSENAPRED recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta."
   },
   {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico|29-09-2026 18:43",
