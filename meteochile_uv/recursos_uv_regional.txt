@@ -1,0 +1,45 @@
+ETIQUETA: SCRIPT
+SRC: https://archivos.meteochile.gob.cl/portaldmc/localJS/js/modernizr-latest.js
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: SCRIPT
+SRC: https://archivos.meteochile.gob.cl/portaldmc/localJS/js/jquery/jquery-1.9.1.js
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: SCRIPT
+SRC: https://archivos.meteochile.gob.cl/portaldmc/localJS/js/iframeResizerHost/iframeResizer.contentWindow.min.js
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: SCRIPT
+SRC: 
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: SCRIPT
+SRC: https://archivos.meteochile.gob.cl/portaldmc/meteochile/js/indice_radiacion.js?version=1
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: SCRIPT
+SRC: https://archivos.meteochile.gob.cl/portaldmc/localJS/js/otrosPronosticos/renderIndiceObservado.js?version=1
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: SCRIPT
+SRC: https://www.googletagmanager.com/gtag/js?id=G-1Z7Y4ZMFVD
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: IMG
+SRC: https://archivos.meteochile.gob.cl/portaldmc/movil/logo_DMC.svg
+ID: 
+CLASE: 
+-----------------------------------
+ETIQUETA: IMG
+SRC: https://archivos.meteochile.gob.cl/portaldmc/meteochile/imgs/330020.png
+ID: imagenUV
+CLASE: 
+-----------------------------------

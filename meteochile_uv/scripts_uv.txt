@@ -1,11 +1,11 @@
 ====================================
-SRC: https://www.meteochile.gob.cl/PortalDMC-web/javax.faces.resource/jquery/jquery.js.xhtml;jsessionid=lpofqLIphhrutp-QnYpzaI3D.peapdmc?ln=primefaces&v=4.0
+SRC: https://www.meteochile.gob.cl/PortalDMC-web/javax.faces.resource/jquery/jquery.js.xhtml;jsessionid=y2RvrgJuZG-htshEswXI2Fjw.peapdmc?ln=primefaces&v=4.0
 
 ====================================
-SRC: https://www.meteochile.gob.cl/PortalDMC-web/javax.faces.resource/jquery/jquery-plugins.js.xhtml;jsessionid=lpofqLIphhrutp-QnYpzaI3D.peapdmc?ln=primefaces&v=4.0
+SRC: https://www.meteochile.gob.cl/PortalDMC-web/javax.faces.resource/jquery/jquery-plugins.js.xhtml;jsessionid=y2RvrgJuZG-htshEswXI2Fjw.peapdmc?ln=primefaces&v=4.0
 
 ====================================
-SRC: https://www.meteochile.gob.cl/PortalDMC-web/javax.faces.resource/primefaces.js.xhtml;jsessionid=lpofqLIphhrutp-QnYpzaI3D.peapdmc?ln=primefaces&v=4.0
+SRC: https://www.meteochile.gob.cl/PortalDMC-web/javax.faces.resource/primefaces.js.xhtml;jsessionid=y2RvrgJuZG-htshEswXI2Fjw.peapdmc?ln=primefaces&v=4.0
 
 ====================================
 SRC: https://archivos.meteochile.gob.cl/portaldmc/localJS/js/iframeResizerHost/iframeResizer.contentWindow.min.js
