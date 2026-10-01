@@ -18,13 +18,17 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+01-10-2026 12:16
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
+
+01-10-2026 11:55
+
 Se modifica Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
 
 30-09-2026 21:15
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-30-09-2026 19:14
 
 Se declara Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y comuna de Torres del Paine por precipitaciones
 
@@ -53,10 +57,6 @@ Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento me
 Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 29-09-2026 10:05
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-29-09-2026 07:34
 
 Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
 
