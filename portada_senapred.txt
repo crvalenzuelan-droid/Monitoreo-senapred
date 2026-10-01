@@ -66,10 +66,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Go
 
 28-09-2026 17:00
 
-Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
-
-27-09-2026 16:29
-
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento
 
 27-09-2026 16:17
