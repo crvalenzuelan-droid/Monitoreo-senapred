@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+01-10-2026 18:27
+
 Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
 
 01-10-2026 17:15
@@ -37,10 +41,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteo
 Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá por evento meteorológico
 
 01-10-2026 14:20
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-01-10-2026 12:16
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
 
