@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
+
+01-10-2026 20:50
+
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+01-10-2026 20:12
+
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 01-10-2026 19:52
@@ -29,14 +37,6 @@ Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de
 Se modifica evento de Alerta Temprana Preventiva para la región de los Lagos por evento meteorológico
 
 01-10-2026 19:06
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-01-10-2026 18:27
-
-Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
-
-01-10-2026 17:15
 
 Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
@@ -73,10 +73,6 @@ Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento me
 Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
 
 28-09-2026 19:51
-
-Se declara Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas
-
-28-09-2026 17:00
 
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento
 
