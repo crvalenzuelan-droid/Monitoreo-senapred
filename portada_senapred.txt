@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida
+
+02-10-2026 16:41
+
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
+
+02-10-2026 16:24
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 02-10-2026 15:42
@@ -81,10 +89,6 @@ Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por creci
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento
 
 27-09-2026 16:17
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
-
-26-09-2026 09:24
 
 Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse Ralco
 
