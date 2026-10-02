@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+02-10-2026 09:39
+
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 01-10-2026 20:50
