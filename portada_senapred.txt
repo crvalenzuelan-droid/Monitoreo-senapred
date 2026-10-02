@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y Última Esperanza a evento meteorológico
+
+02-10-2026 10:48
+
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+02-10-2026 10:38
+
 Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 02-10-2026 09:39
@@ -61,14 +69,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por a
 Se modifica Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
 
 30-09-2026 21:15
-
-Se declara Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y comuna de Torres del Paine por precipitaciones
-
-30-09-2026 19:05
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-30-09-2026 12:38
 
 Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
