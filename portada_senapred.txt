@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+02-10-2026 13:08
+
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y Última Esperanza a evento meteorológico
 
 02-10-2026 10:48
@@ -49,10 +53,6 @@ Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de
 Se modifica evento de Alerta Temprana Preventiva para la región de los Lagos por evento meteorológico
 
 01-10-2026 19:06
-
-Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-01-10-2026 16:44
 
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
