@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Modifica Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
+
+03-10-2026 12:59
+
 Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde
 
 03-10-2026 08:46
@@ -45,10 +49,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 02-10-2026 16:24
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-02-10-2026 15:42
 
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y Última Esperanza a evento meteorológico
 
