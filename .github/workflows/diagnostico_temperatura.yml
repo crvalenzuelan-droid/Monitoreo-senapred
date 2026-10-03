@@ -1,0 +1,102 @@
+name: Diagnostico MeteoChile Temperaturas
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repositorio-alertas-gobierno
+  cancel-in-progress: false
+
+jobs:
+  diagnostico-temperatura:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar Playwright
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Validar sintaxis
+        run: |
+          python -m py_compile meteochile_temperatura/diagnostico_temperatura.py
+
+      - name: Ejecutar diagnostico de temperaturas
+        run: |
+          python meteochile_temperatura/diagnostico_temperatura.py
+
+      - name: Verificar archivos generados
+        if: always()
+        run: |
+          echo "Archivos encontrados:"
+          ls -la meteochile_temperatura
+
+          echo ""
+          echo "Inicio del texto visible:"
+
+          if [ -f "meteochile_temperatura/texto_temperatura.txt" ]; then
+            head -n 80 meteochile_temperatura/texto_temperatura.txt
+          else
+            echo "No se genero texto_temperatura.txt"
+          fi
+
+          echo ""
+          echo "Solicitudes detectadas:"
+
+          if [ -f "meteochile_temperatura/solicitudes_temperatura.json" ]; then
+            head -n 100 meteochile_temperatura/solicitudes_temperatura.json
+          else
+            echo "No se genero solicitudes_temperatura.json"
+          fi
+
+      - name: Guardar diagnostico en GitHub
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -f meteochile_temperatura/ || true
+
+          echo ""
+          echo "Archivos preparados para el commit:"
+          git status --short
+
+          if git diff --cached --quiet; then
+            echo "No hay resultados nuevos para guardar."
+          else
+            git commit -m "Actualizar diagnostico MeteoChile temperaturas"
+            git pull --rebase origin main
+
+            for intento in 1 2 3
+            do
+              if git push origin main; then
+                echo "Diagnostico de temperaturas guardado correctamente."
+                break
+              fi
+
+              echo "Push rechazado. Actualizando repositorio."
+              echo "Intento $intento de 3."
+
+              git pull --rebase origin main
+              sleep 5
+
+              if [ "$intento" -eq 3 ]; then
+                echo "No fue posible guardar el diagnostico."
+                exit 1
+              fi
+            done
+          fi
