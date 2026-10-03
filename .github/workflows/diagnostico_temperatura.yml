@@ -31,7 +31,7 @@ jobs:
           pip install playwright
           playwright install --with-deps chromium
 
-      - name: Validar sintaxis de los diagnosticos
+      - name: Validar diagnosticos
         run: |
           python -m py_compile meteochile_temperatura/diagnostico_temperatura.py
           python -m py_compile meteochile_temperatura/diagnostico_scripts_temperatura.py
@@ -44,73 +44,31 @@ jobs:
         run: |
           python meteochile_temperatura/diagnostico_scripts_temperatura.py
 
-      - name: Eliminar archivos temporales de Python
+      - name: Limpiar archivos temporales
         if: always()
         run: |
           find meteochile_temperatura -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
-          find meteochile_temperatura -type f -name "*.pyc" -delete 2>/dev/null *| true
+          find meteochile_temperatura -type f -name "*.pyc" -delete 2>/dev/null || true
+*      - name: Verificar resultados*        if: always()
+        run: *
+          echo "Archivos generado* en meteochile_temperatura"
+      *   ls -la meteochile_temperatura
 
-      - name: Verificar ar*hivos generados
-        if: always*)
-        run: |
-          echo "=*==================================*==="
-          echo "ARCHIVOS EN M*TEOCHILE_TEMPERATURA"
-          ec*o "===============================*========"
-
-          ls -la meteoc*ile_temperatura
-
-          echo ""*          echo "==================*====================="
-          e*ho "RESULTADO DE DESCARGA DE SCRIP*S"
-          echo "===============*========================"
-
-       *  if [ -f "meteochile_temperatura/resultado_descarga_scripts.json" ];*then
-            cat meteochile_te*peratura/resultado_descarga_script*.json
+*         if [ -f "meteochile_temperatura/resultado_descarga_scripts.json" ]; then
+            echo "Resu*tado de descarga"
+            cat *eteochile_temperatura/resultado_de*carga_scripts.json
           else
-            e*ho "No se genero resultado_descarg*_scripts.json"
-          fi
-
-     *    echo ""
-          echo "======*================================="*          echo "HALLAZGOS EN LOS SCRIPTS"
-          echo "========================================"
+*           echo "No se genero resu*tado_descarga_scripts.json"
+      *   fi
 
           if [ -f "meteochile_temperatura/hallazgos_scripts_temperatura.txt" ]; then
-            head -n 400 meteochile_temperatura/hallazgos_scripts_temperatura.txt
+            echo "Primeros hallazgos"
+            head -n 300 meteochile_temperatura/hallazgos_scripts_temperatura.txt
           else
             echo "No se genero hallazgos_scripts_temperatura.txt"
           fi
 
-          echo ""
-          echo "========================================"
-          echo "SCRIPTS DESCARGADOS"
-          echo "========================================"
-
-          for archivo in \
-            pronostico.js \
-            render_pronostico.js \
-            renderPronosticoTemperaturasExtremas.js \
-            temperaturas_extremas.js \
-            periodo_pronostico.js
-          do
-            if [ -f "meteochile_temperatura/$archivo" ]; then
-              echo "OK: $archivo"
-              wc -c "meteochile_temperatura/$archivo"
-            else
-              echo "NO ENCONTRADO: $archivo"
-            fi
-          done
-
-          echo ""
-          echo "========================================"
-          echo "SOLICITUDES DE RED DETECTADAS"
-          echo "========================================"
-
-          if [ -f "meteochile_temperatura/solicitudes_temperatura.json" ]; then
-            head -n 250 meteochile_temperatura/solicitudes_temperatura.json
-          else
-            echo "No se genero solicitudes_temperatura.json"
-          fi
-
-      - name: Guardar diagnostico en GitHub
+      - name: Guardar resultados en GitHub
         if: always()
         run: |
           git config user.name "github-actions[bot]"
@@ -118,35 +76,30 @@ jobs:
 
           git add -f meteochile_temperatura/ || true
 
-          echo ""
-          echo "========================================"
-          echo "ARCHIVOS PREPARADOS PARA EL COMMIT"
-          echo "========================================"
-
+          echo "Estado antes del commit"
           git status --short
 
           if git diff --cached --quiet; then
             echo "No hay resultados nuevos para guardar."
           else
             git commit -m "Actualizar diagnostico MeteoChile temperaturas"
-
             git pull --rebase origin main
 
             for intento in 1 2 3
             do
-              if git push origin main; then
-                echo "Diagnostico de temperaturas guardado correctamente."
+              if git push origin main
+              then
+                echo "Resultados guardados correctamente."
                 break
               fi
 
-              echo "Push rechazado. Actualizando repositorio."
-              echo "Intento $intento de 3."
-
+              echo "Push rechazado. Intento $intento de 3."
               git pull --rebase origin main
               sleep 5
 
-              if [ "$intento" -eq 3 ]; then
-                echo "No fue posible guardar el diagnostico despues de 3 intentos."
+              if [ "$intento" -eq 3 ]
+              then
+                echo "No fue posible guardar los resultados."
                 exit 1
               fi
             done
