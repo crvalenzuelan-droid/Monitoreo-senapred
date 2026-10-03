@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde
+
+03-10-2026 08:46
+
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 
 02-10-2026 23:38
@@ -33,10 +37,6 @@ Se declara Alerta Temprana Preventiva para las Provincias de Los Andes, San Feli
 Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 02-10-2026 20:49
-
-Se declara Alerta Roja para la comuna de Punta Arenas por desborde
-
-02-10-2026 20:34
 
 Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida
 
