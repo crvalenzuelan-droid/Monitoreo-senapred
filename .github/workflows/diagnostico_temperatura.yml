@@ -1,6 +1,6 @@
 name: Diagnostico MeteoChile Temperaturas
 
-on:
+'on':
   workflow_dispatch:
 
 permissions:
@@ -23,84 +23,58 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
       - name: Instalar Playwright
+        shell: bash
         run: |
           python -m pip install --upgrade pip
           pip install playwright
           playwright install --with-deps chromium
 
       - name: Validar diagnosticos
+        shell: bash
         run: |
           python -m py_compile meteochile_temperatura/diagnostico_temperatura.py
           python -m py_compile meteochile_temperatura/diagnostico_scripts_temperatura.py
 
       - name: Ejecutar diagnostico principal
-        run: |
-          python meteochile_temperatura/diagnostico_temperatura.py
+        shell: bash
+        run: python meteochile_temperatura/diagnostico_temperatura.py
 
       - name: Descargar y analizar scripts
-        run: |
-          python meteochile_temperatura/diagnostico_scripts_temperatura.py
+        shell: bash
+        run: python meteochile_temperatura/diagnostico_scripts_temperatura.py
 
       - name: Limpiar archivos temporales
         if: always()
+        shell: bash
         run: |
-          find meteochile_temperatura -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
-          find meteochile_temperatura -type f -name "*.pyc" -delete 2>/dev/null || true
-*      - name: Verificar resultados*        if: always()
-        run: *
-          echo "Archivos generado* en meteochile_temperatura"
-      *   ls -la meteochile_temperatura
+          find meteochile_temperatura -type d -name '__pycache__' -exec rm -rf '{}' + || true
+          find meteochile_temperatura -type f -name '*.pyc' -delete || true
 
-*         if [ -f "meteochile_temperatura/resultado_descarga_scripts.json" ]; then
-            echo "Resu*tado de descarga"
-            cat *eteochile_temperatura/resultado_de*carga_scripts.json
-          else
-*           echo "No se genero resu*tado_descarga_scripts.json"
-      *   fi
-
-          if [ -f "meteochile_temperatura/hallazgos_scripts_temperatura.txt" ]; then
-            echo "Primeros hallazgos"
-            head -n 300 meteochile_temperatura/hallazgos_scripts_temperatura.txt
-          else
-            echo "No se genero hallazgos_scripts_temperatura.txt"
-          fi
+      - name: Verificar resultados
+        if: always()
+        shell: bash
+        run: |
+          ls -la meteochile_temperatura
+          test -f meteochile_temperatura/resultado_descarga_scripts.json && cat meteochile_temperatura/resultado_descarga_scripts.json || true
+          test -f meteochile_temperatura/hallazgos_scripts_temperatura.txt && head -n 300 meteochile_temperatura/hallazgos_scripts_temperatura.txt || true
 
       - name: Guardar resultados en GitHub
         if: always()
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f meteochile_temperatura/ || true
-
-          echo "Estado antes del commit"
           git status --short
 
           if git diff --cached --quiet; then
-            echo "No hay resultados nuevos para guardar."
-          else
-            git commit -m "Actualizar diagnostico MeteoChile temperaturas"
-            git pull --rebase origin main
-
-            for intento in 1 2 3
-            do
-              if git push origin main
-              then
-                echo "Resultados guardados correctamente."
-                break
-              fi
-
-              echo "Push rechazado. Intento $intento de 3."
-              git pull --rebase origin main
-              sleep 5
-
-              if [ "$intento" -eq 3 ]
-              then
-                echo "No fue posible guardar los resultados."
-                exit 1
-              fi
-            done
+            echo 'No hay resultados nuevos para guardar.'
+            exit 0
           fi
+
+          git commit -m 'Actualizar diagnostico MeteoChile temperaturas'
+          git pull --rebase origin main
+          git push origin main
