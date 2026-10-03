@@ -1,0 +1,46 @@
+[
+  {
+    "src": "https://www.google-analytics.com/analytics.js",
+    "texto": ""
+  },
+  {
+    "src": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/iframeResizerHost/iframeResizer.min.js",
+    "texto": ""
+  },
+  {
+    "src": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/modernizr-latest.js",
+    "texto": ""
+  },
+  {
+    "src": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/jquery/jquery-1.9.1.js",
+    "texto": ""
+  },
+  {
+    "src": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/homeMeteoChile/renderMenuDMC.js?version=1",
+    "texto": ""
+  },
+  {
+    "src": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/homeMeteoChile/renderFechaHome.js?version=1",
+    "texto": ""
+  },
+  {
+    "src": "",
+    "texto": "\n\t\t\tfunction urlMetaer() {\n\t\t\t\turl = \"https://archivos.meteochile.gob.cl/portaldmc/meteochile\";\n\t\t\t\treturn url;\n\t\t\t}\n\t\t\t\n\t\t\tfunction urlHomeMeteoChile() {\n\t\t\t\treturn \"https://www.meteochile.gob.cl/PortalDMC-web\";\n\t\t\t}\n\t\t\t\n\t\t\tfunction urlLocalJs(){\n\t\t\t\turl = \"https://archivos.meteochile.gob.cl/portaldmc/localJS\";\n\t\t\t\treturn url;\n\t\t\t}\n\t\t"
+  },
+  {
+    "src": "https://www.meteochile.gob.cl/PortalDMC-web/js/iframeResizerHost/varios.js",
+    "texto": ""
+  },
+  {
+    "src": "https://www.meteochile.gob.cl/PortalDMC-web/js/mostrarDia.js",
+    "texto": ""
+  },
+  {
+    "src": "",
+    "texto": "\n\t\t  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\t\t  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n\t\t  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n\t\t  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\t\t\n\t\t  ga('create', 'UA-81004392-1', 'auto');\n\t\t  ga('send', 'pageview');\n\t\t\n\t\t"
+  },
+  {
+    "src": "",
+    "texto": "\n\t\t\n\t\tvar navegacion = new Array();\n\t\t\t\n\t\tfunction cargarComponente(url){\n\t\t\tnavegacion[navegacion.length]= url;\n\t\t\tif(url.indexOf(\"?\")>0){\n\t\t\t\turl = url + \"&\"+Math.random();\n\t\t\t}\n\t\t\telse{\n\t\t\t\turl = url +\"?\"+Math.random();\n\t\t\t}\n\t\t \n\t\t\t$(\"#visor_componente\").attr(\"src\",url);\n\t\t\t$(\"#visor_componente\").load(function(){\n\t\t\t\n\t\t\t\tsetTimeout(function(){ocultarCargando();},100);\n\t\t    });\n\t\t}\n\t\t\n\t\tfunction cargarComponenteFooter(url){\n\t\t\tnavegacion[navegacion.length]= url;\n\t\t\tif(url.indexOf(\"?\")>0){\n\t\t\t\turl = url + \"&\" + Math.random();\n\t\t\t}\n\t\t\telse{\n\t\t\t\turl = url +\"?\"+Math.random();\n\t\t\t}\n\t\t\t \n\t\t\t$(\"#visor_componente\").attr(\"src\",url);\n\t\t\t$(\"#visor_componente\").load(function(){\n\t\t\t\t\n\t\t\t\tsetTimeout(function(){ocultarCargando();},100);\n\t\t    });\n\t\t}\n\t\t\n\t\tfunction ajustarVisorPadre(width,height){\n\t\t\n\t\t\t$(\"#visor_componente\").animate({height:height+\"px\",width:width+\"px\"},100);\n\t\t\n\t\t}\n\t\t\n\t\tfunction volver(){\n\t\t\tif(navegacion[navegacion.length-2]!= null)\n\t\t\tcargarComponente(navegacion[navegacion.length-2]);\n\t\t}\n\t\t\n\t\tcargarComponente(\"pronostico_general.xhtml\");\n\t\tfunction mostrarCargando(){\n\t\t\t$(\"#cargando\").css(\"height\",$(\"#visor_componente\").css(\"height\"));\n\t\t\t$(\"#cargando\").css(\"width\" ,$(\"#visor_componente\").css(\"width\"));\n\t\t\t\n\t\t\t$(\"#cargando\").css(\"left\" ,$(\"#visor_componente\").offset().left);\n\t\t\t\n\t\t\t$(\"#cargando\").css(\"top\" ,$(\"#visor_componente\").offset().top);\n\t\t\t\n\t\t\t$(\"#cargando\").show();\n\t\t}\n\t\t\n\t\tfunction ocultarCargando(){\n\t\t\t$(\"#cargando\").hide();\n\t\t}\n\t\t\n\t"
+  }
+]

@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="es" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
+		<meta charset="utf-8">
+		<link id="faviIcon" rel="shortcut icon" href="https://archivos.meteochile.gob.cl/portaldmc/localJS/images/favicon.gif">
+		<link rel="stylesheet" type="text/css" href="https://archivos.meteochile.gob.cl/portaldmc/localJS/css/style.css">
+		<link rel="stylesheet" type="text/css" href="https://archivos.meteochile.gob.cl/portaldmc/localJS/css/menu.css">
+		<link rel="stylesheet" type="text/css" href="https://archivos.meteochile.gob.cl/portaldmc/localJS/css/fonts.css">
+		<link rel="StyleSheet" href="https://archivos.meteochile.gob.cl/portaldmc/localJS/css/movil/home.css" type="text/css">
+		<link href="css/fuentes.google.css" rel="stylesheet" type="text/css">
+		<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://archivos.meteochile.gob.cl/portaldmc/localJS/js/iframeResizerHost/iframeResizer.min.js"></script>
+		<title>Dirección Meteorológica de Chile</title>
+		<script src="https://archivos.meteochile.gob.cl/portaldmc/localJS/js/modernizr-latest.js"></script>
+		<script src="https://archivos.meteochile.gob.cl/portaldmc/localJS/js/jquery/jquery-1.9.1.js"></script>
+		<script src="https://archivos.meteochile.gob.cl/portaldmc/localJS/js/homeMeteoChile/renderMenuDMC.js?version=1"></script>
+		<script src="https://archivos.meteochile.gob.cl/portaldmc/localJS/js/homeMeteoChile/renderFechaHome.js?version=1"></script>
+		<script type="text/javascript">
+			function urlMetaer() {
+				url = "https://archivos.meteochile.gob.cl/portaldmc/meteochile";
+				return url;
+			}
+			
+			function urlHomeMeteoChile() {
+				return "https://www.meteochile.gob.cl/PortalDMC-web";
+			}
+			
+			function urlLocalJs(){
+				url = "https://archivos.meteochile.gob.cl/portaldmc/localJS";
+				return url;
+			}
+		</script>
+		<script src="js/iframeResizerHost/varios.js"></script>
+		<script src="js/mostrarDia.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-81004392-1', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+	</head>
+	<body id="bodyIndex">
+		<div id="wrapper" style="overflow:hidden">
+			<header>
+				<iframe id="header" src="header.xhtml" width="100%" height="100%" scrolling="no" style="overflow: hidden; height: 151px;"></iframe>			
+			</header>
+			<nav id="menuDMC" style="margin-top: 2px;"><ul id="nav"><div class="menuPosition"><li><a href="javascript:cargarComponente('pronostico_general.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">Pronósticos</a><ul><li><a href="javascript:cargarComponente('pronostico_general.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">General</a></li><li></li><li class="arrow"><a href="#" style="padding-inline: 10px; padding-block: 12px 14px;">Por Regiones</a><ul><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=01a')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Arica-Parinacota</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=01b')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Tarapacá</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=02')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Antofagasta</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=03')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Atacama</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=04')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Coquimbo</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=05')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Valparaíso</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=05m')" style="padding-inline: 10px; padding-block: 12px 14px;">Región Metropolitana de Santiago</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=06')" style="padding-inline: 10px; padding-block: 12px 14px;">Región del Libertador General Bernardo O'Higgins</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=07')" style="padding-inline: 10px; padding-block: 12px 14px;">Región del Maule</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=08a')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Ñuble</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=08b')" style="padding-inline: 10px; padding-block: 12px 14px;">Región del Biobío</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=09')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de La Araucanía</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=10a')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Los Ríos</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=10b')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Los Lagos</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=11')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Aysén</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=12')" style="padding-inline: 10px; padding-block: 12px 14px;">Región de Magallanes</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=ip')" style="padding-inline: 10px; padding-block: 12px 14px;">Isla de Pascua</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=jf')" style="padding-inline: 10px; padding-block: 12px 14px;">Archipiélago Juan Fernández</a></li><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=an')" style="padding-inline: 10px; padding-block: 12px 14px;">Península Antártica</a></li></ul></li><li><a href="javascript:cargarComponente('otros_pronosticos/pronostico_cordillera.xhtml');" style="padding-inline: 10px; padding-block: 12px 14px;">Cordillera</a><!--ul><li><a href="javascript:cargarComponente('otros_pronosticos/pronostico_cordillera.xhtml')">General Cordillera</a></li><li><a href="javascript:cargarComponente('otros_pronosticos/cordillera_zonasur.xhtml')">Cordillera Zona Sur</a></li></ul--></li><li class="arrow"><a href="#" style="padding-inline: 10px; padding-block: 12px 14px;">Lagos</a><ul><li><a href="javascript:cargarComponente('otros_pronosticos/lagos_zonasur.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">Lagos de la Zona Sur</a></li><li><a href="javascript:cargarComponente('otros_pronosticos/lagos_centrosur.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">Lagos de la Zona Centro Sur</a></li></ul></li><li class="arrow"><a href="#" style="padding-inline: 10px; padding-block: 12px 14px;">Índice Radiación UV</a><ul><li><a href="javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/radiacionNew/radiacionUvindex.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Índice observado y pronosticado</a></li><li></li><li><a href="javascript:cargarComponente('otros_pronosticos/indice_radiacion_uv/informacion_general.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">Información General</a></li><li></li><li><a href="javascript:cargarComponente('otros_pronosticos/indice_radiacion_uv/ley_de_ozono_pdf.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">Ley de Ozono</a></li><li></li></ul></li><li class="arrow"><a href="#" style="padding-inline: 10px; padding-block: 12px 14px;">Modelos Numéricos</a><ul><li><a href="https://climatologia.meteochile.gob.cl/application/requerimiento/producto/RE5062" style="padding-inline: 10px; padding-block: 12px 14px;"><span style="font-weight: bold;">NUEVO:&nbsp;&nbsp;</span>Modelo WRF-DMC y Obsevaciones</a></li><li><a href="javascript:cargarComponente('otros_pronosticos/pronosticos_modelos_numericos/modelo_atmosferico_wrf.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">WRF – Modelo Atmosférico</a></li><li><a href="javascript:cargarComponente('otros_pronosticos/pronosticos_modelos_numericos/simulacionesClimaticas/simulacionesClimaticas.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">Introducción a simulaciones Climáticas y descarga de resultados </a></li></ul></li><li><a href="javascript:cargarComponente('otros_pronosticos/pronostico_turistico.xhtml')" style="padding-inline: 10px; padding-block: 12px 14px;">Pronóstico Turístico</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/pasos/pronostico_pasos_fronterizos.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Pasos Fronterizos</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/meteochile/otrospronosticos/pronostico_los_libertadores.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Complejo Los Libertadores</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/wrf/calidad_aire.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Calidad del Aire</a></li></ul></li><li><a href="metaer/home.xhtml" target="_blank" style="padding-inline: 10px; padding-block: 12px 14px;">Meteorología Aeronáutica</a></li><li><a href="#" style="padding-inline: 10px; padding-block: 12px 14px;">Climatología</a><ul><li><a href="https://climatologia.meteochile.gob.cl" style="padding-inline: 10px; padding-block: 12px 14px;">Servicios Climáticos<br>(Datos y productos)</a></li><li><a href="https://climatologia.meteochile.gob.cl/application/diario/boletinClimatologicoDiario/actual" style="padding-inline: 10px; padding-block: 12px 14px;">Informe de Temperaturas y Precipitaciones</a></li><li><a href="https://climatologia.meteochile.gob.cl/application/publicaciones/boletinTendenciasClimaticas" style="padding-inline: 10px; padding-block: 12px 14px;">Pronóstico Subestacional y Estacional</a></li><li><a href="https://climatologia.meteochile.gob.cl/application/index/menuTematicoCambioClimatico" style="padding-inline: 10px; padding-block: 12px 14px;">Cambio Climático</a></li><li><a href="https://climatologia.meteochile.gob.cl/application/index/menuTematicoMonitorSequia" style="padding-inline: 10px; padding-block: 12px 14px;">Monitor de Sequía </a></li><li></li><li><a href="https://climatologia.meteochile.gob.cl/application/index/menuTematicoAmdar" style="padding-inline: 10px; padding-block: 12px 14px;">AMDAR</a></li></ul></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/agrometeorologia/home.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Meteorología Agrícola</a></li><li><a href="https://climatologia.meteochile.gob.cl/application/index/menuTematicoEmas" style="padding-inline: 10px; padding-block: 12px 14px;">Estaciones En Línea</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/imagenes_satelitales.php');" style="padding-inline: 10px; padding-block: 12px 14px;">Imágenes Satelitales</a><ul><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/canalesGOES-19.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Canales GOES-19</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/productosGOES-19.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Productos GOES-19</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/capas/capas2.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Cartas Interactivas</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/loop_satelital.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Loops Satelitales</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/tutoriales.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Tutoriales Satelitales</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/tutoriales_estructuras_nubosas.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Tutoriales Estructuras Nubosas</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/GLM/productosGLM.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Productos GLM</a></li></ul></li><li><a href="#" style="padding-inline: 10px; padding-block: 12px 14px;">Productos y Servicios</a><ul><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/productos_y_servicios.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Productos y Servicios Meteorológicos</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/contacto_venta_servicios.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Venta de Servicios</a></li></ul></li><li><a href="#" style="font-weight: bold; color: yellow; padding-inline: 10px; padding-block: 12px 14px;">Prensa</a><ul><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/28.09.2026_Nota_Taller_Regional_SIGRIFSA.pdf" style="padding-inline: 10px; padding-block: 12px 14px;"><span style="font-weight: bold;">NUEVO:&nbsp;&nbsp;</span>INFORMACIÓN METEOROLÓGICA PARA ANTICIPARSE A LOS INCENDIOS: EL DESAFÍO REGIONAL QUE REUNIÓ A EXPERTOS EN LA DMC</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/24.09.2026_Nota_tornado_Longavi_Maule.pdf" style="padding-inline: 10px; padding-block: 12px 14px;"><span style="font-weight: bold;">NUEVO:&nbsp;&nbsp;</span>DMC CONFIRMA TORNADO EF0 EN LONGAVÍ TRAS ANÁLISIS DE NUEVOS ANTECEDENTES</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/07.09.2026_Nota-tornado_Nuble_Biobio.pdf" style="padding-inline: 10px; padding-block: 12px 14px;"><span style="font-weight: bold;">NUEVO:&nbsp;&nbsp;</span>DMC CONFIRMA TORNADO EF1 DE 36 KM DE EXTENSIÓN EN REGIONES DE ÑUBLE Y BIOBÍO</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/31.08.2026_Nota_previa_Comision_Nuble_Tornado_Yungay.pdf" style="padding-inline: 10px; padding-block: 12px 14px;">DMC EVALUARÁ EN TERRENO LA CATEGORÍA PRELIMINAR F0 DEL TORNADO DE ÑUBLE</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/28.08.2026_Nota_Pronostico_Climatico_Primavera_2026.pdf" style="padding-inline: 10px; padding-block: 12px 14px;"><span style="font-weight: bold;">PRIMAVERA 2026:</span> MÁS LLUVIAS Y CONTRASTE TÉRMICO</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/11.08.26_Nota_Agrometeorologia_v2.pdf" style="padding-inline: 10px; padding-block: 12px 14px;">DMC IMPULSA RED UNIFICADA DE ESTACIONES METEOROLÓGICAS EN AYSÉN</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/04.08.2026_Nota_Tornado_Diguillin_julio.pdf" style="padding-inline: 10px; padding-block: 12px 14px;">INVESTIGACIÓN DE LA DMC CONFIRMA TORNADO EF1 EN LA REGIÓN DE ÑUBLE</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/04.08.2026_Nota_nuevo_Director_DMC.pdf" style="padding-inline: 10px; padding-block: 12px 14px;">METEORÓLOGO GASTÓN TORRES ASUME COMO DIRECTOR (S) DE LA DMC</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/31.07.2026_PronosticoASO-DMC.pdf" style="padding-inline: 10px; padding-block: 12px 14px;">Pronóstico Estacional DMC, <br>LLUVIAS SOBRE LO NORMAL SEGUIRÁN MARCANDO EL RESTO DEL INVIERNO Y EL INICIO DE LA PRIMAVERA</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/22.07.2026_NotaBalanceLluvias-14al21.pdf" style="padding-inline: 10px; padding-block: 12px 14px;">DMC CONFIRMA QUE EVENTO DE LLUVIAS DE JULIO ESTUVO ENTRE LOS MÁS SIGNIFICATIVOS DE LAS ÚLTIMAS DÉCADAS</a></li><li><a target="_blank" href="https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/22.07.2026_Nota_Taller_SIGRIFSA.pdf" style="padding-inline: 10px; padding-block: 12px 14px;">TALLER NACIONAL EN LA DMC FORTALECE LA PREVENCIÓN DE INCENDIOS</a></li></ul></li><li><a href="#" style="padding-inline: 10px; padding-block: 12px 14px;">Quiénes Somos</a><ul><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/funciones.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Funciones</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/organigrama.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Organigrama</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/hitos_patrimoniales.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Hitos Patrimoniales</a></li><li><a href="javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/contacto_web.php')" style="padding-inline: 10px; padding-block: 12px 14px;">Contacto</a></li></ul></li></div></ul></nav>
+			<div id="container" style="overflow:hidden; position: absolute; left:1072px; top:114px; height: 1px;">
+			</div>
+			<div id="containerDos" style="overflow:hidden; position: absolute; left:698px; top:114px; height: 1px;">
+			</div>
+			<section class="main">
+				<div id="contenidoFecha" class="topmain" style="overflow:hidden"><a class="breadcrumbs" target="_self" href="https://www.meteochile.gob.cl/PortalDMC-web"><img src="images/home-ico.gif" width="18" height="16"> Home</a><div class="fecha" style="overflow:hidden"><span id="mostrarFecha">Viernes 2 de Octubre de 2026</span></div><div style="top: 300px; text-align: center;"><a href="https://twitter.com/meteochile_dmc" target="_blank" style="padding: 0;"><img src="https://archivos.meteochile.gob.cl/portaldmc/localJS/images/twitterX-negro.png" class="icono_rrss" position:="" relative;="" top:="" 2px;left:="" -6px;"="" alt="Twitter @meteochile_dmc" title="Twitter @meteochile_dmc"></a><a href="https://www.facebook.com/meteochiledmc" target="_blank" style="padding: 0;"><img src="https://archivos.meteochile.gob.cl/portaldmc/localJS/images/facebook.png" class="icono_rrss" position:="" relative;="" top:="" 2px;left:="" -6px;"="" alt="Facebook @meteochiledmc" title="Facebook @meteochiledmc"></a><a href="https://www.flickr.com/photos/meteochile" target="_blank" style="padding: 0;"><img src="https://archivos.meteochile.gob.cl/portaldmc/localJS/images/flikr.png" class="icono_rrss" position:="" relative;="" top:="" 2px;left:="" -6px;"="" alt="Flickr @meteochile" title="Flickr @meteochile"></a><a href="https://www.instagram.com/meteochile/" target="_blank" style="padding: 0;"><img src="https://archivos.meteochile.gob.cl/portaldmc/localJS/images/instagram.png" class="icono_rrss" position:="" relative;="" top:="" 2px;left:="" -6px;"="" alt="Instagram @meteochile" title="Instagram @meteochile"></a><a href="https://www.youtube.com/@meteochile_dmc" target="_blank" style="padding: 0;"><img src="https://archivos.meteochile.gob.cl/portaldmc/localJS/images/youtube.png" class="icono_rrss" position:="" relative;="" top:="" 2px;left:="" -6px;"="" alt="Youtube @meteochile_dmc" title="Youtube @meteochile_dmc"></a></div></div>
+				<iframe id="visor_componente" src="pronostico_general.xhtml?0.46380633577968944" style="width: 1024px; overflow: hidden; height: 980px;" onload="ajustarIframe()" scrolling="no"></iframe>
+				<iframe id="/**  *   */botones_footer" src="botones_footer.xhtml" height="290px" style="width: 1024px; overflow: hidden; height: 360px;" scrolling="no"></iframe>
+			</section>
+			<footer>
+				<iframe id="menusFooter" src="footer.xhtml" height="100%" style="width: 1024px; overflow: hidden; height: 153px;" scrolling="no"></iframe>			
+			</footer>
+		</div>
+		<div id="cargando" hidden="true" style="overflow: hidden; display: none;">
+			<div class="texto">Cargando componente, por favor espere</div>
+			<img src="images/loading.gif" style="padding-top: 20px" width="400px" height="30px;">
+		
+		</div>
+	
+	
+	<script type="text/javascript">
+		
+		var navegacion = new Array();
+			
+		function cargarComponente(url){
+			navegacion[navegacion.length]= url;
+			if(url.indexOf("?")>0){
+				url = url + "&"+Math.random();
+			}
+			else{
+				url = url +"?"+Math.random();
+			}
+		 
+			$("#visor_componente").attr("src",url);
+			$("#visor_componente").load(function(){
+			
+				setTimeout(function(){ocultarCargando();},100);
+		    });
+		}
+		
+		function cargarComponenteFooter(url){
+			navegacion[navegacion.length]= url;
+			if(url.indexOf("?")>0){
+				url = url + "&" + Math.random();
+			}
+			else{
+				url = url +"?"+Math.random();
+			}
+			 
+			$("#visor_componente").attr("src",url);
+			$("#visor_componente").load(function(){
+				
+				setTimeout(function(){ocultarCargando();},100);
+		    });
+		}
+		
+		function ajustarVisorPadre(width,height){
+		
+			$("#visor_componente").animate({height:height+"px",width:width+"px"},100);
+		
+		}
+		
+		function volver(){
+			if(navegacion[navegacion.length-2]!= null)
+			cargarComponente(navegacion[navegacion.length-2]);
+		}
+		
+		cargarComponente("pronostico_general.xhtml");
+		function mostrarCargando(){
+			$("#cargando").css("height",$("#visor_componente").css("height"));
+			$("#cargando").css("width" ,$("#visor_componente").css("width"));
+			
+			$("#cargando").css("left" ,$("#visor_componente").offset().left);
+			
+			$("#cargando").css("top" ,$("#visor_componente").offset().top);
+			
+			$("#cargando").show();
+		}
+		
+		function ocultarCargando(){
+			$("#cargando").hide();
+		}
+		
+	</script>
+</body></html>

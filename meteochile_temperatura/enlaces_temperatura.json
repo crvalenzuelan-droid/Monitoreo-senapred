@@ -1,0 +1,330 @@
+[
+  {
+    "texto": "Pronósticos",
+    "href": "javascript:cargarComponente('pronostico_general.xhtml')"
+  },
+  {
+    "texto": "General",
+    "href": "javascript:cargarComponente('pronostico_general.xhtml')"
+  },
+  {
+    "texto": "Por Regiones",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "Región de Arica-Parinacota",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=01a%27)"
+  },
+  {
+    "texto": "Región de Tarapacá",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=01b%27)"
+  },
+  {
+    "texto": "Región de Antofagasta",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=02%27)"
+  },
+  {
+    "texto": "Región de Atacama",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=03%27)"
+  },
+  {
+    "texto": "Región de Coquimbo",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=04%27)"
+  },
+  {
+    "texto": "Región de Valparaíso",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=05%27)"
+  },
+  {
+    "texto": "Región Metropolitana de Santiago",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=05m%27)"
+  },
+  {
+    "texto": "Región del Libertador General Bernardo O'Higgins",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=06%27)"
+  },
+  {
+    "texto": "Región del Maule",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=07%27)"
+  },
+  {
+    "texto": "Región de Ñuble",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=08a%27)"
+  },
+  {
+    "texto": "Región del Biobío",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=08b%27)"
+  },
+  {
+    "texto": "Región de La Araucanía",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=09%27)"
+  },
+  {
+    "texto": "Región de Los Ríos",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=10a%27)"
+  },
+  {
+    "texto": "Región de Los Lagos",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=10b%27)"
+  },
+  {
+    "texto": "Región de Aysén",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=11%27)"
+  },
+  {
+    "texto": "Región de Magallanes",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=12%27)"
+  },
+  {
+    "texto": "Isla de Pascua",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=ip%27)"
+  },
+  {
+    "texto": "Archipiélago Juan Fernández",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=jf%27)"
+  },
+  {
+    "texto": "Península Antártica",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/pronosticos/pronosticoRegion.php?reg=an%27)"
+  },
+  {
+    "texto": "Cordillera",
+    "href": "javascript:cargarComponente('otros_pronosticos/pronostico_cordillera.xhtml');"
+  },
+  {
+    "texto": "Lagos",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "Lagos de la Zona Sur",
+    "href": "javascript:cargarComponente('otros_pronosticos/lagos_zonasur.xhtml')"
+  },
+  {
+    "texto": "Lagos de la Zona Centro Sur",
+    "href": "javascript:cargarComponente('otros_pronosticos/lagos_centrosur.xhtml')"
+  },
+  {
+    "texto": "Índice Radiación UV",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "Índice observado y pronosticado",
+    "href": "javascript:cargarComponenteRegion('https://archivos.meteochile.gob.cl/portaldmc/radiacionNew/radiacionUvindex.php')"
+  },
+  {
+    "texto": "Información General",
+    "href": "javascript:cargarComponente('otros_pronosticos/indice_radiacion_uv/informacion_general.xhtml')"
+  },
+  {
+    "texto": "Ley de Ozono",
+    "href": "javascript:cargarComponente('otros_pronosticos/indice_radiacion_uv/ley_de_ozono_pdf.xhtml')"
+  },
+  {
+    "texto": "Modelos Numéricos",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "NUEVO:  Modelo WRF-DMC y Obsevaciones",
+    "href": "https://climatologia.meteochile.gob.cl/application/requerimiento/producto/RE5062"
+  },
+  {
+    "texto": "WRF – Modelo Atmosférico",
+    "href": "javascript:cargarComponente('otros_pronosticos/pronosticos_modelos_numericos/modelo_atmosferico_wrf.xhtml')"
+  },
+  {
+    "texto": "Introducción a simulaciones Climáticas y descarga de resultados",
+    "href": "javascript:cargarComponente('otros_pronosticos/pronosticos_modelos_numericos/simulacionesClimaticas/simulacionesClimaticas.xhtml')"
+  },
+  {
+    "texto": "Pronóstico Turístico",
+    "href": "javascript:cargarComponente('otros_pronosticos/pronostico_turistico.xhtml')"
+  },
+  {
+    "texto": "Pasos Fronterizos",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/pasos/pronostico_pasos_fronterizos.php')"
+  },
+  {
+    "texto": "Complejo Los Libertadores",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/meteochile/otrospronosticos/pronostico_los_libertadores.php')"
+  },
+  {
+    "texto": "Calidad del Aire",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/wrf/calidad_aire.php')"
+  },
+  {
+    "texto": "Meteorología Aeronáutica",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/metaer/home.xhtml"
+  },
+  {
+    "texto": "Climatología",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "Servicios Climáticos(Datos y productos)",
+    "href": "https://climatologia.meteochile.gob.cl/"
+  },
+  {
+    "texto": "Informe de Temperaturas y Precipitaciones",
+    "href": "https://climatologia.meteochile.gob.cl/application/diario/boletinClimatologicoDiario/actual"
+  },
+  {
+    "texto": "Pronóstico Subestacional y Estacional",
+    "href": "https://climatologia.meteochile.gob.cl/application/publicaciones/boletinTendenciasClimaticas"
+  },
+  {
+    "texto": "Cambio Climático",
+    "href": "https://climatologia.meteochile.gob.cl/application/index/menuTematicoCambioClimatico"
+  },
+  {
+    "texto": "Monitor de Sequía",
+    "href": "https://climatologia.meteochile.gob.cl/application/index/menuTematicoMonitorSequia"
+  },
+  {
+    "texto": "AMDAR",
+    "href": "https://climatologia.meteochile.gob.cl/application/index/menuTematicoAmdar"
+  },
+  {
+    "texto": "Meteorología Agrícola",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/agrometeorologia/home.php')"
+  },
+  {
+    "texto": "Estaciones En Línea",
+    "href": "https://climatologia.meteochile.gob.cl/application/index/menuTematicoEmas"
+  },
+  {
+    "texto": "Imágenes Satelitales",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/imagenes_satelitales.php');"
+  },
+  {
+    "texto": "Canales GOES-19",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/canalesGOES-19.php')"
+  },
+  {
+    "texto": "Productos GOES-19",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/productosGOES-19.php')"
+  },
+  {
+    "texto": "Cartas Interactivas",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/capas/capas2.php')"
+  },
+  {
+    "texto": "Loops Satelitales",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/loop_satelital.php')"
+  },
+  {
+    "texto": "Tutoriales Satelitales",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/tutoriales.php')"
+  },
+  {
+    "texto": "Tutoriales Estructuras Nubosas",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/imgsat/tutoriales_estructuras_nubosas.php')"
+  },
+  {
+    "texto": "Productos GLM",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/GLM/productosGLM.php')"
+  },
+  {
+    "texto": "Productos y Servicios",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "Productos y Servicios Meteorológicos",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/productos_y_servicios.php')"
+  },
+  {
+    "texto": "Venta de Servicios",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/contacto_venta_servicios.php')"
+  },
+  {
+    "texto": "Prensa",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "NUEVO:  INFORMACIÓN METEOROLÓGICA PARA ANTICIPARSE A LOS INCENDIOS: EL DESAFÍO REGIONAL QUE REUNIÓ A EXPERTOS EN LA DMC",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/28.09.2026_Nota_Taller_Regional_SIGRIFSA.pdf"
+  },
+  {
+    "texto": "NUEVO:  DMC CONFIRMA TORNADO EF0 EN LONGAVÍ TRAS ANÁLISIS DE NUEVOS ANTECEDENTES",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/24.09.2026_Nota_tornado_Longavi_Maule.pdf"
+  },
+  {
+    "texto": "NUEVO:  DMC CONFIRMA TORNADO EF1 DE 36 KM DE EXTENSIÓN EN REGIONES DE ÑUBLE Y BIOBÍO",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/07.09.2026_Nota-tornado_Nuble_Biobio.pdf"
+  },
+  {
+    "texto": "DMC EVALUARÁ EN TERRENO LA CATEGORÍA PRELIMINAR F0 DEL TORNADO DE ÑUBLE",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/31.08.2026_Nota_previa_Comision_Nuble_Tornado_Yungay.pdf"
+  },
+  {
+    "texto": "PRIMAVERA 2026: MÁS LLUVIAS Y CONTRASTE TÉRMICO",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/28.08.2026_Nota_Pronostico_Climatico_Primavera_2026.pdf"
+  },
+  {
+    "texto": "DMC IMPULSA RED UNIFICADA DE ESTACIONES METEOROLÓGICAS EN AYSÉN",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/11.08.26_Nota_Agrometeorologia_v2.pdf"
+  },
+  {
+    "texto": "INVESTIGACIÓN DE LA DMC CONFIRMA TORNADO EF1 EN LA REGIÓN DE ÑUBLE",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/04.08.2026_Nota_Tornado_Diguillin_julio.pdf"
+  },
+  {
+    "texto": "METEORÓLOGO GASTÓN TORRES ASUME COMO DIRECTOR (S) DE LA DMC",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/04.08.2026_Nota_nuevo_Director_DMC.pdf"
+  },
+  {
+    "texto": "Pronóstico Estacional DMC, LLUVIAS SOBRE LO NORMAL SEGUIRÁN MARCANDO EL RESTO DEL INVIERNO Y EL INICIO DE LA PRIMAVERA",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/31.07.2026_PronosticoASO-DMC.pdf"
+  },
+  {
+    "texto": "DMC CONFIRMA QUE EVENTO DE LLUVIAS DE JULIO ESTUVO ENTRE LOS MÁS SIGNIFICATIVOS DE LAS ÚLTIMAS DÉCADAS",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/22.07.2026_NotaBalanceLluvias-14al21.pdf"
+  },
+  {
+    "texto": "TALLER NACIONAL EN LA DMC FORTALECE LA PREVENCIÓN DE INCENDIOS",
+    "href": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/prensa/22.07.2026_Nota_Taller_SIGRIFSA.pdf"
+  },
+  {
+    "texto": "Quiénes Somos",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml#"
+  },
+  {
+    "texto": "Funciones",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/funciones.php')"
+  },
+  {
+    "texto": "Organigrama",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/organigrama.php')"
+  },
+  {
+    "texto": "Hitos Patrimoniales",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/hitos_patrimoniales.php')"
+  },
+  {
+    "texto": "Contacto",
+    "href": "javascript:cargarComponente('https://archivos.meteochile.gob.cl/portaldmc/comercial/contacto_web.php')"
+  },
+  {
+    "texto": "Home",
+    "href": "https://www.meteochile.gob.cl/PortalDMC-web"
+  },
+  {
+    "texto": "",
+    "href": "https://twitter.com/meteochile_dmc"
+  },
+  {
+    "texto": "",
+    "href": "https://www.facebook.com/meteochiledmc"
+  },
+  {
+    "texto": "",
+    "href": "https://www.flickr.com/photos/meteochile"
+  },
+  {
+    "texto": "",
+    "href": "https://www.instagram.com/meteochile/"
+  },
+  {
+    "texto": "",
+    "href": "https://www.youtube.com/@meteochile_dmc"
+  }
+]
