@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para las Provincias de Los Andes, San Felipe, Quillota, Marga Marga y las comunas de Casablanca, Cabildo y Petorca por Tormentas Eléctricas
+
+02-10-2026 21:00
+
+Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+02-10-2026 20:49
+
+Se declara Alerta Roja para la comuna de Punta Arenas por desborde
+
+02-10-2026 20:34
+
 Se modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida
 
 02-10-2026 20:26
@@ -41,10 +53,6 @@ Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 02-10-2026 10:38
-
-Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-02-10-2026 09:39
 
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
