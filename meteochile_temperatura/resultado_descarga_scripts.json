@@ -1,0 +1,37 @@
+[
+  {
+    "archivo": "pronostico.js",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/js/pronostico.js?version=1",
+    "estado": 200,
+    "bytes": 169978,
+    "error": ""
+  },
+  {
+    "archivo": "render_pronostico.js",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/render_pronostico.js?version=1",
+    "estado": 200,
+    "bytes": 38981,
+    "error": ""
+  },
+  {
+    "archivo": "renderPronosticoTemperaturasExtremas.js",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/renderPronosticoTemperaturasExtremas.js?version=1",
+    "estado": 200,
+    "bytes": 2592,
+    "error": ""
+  },
+  {
+    "archivo": "temperaturas_extremas.js",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/js/temperaturas_extremas.js?version=1",
+    "estado": 200,
+    "bytes": 427,
+    "error": ""
+  },
+  {
+    "archivo": "periodo_pronostico.js",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/periodo_pronostico.js",
+    "estado": 200,
+    "bytes": 69,
+    "error": ""
+  }
+]

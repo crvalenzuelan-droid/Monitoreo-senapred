@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://www.meteochile.gob.cl/PortalDMC-web/pronostico_general.xhtml?0.021823758886293843",
+    "url": "https://www.meteochile.gob.cl/PortalDMC-web/pronostico_general.xhtml?0.05601644286376728",
     "estado": 200,
     "tipo": "document"
   },
@@ -35,12 +35,12 @@
     "tipo": "script"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/js/pronostico.js?version=1",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/render_AAA.js?version=1",
     "estado": 200,
     "tipo": "script"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/render_AAA.js?version=1",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/meteochile/js/pronostico.js?version=1",
     "estado": 200,
     "tipo": "script"
   },
@@ -55,12 +55,12 @@
     "tipo": "script"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/renderBoletinMeteorologico.js?version=1",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/renderInformePronosticoEspecial.js?version=1",
     "estado": 200,
     "tipo": "script"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/renderInformePronosticoEspecial.js?version=1",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/renderBoletinMeteorologico.js?version=1",
     "estado": 200,
     "tipo": "script"
   },
@@ -75,14 +75,14 @@
     "tipo": "script"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/images/servicios-climaticos.jpg",
-    "estado": 200,
-    "tipo": "image"
-  },
-  {
     "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/renderOtrosLinks.js?version=1",
     "estado": 200,
     "tipo": "script"
+  },
+  {
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/images/servicios-climaticos.jpg",
+    "estado": 200,
+    "tipo": "image"
   },
   {
     "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/images/servicios-met-aeronauticos.jpg",
@@ -95,12 +95,12 @@
     "tipo": "image"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/periodo_pronostico.js?0.4218802795815322&_=1790991886340",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/periodo_pronostico.js?0.20887463068048162&_=1790992569756",
     "estado": 200,
     "tipo": "script"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/fecha_servidor.js?0.16760534308531216&_=1790991886341",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/localJS/js/pronosticoGeneral/fecha_servidor.js?0.919502654824279&_=1790992569757",
     "estado": 200,
     "tipo": "script"
   },
@@ -110,12 +110,12 @@
     "tipo": "image"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg01b.png",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg02.png",
     "estado": 200,
     "tipo": "image"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg02.png",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg01b.png",
     "estado": 200,
     "tipo": "image"
   },
@@ -150,7 +150,7 @@
     "tipo": "image"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg05.png",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg09.png",
     "estado": 200,
     "tipo": "image"
   },
@@ -160,12 +160,7 @@
     "tipo": "image"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg09.png",
-    "estado": 200,
-    "tipo": "image"
-  },
-  {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/isla_salas_y_gomez.png",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg05.png",
     "estado": 200,
     "tipo": "image"
   },
@@ -175,12 +170,17 @@
     "tipo": "image"
   },
   {
-    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg07.png",
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/isla_salas_y_gomez.png",
     "estado": 200,
     "tipo": "image"
   },
   {
     "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/islas_san_felix_y_san_ambrosio.png",
+    "estado": 200,
+    "tipo": "image"
+  },
+  {
+    "url": "https://archivos.meteochile.gob.cl/portaldmc/pronosticos/mapas/reg07.png",
     "estado": 200,
     "tipo": "image"
   },
