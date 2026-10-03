@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida
+
+02-10-2026 20:26
+
 Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida
 
 02-10-2026 16:41
@@ -81,10 +85,6 @@ Se modifica Alerta Temprana Preventiva para la Región de Los Ríos por evento m
 Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 29-09-2026 10:05
-
-Monitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida
-
-28-09-2026 19:51
 
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento
 
