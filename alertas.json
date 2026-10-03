@@ -1,5 +1,16 @@
 [
   {
+    "id_alerta": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida|02-10-2026 23:38",
+    "accion": "Se modifica",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Huasco",
+    "fecha_senapred": "02-10-2026 23:38",
+    "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
+    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva para la Provincia de Huasco por crecida, vigente desde el 26 de septiembre y hasta que las condiciones así lo ameriten.\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida\n\n02-10-2026 20:26\n\nMonitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n28-09-2026 19:51\n\nSe declara Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n26-09-2026 02:09"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico|02-10-2026 22:02",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -42,16 +53,5 @@
     "titulo": "Se declara Alerta Roja para la comuna de Punta Arenas por desborde",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44",
     "detalle": "De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica del “río Las Minas en Bt. Sendos”, ubicada en la comuna de Punta Arenas, indica un incremento en su caudal, alcanzando el umbral de Alerta Técnica Roja, lo que supone un aumento del riesgo para la población cercana a este curso de agua.\n\nCabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir daños a sectores poblados e infraestructura, pudiendo según el caso, requerir acciones tales como evacuación, defensas, disponibilidad, y recursos humanos, maquinarias y equipos.\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Roja por desborde para la comuna de Punta Arenas, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nCon la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento."
-  },
-  {
-    "id_alerta": "Se modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida|02-10-2026 20:26",
-    "accion": "Se modifica",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Alto del Carmen y Vallenar",
-    "fecha_senapred": "02-10-2026 20:26",
-    "titulo": "Se modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
-    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida, vigente desde el 26 de septiembre y hasta que las condiciones así lo ameriten.\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n28-09-2026 19:51\n\nSe declara Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n26-09-2026 02:09"
   }
 ]

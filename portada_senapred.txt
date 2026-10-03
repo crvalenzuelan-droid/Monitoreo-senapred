@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida
+
+02-10-2026 23:38
+
 Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
 
 02-10-2026 22:02
@@ -33,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento me
 Se declara Alerta Roja para la comuna de Punta Arenas por desborde
 
 02-10-2026 20:34
-
-Se modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida
-
-02-10-2026 20:26
 
 Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida
 
