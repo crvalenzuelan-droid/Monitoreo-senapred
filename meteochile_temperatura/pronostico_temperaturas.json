@@ -1,0 +1,5960 @@
+{
+  "fuente": "Dirección Meteorológica de Chile",
+  "producto": "Pronóstico de temperaturas por localidad",
+  "fecha_referencia": "03-10-2026",
+  "fecha_generacion_utc": "2026-10-03T02:23:57.483802+00:00",
+  "cantidad_localidades": 103,
+  "localidades": [
+    {
+      "indice": "arica",
+      "ciudad": "Arica",
+      "region_codigo": "01a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:36:29",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado variando a cubierto y llovizna",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "20/22",
+      "temperatura_minima": 20.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "20/22",
+          "minima": 20.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "19/23",
+          "minima": 19.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "19/23",
+          "minima": 19.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "19/23",
+          "minima": 19.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "19/23",
+          "minima": 19.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "putre",
+      "ciudad": "Putre",
+      "region_codigo": "01a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:12:30",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Despejado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "5/15",
+      "temperatura_minima": 5.0,
+      "temperatura_maxima": 15.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "5/15",
+          "minima": 5.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "7/17",
+          "minima": 7.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "visviri",
+      "ciudad": "Visviri",
+      "region_codigo": "01a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:12:03",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Despejado con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "-10/15",
+      "temperatura_minima": -10.0,
+      "temperatura_maxima": 15.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "-10/15",
+          "minima": -10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "-8/15",
+          "minima": -8.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "-8/16",
+          "minima": -8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "-9/18",
+          "minima": -9.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "-10/18",
+          "minima": -10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "colchane",
+      "ciudad": "Colchane",
+      "region_codigo": "01b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:14:11",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Despejado con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "-3/16",
+      "temperatura_minima": -3.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "-3/16",
+          "minima": -3.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "-3/17",
+          "minima": -3.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "-1/17",
+          "minima": -1.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "0/19",
+          "minima": 0.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "-4/20",
+          "minima": -4.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "iquique",
+      "ciudad": "Iquique",
+      "region_codigo": "01b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:34:12",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado con viento entre 25 y 40 km/h variando a cubierto y llovizna",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "18/21",
+      "temperatura_minima": 18.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "18/21",
+          "minima": 18.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "18/21",
+          "minima": 18.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "18/22",
+          "minima": 18.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "18/21",
+          "minima": 18.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "18/21",
+          "minima": 18.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "pica",
+      "ciudad": "Pica",
+      "region_codigo": "01b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:15:12",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Despejado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/29",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 29.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/29",
+          "minima": 8.0,
+          "maxima": 29.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "10/28",
+          "minima": 10.0,
+          "maxima": 28.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "10/31",
+          "minima": 10.0,
+          "maxima": 31.0,
+          "nivel_temperatura": "Preventivo"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/31",
+          "minima": 11.0,
+          "maxima": 31.0,
+          "nivel_temperatura": "Preventivo"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/31",
+          "minima": 10.0,
+          "maxima": 31.0,
+          "nivel_temperatura": "Preventivo"
+        }
+      ]
+    },
+    {
+      "indice": "antofagasta",
+      "ciudad": "Antofagasta",
+      "region_codigo": "02",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:28:52",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado con viento entre 25 y 40 km/h variando a cubierto y llovizna",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "17/21",
+      "temperatura_minima": 17.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "17/21",
+          "minima": 17.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "17/20",
+          "minima": 17.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "16/21",
+          "minima": 16.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "17/21",
+          "minima": 17.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "17/21",
+          "minima": 17.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "calama",
+      "ciudad": "Calama",
+      "region_codigo": "02",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:19:45",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Despejado con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "5/22",
+      "temperatura_minima": 5.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "5/22",
+          "minima": 5.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "3/22",
+          "minima": 3.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "4/23",
+          "minima": 4.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "4/23",
+          "minima": 4.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "6/23",
+          "minima": 6.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "mejillones",
+      "ciudad": "Mejillones",
+      "region_codigo": "02",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:30:34",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "15/23",
+      "temperatura_minima": 15.0,
+      "temperatura_maxima": 23.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "15/23",
+          "minima": 15.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "15/22",
+          "minima": 15.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "15/22",
+          "minima": 15.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "15/22",
+          "minima": 15.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "15/22",
+          "minima": 15.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "ollague",
+      "ciudad": "Ollagüe",
+      "region_codigo": "02",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:17:25",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Despejado con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "-7/16",
+      "temperatura_minima": -7.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "-7/16",
+          "minima": -7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "-10/17",
+          "minima": -10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "1/18",
+          "minima": 1.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "-5/20",
+          "minima": -5.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "-9/20",
+          "minima": -9.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "snpedro",
+      "ciudad": "San Pedro",
+      "region_codigo": "02",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:21:05",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Despejado con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "1/23",
+      "temperatura_minima": 1.0,
+      "temperatura_maxima": 23.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "1/23",
+          "minima": 1.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "2/24",
+          "minima": 2.0,
+          "maxima": 24.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "2/25",
+          "minima": 2.0,
+          "maxima": 25.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "4/27",
+          "minima": 4.0,
+          "maxima": 27.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "4/26",
+          "minima": 4.0,
+          "maxima": 26.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "taltal",
+      "ciudad": "Taltal",
+      "region_codigo": "02",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:35:56",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y llovizna",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "17/18",
+      "temperatura_minima": 17.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "17/18",
+          "minima": 17.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "17/19",
+          "minima": 17.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "17/20",
+          "minima": 17.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "17/19",
+          "minima": 17.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "17/19",
+          "minima": 17.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "tocopilla",
+      "ciudad": "Tocopilla",
+      "region_codigo": "02",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:44:05",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado variando a cubierto y llovizna",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "18/21",
+      "temperatura_minima": 18.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "18/21",
+          "minima": 18.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "18/20",
+          "minima": 18.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "18/21",
+          "minima": 18.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "18/20",
+          "minima": 18.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "18/20",
+          "minima": 18.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "caldera",
+      "ciudad": "Caldera",
+      "region_codigo": "03",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:39:56",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "16/19",
+      "temperatura_minima": 16.0,
+      "temperatura_maxima": 19.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "16/19",
+          "minima": 16.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "16/19",
+          "minima": 16.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "16/19",
+          "minima": 16.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "15/20",
+          "minima": 15.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "15/19",
+          "minima": 15.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "chanaral",
+      "ciudad": "Chañaral",
+      "region_codigo": "03",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:39:04",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "16/18",
+      "temperatura_minima": 16.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "16/18",
+          "minima": 16.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "16/18",
+          "minima": 16.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "16/18",
+          "minima": 16.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "15/19",
+          "minima": 15.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "15/18",
+          "minima": 15.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "copiapo",
+      "ciudad": "Copiapó",
+      "region_codigo": "03",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:42:04",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "11/22",
+      "temperatura_minima": 11.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "11/22",
+          "minima": 11.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "12/22",
+          "minima": 12.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "12/24",
+          "minima": 12.0,
+          "maxima": 24.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/22",
+          "minima": 11.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "12/22",
+          "minima": 12.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "salvador",
+      "ciudad": "El Salvador",
+      "region_codigo": "03",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:37:25",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "12/24",
+      "temperatura_minima": 12.0,
+      "temperatura_maxima": 24.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "12/24",
+          "minima": 12.0,
+          "maxima": 24.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "11/22",
+          "minima": 11.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "11/25",
+          "minima": 11.0,
+          "maxima": 25.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/25",
+          "minima": 11.0,
+          "maxima": 25.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/24",
+          "minima": 10.0,
+          "maxima": 24.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "freirina",
+      "ciudad": "Freirina",
+      "region_codigo": "03",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:42:25",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "11/21",
+      "temperatura_minima": 11.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "11/21",
+          "minima": 11.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "11/21",
+          "minima": 11.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "10/21",
+          "minima": 10.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/21",
+          "minima": 11.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "huasco",
+      "ciudad": "Huasco",
+      "region_codigo": "03",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:43:12",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "15/17",
+      "temperatura_minima": 15.0,
+      "temperatura_maxima": 17.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "15/17",
+          "minima": 15.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "15/17",
+          "minima": 15.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "15/17",
+          "minima": 15.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "14/18",
+          "minima": 14.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "14/17",
+          "minima": 14.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "vallenar",
+      "ciudad": "Vallenar",
+      "region_codigo": "03",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:41:17",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "11/23",
+      "temperatura_minima": 11.0,
+      "temperatura_maxima": 23.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "11/23",
+          "minima": 11.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "11/22",
+          "minima": 11.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "10/22",
+          "minima": 10.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/22",
+          "minima": 10.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/23",
+          "minima": 11.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "combarbala",
+      "ciudad": "Combarbalá",
+      "region_codigo": "04",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:26:34",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "11/21",
+      "temperatura_minima": 11.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "11/21",
+          "minima": 11.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "12/21",
+          "minima": 12.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "11/22",
+          "minima": 11.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "13/20",
+          "minima": 13.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/18",
+          "minima": 11.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "illapel",
+      "ciudad": "Illapel",
+      "region_codigo": "04",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:22:17",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/23",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 23.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/23",
+          "minima": 9.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/22",
+          "minima": 8.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/22",
+          "minima": 7.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/19",
+          "minima": 10.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/19",
+          "minima": 10.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "serena",
+      "ciudad": "La Serena/Coquimbo",
+      "region_codigo": "04",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:15:48",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/18",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "11/18",
+          "minima": 11.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/18",
+          "minima": 9.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "vilos",
+      "ciudad": "Los Vilos",
+      "region_codigo": "04",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:19:07",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/18",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/17",
+          "minima": 9.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "12/17",
+          "minima": 12.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "ovalle",
+      "ciudad": "Ovalle",
+      "region_codigo": "04",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:20:23",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/22",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/22",
+          "minima": 9.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/20",
+          "minima": 8.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/19",
+          "minima": 10.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "vicuna",
+      "ciudad": "Vicuña",
+      "region_codigo": "04",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:24:02",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/23",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 23.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/23",
+          "minima": 8.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "10/22",
+          "minima": 10.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/23",
+          "minima": 8.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "9/22",
+          "minima": 9.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "7/20",
+          "minima": 7.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "algarrobo",
+      "ciudad": "Algarrobo",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:15:09",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/18",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "12/17",
+          "minima": 12.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "casablanca",
+      "ciudad": "Casablanca",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:15:37",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos débiles",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/21",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/21",
+          "minima": 6.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/22",
+          "minima": 5.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/20",
+          "minima": 6.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "8/19",
+          "minima": 8.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "calera",
+      "ciudad": "La Calera/Quillota",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:52:59",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/21",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/21",
+          "minima": 6.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "ligua",
+      "ciudad": "La Ligua",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:46:17",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/20",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 20.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/20",
+          "minima": 7.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/20",
+          "minima": 7.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/19",
+          "minima": 8.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "andes",
+      "ciudad": "Los Andes",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:52:25",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/22",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/22",
+          "minima": 7.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/18",
+          "minima": 9.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/17",
+          "minima": 9.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "papudo",
+      "ciudad": "Papudo/Zapallar",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:32:10",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/18",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/17",
+          "minima": 9.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/15",
+          "minima": 12.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "12/17",
+          "minima": 12.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "snantonioi",
+      "ciudad": "San Antonio Interior",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:15:20",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/18",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/18",
+          "minima": 7.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/18",
+          "minima": 7.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/18",
+          "minima": 11.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "snantonio",
+      "ciudad": "San Antonio/Cartagena",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:15:09",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/18",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "12/17",
+          "minima": 12.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "snfelipe",
+      "ciudad": "San Felipe",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:52:15",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/22",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/22",
+          "minima": 7.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/18",
+          "minima": 9.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/17",
+          "minima": 9.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "valpo",
+      "ciudad": "Valparaíso",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:14:40",
+      "cantidad_dias": 7,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/18",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/18",
+          "minima": 9.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "12/17",
+          "minima": 12.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 6,
+          "fecha_etiqueta": "jueves 8",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        },
+        {
+          "posicion": 7,
+          "fecha_etiqueta": "viernes 9",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        }
+      ]
+    },
+    {
+      "indice": "olmue",
+      "ciudad": "Villa Alemana/Quilpué",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:53:16",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos aislados y tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/21",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/21",
+          "minima": 6.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/18",
+          "minima": 10.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "vdelmar",
+      "ciudad": "Viña del Mar",
+      "region_codigo": "05",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:14:53",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/19",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 19.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/19",
+          "minima": 8.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/19",
+          "minima": 9.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/18",
+          "minima": 9.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/18",
+          "minima": 11.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "colina",
+      "ciudad": "Colina",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:51:12",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/23",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 23.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/23",
+          "minima": 8.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/23",
+          "minima": 8.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/21",
+          "minima": 8.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "curacavi",
+      "ciudad": "Curacaví",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:50:46",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/22",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/22",
+          "minima": 8.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/22",
+          "minima": 8.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/16",
+          "minima": 11.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "melipilla",
+      "ciudad": "Melipilla",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:50:59",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/21",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/21",
+          "minima": 8.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/20",
+          "minima": 8.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/15",
+          "minima": 11.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "snjosemaipo",
+      "ciudad": "San José de Maipo",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:50:36",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/19",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 19.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "stgoc",
+      "ciudad": "Santiago Sector Centro",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:48:30",
+      "cantidad_dias": 7,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/21",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/21",
+          "minima": 10.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/22",
+          "minima": 9.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 6,
+          "fecha_etiqueta": "jueves 8",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        },
+        {
+          "posicion": 7,
+          "fecha_etiqueta": "viernes 9",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        }
+      ]
+    },
+    {
+      "indice": "stgon",
+      "ciudad": "Santiago Sector Norte",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:50:26",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/22",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 22.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/22",
+          "minima": 8.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/23",
+          "minima": 8.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/21",
+          "minima": 8.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/17",
+          "minima": 10.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "stgoo",
+      "ciudad": "Santiago Sector Oriente",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:50:13",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/21",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/21",
+          "minima": 10.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/23",
+          "minima": 9.0,
+          "maxima": 23.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "13/15",
+          "minima": 13.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/16",
+          "minima": 11.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "stgop",
+      "ciudad": "Santiago Sector Poniente",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:48:43",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/21",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/22",
+          "minima": 9.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/21",
+          "minima": 9.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "stgos",
+      "ciudad": "Santiago Sector Sur",
+      "region_codigo": "05m",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:49:58",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/21",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/21",
+          "minima": 8.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/21",
+          "minima": 8.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/20",
+          "minima": 8.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/15",
+          "minima": 12.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "pichilemu",
+      "ciudad": "Pichilemu",
+      "region_codigo": "06",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:11:53",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/15",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 15.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/15",
+          "minima": 12.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "rancagua",
+      "ciudad": "Rancagua",
+      "region_codigo": "06",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:54:05",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/19",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 19.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/20",
+          "minima": 8.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/20",
+          "minima": 9.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "rengo",
+      "ciudad": "Rengo",
+      "region_codigo": "06",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 19:53:48",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos aislados y tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/19",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 19.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/20",
+          "minima": 8.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/20",
+          "minima": 9.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "snfernando",
+      "ciudad": "San Fernando",
+      "region_codigo": "06",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:09:42",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/18",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/18",
+          "minima": 7.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/19",
+          "minima": 8.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "8/15",
+          "minima": 8.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "stacruz",
+      "ciudad": "Santa Cruz",
+      "region_codigo": "06",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:15:59",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos débiles",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/19",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 19.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/19",
+          "minima": 7.0,
+          "maxima": 19.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/21",
+          "minima": 6.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/20",
+          "minima": 8.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/14",
+          "minima": 11.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "cauquenes",
+      "ciudad": "Cauquenes",
+      "region_codigo": "07",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:11:32",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/16",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/17",
+          "minima": 6.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/16",
+          "minima": 6.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "constitucion",
+      "ciudad": "Constitución",
+      "region_codigo": "07",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:13:25",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/15",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 15.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "11/14",
+          "minima": 11.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/15",
+          "minima": 11.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "curico",
+      "ciudad": "Curicó",
+      "region_codigo": "07",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:01:35",
+      "cantidad_dias": 7,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/18",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/18",
+          "minima": 5.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/18",
+          "minima": 6.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 6,
+          "fecha_etiqueta": "jueves 8",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        },
+        {
+          "posicion": 7,
+          "fecha_etiqueta": "viernes 9",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        }
+      ]
+    },
+    {
+      "indice": "linares",
+      "ciudad": "Linares",
+      "region_codigo": "07",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:03:52",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos débiles",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/17",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 17.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/17",
+          "minima": 7.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/17",
+          "minima": 5.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/16",
+          "minima": 5.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "molina",
+      "ciudad": "Molina",
+      "region_codigo": "07",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:01:35",
+      "cantidad_dias": 7,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/18",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 18.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/18",
+          "minima": 8.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/18",
+          "minima": 5.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/18",
+          "minima": 6.0,
+          "maxima": 18.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 6,
+          "fecha_etiqueta": "jueves 8",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        },
+        {
+          "posicion": 7,
+          "fecha_etiqueta": "viernes 9",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        }
+      ]
+    },
+    {
+      "indice": "parral",
+      "ciudad": "Parral",
+      "region_codigo": "07",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:41:16",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos débiles y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/16",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/17",
+          "minima": 5.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/16",
+          "minima": 5.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "talca",
+      "ciudad": "Talca",
+      "region_codigo": "07",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:02:10",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/17",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 17.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/17",
+          "minima": 9.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/17",
+          "minima": 6.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/17",
+          "minima": 7.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "chillan",
+      "ciudad": "Chillán",
+      "region_codigo": "08a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:04:08",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos aislados y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/16",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/17",
+          "minima": 5.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "cobquecura",
+      "ciudad": "Cobquecura",
+      "region_codigo": "08a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:06:35",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/15",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 15.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/15",
+          "minima": 11.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "sancarlos",
+      "ciudad": "San Carlos",
+      "region_codigo": "08a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:03:10",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos aislados y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/15",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 15.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/15",
+          "minima": 7.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/16",
+          "minima": 6.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/17",
+          "minima": 5.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "concepcion",
+      "ciudad": "Concepción",
+      "region_codigo": "08b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:21:23",
+      "cantidad_dias": 7,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/16",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/15",
+          "minima": 9.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/15",
+          "minima": 8.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/14",
+          "minima": 11.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 6,
+          "fecha_etiqueta": "jueves 8",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        },
+        {
+          "posicion": 7,
+          "fecha_etiqueta": "viernes 9",
+          "temperatura": "",
+          "minima": null,
+          "maxima": null,
+          "nivel_temperatura": "No disponible"
+        }
+      ]
+    },
+    {
+      "indice": "lebu",
+      "ciudad": "Lebu",
+      "region_codigo": "08b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:24:04",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/13",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 13.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/13",
+          "minima": 8.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/14",
+          "minima": 7.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/14",
+          "minima": 6.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/13",
+          "minima": 10.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/13",
+          "minima": 10.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "angeles",
+      "ciudad": "Los Ángeles",
+      "region_codigo": "08b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:26:46",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos aislados y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/14",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 14.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/14",
+          "minima": 7.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/15",
+          "minima": 7.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/16",
+          "minima": 6.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/15",
+          "minima": 10.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "lota",
+      "ciudad": "Lota",
+      "region_codigo": "08b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:21:23",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/16",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/15",
+          "minima": 9.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/15",
+          "minima": 8.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/14",
+          "minima": 11.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "talcahuano",
+      "ciudad": "Talcahuano",
+      "region_codigo": "08b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:21:23",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/16",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/15",
+          "minima": 9.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/15",
+          "minima": 8.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/14",
+          "minima": 11.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "angol",
+      "ciudad": "Angol",
+      "region_codigo": "09",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 14:46:46",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nubosidad parcial",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "10/14",
+      "temperatura_minima": 10.0,
+      "temperatura_maxima": 14.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/17",
+          "minima": 5.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "10/13",
+          "minima": 10.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/17",
+          "minima": 11.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "psaavedra",
+      "ciudad": "Puerto Saavedra",
+      "region_codigo": "09",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 14:54:51",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos débiles y probable tormenta eléctrica con viento entre 25 y 40 km/h y ráfagas de viento hasta 50 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/13",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 13.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/13",
+          "minima": 9.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "10/14",
+          "minima": 10.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/15",
+          "minima": 8.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "9/15",
+          "minima": 9.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "10/16",
+          "minima": 10.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "temuco",
+      "ciudad": "Temuco",
+      "region_codigo": "09",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 14:48:51",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/13",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 13.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/13",
+          "minima": 6.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/14",
+          "minima": 6.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "4/17",
+          "minima": 4.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "7/14",
+          "minima": 7.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "8/17",
+          "minima": 8.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "villarica",
+      "ciudad": "Villarrica/Pucón",
+      "region_codigo": "09",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 14:58:22",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "5/10",
+      "temperatura_minima": 5.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "5/10",
+          "minima": 5.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/11",
+          "minima": 6.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "8/14",
+          "minima": 8.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "union",
+      "ciudad": "La Unión",
+      "region_codigo": "10a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:05:23",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/12",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 12.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/12",
+          "minima": 7.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/14",
+          "minima": 7.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/15",
+          "minima": 6.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "8/14",
+          "minima": 8.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "ranco",
+      "ciudad": "Lago Ranco",
+      "region_codigo": "10a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:03:25",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/11",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 11.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/11",
+          "minima": 7.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/12",
+          "minima": 7.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/14",
+          "minima": 7.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "panguipulli",
+      "ciudad": "Panguipulli",
+      "region_codigo": "10a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:00:02",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/10",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/10",
+          "minima": 6.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/12",
+          "minima": 6.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/15",
+          "minima": 6.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "8/14",
+          "minima": 8.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "riobueno",
+      "ciudad": "Río Bueno",
+      "region_codigo": "10a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:05:23",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/12",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 12.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/12",
+          "minima": 7.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/14",
+          "minima": 7.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/15",
+          "minima": 6.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "8/14",
+          "minima": 8.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "valdivia",
+      "ciudad": "Valdivia",
+      "region_codigo": "10a",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:02:29",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/12",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 12.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/12",
+          "minima": 7.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/13",
+          "minima": 7.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/15",
+          "minima": 5.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "8/14",
+          "minima": 8.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/16",
+          "minima": 9.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "ancud",
+      "ciudad": "Ancud",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:03:30",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "9/10",
+      "temperatura_minima": 9.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "9/10",
+          "minima": 9.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/12",
+          "minima": 9.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "9/13",
+          "minima": 9.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "6/16",
+          "minima": 6.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/15",
+          "minima": 9.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "castro",
+      "ciudad": "Castro",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:05:22",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/11",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 11.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/11",
+          "minima": 7.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/12",
+          "minima": 6.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/14",
+          "minima": 6.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "3/15",
+          "minima": 3.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "chaiten",
+      "ciudad": "Chaitén",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:06:46",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/10",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/10",
+          "minima": 7.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/10",
+          "minima": 8.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/12",
+          "minima": 8.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "5/16",
+          "minima": 5.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/17",
+          "minima": 9.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "cochamo",
+      "ciudad": "Cochamó",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:02:15",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/10",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/10",
+          "minima": 6.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/12",
+          "minima": 7.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/14",
+          "minima": 6.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "4/16",
+          "minima": 4.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "6/17",
+          "minima": 6.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "futaleufu",
+      "ciudad": "Futaleufú",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:09:18",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia débil",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "3/10",
+      "temperatura_minima": 3.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "3/10",
+          "minima": 3.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "3/10",
+          "minima": 3.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "2/12",
+          "minima": 2.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "-1/13",
+          "minima": -1.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "2/14",
+          "minima": 2.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "osorno",
+      "ciudad": "Osorno",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 14:59:33",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/11",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 11.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/11",
+          "minima": 7.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "7/13",
+          "minima": 7.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/15",
+          "minima": 6.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "6/14",
+          "minima": 6.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "8/16",
+          "minima": 8.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "pmontt",
+      "ciudad": "Puerto Montt",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:01:00",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/11",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 11.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/11",
+          "minima": 7.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/13",
+          "minima": 8.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/14",
+          "minima": 7.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "5/13",
+          "minima": 5.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "8/15",
+          "minima": 8.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "quellon",
+      "ciudad": "Quellón",
+      "region_codigo": "10b",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:08:05",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado, chubascos y probable tormenta eléctrica",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "7/10",
+      "temperatura_minima": 7.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "7/10",
+          "minima": 7.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/11",
+          "minima": 8.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/13",
+          "minima": 7.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "5/14",
+          "minima": 5.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "6/15",
+          "minima": 6.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "balmaceda",
+      "ciudad": "Balmaceda",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:17:51",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "2/11",
+      "temperatura_minima": 2.0,
+      "temperatura_maxima": 11.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "2/11",
+          "minima": 2.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "2/11",
+          "minima": 2.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "2/12",
+          "minima": 2.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "0/13",
+          "minima": 0.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "3/14",
+          "minima": 3.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "tortel",
+      "ciudad": "Caleta Tortel",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:28:23",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos aislados",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "4/13",
+      "temperatura_minima": 4.0,
+      "temperatura_maxima": 13.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "4/13",
+          "minima": 4.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/13",
+          "minima": 6.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "7/13",
+          "minima": 7.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "6/15",
+          "minima": 6.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "3/17",
+          "minima": 3.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "chchico",
+      "ciudad": "Chile Chico",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:22:42",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "5/12",
+      "temperatura_minima": 5.0,
+      "temperatura_maxima": 12.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "5/12",
+          "minima": 5.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/13",
+          "minima": 5.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/13",
+          "minima": 5.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/13",
+          "minima": 2.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "6/14",
+          "minima": 6.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "cochrane",
+      "ciudad": "Cochrane",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:25:02",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "5/13",
+      "temperatura_minima": 5.0,
+      "temperatura_maxima": 13.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "5/13",
+          "minima": 5.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/13",
+          "minima": 5.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "4/14",
+          "minima": 4.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/15",
+          "minima": 2.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "3/16",
+          "minima": 3.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "coyhaique",
+      "ciudad": "Coyhaique",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:16:33",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "4/10",
+      "temperatura_minima": 4.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "4/10",
+          "minima": 4.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "4/11",
+          "minima": 4.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "4/12",
+          "minima": 4.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/14",
+          "minima": 2.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "3/15",
+          "minima": 3.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "lagoverde",
+      "ciudad": "Lago Verde",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:14:26",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia débil",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/9",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 9.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/9",
+          "minima": 6.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "8/10",
+          "minima": 8.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/12",
+          "minima": 6.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/13",
+          "minima": 2.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "4/14",
+          "minima": 4.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "melinka",
+      "ciudad": "Melinka",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:12:42",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia débil",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "8/10",
+      "temperatura_minima": 8.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "8/10",
+          "minima": 8.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "9/11",
+          "minima": 9.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "8/13",
+          "minima": 8.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "6/15",
+          "minima": 6.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "9/17",
+          "minima": 9.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "aysen",
+      "ciudad": "Puerto Aysén",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:15:28",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia débil",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/10",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/10",
+          "minima": 6.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/12",
+          "minima": 6.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/13",
+          "minima": 5.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "3/15",
+          "minima": 3.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "4/17",
+          "minima": 4.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "cisnes",
+      "ciudad": "Puerto Cisnes",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:15:28",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia débil",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/10",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 10.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/10",
+          "minima": 6.0,
+          "maxima": 10.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/12",
+          "minima": 6.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/13",
+          "minima": 5.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "3/15",
+          "minima": 3.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "4/17",
+          "minima": 4.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "pibanez",
+      "ciudad": "Puerto Ingeniero Ibáñez",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:20:28",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "6/12",
+      "temperatura_minima": 6.0,
+      "temperatura_maxima": 12.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "6/12",
+          "minima": 6.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "6/13",
+          "minima": 6.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "6/14",
+          "minima": 6.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "4/15",
+          "minima": 4.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "7/16",
+          "minima": 7.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "ohiggins",
+      "ciudad": "Villa O'Higgins",
+      "region_codigo": "11",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:31:41",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "3/15",
+      "temperatura_minima": 3.0,
+      "temperatura_maxima": 15.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "3/15",
+          "minima": 3.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "2/14",
+          "minima": 2.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "3/12",
+          "minima": 3.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "4/13",
+          "minima": 4.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "1/16",
+          "minima": 1.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "porvenir",
+      "ciudad": "Porvenir",
+      "region_codigo": "12",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:25:37",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos débiles con viento entre 40 y 60 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "3/7",
+      "temperatura_minima": 3.0,
+      "temperatura_maxima": 7.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "3/7",
+          "minima": 3.0,
+          "maxima": 7.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "3/8",
+          "minima": 3.0,
+          "maxima": 8.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "4/8",
+          "minima": 4.0,
+          "maxima": 8.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/9",
+          "minima": 2.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "2/11",
+          "minima": 2.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "natales",
+      "ciudad": "Puerto Natales",
+      "region_codigo": "12",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:22:13",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y llovizna",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "4/9",
+      "temperatura_minima": 4.0,
+      "temperatura_maxima": 9.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "4/9",
+          "minima": 4.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "4/9",
+          "minima": 4.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/12",
+          "minima": 5.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/13",
+          "minima": 2.0,
+          "maxima": 13.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "1/15",
+          "minima": 1.0,
+          "maxima": 15.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "pwilliams",
+      "ciudad": "Puerto Williams",
+      "region_codigo": "12",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:14:09",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado y chubascos débiles con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "4/8",
+      "temperatura_minima": 4.0,
+      "temperatura_maxima": 8.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "4/8",
+          "minima": 4.0,
+          "maxima": 8.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/9",
+          "minima": 5.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "4/8",
+          "minima": 4.0,
+          "maxima": 8.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/11",
+          "minima": 2.0,
+          "maxima": 11.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "3/14",
+          "minima": 3.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "parenas",
+      "ciudad": "Punta Arenas",
+      "region_codigo": "12",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:29:06",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia débil con viento entre 40 y 60 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "4/7",
+      "temperatura_minima": 4.0,
+      "temperatura_maxima": 7.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "4/7",
+          "minima": 4.0,
+          "maxima": 7.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "4/8",
+          "minima": 4.0,
+          "maxima": 8.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/8",
+          "minima": 5.0,
+          "maxima": 8.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "3/9",
+          "minima": 3.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "3/12",
+          "minima": 3.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "torres",
+      "ciudad": "Torres del Paine",
+      "region_codigo": "12",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:18:18",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nublado",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "4/9",
+      "temperatura_minima": 4.0,
+      "temperatura_maxima": 9.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "4/9",
+          "minima": 4.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "5/9",
+          "minima": 5.0,
+          "maxima": 9.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "5/12",
+          "minima": 5.0,
+          "maxima": 12.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "2/14",
+          "minima": 2.0,
+          "maxima": 14.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "2/16",
+          "minima": 2.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "antartica",
+      "ciudad": "Península Antártica",
+      "region_codigo": "an",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 15:21:10",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y neblina",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "-2/-1",
+      "temperatura_minima": -2.0,
+      "temperatura_maxima": -1.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "-2/-1",
+          "minima": -2.0,
+          "maxima": -1.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "-2/-1",
+          "minima": -2.0,
+          "maxima": -1.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "-4/-2",
+          "minima": -4.0,
+          "maxima": -2.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "-4/-3",
+          "minima": -4.0,
+          "maxima": -3.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "-3/0",
+          "minima": -3.0,
+          "maxima": 0.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "rapanui",
+      "ciudad": "Isla de Pascua",
+      "region_codigo": "ip",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 16:52:34",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Cubierto y lluvia débil con viento entre 25 y 40 km/h y ráfagas de viento hasta 60 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "19/21",
+      "temperatura_minima": 19.0,
+      "temperatura_maxima": 21.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "19/21",
+          "minima": 19.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "15/20",
+          "minima": 15.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "15/20",
+          "minima": 15.0,
+          "maxima": 20.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "16/21",
+          "minima": 16.0,
+          "maxima": 21.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "17/22",
+          "minima": 17.0,
+          "maxima": 22.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    },
+    {
+      "indice": "jfernandez",
+      "ciudad": "Archipiélago Juan Fernández",
+      "region_codigo": "jf",
+      "fecha_pronostico_iso": "2026-10-03",
+      "fecha_pronostico": "03-10-2026",
+      "fecha_redaccion": "2026-10-02 17:11:32",
+      "cantidad_dias": 5,
+      "texto_resto_dia": "Nubosidad parcial con viento entre 25 y 40 km/h",
+      "fecha_resto_dia": "viernes 2",
+      "temperatura_primer_dia": "11/16",
+      "temperatura_minima": 11.0,
+      "temperatura_maxima": 16.0,
+      "nivel_temperatura": "Normal",
+      "dias": [
+        {
+          "posicion": 1,
+          "fecha_etiqueta": "sábado 3",
+          "temperatura": "11/16",
+          "minima": 11.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 2,
+          "fecha_etiqueta": "domingo 4",
+          "temperatura": "12/16",
+          "minima": 12.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 3,
+          "fecha_etiqueta": "lunes 5",
+          "temperatura": "13/17",
+          "minima": 13.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 4,
+          "fecha_etiqueta": "martes 6",
+          "temperatura": "12/17",
+          "minima": 12.0,
+          "maxima": 17.0,
+          "nivel_temperatura": "Normal"
+        },
+        {
+          "posicion": 5,
+          "fecha_etiqueta": "miércoles 7",
+          "temperatura": "11/16",
+          "minima": 11.0,
+          "maxima": 16.0,
+          "nivel_temperatura": "Normal"
+        }
+      ]
+    }
+  ]
+}
