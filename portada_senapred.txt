@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
+
+02-10-2026 22:02
+
 Se declara Alerta Temprana Preventiva para las Provincias de Los Andes, San Felipe, Quillota, Marga Marga y las comunas de Casablanca, Cabildo y Petorca por Tormentas Eléctricas
 
 02-10-2026 21:00
@@ -53,10 +57,6 @@ Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 02-10-2026 10:38
-
-Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-01-10-2026 20:50
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
