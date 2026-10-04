@@ -153,37 +153,34 @@ with sync_playwright() as p:
 
             try:
 
-                if "para la Región de " in titulo:
+                region_match = re.search(
+                    r"para la regi[oó]n"
+                    r"(?: de los| de las| del| de la| de)?"
+                    r"\s+(.+?)(?:\s+por\s+|$)",
+                    titulo,
+                    flags=re.IGNORECASE
+                )
+
+                if region_match:
 
                     region = (
-                        titulo
-                        .split("para la Región de ")[1]
-                        .split(" por ")[0]
+                        region_match
+                        .group(1)
+                        .strip()
                     )
 
-                elif "para la Región del " in titulo:
+                    # Normalización para coincidir con
+                    # PE - Tiendas Falabella
+                    if region.lower() in [
+                        "metropolitana",
+                        "metropolitana de santiago",
+                        "región metropolitana",
+                        "region metropolitana"
+                    ]:
 
-                    region = (
-                        titulo
-                        .split("para la Región del ")[1]
-                        .split(" por ")[0]
-                    )
-
-                elif "para la Región de los " in titulo:
-
-                    region = (
-                        titulo
-                        .split("para la Región de los ")[1]
-                        .split(" por ")[0]
-                    )
-
-                elif "para la Región de las " in titulo:
-
-                    region = (
-                        titulo
-                        .split("para la Región de las ")[1]
-                        .split(" por ")[0]
-                    )
+                        region = (
+                            "Metropolitana de Santiago"
+                        )
 
                 elif "para las comunas de " in titulo:
 
