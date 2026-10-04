@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+04-10-2026 13:35
+
+Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
+
+04-10-2026 08:19
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 03-10-2026 20:58
@@ -38,10 +46,6 @@ Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 03-10-2026 16:25
 
-Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
-
-03-10-2026 16:20
-
 Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde
 
 03-10-2026 08:46
@@ -49,10 +53,6 @@ Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 
 02-10-2026 23:38
-
-Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-02-10-2026 20:49
 
 Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida
 
@@ -65,10 +65,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoo
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y Última Esperanza a evento meteorológico
 
 02-10-2026 10:48
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-02-10-2026 10:38
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
