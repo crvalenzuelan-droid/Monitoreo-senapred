@@ -1,10 +1,21 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico|04-10-2026 13:46",
+    "accion": "Monitoreo",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "O'Higgins",
+    "fecha_senapred": "04-10-2026 13:46",
+    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A518-3\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n03-10\n\n\t\n\n04-10\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A531\n\n\t\n\nViento normal a moderado en litoral, cordillera de la costa valle y precordillera.\n\n\t\n\n05-10\n\n\t\n\n07-10\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A533\n\n\t\n\nProbables tormentas eléctricas en cordillera.\n\n\t\n\n04-10\n\n\t\n\n04-10\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A534-1\n\n\t\n\nPrecipitaciones normales a moderadas en el litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n06-10\n\n\t\n\n07-10\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A535\n\n\t\n\nProbables tormentas eléctricas, con probabilidad de granizos y fuertes rachas de vientos locales, en cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n06-10\n\n\t\n\n08-10\n\n\t\n\nAbrir aquí\n\n\n\n\nAdicionalmente, el Centro Meteorológico de la Armada de Chile, mantiene vigente su Aviso N°44 por marejadas normales, que se presentarán entre el sector de Golfo de Penas hasta Arica y Archipiélago Juan Fernández, hasta el lunes 05 de octubre.\n\nPor otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es la siguiente:\n\n\n\n\nSector\n\n\t\n\nPosibilidad\n\n\n\n\nLitoral\n\n\t\n\nBaja\n\n\n\n\nCordillera de la costa\n\n\t\n\nModerada\n\n\n\n\nValle\n\n\t\n\nModerada\n\n\n\n\nPrecordillera\n\n\t\n\nModerada\n\n\n\n\nCordillera\n\n\t\n\nBaja\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, que se encuentra vigente desde el 28 de septiembre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico\n\n03-10-2026 18:06\n\nMonitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico\n\n02-10-2026 22:02\n\nMonitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico\n\n01-10-2026 20:50\n\nMonitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico\n\n01-10-2026 17:15\n\nMonitoreo Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico\n\n30-09-2026 18:57\n\nSe declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico\n\n28-09-2026 14:03"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico|04-10-2026 13:35",
     "accion": "Monitoreo",
     "tipo": "ATP",
     "prioridad": "Baja",
-    "region": "No identificada",
+    "region": "Metropolitana de Santiago",
     "fecha_senapred": "04-10-2026 13:35",
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
@@ -26,7 +37,7 @@
     "accion": "Monitoreo",
     "tipo": "ATP",
     "prioridad": "Baja",
-    "region": "Los Lagos",
+    "region": "Lagos",
     "fecha_senapred": "03-10-2026 20:58",
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42",
@@ -42,16 +53,5 @@
     "titulo": "Se declara Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-10-03-18-37-07",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso:\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A528\n\n\t\n\nPrecipitaciones normales a moderadas en el Archipiélago Juan Fernández.\n\n\t\n\n05-10\n\n\t\n\n06-10\n\n\t\n\nAbrir\naquí\n\n\n\n\nAviso A529\n\n\t\n\nViento normal a moderado en el Archipiélago Juan Fernández.\n\n\t\n\n05-10\n\n\t\n\n06-10\n\n\t\n\nAbrir\naquí\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED Declara Alerta Temprana Preventiva por evento meteorológico para la comuna de Juan Fernández, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico|03-10-2026 18:06",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "O'Higgins",
-    "fecha_senapred": "03-10-2026 18:06",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-09-28-14-06-15",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins:\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A518-3\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n03-10\n\n\t\n\n04-10\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A530\n\n\t\n\nPrecipitaciones normales a moderadas en corto periodo de tiempo en precordillera y cordillera.\n\n\t\n\n06-10\n\n\t\n\n07-10\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A531\n\n\t\n\nViento normal a moderado en litoral, cordillera de la costa valle y precordillera.\n\n\t\n\n05-10\n\n\t\n\n07-10\n\n\t\n\nAbrir aquí\n\n\nAdicionalmente, el Centro Meteorológico de la Armada de Chile, mantiene vigente su Aviso N°44 por marejadas normales, que se presentarán entre el sector de Golfo de Penas hasta Arica y Archipiélago Juan Fernández, hasta el lunes 05 de octubre.\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, que se encuentra vigente desde el 28 de septiembre y hasta que las condiciones así lo ameriten.\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico\n\n02-10-2026 22:02\n\nMonitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico\n\n01-10-2026 20:50\n\nMonitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico\n\n01-10-2026 17:15\n\nMonitoreo Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico\n\n30-09-2026 18:57\n\nSe declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico\n\n28-09-2026 14:03"
   }
 ]

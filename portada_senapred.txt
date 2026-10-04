@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
+
+04-10-2026 13:46
+
 Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 04-10-2026 13:35
@@ -33,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento met
 Se declara Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico
 
 03-10-2026 18:36
-
-Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-03-10-2026 18:06
 
 Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico
 
