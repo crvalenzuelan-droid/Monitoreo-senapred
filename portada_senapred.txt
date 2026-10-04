@@ -86,10 +86,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por a
 
 01-10-2026 11:55
 
-Se modifica Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-30-09-2026 21:15
-
 Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 29-09-2026 10:05
