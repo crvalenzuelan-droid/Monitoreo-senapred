@@ -50,10 +50,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco 
 
 02-10-2026 23:38
 
-Se declara Alerta Temprana Preventiva para las Provincias de Los Andes, San Felipe, Quillota, Marga Marga y las comunas de Casablanca, Cabildo y Petorca por Tormentas Eléctricas
-
-02-10-2026 21:00
-
 Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 02-10-2026 20:49
