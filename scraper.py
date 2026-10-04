@@ -169,18 +169,18 @@ with sync_playwright() as p:
                         .strip()
                     )
 
-                    # Normalización para coincidir con
+                     # Normalización para coincidir con
                     # PE - Tiendas Falabella
-if region.lower() in [
-    "metropolitana",
-    "metropolitana de santiago",
-    "región metropolitana",
-    "region metropolitana"
-]:
+                    if region.lower() in [
+                        "metropolitana",
+                        "metropolitana de santiago",
+                        "región metropolitana",
+                        "region metropolitana"
+                    ]:
 
-    region = (
-        "Metropolitana"
-    )
+                        region = (
+                            "Metropolitana"
+                        )
 
                 elif "para las comunas de " in titulo:
 
