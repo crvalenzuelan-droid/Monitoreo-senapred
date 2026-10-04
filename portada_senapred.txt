@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+04-10-2026 17:49
+
+Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
+
+04-10-2026 16:39
+
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 04-10-2026 13:46
@@ -25,10 +33,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento met
 Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 04-10-2026 13:35
-
-Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
-
-04-10-2026 08:19
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
