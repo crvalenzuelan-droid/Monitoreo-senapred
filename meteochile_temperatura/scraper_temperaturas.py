@@ -118,17 +118,18 @@ def extraer_arreglo_texto(
 
     valores = re.findall(
         r"([\"'])(.*?)\1",
-        contenido*
+        contenido,
         flags=re.DOTALL
     )
 
-  * return [
+    return [
         limpiar_html(valor)
-        for _, valor in valores*        if limpiar_html(valor)
-   *]
+        for _, valor in valores
+        if limpiar_html(valor)
+    ]
 
 
-# ============================*====================
+# =================================================
 # PROCESAMIENTO DE TEMPERATURAS
 # =================================================
 
@@ -157,7 +158,7 @@ def separar_temperatura(valor):
 
     texto = limpiar_html(valor)
 
-    # Formato completo: 10/23
+    # Formato completo, por ejemplo: 10/23
     resultado_completo = re.fullmatch(
         r"\s*(-?\d+(?:[.,]\d+)?)"
         r"\s*/\s*"
@@ -176,7 +177,7 @@ def separar_temperatura(valor):
             )
         }
 
-    # Formato sin minima: /23
+    # Formato sin minima, por ejemplo: /23
     resultado_solo_maxima = re.fullmatch(
         r"\s*/\s*"
         r"(-?\d+(?:[.,]\d+)?)\s*",
@@ -192,7 +193,7 @@ def separar_temperatura(valor):
             )
         }
 
-    # Formato sin maxima: 10/
+    # Formato sin maxima, por ejemplo: 10/
     resultado_solo_minima = re.fullmatch(
         r"\s*(-?\d+(?:[.,]\d+)?)"
         r"\s*/\s*",
@@ -208,80 +209,82 @@ def separar_temperatura(valor):
             "maxima": None
         }
 
-    # Un solo valor se interpreta como maxima
+    # Un solo valor se interpreta como maxima.
     resultado_un_valor = re.fullmatch(
         r"\s*(-?\d+(?:[.,]\d+)?)\s*",
         texto
     )
 
-    if res*ltado_un_valor:
+    if resultado_un_valor:
 
         return {
-*           "minima": None,
-       *    "maxima": convertir_numero(
-  *             resultado_un_valor.gr*up(1)
+            "minima": None,
+            "maxima": convertir_numero(
+                resultado_un_valor.group(1)
             )
         }
 
-   *return {
+    return {
         "minima": None,
- *      "maxima": None
+        "maxima": None
     }
 
 
-def c*asificar_temperatura(maxima):
+def clasificar_temperatura(maxima):
 
-   *if maxima is None:
-        return *No disponible"
+    if maxima is None:
+        return "No disponible"
 
-    if maxima >= 4*:
-        return "Condición crític*"
+    if maxima >= 40:
+        return "Condición crítica"
 
     if maxima >= 34:
-        re*urn "Calor intenso"
+        return "Calor intenso"
 
-    if maxima*>= 30:
-        return "Preventivo"*
+    if maxima >= 30:
+        return "Preventivo"
+
     return "Normal"
 
 
-# =========*==================================*====
+# =================================================
 # CONVERSION DE FECHA
-# =====*==================================*========
+# =================================================
 
-def convertir_fecha(fech*_sql):
+def convertir_fecha(fecha_sql):
 
     if not fecha_sql:
-    *   return ""
+        return ""
 
     try:
 
-        fe*ha = datetime.strptime(
-          * fecha_sql,
-            "%Y-%m-%d"*        )
+        fecha = datetime.strptime(
+            fecha_sql,
+            "%Y-%m-%d"
+        )
 
-        return fecha.st*ftime(
+        return fecha.strftime(
             "%d-%m-%Y"
-    *   )
+        )
 
     except ValueError:
 
-    *   return fecha_sql
+        return fecha_sql
 
 
-# ==========*==================================*===
+# =================================================
 # DESCARGAR PRONOSTICO.JS
-# ==*==================================*===========
+# =================================================
 
-def descargar_pronost*co():
+def descargar_pronostico():
 
     ultimo_error = ""
 
-    *ith sync_playwright() as p:
+    with sync_playwright() as p:
 
-     *  navegador = p.chromium.launch(
- *          headless=True,
-         *  args=[
+        navegador = p.chromium.launch(
+            headless=True,
+            args=[
                 "--disable-blink-features="
                 "AutomationControlled",
                 "--disable-dev-shm-usage",
@@ -289,14 +292,14 @@ def descargar_pronost*co():
             ]
         )
 
-        contexto * navegador.new_context(
-          * locale="es-CL",
-            timez*ne_id="America/Santiago",
-        *   user_agent=(
-                "M*zilla/5.0 "
-                "(Wind*ws NT 10.0; Win64; x64) "
-        *       "AppleWebKit/537.36 "
-     *          "(KHTML, like Gecko) "
+        contexto = navegador.new_context(
+            locale="es-CL",
+            timezone_id="America/Santiago",
+            user_agent=(
+                "Mozilla/5.0 "
+                "(Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 "
+                "(KHTML, like Gecko) "
                 "Chrome/140.0.0.0 "
                 "Safari/537.36"
             )
@@ -316,43 +319,44 @@ def descargar_pronost*co():
                             "text/javascript,"
                             "application/javascript,"
                             "*/*;q=0.8"
-                        )*
-                        "Referer"* URL_FUENTE,
-                     *  "Cache-Control": "no-cache",
-   *                    "Pragma": "no-*ache"
+                        ),
+                        "Referer": URL_FUENTE,
+                        "Cache-Control": "no-cache",
+                        "Pragma": "no-cache"
                     }
-      *         )
-
-                print(*                    f"Intento {int*nto}: "
-                    "estad* de pronostico.js: "
-             *      f"{respuesta.status}"
-      *         )
-
-                if res*uesta.ok:
-
-                    con*enido = respuesta.text()
-
-        *           if contenido.strip():
- *                      break
-
-     *          ultimo_error = (
-       *            "Respuesta HTTP "
-    *               f"{respuesta.status*"
                 )
 
-            e*cept Exception as error:
-
-        *       ultimo_error = str(error)
-
-*               print(
-            *       f"Error intento {intento}: *
-                    f"{ultimo_err*r}"
+                print(
+                    f"Intento {intento}: "
+                    "estado de pronostico.js: "
+                    f"{respuesta.status}"
                 )
 
-           *if intento < 3:
+                if respuesta.ok:
 
-                p*int(
-                    "Esperand* antes del "
+                    contenido = respuesta.text()
+
+                    if contenido.strip():
+                        break
+
+                ultimo_error = (
+                    "Respuesta HTTP "
+                    f"{respuesta.status}"
+                )
+
+            except Exception as error:
+
+                ultimo_error = str(error)
+
+                print(
+                    f"Error intento {intento}: "
+                    f"{ultimo_error}"
+                )
+
+            if intento < 3:
+
+                print(
+                    "Esperando antes del "
                     "siguiente intento..."
                 )
 
@@ -632,16 +636,12 @@ def generar_xml(pronosticos):
         if registro["temperatura_minima"] is None:
             minima = ""
         else:
-            minima = str(
-                registro["temperatura_minima"]
-            )
+            minima = str(registro["temperatura_minima"])
 
         if registro["temperatura_maxima"] is None:
             maxima = ""
         else:
-            maxima = str(
-                registro["temperatura_maxima"]
-            )
+            maxima = str(registro["temperatura_maxima"])
 
         identificador = (
             f"TEMP|"
