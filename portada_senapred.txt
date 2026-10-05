@@ -18,9 +18,9 @@ Limpiar Filtros
 <<
 >>
 
-Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+Se cancela Alerta Roja para la comuna de Punta Arenas por desborde
 
-05-10-2026 12:01
+05-10-2026 13:28
 
 Monitoreo de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
@@ -37,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 05-10-2026 01:05
-
-Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde
-
-04-10-2026 22:42
 
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
@@ -77,10 +73,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 02-10-2026 16:24
-
-Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias de Magallanes, Tierra del Fuego y Última Esperanza a evento meteorológico
-
-02-10-2026 10:48
 
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 

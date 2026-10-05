@@ -9,15 +9,15 @@
 
 <item>
 
-<title><![CDATA[Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
+<title><![CDATA[Se cancela Alerta Roja para la comuna de Punta Arenas por desborde]]></title>
 
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-29-14-13-42</link>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44</link>
 
-<guid isPermaLink="false"><![CDATA[Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|05-10-2026 12:01]]></guid>
+<guid isPermaLink="false"><![CDATA[Se cancela Alerta Roja para la comuna de Punta Arenas por desborde|05-10-2026 13:28]]></guid>
 
-<description><![CDATA[Accion=Se cancela|Tipo=ATP|Region=Lagos|Prioridad=Baja|Fecha=05-10-2026 12:01]]></description>
+<description><![CDATA[Accion=Se cancela|Tipo=Roja|Region=Punta Arenas|Prioridad=Alta|Fecha=05-10-2026 13:28]]></description>
 
-<pubDate>Mon, 05 Oct 2026 16:03:46 GMT</pubDate>
+<pubDate>Mon, 05 Oct 2026 17:03:38 GMT</pubDate>
 
 </item>
 
@@ -31,7 +31,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=05-10-2026 08:45]]></description>
 
-<pubDate>Mon, 05 Oct 2026 16:03:46 GMT</pubDate>
+<pubDate>Mon, 05 Oct 2026 17:03:38 GMT</pubDate>
 
 </item>
 
@@ -45,7 +45,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Biobío|Prioridad=Baja|Fecha=05-10-2026 07:41]]></description>
 
-<pubDate>Mon, 05 Oct 2026 16:03:46 GMT</pubDate>
+<pubDate>Mon, 05 Oct 2026 17:03:38 GMT</pubDate>
 
 </item>
 
@@ -59,7 +59,7 @@
 
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Pinto y Coihueco|Prioridad=Baja|Fecha=05-10-2026 04:33]]></description>
 
-<pubDate>Mon, 05 Oct 2026 16:03:46 GMT</pubDate>
+<pubDate>Mon, 05 Oct 2026 17:03:38 GMT</pubDate>
 
 </item>
 
@@ -73,7 +73,7 @@
 
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=05-10-2026 01:05]]></description>
 
-<pubDate>Mon, 05 Oct 2026 16:03:46 GMT</pubDate>
+<pubDate>Mon, 05 Oct 2026 17:03:38 GMT</pubDate>
 
 </item>
 
