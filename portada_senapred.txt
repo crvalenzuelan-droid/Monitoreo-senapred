@@ -74,10 +74,6 @@ Se modifica cobertura y evento de Alerta Temprana Preventiva para las Provincias
 
 02-10-2026 10:48
 
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-01-10-2026 20:12
-
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 01-10-2026 19:52
