@@ -33,18 +33,26 @@ RUTA_XML = (
 
 
 # =================================================
-# FUNCIONES DE LIMPIEZA Y EXTRACCION
+# FUNCIONES DE LIMPIEZA
 # =================================================
 
 def limpiar_html(texto):
 
     valor = texto or ""
 
-    # Algunos nombres vienen codificados dos veces.
-    # Ejemplo: Copiap&amp;oacute;
+    # Algunos nombres vienen codificados
+    # más de una vez.
+    #
+    # Ejemplo:
+    # Copiap&amp;oacute;
+    # se transforma en:
+    # Copiapó
+
     for _ in range(4):
 
-        nuevo_valor = unescape(valor)
+        nuevo_valor = unescape(
+            valor
+        )
 
         if nuevo_valor == valor:
             break
@@ -57,6 +65,10 @@ def limpiar_html(texto):
         valor
     ).strip()
 
+
+# =================================================
+# EXTRACCION DE CAMPOS SIMPLES
+# =================================================
 
 def extraer_texto(
     bloque,
@@ -97,6 +109,10 @@ def extraer_numero(
     )
 
 
+# =================================================
+# EXTRACCION DE ARREGLOS
+# =================================================
+
 def extraer_arreglo_texto(
     bloque,
     nombre_campo
@@ -116,15 +132,44 @@ def extraer_arreglo_texto(
 
     valores = re.findall(
         r"([\"'])(.*?)\1",
-        contenido,
+        contenido*
         flags=re.DOTALL
     )
 
-    return [
+  * return [
         limpiar_html(valor)
-        for _, valor in valores
-        if limpiar_html(valor)
-    ]
+        for _, valor in valores*        if limpiar_html(valor)
+   *]
+
+
+# ============================*====================
+# PROCESAR TE*PERATURAS
+# ======================*==========================
+
+def co*vertir_numero(valor):
+
+    if valo* is None:
+        return None
+
+   *texto = str(
+        valor
+    ).s*rip()
+
+    if not texto:
+        r*turn None
+
+    try:
+
+        return float(
+            texto.replace(
+                ",",
+                "."
+            )
+        )
+
+    except ValueError:
+
+        return None
 
 
 def separar_temperatura(valor):
@@ -133,56 +178,152 @@ def separar_temperatura(valor):
         valor
     )
 
-    resultado = re.fullmatch(
+    # ---------------------------------------------
+    # FORMATO COMPLETO
+    #
+    # Ejemplo:
+    # 10/23
+    #
+    # Resultado:
+    # mínima = 10
+    # máxima = 23
+    # ---------------------------------------------
+
+    resultado_completo = re.fullmatch(
         r"\s*(-?\d+(?:[.,]\d+)?)"
         r"\s*/\s*"
         r"(-?\d+(?:[.,]\d+)?)\s*",
         texto
     )
 
-    if not resultado:
+    if *esultado_completo:
+
+        minima*= convertir_numero(
+            resultado_completo.group(1)
+        )
+
+        maxima = convertir_numero(
+            resultado_completo.group(2)
+        )
+
+        return {
+            "minima": minima,
+            "maxima": maxima
+        }
+
+    # ---------------------------------------------
+    # FORMATO SIN MINIMA
+    #
+    # Ejemplo:
+    # /23
+    #
+    # Resultado:
+    # mínima = None
+    # máxima = 23
+    # ---------------------------------------------
+
+    resultado_solo_maxima = re.fullmatch(
+        r"\s*/\s*"
+        r"(-?\d+(?:[.,]\d+)?)\s*",
+        texto
+    )
+
+    if resultado_solo_maxima:
+
+        maxima = convertir_numero(
+            resultado_solo_maxima.group(1)
+        )
 
         return {
             "minima": None,
+            "maxima": maxima
+        }
+
+    # ---------------------------------------------
+    # FORMATO SIN MAXIMA
+    #
+    # Ejemplo:
+    # 10/
+    #
+    # Resultado:
+    # mínima = 10
+    # máxima = None
+    # ---------------------------------------------
+
+    resultado_solo_minima = re.fullmatch(
+        r"\s*(-?\d+(?:[.,]\d+)?)"
+        r"\s*/\s*",
+        texto
+    )
+
+    if resultado_solo_minima:
+
+        minima = convertir_numero(
+            resultado_solo_minima.group(1)
+        )
+
+        return {
+            "minima": minima,
             "maxima": None
         }
 
-    minima = float(
-        resultado.group(1).replace(
-            ",",
-            "."
-        )
+    # ---------------------------------------------
+    # FORMATO DE UN SOLO NUMERO
+    #
+    # Si MeteoChile entrega solamente un valor
+    # sin separador, se interpreta como máxima.
+    # ---------------------------------------------
+
+    resultado_un_valor = re.fullmatch(
+        r"\s*(-?\d+(?:[.,]\d+)?)\s*",
+        texto
     )
 
-    maxima = float(
-        resultado.group(2).replace(
-            ",",
-            "."
+    if resultado_un_valor:
+
+        maxima = convertir_numero(
+            resultado_un_valor.group(1)
         )
-    )
+
+        return {
+            "minima": None,
+            "maxima": maxima
+        }
 
     return {
-        "minima": minima,
-        "maxima": maxima
+        "minima": None,
+        "maxima": None
     }
 
+
+# =================================================
+# CLASIFICACION PREVENTIVA
+# =================================================
 
 def clasificar_temperatura(maxima):
 
     if maxima is None:
+
         return "No disponible"
 
     if maxima >= 40:
+
         return "Condición crítica"
 
     if maxima >= 34:
+
         return "Calor intenso"
 
     if maxima >= 30:
+
         return "Preventivo"
 
     return "Normal"
 
+
+# =================================================
+# CONVERSION DE FECHA
+# =================================================
 
 def convertir_fecha(fecha_sql):
 
@@ -247,18 +388,25 @@ def descargar_pronostico():
 
             try:
 
-                respuesta = contexto.request.get(
-                    URL_SCRIPT,
-                    timeout=120000,
-                    headers={
-                        "Accept": (
-                            "text/javascript,"
-                            "application/javascript,"
-                            "*/*;q=0.8"
-                        ),
-                        "Referer": URL_FUENTE,
-                        "Cache-Control": "no-cache"
-                    }
+                respuesta = (
+                    contexto.request.get(
+                        URL_SCRIPT,
+                        timeout=120000,
+                        headers={
+                            "Accept": (
+                                "text/javascript,"
+                                "application/javascript,"
+                                "*/*;q=0.8"
+                            ),
+                            "Referer": URL_FUENTE,
+                            "Cache-Control": (
+                                "no-cache"
+                            ),
+                            "Pragma": (
+                                "no-cache"
+                            )
+                        }
+                    )
                 )
 
                 print(
@@ -281,505 +429,4 @@ def descargar_pronostico():
                     f"{respuesta.status}"
                 )
 
-            except Exception as error:
-
-                ultimo_error = str(
-                    error
-                )
-
-                print(
-                    f"Error intento {intento}: "
-                    f"{ultimo_error}"
-                )
-
-            if intento < 3:
-
-                time.sleep(
-                    10
-                )
-
-        navegador.close()
-
-    if not contenido.strip():
-
-        raise RuntimeError(
-            "No fue posible descargar "
-            "pronostico.js. "
-            f"Último error: {ultimo_error}"
-        )
-
-    return contenido
-
-
-# =================================================
-# PROCESAR LOCALIDADES
-# =================================================
-
-def procesar_pronosticos(contenido):
-
-    bloques = re.findall(
-        r"Pronostico\.push\s*"
-        r"\(\s*\{(.*?)\}"
-        r"\s*\)\s*;",
-        contenido,
-        flags=re.DOTALL
-    )
-
-    print(
-        "Localidades encontradas:",
-        len(bloques)
-    )
-
-    pronosticos = []
-
-    for numero_bloque, bloque in enumerate(
-        bloques,
-        start=1
-    ):
-
-        indice = extraer_texto(
-            bloque,
-            "indice"
-        )
-
-        ciudad = extraer_texto(
-            bloque,
-            "ciudad"
-        )
-
-        region = extraer_texto(
-            bloque,
-            "region"
-        )
-
-        fecha_sql = extraer_texto(
-            bloque,
-            "fechasql"
-        )
-
-        fecha_redaccion = extraer_texto(
-            bloque,
-            "fechasqlredaccion"
-        )
-
-        texto_resto_dia = extraer_texto(
-            bloque,
-            "texto_resto_dia"
-        )
-
-        fecha_resto_dia = extraer_texto(
-            bloque,
-            "fecha_resto_dia"
-        )
-
-        cantidad_dias = extraer_numero(
-            bloque,
-            "tope"
-        )
-
-        fechas = extraer_arreglo_texto(
-            bloque,
-            "fecha"
-        )
-
-        temperaturas = extraer_arreglo_texto(
-            bloque,
-            "temperatura"
-        )
-
-        if not indice or not ciudad:
-
-            print(
-                "OMITIDO bloque "
-                f"{numero_bloque}: "
-                "sin indice o ciudad"
-            )
-
-            continue
-
-        dias = []
-
-        cantidad = max(
-            len(fechas),
-            len(temperaturas)
-        )
-
-        for posicion in range(
-            cantidad
-        ):
-
-            if posicion < len(fechas):
-
-                etiqueta_fecha = (
-                    fechas[posicion]
-                )
-
-            else:
-
-                etiqueta_fecha = ""
-
-            if posicion < len(
-                temperaturas
-            ):
-
-                temperatura_texto = (
-                    temperaturas[posicion]
-                )
-
-            else:
-
-                temperatura_texto = ""
-
-            valores = separar_temperatura(
-                temperatura_texto
-            )
-
-            dias.append({
-                "posicion": (
-                    posicion + 1
-                ),
-                "fecha_etiqueta": (
-                    etiqueta_fecha
-                ),
-                "temperatura": (
-                    temperatura_texto
-                ),
-                "minima": (
-                    valores["minima"]
-                ),
-                "maxima": (
-                    valores["maxima"]
-                ),
-                "nivel_temperatura": (
-                    clasificar_temperatura(
-                        valores["maxima"]
-                    )
-                )
-            })
-
-        if dias:
-
-            primer_dia = dias[0]
-
-        else:
-
-            primer_dia = {
-                "temperatura": "",
-                "minima": None,
-                "maxima": None,
-                "nivel_temperatura": (
-                    "No disponible"
-                )
-            }
-
-        registro = {
-            "indice": indice,
-            "ciudad": ciudad,
-            "region_codigo": region,
-            "fecha_pronostico_iso": (
-                fecha_sql
-            ),
-            "fecha_pronostico": (
-                convertir_fecha(
-                    fecha_sql
-                )
-            ),
-            "fecha_redaccion": (
-                fecha_redaccion
-            ),
-            "cantidad_dias": (
-                cantidad_dias
-            ),
-            "texto_resto_dia": (
-                texto_resto_dia
-            ),
-            "fecha_resto_dia": (
-                fecha_resto_dia
-            ),
-            "temperatura_primer_dia": (
-                primer_dia[
-                    "temperatura"
-                ]
-            ),
-            "temperatura_minima": (
-                primer_dia[
-                    "minima"
-                ]
-            ),
-            "temperatura_maxima": (
-                primer_dia[
-                    "maxima"
-                ]
-            ),
-            "nivel_temperatura": (
-                primer_dia[
-                    "nivel_temperatura"
-                ]
-            ),
-            "dias": dias
-        }
-
-        pronosticos.append(
-            registro
-        )
-
-        print(
-            f"OK: {ciudad} | "
-            f"{fecha_sql} | "
-            f"{primer_dia['temperatura']} | "
-            f"{primer_dia['nivel_temperatura']}"
-        )
-
-    if not pronosticos:
-
-        raise RuntimeError(
-            "No fue posible extraer "
-            "localidades desde "
-            "pronostico.js."
-        )
-
-    pronosticos.sort(
-        key=lambda item: (
-            item["region_codigo"],
-            item["ciudad"]
-        )
-    )
-
-    return pronosticos
-
-
-# =================================================
-# GENERAR JSON
-# =================================================
-
-def generar_json(
-    pronosticos,
-    fecha_referencia
-):
-
-    salida_json = {
-        "fuente": (
-            "Dirección Meteorológica "
-            "de Chile"
-        ),
-        "producto": (
-            "Pronóstico de temperaturas "
-            "por localidad"
-        ),
-        "fecha_referencia": (
-            fecha_referencia
-        ),
-        "fecha_generacion_utc": (
-            datetime.now(
-                timezone.utc
-            ).isoformat()
-        ),
-        "cantidad_localidades": (
-            len(pronosticos)
-        ),
-        "localidades": (
-            pronosticos
-        )
-    }
-
-    with open(
-        RUTA_JSON,
-        "w",
-        encoding="utf-8"
-    ) as archivo:
-
-        json.dump(
-            salida_json,
-            archivo,
-            ensure_ascii=False,
-            indent=2
-        )
-
-
-# =================================================
-# GENERAR XML RSS
-# =================================================
-
-def generar_xml(pronosticos):
-
-    fecha_rss = datetime.now(
-        timezone.utc
-    ).strftime(
-        "%a, %d %b %Y %H:%M:%S GMT"
-    )
-
-    items_rss = []
-
-    for registro in pronosticos:
-
-        if (
-            registro[
-                "temperatura_minima"
-            ] is None
-        ):
-
-            minima = ""
-
-        else:
-
-            minima = str(
-                registro[
-                    "temperatura_minima"
-                ]
-            )
-
-        if (
-            registro[
-                "temperatura_maxima"
-            ] is None
-        ):
-
-            maxima = ""
-
-        else:
-
-            maxima = str(
-                registro[
-                    "temperatura_maxima"
-                ]
-            )
-
-        identificador = (
-            f"TEMP|"
-            f"{registro['indice']}|"
-            f"{registro['fecha_pronostico_iso']}"
-        )
-
-        titulo = (
-            f"{registro['ciudad']} | "
-            f"{registro['temperatura_primer_dia']} °C | "
-            f"{registro['fecha_pronostico']}"
-        )
-
-        resumen = (
-            f"IndiceLocalidad="
-            f"{registro['indice']}"
-            f"|Ciudad="
-            f"{registro['ciudad']}"
-            f"|CodigoRegion="
-            f"{registro['region_codigo']}"
-            f"|FechaPronostico="
-            f"{registro['fecha_pronostico']}"
-            f"|TemperaturaMinima="
-            f"{minima}"
-            f"|TemperaturaMaxima="
-            f"{maxima}"
-            f"|NivelTemperatura="
-            f"{registro['nivel_temperatura']}"
-            f"|Condicion="
-            f"{registro['texto_resto_dia']}"
-        )
-
-        item_xml = f"""
-<item>
-<title><![CDATA[{titulo}]]></title>
-<link>{escape(URL_FUENTE)}</link>
-<guid isPermaLink="false"><![CDATA[{identificador}]]></guid>
-<description><![CDATA[{resumen}]]></description>
-<pubDate>{fecha_rss}</pubDate>
-</item>
-"""
-
-        items_rss.append(
-            item_xml
-        )
-
-    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-<title>Pronóstico de Temperaturas por Localidad</title>
-<link>{escape(URL_FUENTE)}</link>
-<description>Pronóstico diario de temperaturas mínimas y máximas publicado por MeteoChile</description>
-<language>es-cl</language>
-<lastBuildDate>{fecha_rss}</lastBuildDate>
-
-{''.join(items_rss)}
-
-</channel>
-</rss>
-"""
-
-    with open(
-        RUTA_XML,
-        "w",
-        encoding="utf-8"
-    ) as archivo:
-
-        archivo.write(
-            rss
-        )
-
-
-# =================================================
-# EJECUCION PRINCIPAL
-# =================================================
-
-def main():
-
-    contenido = descargar_pronostico()
-
-    pronosticos = procesar_pronosticos(
-        contenido
-    )
-
-    fecha_referencia = next(
-        (
-            item["fecha_pronostico"]
-            for item in pronosticos
-            if item["fecha_pronostico"]
-        ),
-        datetime.now(
-            timezone.utc
-        ).strftime(
-            "%d-%m-%Y"
-        )
-    )
-
-    generar_json(
-        pronosticos,
-        fecha_referencia
-    )
-
-    generar_xml(
-        pronosticos
-    )
-
-    print("")
-    print(
-        "==================================="
-    )
-    print(
-        "PRONOSTICO DE TEMPERATURAS GENERADO"
-    )
-    print(
-        "==================================="
-    )
-    print(
-        "Localidades procesadas:",
-        len(pronosticos)
-    )
-    print(
-        "Fecha de referencia:",
-        fecha_referencia
-    )
-    print(
-        "JSON:",
-        RUTA_JSON
-    )
-    print(
-        "RSS:",
-        RUTA_XML
-    )
-    print(
-        "==================================="
-    )
-
-
-if __name__ == "__main__":
-
-    main()
+            except 
