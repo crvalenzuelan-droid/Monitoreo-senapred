@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+04-10-2026 21:09
+
+Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
+
+04-10-2026 21:03
+
 Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 04-10-2026 17:49
@@ -25,10 +33,6 @@ Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento 
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 04-10-2026 16:39
-
-Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-04-10-2026 13:46
 
 Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
@@ -45,10 +49,6 @@ Se declara Alerta Temprana Preventiva para la comuna de Juan Fernández por even
 Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico
 
 03-10-2026 17:36
-
-Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-03-10-2026 16:25
 
 Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde
 
