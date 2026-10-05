@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+05-10-2026 04:33
+
 Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 05-10-2026 01:05
@@ -25,10 +29,6 @@ Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteo
 Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde
 
 04-10-2026 22:42
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-04-10-2026 22:23
 
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
