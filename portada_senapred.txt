@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+06-10-2026 16:08
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
 
 06-10-2026 15:55
@@ -69,10 +73,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento m
 Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
 
 05-10-2026 15:38
-
-Monitoreo de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-05-10-2026 15:20
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
