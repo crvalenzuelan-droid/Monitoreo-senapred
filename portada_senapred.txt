@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
+
+06-10-2026 19:21
+
 Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 06-10-2026 18:32
@@ -69,10 +73,6 @@ Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Cop
 Se declara Alerta Amarilla para la comuna de Lo Barnechea por crecida
 
 06-10-2026 08:21
-
-Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
-
-05-10-2026 15:38
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
