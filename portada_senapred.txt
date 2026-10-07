@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+07-10-2026 17:08
+
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 07-10-2026 16:54
@@ -57,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
 
 06-10-2026 15:55
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-06-10-2026 15:46
 
 Se declara Alerta Amarilla para las comunas de Molina y Curicó por crecida
 
