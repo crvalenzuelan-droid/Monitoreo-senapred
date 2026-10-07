@@ -18,13 +18,13 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región Metropolitana por evento meteorológico
+
+06-10-2026 22:42
+
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 06-10-2026 19:21
-
-Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-06-10-2026 18:32
 
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
