@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+07-10-2026 16:54
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 07-10-2026 14:10
@@ -41,10 +45,6 @@ Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región 
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 06-10-2026 19:21
-
-Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-06-10-2026 18:28
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
