@@ -78,10 +78,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 
 05-10-2026 04:33
 
-Se declara Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico
-
-03-10-2026 18:36
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 
 02-10-2026 23:38
