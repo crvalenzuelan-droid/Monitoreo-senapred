@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+07-10-2026 13:18
+
 Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida
 
 07-10-2026 09:11
@@ -53,10 +57,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento met
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 06-10-2026 15:46
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-06-10-2026 15:37
 
 Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
