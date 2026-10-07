@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+07-10-2026 14:10
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 07-10-2026 13:18
@@ -57,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento met
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 06-10-2026 15:46
-
-Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-06-10-2026 15:12
 
 Se declara Alerta Amarilla para las comunas de Molina y Curicó por crecida
 
