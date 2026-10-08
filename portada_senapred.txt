@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+08-10-2026 10:45
+
 Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 07-10-2026 20:32
@@ -77,10 +81,6 @@ Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Cop
 Se declara Alerta Amarilla para la comuna de Lo Barnechea por crecida
 
 06-10-2026 08:21
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-05-10-2026 04:33
 
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 
