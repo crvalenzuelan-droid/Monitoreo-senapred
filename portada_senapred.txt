@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de por O´Higgins evento meteorológico
+
+08-10-2026 16:02
+
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+08-10-2026 15:53
+
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 08-10-2026 15:16
@@ -54,17 +62,9 @@ Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida
 
 07-10-2026 09:11
 
-Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-06-10-2026 19:21
-
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 06-10-2026 18:24
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-06-10-2026 16:08
 
 Se declara Alerta Amarilla para las comunas de Molina y Curicó por crecida
 
