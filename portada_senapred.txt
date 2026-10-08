@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
+
+07-10-2026 20:32
+
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 07-10-2026 17:08
@@ -37,10 +41,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida
 
 07-10-2026 09:11
-
-Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
-
-07-10-2026 08:40
 
 Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región Metropolitana por evento meteorológico
 
