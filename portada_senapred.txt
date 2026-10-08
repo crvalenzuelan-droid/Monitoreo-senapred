@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
+
+08-10-2026 12:40
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 08-10-2026 10:45
@@ -61,10 +65,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteor
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 06-10-2026 16:08
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-06-10-2026 15:55
 
 Se declara Alerta Amarilla para las comunas de Molina y Curicó por crecida
 
