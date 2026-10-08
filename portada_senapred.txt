@@ -18,13 +18,17 @@ Limpiar Filtros
 <<
 >>
 
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
+Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
 
-08-10-2026 12:40
+08-10-2026 13:15
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
-08-10-2026 10:45
+08-10-2026 12:45
+
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
+
+08-10-2026 12:40
 
 Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
@@ -49,10 +53,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida
 
 07-10-2026 09:11
-
-Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región Metropolitana por evento meteorológico
-
-06-10-2026 22:42
 
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
