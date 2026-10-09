@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida
+
+09-10-2026 02:00
+
 Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 08-10-2026 23:01
