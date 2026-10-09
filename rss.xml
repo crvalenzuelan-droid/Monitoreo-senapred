@@ -1,82 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-
 <title>Alertas SENAPRED</title>
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 
-
 <item>
-
 <title><![CDATA[Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa]]></title>
-
 <link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-las-comuna-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-08-18-55-22</link>
-
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|08-10-2026 20:21]]></guid>
-
-<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=No identificada|Prioridad=Alta|Fecha=08-10-2026 20:21]]></description>
-
-<pubDate>Fri, 09 Oct 2026 00:03:17 GMT</pubDate>
-
+<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Metropolitana|Prioridad=Alta|Fecha=08-10-2026 20:21]]></description>
+<pubDate>Fri, 09 Oct 2026 00:21:52 GMT</pubDate>
 </item>
 
 <item>
-
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
-
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18</link>
-
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|08-10-2026 19:44]]></guid>
-
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Lagos|Prioridad=Baja|Fecha=08-10-2026 19:44]]></description>
-
-<pubDate>Fri, 09 Oct 2026 00:03:17 GMT</pubDate>
-
+<pubDate>Fri, 09 Oct 2026 00:21:52 GMT</pubDate>
 </item>
 
 <item>
-
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento]]></title>
-
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49</link>
-
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento|08-10-2026 19:15]]></guid>
-
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen|Prioridad=Baja|Fecha=08-10-2026 19:15]]></description>
-
-<pubDate>Fri, 09 Oct 2026 00:03:17 GMT</pubDate>
-
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=08-10-2026 19:15]]></description>
+<pubDate>Fri, 09 Oct 2026 00:21:52 GMT</pubDate>
 </item>
 
 <item>
-
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán]]></title>
-
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
-
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán|08-10-2026 18:42]]></guid>
-
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Pinto y Coihueco,|Prioridad=Baja|Fecha=08-10-2026 18:42]]></description>
-
-<pubDate>Fri, 09 Oct 2026 00:03:17 GMT</pubDate>
-
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=08-10-2026 18:42]]></description>
+<pubDate>Fri, 09 Oct 2026 00:21:52 GMT</pubDate>
 </item>
 
 <item>
-
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica]]></title>
-
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-2026-09-04-19-28-53</link>
-
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica|08-10-2026 18:30]]></guid>
-
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos|Prioridad=Baja|Fecha=08-10-2026 18:30]]></description>
-
-<pubDate>Fri, 09 Oct 2026 00:03:17 GMT</pubDate>
-
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Cobertura múltiple|Prioridad=Baja|Fecha=08-10-2026 18:30]]></description>
+<pubDate>Fri, 09 Oct 2026 00:21:52 GMT</pubDate>
 </item>
-
 
 </channel>
 </rss>
