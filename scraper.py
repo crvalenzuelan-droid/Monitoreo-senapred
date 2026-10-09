@@ -895,15 +895,15 @@ items = ""
 
 for alerta in alertas:
 
-    summary = (
-        f"Accion={alerta['accion']}"
-        f"|Tipo={alerta['tipo']}"
-        f"|Region={alerta['region']}"
-        f"|Prioridad={alerta['prioridad']}"
-        f"|NivelCobertura={alerta['nivel_cobertura']}"
-        f"|UbicacionCobertura={alerta['ubicacion_cobertura']}"
-        f"|Fecha={alerta['fecha_senapred']}"
-    )
+summary = (
+    f"Accion={alerta['accion']}"
+    f"|Tipo={alerta['tipo']}"
+    f"|Region={alerta['region']}"
+    f"|Prioridad={alerta['prioridad']}"
+    f"|Fecha={alerta['fecha_senapred']}"
+    f"|NivelCobertura={alerta['nivel_cobertura']}"
+    f"|UbicacionCobertura={alerta['ubicacion_cobertura']}"
+)
 
     titulo_cdata = proteger_cdata(
         alerta["titulo"]
