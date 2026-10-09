@@ -18,13 +18,13 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+08-10-2026 23:01
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 08-10-2026 21:58
-
-Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-08-10-2026 20:21
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
