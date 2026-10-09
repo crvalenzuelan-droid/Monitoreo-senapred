@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento|09-10-2026 16:18",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Arica y Parinacota",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "camarones",
+    "fecha_senapred": "09-10-2026 16:18",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A543\n\n\t\n\nViento normal a moderado con probabilidad de tormentas de arena en cordillera de la región.\n\n\t\n\n11-10\n\n\t\n\n14-10\n\n\t\n\nAbrir\naquí\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva por viento para la Provincia de Parinacota y la comuna de Camarones, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|09-10-2026 10:21",
     "accion": "Monitoreo",
     "tipo": "Roja",
@@ -50,18 +63,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A524-6\n\n\t\n\nViento normal a moderado con probabilidad de ventisca en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa y cordillera.\n\n\t\n\n08-10\n\n\t\n\n09-10\n\n\t\n\nAbrir\naquí\n\n\n\n\nAsimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\n\n\nAlerta AA175\n\n\t\n\nViento moderado a fuerte con desarrollo de tormentas de arena en cordillera de la costa y precordillera salar.\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva regional por viento, vigente desde el 01 de octubre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n07-10-2026 13:18\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n06-10-2026 15:37\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n05-10-2026 16:58\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n04-10-2026 21:09\n\nSe modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n03-10-2026 16:25\n\nModifica Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico\n\n03-10-2026 12:59\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n02-10-2026 15:42\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n02-10-2026 13:08\n\nSe declara Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n01-10-2026 16:44"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|08-10-2026 19:44",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Los Lagos",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Los Lagos",
-    "fecha_senapred": "08-10-2026 19:44",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-06-15-15-18",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigente el siguiente alertamiento meteorológico para la región:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A540-2\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la costa, valle, precordillera.\n\n\t\n\n08-10\n\n\t\n\n09-10\n\n\t\n\nAbrir\naquí\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, que se encuentra vigente desde el 06 de octubre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico\n\n07-10-2026 14:10\n\nSe declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico\n\n06-10-2026 15:12"
   }
 ]
