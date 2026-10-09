@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
+
+09-10-2026 18:58
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 09-10-2026 18:47
@@ -49,10 +53,6 @@ Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante,
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 08-10-2026 19:44
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
-
-08-10-2026 19:15
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
 
@@ -125,10 +125,6 @@ Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento me
 Se declara Alerta Temprana Preventiva para las comunas de Antofagasta y San Pedro de Atacama por viento
 
 27-09-2026 16:17
-
-Se declara Alerta Amarilla para la comuna de Alto Biobío por crecida de Embalse Ralco
-
-24-09-2026 19:25
 
 Ayuda
 Biblio GRD
