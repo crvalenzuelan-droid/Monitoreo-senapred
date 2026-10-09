@@ -8,13 +8,13 @@ import unicodedata
 
 
 # ============================================================
-# FUNCIONES DE NORMALIZACION
+# NORMALIZACION GENERAL
 # ============================================================
 
 def normalizar_texto(texto):
     """
-    Convierte texto a minúsculas, elimina tildes y normaliza
-    espacios y apóstrofes para facilitar las comparaciones.
+    Convierte un texto a minúsculas, elimina tildes,
+    normaliza apóstrofes y elimina espacios repetidos.
     """
     if texto is None:
         return ""
@@ -40,8 +40,8 @@ def normalizar_texto(texto):
 
 def limpiar_url(url):
     """
-    Devuelve una URL válida para SharePoint y RSS.
-    Si el valor no comienza con http o https, devuelve vacío.
+    Limpia y valida una URL antes de guardarla en JSON, RSS
+    o enviarla posteriormente a SharePoint.
     """
     if not url:
         return ""
@@ -58,10 +58,10 @@ def limpiar_url(url):
     try:
         partes = urlsplit(url)
 
-        if not partes.netloc:
+        if not partes.scheme or not partes.netloc:
             return ""
 
-        return urlunsplit(
+        url_limpia = urlunsplit(
             (
                 partes.scheme,
                 partes.netloc,
@@ -71,13 +71,15 @@ def limpiar_url(url):
             )
         )
 
+        return url_limpia
+
     except Exception:
         return ""
 
 
 def proteger_cdata(texto):
     """
-    Evita que el contenido rompa una sección CDATA del RSS.
+    Evita que la secuencia de cierre CDATA rompa el RSS.
     """
     if texto is None:
         return ""
@@ -86,7 +88,7 @@ def proteger_cdata(texto):
 
 
 # ============================================================
-# CATALOGOS TERRITORIALES
+# CATALOGO DE REGIONES
 # ============================================================
 
 REGIONES_ALIAS = {
@@ -96,14 +98,19 @@ REGIONES_ALIAS = {
     "atacama": "Atacama",
     "coquimbo": "Coquimbo",
     "valparaiso": "Valparaíso",
+
     "metropolitana": "Metropolitana",
     "metropolitana de santiago": "Metropolitana",
     "region metropolitana": "Metropolitana",
     "region metropolitana de santiago": "Metropolitana",
+
     "libertador general bernardo o'higgins": "O´Higgins",
     "libertador general bernardo ohiggins": "O´Higgins",
+    "libertador bernardo o'higgins": "O´Higgins",
+    "libertador bernardo ohiggins": "O´Higgins",
     "o'higgins": "O´Higgins",
     "ohiggins": "O´Higgins",
+
     "maule": "Maule",
     "nuble": "Ñuble",
     "biobio": "Biobío",
@@ -118,20 +125,29 @@ REGIONES_ALIAS = {
 }
 
 
+# ============================================================
+# PROVINCIA A REGION
+# ============================================================
+
 PROVINCIA_REGION = {
     "arica": "Arica y Parinacota",
     "parinacota": "Arica y Parinacota",
+
     "iquique": "Tarapacá",
     "tamarugal": "Tarapacá",
+
     "antofagasta": "Antofagasta",
     "el loa": "Antofagasta",
     "tocopilla": "Antofagasta",
+
     "copiapo": "Atacama",
     "chanaral": "Atacama",
     "huasco": "Atacama",
+
     "elqui": "Coquimbo",
     "limari": "Coquimbo",
     "choapa": "Coquimbo",
+
     "valparaiso": "Valparaíso",
     "isla de pascua": "Valparaíso",
     "los andes": "Valparaíso",
@@ -140,43 +156,59 @@ PROVINCIA_REGION = {
     "san antonio": "Valparaíso",
     "san felipe de aconcagua": "Valparaíso",
     "marga marga": "Valparaíso",
+
     "santiago": "Metropolitana",
     "cordillera": "Metropolitana",
     "chacabuco": "Metropolitana",
     "maipo": "Metropolitana",
     "melipilla": "Metropolitana",
     "talagante": "Metropolitana",
+
     "cachapoal": "O´Higgins",
     "cardenal caro": "O´Higgins",
     "colchagua": "O´Higgins",
+
     "curico": "Maule",
     "talca": "Maule",
     "linares": "Maule",
     "cauquenes": "Maule",
+
     "diguillin": "Ñuble",
     "itata": "Ñuble",
     "punilla": "Ñuble",
+
     "concepcion": "Biobío",
     "arauco": "Biobío",
     "biobio": "Biobío",
+
     "malleco": "La Araucanía",
     "cautin": "La Araucanía",
+
     "valdivia": "Los Ríos",
     "ranco": "Los Ríos",
+
     "llanquihue": "Los Lagos",
     "chiloe": "Los Lagos",
     "osorno": "Los Lagos",
     "palena": "Los Lagos",
+
     "coyhaique": "Aysén",
     "aysen": "Aysén",
     "general carrera": "Aysén",
     "capitan prat": "Aysén",
+
     "magallanes": "Magallanes",
     "ultima esperanza": "Magallanes",
     "tierra del fuego": "Magallanes",
     "antartica chilena": "Magallanes"
 }
 
+
+# ============================================================
+# COMUNA A REGION
+# Incluye las comunas usadas por las tiendas y las alertas
+# territoriales más frecuentes.
+# ============================================================
 
 COMUNA_REGION = {
     # Arica y Parinacota
@@ -313,6 +345,8 @@ COMUNA_REGION = {
     "curico": "Maule",
     "linares": "Maule",
     "cauquenes": "Maule",
+    "licanten": "Maule",
+    "curepto": "Maule",
 
     # Ñuble
     "chillan": "Ñuble",
@@ -336,6 +370,7 @@ COMUNA_REGION = {
     "angol": "La Araucanía",
     "pucon": "La Araucanía",
     "villarrica": "La Araucanía",
+    "curarrehue": "La Araucanía",
 
     # Los Ríos
     "valdivia": "Los Ríos",
@@ -365,58 +400,79 @@ COMUNA_REGION = {
 # ============================================================
 
 def normalizar_region(region):
-    region_normalizada = normalizar_texto(region)
+    """
+    Convierte variantes de regiones al nombre definido
+    en PE - Tiendas Falabella.
+    """
+    region_original = str(region).strip()
+    region_normalizada = normalizar_texto(region_original)
 
     if not region_normalizada:
         return "No identificada"
 
+    # Quitar solamente la palabra región.
     region_normalizada = re.sub(
-        r"^(region|región)\s+(de\s+|del\s+|de la\s+|de los\s+|de las\s+)?",
+        r"^(region|región)\s+",
         "",
         region_normalizada,
         flags=re.IGNORECASE
     ).strip()
 
-    return REGIONES_ALIAS.get(
-        region_normalizada,
-        region.strip()
-    )
+    # Primero comprobar el valor completo para conservar
+    # nombres como Los Lagos y Los Ríos.
+    candidatos = [region_normalizada]
 
-
-def buscar_region_explicita(titulo):
-    """
-    Busca expresiones como:
-    para la Región Metropolitana por...
-    para la región de Los Lagos por...
-    """
-    patrones = [
-        (
-            r"para\s+la\s+regi[oó]n"
-            r"(?:\s+de\s+los|\s+de\s+las|\s+del|\s+de\s+la|\s+de)?"
-            r"\s+(.+?)(?:\s+por\s+|,|$)"
-        ),
-        (
-            r"para\s+regi[oó]n"
-            r"\s+(.+?)(?:\s+por\s+|,|$)"
-        )
+    prefijos = [
+        "de los ",
+        "de las ",
+        "del ",
+        "de la ",
+        "de "
     ]
 
-    for patron in patrones:
-        coincidencia = re.search(
-            patron,
-            titulo,
-            flags=re.IGNORECASE
-        )
-
-        if coincidencia:
-            return normalizar_region(
-                coincidencia.group(1).strip()
+    for prefijo in prefijos:
+        if region_normalizada.startswith(prefijo):
+            candidatos.append(
+                region_normalizada[len(prefijo):].strip()
             )
 
-    return ""
+    for candidato in candidatos:
+        if candidato in REGIONES_ALIAS:
+            return REGIONES_ALIAS[candidato]
+
+    return region_original
+
+
+def buscar_regiones_explicitas(titulo):
+    """
+    Busca todas las regiones escritas explícitamente
+    dentro del título.
+    """
+    titulo_normalizado = normalizar_texto(titulo)
+    regiones = []
+
+    aliases_ordenados = sorted(
+        REGIONES_ALIAS.keys(),
+        key=len,
+        reverse=True
+    )
+
+    for alias in aliases_ordenados:
+        patron = r"\b" + re.escape(alias) + r"\b"
+
+        if re.search(patron, titulo_normalizado):
+            region = REGIONES_ALIAS[alias]
+
+            if region not in regiones:
+                regiones.append(region)
+
+    return regiones
 
 
 def buscar_region_por_provincia(titulo):
+    """
+    Busca provincias conocidas dentro del título.
+    """
     titulo_normalizado = normalizar_texto(titulo)
 
     provincias_ordenadas = sorted(
@@ -435,6 +491,9 @@ def buscar_region_por_provincia(titulo):
 
 
 def buscar_comunas_en_texto(titulo):
+    """
+    Detecta comunas dentro del título.
+    """
     titulo_normalizado = normalizar_texto(titulo)
 
     comunas_encontradas = []
@@ -451,7 +510,6 @@ def buscar_comunas_en_texto(titulo):
         if re.search(patron, titulo_normalizado):
             comunas_encontradas.append(comuna)
 
-    # Evitar duplicados conservando el orden
     resultado = []
 
     for comuna in comunas_encontradas:
@@ -463,52 +521,61 @@ def buscar_comunas_en_texto(titulo):
 
 def obtener_region_y_cobertura(titulo):
     """
-    Devuelve:
-    region
-    nivel_cobertura
-    ubicacion_cobertura
+    Determina región, nivel de cobertura y ubicación.
     """
-    region_explicita = buscar_region_explicita(titulo)
 
     comunas = buscar_comunas_en_texto(titulo)
 
-    if region_explicita:
-        if comunas:
+    regiones_por_comuna = []
+
+    for comuna in comunas:
+        region_comuna = COMUNA_REGION.get(comuna)
+
+        if region_comuna and region_comuna not in regiones_por_comuna:
+            regiones_por_comuna.append(region_comuna)
+
+    regiones_explicitas = buscar_regiones_explicitas(titulo)
+
+    regiones_finales = []
+
+    for region in regiones_explicitas + regiones_por_comuna:
+        if region not in regiones_finales:
+            regiones_finales.append(region)
+
+    # Caso con comunas identificadas
+    if comunas:
+
+        if len(regiones_finales) == 1:
             return (
-                region_explicita,
+                regiones_finales[0],
                 "Comuna",
-                "|".join(comunas)
+                ",".join(comunas)
+            )
+
+        if len(regiones_finales) > 1:
+            return (
+                ",".join(regiones_finales),
+                "Comuna",
+                ",".join(comunas)
+            )
+
+    # Caso con región explícita, pero sin comunas detectadas
+    if regiones_explicitas:
+
+        if len(regiones_explicitas) == 1:
+            return (
+                regiones_explicitas[0],
+                "Región",
+                regiones_explicitas[0]
             )
 
         return (
-            region_explicita,
+            ",".join(regiones_explicitas),
             "Región",
-            region_explicita
+            ",".join(regiones_explicitas)
         )
 
-    if comunas:
-        regiones = []
-
-        for comuna in comunas:
-            region_comuna = COMUNA_REGION.get(comuna)
-
-            if region_comuna and region_comuna not in regiones:
-                regiones.append(region_comuna)
-
-        if len(regiones) == 1:
-            return (
-                regiones[0],
-                "Comuna",
-                "|".join(comunas)
-            )
-
-        if len(regiones) > 1:
-            return (
-                "Cobertura múltiple",
-                "Comuna",
-                "|".join(comunas)
-            )
-
+    # Caso donde solo se reconoce una provincia
     region_provincia = buscar_region_por_provincia(titulo)
 
     if region_provincia:
@@ -556,6 +623,7 @@ with sync_playwright() as p:
         "w",
         encoding="utf-8"
     ) as archivo:
+
         archivo.write(texto_portada)
 
     enlaces = page.locator("a").evaluate_all(
@@ -578,7 +646,7 @@ with sync_playwright() as p:
         if "/alerta/" in href and href not in urls:
             urls.append(href)
 
-    # Procesar solamente las 5 alertas más recientes
+    # SOLO LAS 5 ALERTAS MAS RECIENTES
     urls = urls[:5]
 
     print(f"Alertas encontradas: {len(urls)}")
@@ -613,9 +681,9 @@ with sync_playwright() as p:
             tipo = ""
             prioridad = "Baja"
 
-            # ------------------------------------------------
+            # ---------------------------------------------
             # TITULO Y ACCION
-            # ------------------------------------------------
+            # ---------------------------------------------
 
             for linea in lineas:
 
@@ -649,13 +717,15 @@ with sync_playwright() as p:
                     break
 
             if not titulo:
+
                 print("ALERTA OMITIDA: no se encontró título")
                 print(url)
+
                 continue
 
-            # ------------------------------------------------
-            # FECHA
-            # ------------------------------------------------
+            # ---------------------------------------------
+            # FECHA SENAPRED
+            # ---------------------------------------------
 
             fecha_match = re.search(
                 r"\d{2}-\d{2}-\d{4}\s+\d{2}:\d{2}",
@@ -666,35 +736,41 @@ with sync_playwright() as p:
                 fecha = fecha_match.group(0).strip()
 
             if not fecha:
+
                 print("ALERTA OMITIDA: no se encontró fecha")
                 print(titulo)
+
                 continue
 
-            # ------------------------------------------------
+            # ---------------------------------------------
             # TIPO Y PRIORIDAD
-            # ------------------------------------------------
+            # ---------------------------------------------
 
             titulo_normalizado = normalizar_texto(titulo)
 
             if "alerta roja" in titulo_normalizado:
+
                 tipo = "Roja"
                 prioridad = "Alta"
 
             elif "alerta amarilla" in titulo_normalizado:
+
                 tipo = "Amarilla"
                 prioridad = "Media"
 
             elif "temprana preventiva" in titulo_normalizado:
+
                 tipo = "ATP"
                 prioridad = "Baja"
 
             else:
+
                 tipo = "No definido"
                 prioridad = "Baja"
 
-            # ------------------------------------------------
+            # ---------------------------------------------
             # REGION Y COBERTURA
-            # ------------------------------------------------
+            # ---------------------------------------------
 
             (
                 region,
@@ -702,9 +778,9 @@ with sync_playwright() as p:
                 ubicacion_cobertura
             ) = obtener_region_y_cobertura(titulo)
 
-            # ------------------------------------------------
+            # ---------------------------------------------
             # DETALLE LIMPIO
-            # ------------------------------------------------
+            # ---------------------------------------------
 
             detalle = texto
 
@@ -740,9 +816,9 @@ with sync_playwright() as p:
 
             detalle = detalle.strip()
 
-            # ------------------------------------------------
+            # ---------------------------------------------
             # IDENTIFICADOR ESTABLE
-            # ------------------------------------------------
+            # ---------------------------------------------
 
             id_alerta = f"{titulo}|{fecha}"
 
@@ -767,9 +843,9 @@ with sync_playwright() as p:
                 titulo,
                 "| Región:",
                 region,
-                "| Cobertura:",
+                "| NivelCobertura:",
                 nivel_cobertura,
-                "| Ubicación:",
+                "| UbicacionCobertura:",
                 ubicacion_cobertura
             )
 
@@ -819,13 +895,13 @@ items = ""
 
 for alerta in alertas:
 
-    # Se conserva la estructura original para no romper
-    # las expresiones actuales de Power Automate.
     summary = (
         f"Accion={alerta['accion']}"
         f"|Tipo={alerta['tipo']}"
         f"|Region={alerta['region']}"
         f"|Prioridad={alerta['prioridad']}"
+        f"|NivelCobertura={alerta['nivel_cobertura']}"
+        f"|UbicacionCobertura={alerta['ubicacion_cobertura']}"
         f"|Fecha={alerta['fecha_senapred']}"
     )
 
