@@ -332,6 +332,8 @@ COMUNA_REGION = {
     "paine": "Metropolitana",
     "lampa": "Metropolitana",
     "tiltil": "Metropolitana",
+    "padre hurtado": "Metropolitana",
+    "el monte": "Metropolitana",
 
     # O'Higgins
     "rancagua": "O´Higgins",
