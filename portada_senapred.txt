@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+09-10-2026 18:47
+
+Se declara Alerta Amarilla para la Comuna de Cochrane por incendio forestal
+
+09-10-2026 18:12
+
+Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria
+
+09-10-2026 17:56
+
 Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
 09-10-2026 16:18
@@ -33,10 +45,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento m
 Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida
 
 09-10-2026 02:00
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-08-10-2026 21:58
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
