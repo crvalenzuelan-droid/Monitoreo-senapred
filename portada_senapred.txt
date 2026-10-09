@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+08-10-2026 21:58
+
 Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 08-10-2026 20:21
@@ -65,10 +69,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento mete
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 07-10-2026 16:54
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-07-10-2026 13:18
 
 Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida
 
