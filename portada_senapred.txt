@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
+
+10-10-2026 15:45
+
+Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+10-10-2026 15:00
+
+Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+10-10-2026 14:40
+
 Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 10-10-2026 14:02
@@ -45,10 +57,6 @@ Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región 
 Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
 09-10-2026 16:18
-
-Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-09-10-2026 10:21
 
 Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida
 
