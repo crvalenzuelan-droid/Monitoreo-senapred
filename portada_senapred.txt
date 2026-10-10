@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+10-10-2026 14:02
+
 Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
 
 10-10-2026 13:33
@@ -29,10 +33,6 @@ Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento 
 Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
 
 10-10-2026 12:09
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
-
-09-10-2026 18:58
 
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 

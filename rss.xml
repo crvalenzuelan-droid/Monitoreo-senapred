@@ -6,11 +6,19 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49</link>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico|10-10-2026 14:02]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=10-10-2026 14:02|NivelCobertura=Región|UbicacionCobertura=Atacama]]></description>
+<pubDate>Sat, 10 Oct 2026 18:02:06 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico|10-10-2026 13:33]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=10-10-2026 13:33|NivelCobertura=Comuna|UbicacionCobertura=monte patria,rio hurtado,la higuera,combarbala,salamanca,illapel,vicuna]]></description>
-<pubDate>Sat, 10 Oct 2026 17:02:44 GMT</pubDate>
+<pubDate>Sat, 10 Oct 2026 18:02:06 GMT</pubDate>
 </item>
 
 <item>
@@ -18,7 +26,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico|10-10-2026 13:20]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=10-10-2026 13:20|NivelCobertura=Comuna|UbicacionCobertura=valparaiso]]></description>
-<pubDate>Sat, 10 Oct 2026 17:02:44 GMT</pubDate>
+<pubDate>Sat, 10 Oct 2026 18:02:06 GMT</pubDate>
 </item>
 
 <item>
@@ -26,15 +34,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico|10-10-2026 12:09]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Metropolitana|Prioridad=Media|Fecha=10-10-2026 12:09|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
-<pubDate>Sat, 10 Oct 2026 17:02:44 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento|09-10-2026 18:58]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=09-10-2026 18:58|NivelCobertura=Comuna|UbicacionCobertura=diego de almagro,tierra amarilla,alto del carmen,vallenar,copiapo]]></description>
-<pubDate>Sat, 10 Oct 2026 17:02:44 GMT</pubDate>
+<pubDate>Sat, 10 Oct 2026 18:02:06 GMT</pubDate>
 </item>
 
 <item>
@@ -42,7 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento|09-10-2026 18:47]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=09-10-2026 18:47|NivelCobertura=Comuna|UbicacionCobertura=antofagasta]]></description>
-<pubDate>Sat, 10 Oct 2026 17:02:44 GMT</pubDate>
+<pubDate>Sat, 10 Oct 2026 18:02:06 GMT</pubDate>
 </item>
 
 </channel>
