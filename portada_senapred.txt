@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
+
+10-10-2026 13:33
+
+Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+10-10-2026 13:20
+
 Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
 
 10-10-2026 12:09

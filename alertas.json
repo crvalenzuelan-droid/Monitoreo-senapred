@@ -1,5 +1,31 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico|10-10-2026 13:33",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Coquimbo",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "monte patria,rio hurtado,la higuera,combarbala,salamanca,illapel,vicuna",
+    "fecha_senapred": "10-10-2026 13:33",
+    "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A544\n\n\t\n\nProbables Tormentas Eléctricas en Precordillera, Valles Precordilleranos y Cordillera de la región.\n\n\t\n\n11-10\n\n\t\n\n13-10\n\n\t\n\nAbrir\naquí\n\n\n\n\nAviso A545\n\n\t\n\nPrecipitaciones Normales a Moderadas en corto periodo de tiempo en Precordillera y Valles Precordilleranos de la región.\n\n\t\n\n12-10\n\n\t\n\n12-10\n\n\t\n\nAbrir\naquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva por evento meteorológico para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\n\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico|10-10-2026 13:20",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Valparaíso",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "valparaiso",
+    "fecha_senapred": "10-10-2026 13:20",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región:\n\n\n\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A544\n\n\t\n\nProbables Tormentas Eléctricas en Litoral, Cordillera Costa, Precordillera y Valles Precordilleranos y Cordillera de la región.\n\n\t\n\n11-10\n\n\t\n\n13-10\n\n\t\n\nAbrir\naquí\n\n\n\n\nAviso A545\n\n\t\n\nPrecipitaciones Normales a Moderadas en corto periodo de tiempo en Precordillera y Valles Precordilleranos de la región.\n\n\t\n\n12-10\n\n\t\n\n12-10\n\n\t\n\nAbrir\naquí\n\n\n\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaiso, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva regional por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\n\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico|10-10-2026 12:09",
     "accion": "Monitoreo",
     "tipo": "Amarilla",
@@ -37,31 +63,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A543\n\n\t\n\nViento normal a moderado (Probabilidad de tormentas de arena) Cordillera Costa, Precordillera Occidental, Precordillera Alto Loa, Precordillera Salar y Cordillera.\n\n\t\n\n11-10\n\n\t\n\n14-10\n\n\t\n\nAbrir\naquí\n\nAsimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la región:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\n\n\nAviso A524-6\n\n\t\n\nViento normal a moderado con probabilidad de ventisca en cordillera de la costa, pampa, precordillera occidental, precordillera Alto Loa y cordillera.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva regional por viento, vigente desde el 01 de octubre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.\n\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n08-10-2026 21:58\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n07-10-2026 13:18\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n06-10-2026 15:37\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n05-10-2026 16:58\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n04-10-2026 21:09\n\nSe modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n03-10-2026 16:25\n\nModifica Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico\n\n03-10-2026 12:59\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n02-10-2026 15:42\n\nMonitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n02-10-2026 13:08\n\nSe declara Alerta Temprana Preventiva para la Región de Antofagasta por viento\n\n01-10-2026 16:44"
-  },
-  {
-    "id_alerta": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria|09-10-2026 17:56",
-    "accion": "Se cancela",
-    "tipo": "Amarilla",
-    "prioridad": "Media",
-    "region": "Arica y Parinacota",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "arica",
-    "fecha_senapred": "09-10-2026 17:56",
-    "titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria",
-    "url": "https://www.senapred.cl/alerta/se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria-2026-01-27-13-44-49",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a La Minuta de Emergencia N°2024155 elaborada por la SEREMI de Salud de Arica y Parinacota, del 07 de septiembre, no se han reportado nuevos perifocos asociados al evento provocado por el vector Aedes Aegyptien la comuna de Arica.\n\nSin embargo, la Seremi de Salud mantiene vigente la alerta sanitaria mediante decreto MINSAL número 58, vigente hasta el 31 de julio de 2027. Además de la toma de otras acciones de vigilancia y monitoreo del vector, así como la implementación de medidas preventivas y de mitigación, entre las que se consideran el control químico en las áreas monitoreadas, la capacitación y educación sanitaria, la aplicación de encuestas y la ejecución de visitas técnicas, con el propósito de mantener la vigilancia sanitaria y prevenir la eventual propagación del vector.\n\nEn consideración a estos antecedentes, en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED, cancela la Alerta Amarilla y declara Alerta Temprana Preventiva Regional por Alteración Sanitaria, vigente a partir de hoy y hasta que las condiciones del evento así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Amarilla para la Región de Arica y Parinacota por alteración sanitaria\n\n08-09-2026 19:39\n\nMonitoreo Alerta Amarilla para la Región de Arica y Parinacota por Alteración Sanitaria\n\n24-03-2026 18:09\n\nMonitoreo Alerta Amarilla para la Región de Arica y Parinacota por alteración sanitaria\n\n04-03-2026 17:39"
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento|09-10-2026 16:18",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Arica y Parinacota",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "camarones",
-    "fecha_senapred": "09-10-2026 16:18",
-    "titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la región:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A543\n\n\t\n\nViento normal a moderado con probabilidad de tormentas de arena en cordillera de la región.\n\n\t\n\n11-10\n\n\t\n\n14-10\n\n\t\n\nAbrir\naquí\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED declara la Alerta Temprana Preventiva por viento para la Provincia de Parinacota y la comuna de Camarones, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento."
   }
 ]
