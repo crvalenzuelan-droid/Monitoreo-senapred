@@ -18,13 +18,17 @@ Limpiar Filtros
 <<
 >>
 
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
-11-10-2026 11:01
+11-10-2026 12:41
 
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
-10-10-2026 22:54
+11-10-2026 12:25
+
+Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+11-10-2026 11:01
 
 Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
@@ -45,10 +49,6 @@ Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteo
 Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 10-10-2026 14:02
-
-Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
-
-10-10-2026 13:33
 
 Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
