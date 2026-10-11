@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas|11-10-2026 19:19",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Los Ríos",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Los Ríos",
+    "fecha_senapred": "11-10-2026 19:19",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A549\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región.\n\n\t\n\n12-10\n\n\t\n\n13-10\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico|11-10-2026 18:57",
     "accion": "Monitoreo",
     "tipo": "Amarilla",
@@ -50,18 +63,5 @@
     "titulo": "Se declara Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-por-evento-meteorologico-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico-2026-10-11-14-59-33",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\n\n\nAviso A547\n\n\t\n\nProbables tormentas eléctricas en zona frontera de la comuna de Torres del Paine a la comuna de Primavera.\n\n\t\n\n11-10\n\n\t\n\n11-10\n\n\n\n\nAviso A548\n\n\t\n\nPrecipitaciones normales a moderadas en corto periodo de tiempo en Cordillera Austral Norte, Cordillera Austral Sur, Pampa Patagónica Norte y Pampa Patagónica Sur.\n\n\t\n\n12-10\n\n\t\n\n12-10\n\n\n\n\nCabe señalar, que mediante el pronóstico especial emitido por el Centro Meteorológico Regional Austral, se indican los siguientes montos de precipitaciones (mm) e isoterma 0°C (m.s.n.m):\n\n\n\n\nSector\n\n\t\n\nComuna\n\n\t\n\nPrecipitaciones\n\n\t\n\nAltura Isoterma 0°C\n\n\n\n\nCordillera Austral Norte\n\n\t\n\nTorres del Paine\n\n\t\n\n5 – 15\n\n\t\n\n2.200 – 1.300\n\n\n\n\nNatales\n\n\t\n\n10 – 20\n\n\n\n\nPampa Patagónica Norte\n\n\t\n\nTorres del Paine\n\n\t\n\n5 – 10\n\n\t\n\n2.000 – 1.200\n\n\n\n\nNatales\n\n\t\n\n7 – 14\n\n\n\n\nCordillera Austral Sur\n\n\t\n\nRío Verde\n\n\t\n\n2.000 – 1.000\n\n\n\n\nPunta Arenas\n\n\n\n\nTimaukel\n\n\t\n\n1 – 8\n\n\n\n\nPampa Patagónica Sur\n\n\t\n\nLaguna Blanca\n\n\t\n\n7 – 14\n\n\n\n\nRío Verde\n\n\n\n\nPunta Arenas\n\n\t\n\n5 – 12\n\n\n\n\nRíos Las Minas\n\n\t\n\n8 – 14\n\n\n\n\nSan Gregorio\n\n\t\n\n5 – 12\n\n\n\n\nPrimavera\n\n\n\n\nPorvenir\n\n\n\n\nTimaukel\n\n\t\n\n1 – 8\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|11-10-2026 13:35",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "La Araucanía",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "La Araucanía",
-    "fecha_senapred": "11-10-2026 13:35",
-    "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A549\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región.\n\n\t\n\n12-10\n\n\t\n\n13-10\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
   }
 ]
