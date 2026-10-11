@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
+
+11-10-2026 14:54
+
 Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 11-10-2026 13:35
