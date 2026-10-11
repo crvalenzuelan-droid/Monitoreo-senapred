@@ -18,9 +18,13 @@ Limpiar Filtros
 <<
 >>
 
-Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
-10-10-2026 18:00
+10-10-2026 22:54
+
+Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+10-10-2026 21:33
 
 Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
