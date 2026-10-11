@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+11-10-2026 16:02
+
 Se declara Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
 11-10-2026 14:54
@@ -49,10 +53,6 @@ Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas 
 Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 10-10-2026 15:00
-
-Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-10-10-2026 14:40
 
 Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
