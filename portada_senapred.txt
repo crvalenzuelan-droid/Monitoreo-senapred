@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
+
+11-10-2026 18:57
+
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 11-10-2026 16:45
@@ -61,10 +65,6 @@ Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirqu
 Se modifica cobertura y evento de Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 10-10-2026 14:02
-
-Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
-
-10-10-2026 12:09
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria
 
