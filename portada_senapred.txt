@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+11-10-2026 11:01
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 10-10-2026 22:54
