@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+12-10-2026 12:03
+
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 12-10-2026 10:59
@@ -57,10 +61,6 @@ Se declara Alerta Temprana Preventiva para la Región de La Araucanía por torme
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 11-10-2026 12:41
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
-
-11-10-2026 12:25
 
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
