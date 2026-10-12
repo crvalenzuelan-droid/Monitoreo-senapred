@@ -58,6 +58,10 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento m
 
 11-10-2026 12:25
 
+Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+11-10-2026 11:01
+
 Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
 10-10-2026 15:45
@@ -81,10 +85,6 @@ Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comun
 Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida
 
 09-10-2026 02:00
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
-
-08-10-2026 18:42
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
 
