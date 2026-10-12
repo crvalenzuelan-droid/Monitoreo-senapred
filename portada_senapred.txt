@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+11-10-2026 22:45
+
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 11-10-2026 20:41
@@ -53,10 +57,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo 
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 11-10-2026 12:25
-
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-11-10-2026 11:01
 
 Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
