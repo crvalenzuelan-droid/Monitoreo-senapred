@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+12-10-2026 18:50
+
+Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+12-10-2026 18:07
+
 Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones
 
 12-10-2026 15:50
@@ -54,10 +62,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 
 11-10-2026 16:02
 
-Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-11-10-2026 13:35
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 11-10-2026 12:41
@@ -69,10 +73,6 @@ Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteo
 Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
 10-10-2026 15:45
-
-Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-10-10-2026 15:00
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria
 
