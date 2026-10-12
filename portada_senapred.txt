@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones
+
+12-10-2026 15:50
+
 Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 12-10-2026 12:03
@@ -49,10 +53,6 @@ Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológic
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 11-10-2026 16:02
-
-Se declara Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
-
-11-10-2026 14:54
 
 Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
