@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+12-10-2026 10:59
+
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
 12-10-2026 10:15
@@ -37,10 +41,6 @@ Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas
 Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
 
 11-10-2026 18:57
-
-Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-11-10-2026 16:45
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
