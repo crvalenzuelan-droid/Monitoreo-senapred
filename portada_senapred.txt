@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para la Región Metropolitana por evento meteorológico
+
+13-10-2026 19:20
+
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 13-10-2026 18:26
@@ -41,10 +45,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento m
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
 
 13-10-2026 17:48
-
-Se cancela Alerta Temprana Preventiva y declara Alerta Roja para la Región Metropolitana por evento meteorológico
-
-13-10-2026 17:15
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
