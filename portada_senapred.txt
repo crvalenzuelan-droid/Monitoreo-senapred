@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+13-10-2026 05:47
+
 Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 13-10-2026 04:11
@@ -29,10 +33,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 12-10-2026 21:55
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-12-10-2026 18:50
 
 Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 

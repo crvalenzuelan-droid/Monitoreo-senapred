@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|13-10-2026 05:47",
+    "accion": "Monitoreo",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "La Araucanía",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "La Araucanía",
+    "fecha_senapred": "13-10-2026 05:47",
+    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A549\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región.\n\n\t\n\n12-10\n\n\t\n\n13-10\n\n\t\n\nAbrir aquí\n\n\n\n\nCabe señalar, que producto del desborde de los esteros Loncocapira, el Manzano, y otros urbanos aledaños, debido a los chubascos y granizos intensos registrados en corto periodo de tiempo en la zona, se reportan 25 viviendas con daño menor. Además, de 6 personasalbergadas en la Sede Social del sector 9 Oriente. Finalmente, la Delegación Presidencial gestionó termo calefactores para el secado de enseres y viviendas.\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva regional por tormentas eléctricas, que se mantiene vigente desde el 11 de octubre de 2026 y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas\n\n12-10-2026 18:50\n\nSe declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas\n\n11-10-2026 13:35"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico|13-10-2026 04:11",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -37,19 +50,6 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A544-1\n\n\t\n\nProbables tormentas eléctricas con probabilidad de granizos y fuertes rachas de viento locales en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n12-10\n\n\t\n\n14-10\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva regional por evento meteorológico, que se encuentra vigente desde el 11 de octubre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico\n\n11-10-2026 11:01"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|12-10-2026 18:50",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "La Araucanía",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "La Araucanía",
-    "fecha_senapred": "12-10-2026 18:50",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A549\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche con precipitaciones aisladas en la región.\n\n\t\n\n12-10\n\n\t\n\n13-10\n\n\t\n\nAbrir aquí\n\n\n\n\nCabe señalar que en la comuna de Curacautín, se registran preliminarmente alrededor de 15 viviendas anegadas, producto del desbordes de los esteros Loncocapira y el Manzano, y otros esteros urbanos aledaños, debido a chubascos y granizos intensos en corto periodo de tiempo. Por su parte, personar municipal y Bomberos se encuentran trabajando en el lugar.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva regional por tormentas eléctricas, que se mantiene vigente desde el 11 de octubre de 2026 y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas\n\n11-10-2026 13:35"
   },
   {
     "id_alerta": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|12-10-2026 18:07",
