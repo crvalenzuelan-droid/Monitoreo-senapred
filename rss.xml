@@ -6,11 +6,27 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-10-15-46-43</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas|13-10-2026 16:32]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Biobío|Prioridad=Baja|Fecha=13-10-2026 16:32|NivelCobertura=Región|UbicacionCobertura=Biobío]]></description>
+<pubDate>Tue, 13 Oct 2026 20:15:25 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-10-13-17-04-33</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|13-10-2026 16:22]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=13-10-2026 16:22|NivelCobertura=Región|UbicacionCobertura=Los Lagos]]></description>
+<pubDate>Tue, 13 Oct 2026 20:15:25 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento|13-10-2026 16:04]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=13-10-2026 16:04|NivelCobertura=Comuna|UbicacionCobertura=antofagasta]]></description>
-<pubDate>Tue, 13 Oct 2026 19:18:24 GMT</pubDate>
+<pubDate>Tue, 13 Oct 2026 20:15:25 GMT</pubDate>
 </item>
 
 <item>
@@ -18,7 +34,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-10-11-13-36-38</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|13-10-2026 16:01]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=La Araucanía|Prioridad=Baja|Fecha=13-10-2026 16:01|NivelCobertura=Región|UbicacionCobertura=La Araucanía]]></description>
-<pubDate>Tue, 13 Oct 2026 19:18:24 GMT</pubDate>
+<pubDate>Tue, 13 Oct 2026 20:15:25 GMT</pubDate>
 </item>
 
 <item>
@@ -26,23 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-11-19-21-00</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas|13-10-2026 15:42]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=13-10-2026 15:42|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
-<pubDate>Tue, 13 Oct 2026 19:18:24 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|13-10-2026 13:06]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=13-10-2026 13:06|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
-<pubDate>Tue, 13 Oct 2026 19:18:24 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28</link>
-<guid isPermaLink="false"><![CDATA[Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico|13-10-2026 12:43]]></guid>
-<description><![CDATA[Accion=Se cancela|Tipo=Amarilla|Region=Metropolitana|Prioridad=Media|Fecha=13-10-2026 12:43|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
-<pubDate>Tue, 13 Oct 2026 19:18:24 GMT</pubDate>
+<pubDate>Tue, 13 Oct 2026 20:15:25 GMT</pubDate>
 </item>
 
 </channel>
