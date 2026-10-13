@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+13-10-2026 01:53
+
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 12-10-2026 21:55
@@ -45,10 +49,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaí
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
 12-10-2026 10:15
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-12-10-2026 03:51
 
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
