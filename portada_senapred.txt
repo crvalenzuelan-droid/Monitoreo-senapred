@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+13-10-2026 11:25
+
 Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 13-10-2026 10:43
@@ -45,10 +49,6 @@ Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallan
 Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 12-10-2026 12:03
-
-Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-12-10-2026 10:59
 
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
