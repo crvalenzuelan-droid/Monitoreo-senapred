@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+13-10-2026 16:04
+
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+13-10-2026 16:01
+
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
+
+13-10-2026 15:42
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 13-10-2026 13:06
@@ -38,17 +50,9 @@ Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento mete
 
 13-10-2026 10:43
 
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-13-10-2026 05:47
-
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 12-10-2026 21:55
-
-Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-12-10-2026 12:03
 
 Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
@@ -57,10 +61,6 @@ Se modifica cobertura y evento de Alerta Temprana Preventiva para las comunas de
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 11-10-2026 20:41
-
-Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
-
-11-10-2026 19:19
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
