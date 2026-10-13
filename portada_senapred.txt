@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+12-10-2026 21:55
+
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 12-10-2026 18:50
@@ -65,10 +69,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 11-10-2026 12:41
-
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-11-10-2026 11:01
 
 Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
