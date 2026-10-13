@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+13-10-2026 12:43
+
+Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+13-10-2026 12:21
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+13-10-2026 12:11
+
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 13-10-2026 11:25
@@ -30,21 +42,9 @@ Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormen
 
 13-10-2026 05:47
 
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-13-10-2026 02:09
-
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 12-10-2026 21:55
-
-Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-12-10-2026 18:07
-
-Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por precipitaciones
-
-12-10-2026 15:50
 
 Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
@@ -61,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento m
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 11-10-2026 19:19
-
-Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
-
-11-10-2026 18:57
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
@@ -86,10 +82,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Cu
 
 08-10-2026 18:30
 
-Se declara Alerta Amarilla para la comuna de Lo Barnechea por crecida
-
-06-10-2026 08:21
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 
 02-10-2026 23:38
@@ -101,10 +93,6 @@ Se declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 02-10-2026 16:24
-
-Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-29-09-2026 10:05
 
 Ayuda
 Biblio GRD
