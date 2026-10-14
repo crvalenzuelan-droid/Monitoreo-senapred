@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+13-10-2026 20:14
+
 Monitoreo Alerta Roja para la Región Metropolitana por evento meteorológico
 
 13-10-2026 19:20
@@ -37,10 +41,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento m
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento
 
 13-10-2026 17:59
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-13-10-2026 17:55
 
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
 
