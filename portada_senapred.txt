@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+14-10-2026 13:40
+
+Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
+
+14-10-2026 13:30
+
 Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 14-10-2026 11:59
@@ -25,10 +33,6 @@ Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, P
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 14-10-2026 09:39
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-14-10-2026 07:21
 
 Monitoreo Alerta Temprana Preventiva para la región de Coquimbo por evento meteorológico
 
@@ -57,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento m
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento
 
 13-10-2026 17:59
-
-Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
-
-13-10-2026 17:48
 
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
