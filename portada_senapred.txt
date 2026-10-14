@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para la Región Metropolitana por evento meteorológico
+
+14-10-2026 00:51
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 13-10-2026 22:11
@@ -29,10 +33,6 @@ Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región 
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 13-10-2026 20:14
-
-Monitoreo Alerta Roja para la Región Metropolitana por evento meteorológico
-
-13-10-2026 19:20
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
