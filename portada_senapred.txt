@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+14-10-2026 05:43
+
+Monitoreo Alerta Temprana Preventiva para la región de Coquimbo por evento meteorológico
+
+14-10-2026 05:19
+
 Monitoreo Alerta Roja para la Región Metropolitana por evento meteorológico
 
 14-10-2026 00:51
@@ -29,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región de Maule por evento meteorológico
 
 13-10-2026 21:59
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-13-10-2026 20:14
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
@@ -77,10 +81,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas 
 Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 13-10-2026 12:21
-
-Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
-
-13-10-2026 10:43
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria
 
