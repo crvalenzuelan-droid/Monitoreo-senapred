@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+14-10-2026 11:59
+
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 14-10-2026 09:39
@@ -29,10 +33,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 Monitoreo Alerta Temprana Preventiva para la región de Coquimbo por evento meteorológico
 
 14-10-2026 05:19
-
-Monitoreo Alerta Roja para la Región Metropolitana por evento meteorológico
-
-14-10-2026 00:51
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
@@ -77,10 +77,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormen
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 13-10-2026 15:42
-
-Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-13-10-2026 12:21
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria
 
