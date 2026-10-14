@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región de Maule por evento meteorológico
+
+13-10-2026 21:59
+
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 13-10-2026 20:14
@@ -45,10 +49,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama p
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
 
 13-10-2026 17:48
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-13-10-2026 16:42
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
