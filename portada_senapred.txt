@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+14-10-2026 20:58
+
+Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+14-10-2026 20:52
+
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 14-10-2026 18:49
@@ -25,10 +33,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormen
 Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
 14-10-2026 18:44
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-14-10-2026 16:44
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
@@ -66,10 +70,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteor
 
 13-10-2026 18:26
 
-Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-13-10-2026 18:05
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento
 
 13-10-2026 17:59
@@ -85,10 +85,6 @@ Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
 
 08-10-2026 18:30
-
-Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida
-
-02-10-2026 23:38
 
 Ayuda
 Biblio GRD
