@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+15-10-2026 19:58
+
 Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico
 
 15-10-2026 12:36
@@ -41,10 +45,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento met
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 14-10-2026 15:37
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-14-10-2026 13:40
 
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
