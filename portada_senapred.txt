@@ -18,13 +18,13 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico
+
+15-10-2026 12:36
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 14-10-2026 20:58
-
-Se modifica cobertura de Alerta Temprana Preventiva para las provincias de San Felipe de Aconcagua, Los Andes y Petorca por evento meteorológico
-
-14-10-2026 20:54
 
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
@@ -61,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento met
 Monitoreo Alerta Temprana Preventiva para la región de Coquimbo por evento meteorológico
 
 14-10-2026 05:19
-
-Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región de Maule por evento meteorológico
-
-13-10-2026 21:59
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
