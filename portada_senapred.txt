@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+16-10-2026 16:43
+
 Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 16-10-2026 15:30
@@ -45,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 16-10-2026 06:17
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-15-10-2026 19:58
 
 Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
