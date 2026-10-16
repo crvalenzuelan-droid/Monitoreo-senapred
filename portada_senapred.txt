@@ -22,10 +22,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 15-10-2026 19:58
 
-Monitoreo Alerta Amarilla para la Región del Maule por evento meteorológico
-
-15-10-2026 12:36
-
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 14-10-2026 20:58
@@ -57,10 +53,6 @@ Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, P
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 14-10-2026 09:39
-
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-13-10-2026 18:26
 
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento
 
