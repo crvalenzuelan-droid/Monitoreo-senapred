@@ -18,6 +18,26 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+16-10-2026 15:30
+
+Se declara Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
+
+16-10-2026 15:28
+
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+16-10-2026 15:23
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
+
+16-10-2026 14:58
+
+Se declara Alerta Temprana Preventiva para las comunas de Collipulli, Curacautín, Lonquimay, Melipeuco, Cunco, Vilcún, Pucón, Villarrica y Curarrehue por tormentas eléctricas
+
+16-10-2026 12:52
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 16-10-2026 10:26
@@ -41,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna
 Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 14-10-2026 11:59
-
-Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-14-10-2026 09:39
 
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento
 
