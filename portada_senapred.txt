@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
+
+16-10-2026 10:26
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 16-10-2026 06:17
@@ -26,21 +30,9 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 15-10-2026 19:58
 
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-14-10-2026 18:49
-
 Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
 14-10-2026 18:44
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-14-10-2026 16:23
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
-
-14-10-2026 15:37
 
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
@@ -57,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento met
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento
 
 13-10-2026 17:59
-
-Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
-
-13-10-2026 16:32
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria
 
