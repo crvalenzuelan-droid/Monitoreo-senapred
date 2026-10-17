@@ -18,6 +18,34 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
+
+16-10-2026 20:43
+
+Se modifica evento de Alerta Temprana Preventiva para la Región de Atacama a evento meteorológico
+
+16-10-2026 19:52
+
+Se declara Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
+
+16-10-2026 19:07
+
+Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas
+
+16-10-2026 18:58
+
+Se declara Alerta Temprana Preventiva para la Región de Valparaíso exceptuando la provincia de Isla de Pascua por evento meteorológico
+
+16-10-2026 18:50
+
+Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+16-10-2026 18:38
+
+Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+16-10-2026 18:18
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 16-10-2026 16:43
@@ -50,10 +78,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 
 16-10-2026 06:17
 
-Se modifica evento de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
-
-14-10-2026 18:44
-
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
 14-10-2026 13:30
@@ -61,10 +85,6 @@ Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna
 Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 14-10-2026 11:59
-
-Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento
-
-13-10-2026 17:59
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Arica y Parinacota por Alteración Sanitaria
 
