@@ -20,7 +20,7 @@ Limpiar Filtros
 
 Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
-16-10-2026 20:43
+17-10-2026 14:00
 
 Se modifica evento de Alerta Temprana Preventiva para la Región de Atacama a evento meteorológico
 
