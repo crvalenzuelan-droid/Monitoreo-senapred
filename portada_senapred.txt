@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+17-10-2026 17:59
+
+Monitoreo de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+17-10-2026 17:44
+
+Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico
+
+17-10-2026 16:15
+
 Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
 17-10-2026 14:00
@@ -46,21 +58,9 @@ Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteo
 
 16-10-2026 18:18
 
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-16-10-2026 16:43
-
-Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-16-10-2026 15:30
-
 Se declara Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico
 
 16-10-2026 15:28
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-16-10-2026 15:23
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
