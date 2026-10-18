@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva a para la Región de La Araucanía por tormentas eléctricas
+
+18-10-2026 15:49
+
+Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas
+
+18-10-2026 15:45
+
 Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
 
 18-10-2026 12:51
@@ -29,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento m
 Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 18-10-2026 11:43
-
-Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
-
-18-10-2026 02:23
 
 Monitoreo de Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua, por evento meteorológico
 
@@ -65,10 +69,6 @@ Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteo
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
 16-10-2026 14:58
-
-Se declara Alerta Temprana Preventiva para las comunas de Collipulli, Curacautín, Lonquimay, Melipeuco, Cunco, Vilcún, Pucón, Villarrica y Curarrehue por tormentas eléctricas
-
-16-10-2026 12:52
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
