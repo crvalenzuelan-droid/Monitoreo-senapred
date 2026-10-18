@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la región de O’Higgins por evento meteorológico
+
+18-10-2026 18:57
+
+Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+18-10-2026 18:19
+
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 18-10-2026 18:01
@@ -49,10 +57,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento m
 Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 18-10-2026 11:43
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-17-10-2026 17:59
 
 Monitoreo de Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
