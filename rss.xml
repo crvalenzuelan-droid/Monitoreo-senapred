@@ -6,11 +6,19 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|18-10-2026 11:43]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=Roja|Region=Metropolitana|Prioridad=Alta|Fecha=18-10-2026 11:43|NivelCobertura=Comuna|UbicacionCobertura=san jose de maipo,lo barnechea,puente alto,la florida,las condes,penalolen,la reina,vitacura,pirque,colina]]></description>
+<pubDate>Sun, 18 Oct 2026 14:56:54 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-altas-temperaturas-2026-10-13-18-22-08</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico|18-10-2026 02:23]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=18-10-2026 02:23|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
-<pubDate>Sun, 18 Oct 2026 11:48:58 GMT</pubDate>
+<pubDate>Sun, 18 Oct 2026 14:56:54 GMT</pubDate>
 </item>
 
 <item>
@@ -18,7 +26,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo de Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua, por evento meteorológico|17-10-2026 19:36]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=17-10-2026 19:36|NivelCobertura=Comuna|UbicacionCobertura=valparaiso]]></description>
-<pubDate>Sun, 18 Oct 2026 11:48:58 GMT</pubDate>
+<pubDate>Sun, 18 Oct 2026 14:56:54 GMT</pubDate>
 </item>
 
 <item>
@@ -26,7 +34,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la Región de Coquimbo por evento meteorológico|17-10-2026 19:20]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=17-10-2026 19:20|NivelCobertura=Comuna|UbicacionCobertura=coquimbo]]></description>
-<pubDate>Sun, 18 Oct 2026 11:48:58 GMT</pubDate>
+<pubDate>Sun, 18 Oct 2026 14:56:54 GMT</pubDate>
 </item>
 
 <item>
@@ -34,15 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico|17-10-2026 18:52]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=17-10-2026 18:52|NivelCobertura=Región|UbicacionCobertura=Atacama]]></description>
-<pubDate>Sun, 18 Oct 2026 11:48:58 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico|17-10-2026 17:59]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=O´Higgins|Prioridad=Baja|Fecha=17-10-2026 17:59|NivelCobertura=Región|UbicacionCobertura=O´Higgins]]></description>
-<pubDate>Sun, 18 Oct 2026 11:48:58 GMT</pubDate>
+<pubDate>Sun, 18 Oct 2026 14:56:54 GMT</pubDate>
 </item>
 
 </channel>
