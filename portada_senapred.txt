@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+18-10-2026 18:01
+
+Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
+
+18-10-2026 16:21
+
+Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico
+
+18-10-2026 16:13
+
 Se modifica Alerta Temprana Preventiva a para la Región de La Araucanía por tormentas eléctricas
 
 18-10-2026 15:49
@@ -37,14 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento m
 Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 18-10-2026 11:43
-
-Monitoreo de Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua, por evento meteorológico
-
-17-10-2026 19:36
-
-Se declara Alerta Amarilla para la Región de Coquimbo por evento meteorológico
-
-17-10-2026 19:20
 
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
