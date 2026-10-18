@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+18-10-2026 12:51
+
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
+
+18-10-2026 12:25
+
 Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 18-10-2026 11:43
@@ -34,10 +42,6 @@ Se declara Alerta Amarilla para la Región de Coquimbo por evento meteorológico
 
 17-10-2026 19:20
 
-Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
-
-17-10-2026 18:52
-
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 17-10-2026 17:59
@@ -46,17 +50,9 @@ Monitoreo de Alerta Temprana Preventiva para la Región del Maule por evento met
 
 17-10-2026 17:44
 
-Se modifica evento de Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico
-
-17-10-2026 16:15
-
 Se declara Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
 16-10-2026 19:07
-
-Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas
-
-16-10-2026 18:58
 
 Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
