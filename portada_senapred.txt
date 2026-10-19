@@ -18,13 +18,33 @@ Limpiar Filtros
 <<
 >>
 
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
-19-10-2026 12:59
+19-10-2026 19:11
+
+Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
+
+19-10-2026 19:05
+
+Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
+
+19-10-2026 18:41
+
+Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
+
+19-10-2026 18:23
 
 Monitoreo Alerta Temprana Preventiva para la región de Antofagasta por evento meteorológico
 
-19-10-2026 12:41
+19-10-2026 17:49
+
+Se modifica Alerta Amarilla para las comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando, Chimbarongo, San Vicente, Coltauco, Pichidegua y Rancagua por evento meteorológico
+
+19-10-2026 17:29
+
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+19-10-2026 12:59
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
@@ -42,21 +62,9 @@ Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento m
 
 18-10-2026 22:40
 
-Se cancela Alerta Temprana Preventiva y Declara Alerta Amarilla para la Región Metropolitana por evento meteorológico
-
-18-10-2026 22:16
-
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 18-10-2026 22:08
-
-Se declara Alerta Amarilla para las Comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por evento meteorológico
-
-18-10-2026 21:59
-
-Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-18-10-2026 18:01
 
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
@@ -65,14 +73,6 @@ Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas
 Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas
 
 18-10-2026 15:45
-
-Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico
-
-18-10-2026 12:51
-
-Se declara Alerta Roja y cancela la Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-18-10-2026 11:43
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
