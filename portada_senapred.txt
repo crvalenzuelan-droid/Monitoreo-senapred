@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico
+
+19-10-2026 01:31
+
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 18-10-2026 22:40
@@ -49,10 +53,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento m
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 18-10-2026 16:21
-
-Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico
-
-18-10-2026 16:13
 
 Se modifica Alerta Temprana Preventiva a para la Región de La Araucanía por tormentas eléctricas
 
