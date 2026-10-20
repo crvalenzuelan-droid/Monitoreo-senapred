@@ -1,10 +1,10 @@
 name: Monitor SENAPRED
 
-on:
+'on':
   workflow_dispatch:
 
-  sched*le:
-    - cron: '17 * * * *' # Eje*utar una vez cada hora
+  schedule:
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
