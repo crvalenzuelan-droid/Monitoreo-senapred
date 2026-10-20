@@ -6,43 +6,43 @@
 <description>Alertas SENAPRED</description>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|19-10-2026 19:11]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Metropolitana|Prioridad=Alta|Fecha=19-10-2026 19:11|NivelCobertura=Comuna|UbicacionCobertura=san jose de maipo,lo barnechea,puente alto,la florida,las condes,penalolen,la reina,vitacura,pirque,colina]]></description>
-<pubDate>Mon, 19 Oct 2026 23:59:48 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico|19-10-2026 19:05]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Metropolitana|Prioridad=Media|Fecha=19-10-2026 19:05|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
-<pubDate>Mon, 19 Oct 2026 23:59:48 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico]]></title>
+<title><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para las Provincias de San Antonio y Valparaíso y las comunas de La Cruz, Nogales, Hijuelas, San Felipe, Panquehue, Llay Llay, Zapallar y Papudo por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-10-16-19-53-14</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico|19-10-2026 18:41]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=19-10-2026 18:41|NivelCobertura=Comuna|UbicacionCobertura=valparaiso]]></description>
-<pubDate>Mon, 19 Oct 2026 23:59:48 GMT</pubDate>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para las Provincias de San Antonio y Valparaíso y las comunas de La Cruz, Nogales, Hijuelas, San Felipe, Panquehue, Llay Llay, Zapallar y Papudo por evento meteorológico|19-10-2026 23:48]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=19-10-2026 23:48|NivelCobertura=Comuna|UbicacionCobertura=san antonio,valparaiso,san felipe,hijuelas,la cruz,nogales]]></description>
+<pubDate>Tue, 20 Oct 2026 03:21:47 GMT</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-altas-temperaturas-2026-09-21-20-25-49</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico|19-10-2026 18:23]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=19-10-2026 18:23|NivelCobertura=Región|UbicacionCobertura=Atacama]]></description>
-<pubDate>Mon, 19 Oct 2026 23:59:48 GMT</pubDate>
+<title><![CDATA[Se declara Alerta Amarilla para las Provincias de Marga Marga y Los Andes; y las comunas de Catemu, Putaendo, Santa María, Cabildo, Petorca, La Ligua, Quillota y La Calera por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-marga-marga-y-los-andes-y-las-comunas-de-catemu-putaendo-santa-maria-cabildo-petorca-la-ligua-quillota-y-la-calera-por-evento-meteorologico-2026-10-19-23-48-32</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para las Provincias de Marga Marga y Los Andes; y las comunas de Catemu, Putaendo, Santa María, Cabildo, Petorca, La Ligua, Quillota y La Calera por evento meteorológico|19-10-2026 23:26]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=19-10-2026 23:26|NivelCobertura=Comuna|UbicacionCobertura=la calera,los andes,quillota]]></description>
+<pubDate>Tue, 20 Oct 2026 03:21:47 GMT</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la región de Antofagasta por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la región de Antofagasta por evento meteorológico|19-10-2026 17:49]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=19-10-2026 17:49|NivelCobertura=Comuna|UbicacionCobertura=antofagasta]]></description>
-<pubDate>Mon, 19 Oct 2026 23:59:48 GMT</pubDate>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-10-22-17-40</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico|19-10-2026 21:51]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=O´Higgins|Prioridad=Baja|Fecha=19-10-2026 21:51|NivelCobertura=Región|UbicacionCobertura=O´Higgins]]></description>
+<pubDate>Tue, 20 Oct 2026 03:21:47 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-2026-10-16-15-51-50</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico|19-10-2026 21:29]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=19-10-2026 21:29|NivelCobertura=Comuna|UbicacionCobertura=coquimbo]]></description>
+<pubDate>Tue, 20 Oct 2026 03:21:47 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida|19-10-2026 21:15]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=19-10-2026 21:15|NivelCobertura=Comuna|UbicacionCobertura=huasco]]></description>
+<pubDate>Tue, 20 Oct 2026 03:21:47 GMT</pubDate>
 </item>
 
 </channel>
