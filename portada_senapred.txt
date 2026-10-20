@@ -18,6 +18,22 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las provincias de San Antonio y Valparaíso y las comunas de La Cruz, Nogales, Hijuelas, San Felipe, Panquehue, Llay Llay, Zapallar y Papudo por evento meteorológico
+
+20-10-2026 14:20
+
+Monitoreo Alerta Temprana Preventiva para la región de Antofagasta por evento meteorológico
+
+20-10-2026 13:43
+
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+20-10-2026 13:41
+
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+20-10-2026 11:22
+
 Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico
 
 20-10-2026 09:06
@@ -34,17 +50,9 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 
 20-10-2026 08:09
 
-Se modifica cobertura de Alerta Temprana Preventiva para las Provincias de San Antonio y Valparaíso y las comunas de La Cruz, Nogales, Hijuelas, San Felipe, Panquehue, Llay Llay, Zapallar y Papudo por evento meteorológico
-
-19-10-2026 23:48
-
 Se declara Alerta Amarilla para las Provincias de Marga Marga y Los Andes; y las comunas de Catemu, Putaendo, Santa María, Cabildo, Petorca, La Ligua, Quillota y La Calera por evento meteorológico
 
 19-10-2026 23:26
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-19-10-2026 21:51
 
 Monitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 
@@ -58,17 +66,9 @@ Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento meteo
 
 19-10-2026 18:23
 
-Monitoreo Alerta Temprana Preventiva para la región de Antofagasta por evento meteorológico
-
-19-10-2026 17:49
-
 Se modifica Alerta Amarilla para las comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando, Chimbarongo, San Vicente, Coltauco, Pichidegua y Rancagua por evento meteorológico
 
 19-10-2026 17:29
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-19-10-2026 12:59
 
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
