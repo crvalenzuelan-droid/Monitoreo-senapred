@@ -1,10 +1,10 @@
 name: Monitor SENAPRED
 
 'on':
-  workflow_dispatch:
+  workflow_dispatch: {}
 
   schedule:
-    - cron: '19 * * * *'
+    - cron: '17,47 * * * *'
 
 permissions:
   contents: write
@@ -26,46 +26,71 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Instalar Playwright
+        shell: bash
         run: |
           python -m pip install --upgrade pip
           pip install playwright
           playwright install chromium
 
+      - name: Validar sintaxis del scraper
+        shell: bash
+        run: |
+          python -m py_compile scraper.py
+
       - name: Ejecutar scraper
+        shell: bash
         run: |
           python scraper.py
 
-      - name: Guardar cambios
+      - name: Verificar archivos generados
+        shell: bash
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          echo "Revisando archivos SENAPRED..."
+
+          test -f rss.xml
+          test -f alertas.json
+          test -f portada_senapred.txt
+
+          echo ""
+          echo "Estado de los archivos:"
+          ls -lh rss.xml alertas.json portada_senapred.txt
+
+          echo ""
+          echo "Primeras lineas del RSS:"
+          head -n 30 rss.xml
+
+      - name: Guardar cambios
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add rss.xml alertas.json portada_senapred.txt
 
           if git diff --cached --quiet; then
             echo "No hay cambios para guardar."
-          else
-            git commit -m "Actualizar RSS SENAPRED"
+            exit 0
+          fi
+
+          git commit -m "Actualizar RSS SENAPRED"
+
+          for intento in 1 2 3
+          do
+            echo "Intento de envio $intento de 3."
 
             git pull --rebase origin main
 
-            for intento in 1 2 3
-            do
-              if git push origin main; then
-                echo "Cambios enviados correctamente."
-                break
-              fi
+            if git push origin main; then
+              echo "Cambios enviados correctamente."
+              exit 0
+            fi
 
-              echo "Push rechazado. Actualizando repositorio. Intento $intento de 3."
-              git pull --rebase origin main
-              sleep 5
+            echo "Push rechazado. Se intentara nuevamente."
+            sleep 5
+          done
 
-              if [ "$intento" -eq 3 ]; then
-                echo "No fue posible enviar los cambios después de 3 intentos."
-                exit 1
-              fi
-            done
-          fi
+          echo "No fue posible enviar los cambios despues de 3 intentos."
+          exit 1
