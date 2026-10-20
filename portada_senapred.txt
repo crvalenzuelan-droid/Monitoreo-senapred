@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
+
+20-10-2026 18:10
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+20-10-2026 17:32
+
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+20-10-2026 17:11
+
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 20-10-2026 16:50
@@ -78,17 +90,9 @@ Se modifica Alerta Amarilla para las comunas de Mostazal, Codegua, Machalí, Req
 
 19-10-2026 17:29
 
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-19-10-2026 10:35
-
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
 16-10-2026 14:58
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-16-10-2026 06:17
 
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
