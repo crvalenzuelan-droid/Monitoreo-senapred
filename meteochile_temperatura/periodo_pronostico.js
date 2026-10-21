@@ -1,3 +1,3 @@
-var periodoPronostico = 3;
-var textoPeriodoPronostico = 'Noche';
+var periodoPronostico = 1;
+var textoPeriodoPronostico = 'Ma&ntilde;ana';
 
