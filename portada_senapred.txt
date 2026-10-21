@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+21-10-2026 17:06
+
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
+
+21-10-2026 16:53
+
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 21-10-2026 13:40
@@ -42,17 +50,9 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento mete
 
 21-10-2026 09:04
 
-Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-21-10-2026 02:33
-
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 21-10-2026 02:13
-
-Se modifica Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-20-10-2026 22:51
 
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico
 
