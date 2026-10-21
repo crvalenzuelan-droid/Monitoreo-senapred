@@ -6,11 +6,19 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-10-16-19-58-34</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico|21-10-2026 09:04]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Biobío|Prioridad=Baja|Fecha=21-10-2026 09:04|NivelCobertura=Región|UbicacionCobertura=Biobío]]></description>
+<pubDate>Wed, 21 Oct 2026 12:27:31 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52</link>
 <guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento|21-10-2026 02:33]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=21-10-2026 02:33|NivelCobertura=Comuna|UbicacionCobertura=antofagasta]]></description>
-<pubDate>Wed, 21 Oct 2026 06:35:44 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 12:27:31 GMT</pubDate>
 </item>
 
 <item>
@@ -18,7 +26,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-16-19-47-23</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|21-10-2026 02:13]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=21-10-2026 02:13|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
-<pubDate>Wed, 21 Oct 2026 06:35:44 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 12:27:31 GMT</pubDate>
 </item>
 
 <item>
@@ -26,7 +34,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54</link>
 <guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico|20-10-2026 22:51]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=20-10-2026 22:51|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
-<pubDate>Wed, 21 Oct 2026 06:35:44 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 12:27:31 GMT</pubDate>
 </item>
 
 <item>
@@ -34,15 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico|20-10-2026 22:35]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=La Araucanía|Prioridad=Baja|Fecha=20-10-2026 22:35|NivelCobertura=Región|UbicacionCobertura=La Araucanía]]></description>
-<pubDate>Wed, 21 Oct 2026 06:35:44 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-maipu-padre-hurtado-talagante-penaflor-el-monte-y-melipilla-por-crecida-2026-10-20-22-13-47</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida|20-10-2026 22:07]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Metropolitana|Prioridad=Media|Fecha=20-10-2026 22:07|NivelCobertura=Comuna|UbicacionCobertura=padre hurtado,melipilla,talagante,penaflor,el monte,maipu]]></description>
-<pubDate>Wed, 21 Oct 2026 06:35:44 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 12:27:31 GMT</pubDate>
 </item>
 
 </channel>
