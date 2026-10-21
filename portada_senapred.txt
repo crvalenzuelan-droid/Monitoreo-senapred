@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico
+
+21-10-2026 17:48
+
+Monitoreo Alerta Temprana Preventiva para la Región de Atacama por viento
+
+21-10-2026 17:38
+
 Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 21-10-2026 17:06
@@ -38,10 +46,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento m
 
 21-10-2026 11:30
 
-Se modifica evento de Alerta Temprana Preventiva para la Región de Atacama por viento
-
-21-10-2026 10:11
-
 Monitoreo Alerta Amarilla para la Región de Coquimbo por evento meteorológico
 
 21-10-2026 09:26
@@ -53,10 +57,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento mete
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 21-10-2026 02:13
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico
-
-20-10-2026 22:35
 
 Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida
 
