@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
+
+21-10-2026 13:40
+
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 21-10-2026 11:43
@@ -57,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento
 Se declara Alerta Amarilla para las comunas de Maipú, Padre Hurtado, Talagante, Peñaflor, El Monte y Melipilla por crecida
 
 20-10-2026 22:07
-
-Se declara Alerta Roja para la comuna de Arauco por remoción en masa
-
-20-10-2026 21:43
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
 
