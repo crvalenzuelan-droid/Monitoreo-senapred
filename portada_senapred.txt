@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico
+
+22-10-2026 17:43
+
+Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Última Esperanza y la comuna de Primavera por altas temperaturas
+
+22-10-2026 17:03
+
+Se modifica evento de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a evento meteorológico
+
+22-10-2026 16:21
+
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 22-10-2026 14:49
@@ -58,10 +70,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Atacama por viento
 
 21-10-2026 17:38
 
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-21-10-2026 17:06
-
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 21-10-2026 13:40
@@ -97,10 +105,6 @@ Monitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
 16-10-2026 14:58
-
-Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
-
-14-10-2026 13:30
 
 Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 

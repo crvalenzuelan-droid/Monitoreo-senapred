@@ -6,11 +6,35 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-10-01-17-20-52</link>
+<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico|22-10-2026 17:43]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=22-10-2026 17:43|NivelCobertura=Comuna|UbicacionCobertura=antofagasta]]></description>
+<pubDate>Thu, 22 Oct 2026 20:56:31 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Última Esperanza y la comuna de Primavera por altas temperaturas]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-ultima-esperanza-y-la-comuna-de-primavera-por-altas-temperaturas-2026-10-22-17-27-52</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Última Esperanza y la comuna de Primavera por altas temperaturas|22-10-2026 17:03]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=22-10-2026 17:03|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
+<pubDate>Thu, 22 Oct 2026 20:56:31 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se modifica evento de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-09-17-56-03</link>
+<guid isPermaLink="false"><![CDATA[Se modifica evento de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a evento meteorológico|22-10-2026 16:21]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=22-10-2026 16:21|NivelCobertura=Comuna|UbicacionCobertura=camarones]]></description>
+<pubDate>Thu, 22 Oct 2026 20:56:31 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-10-16-15-55-21</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|22-10-2026 14:49]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=22-10-2026 14:49|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Thu, 22 Oct 2026 18:50:52 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 20:56:31 GMT</pubDate>
 </item>
 
 <item>
@@ -18,31 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-16-19-50-34</link>
 <guid isPermaLink="false"><![CDATA[Se cancela Alerta Roja regional y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico|22-10-2026 14:45]]></guid>
 <description><![CDATA[Accion=Se cancela|Tipo=Roja|Region=Metropolitana|Prioridad=Alta|Fecha=22-10-2026 14:45|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
-<pubDate>Thu, 22 Oct 2026 18:50:52 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-pucon-villarrica-y-curarrehue-por-tormentas-electricas-2026-10-16-13-16-05</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico|22-10-2026 14:37]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=La Araucanía|Prioridad=Baja|Fecha=22-10-2026 14:37|NivelCobertura=Región|UbicacionCobertura=La Araucanía]]></description>
-<pubDate>Thu, 22 Oct 2026 18:50:52 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|22-10-2026 14:13]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=22-10-2026 14:13|NivelCobertura=Región|UbicacionCobertura=Los Lagos]]></description>
-<pubDate>Thu, 22 Oct 2026 18:50:52 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-18-17-07-54</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico|22-10-2026 14:12]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=22-10-2026 14:12|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
-<pubDate>Thu, 22 Oct 2026 18:50:52 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 20:56:31 GMT</pubDate>
 </item>
 
 </channel>
