@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
+
+23-10-2026 01:21
+
+Se declara alerta Amarilla para la comuna de Angol por evento meteorológico
+
+22-10-2026 22:12
+
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 22-10-2026 19:00
@@ -53,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 22-10-2026 14:13
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-22-10-2026 14:12
 
 Se cancela Alerta Roja comunal y se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
