@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+23-10-2026 16:05
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 23-10-2026 09:11
@@ -29,10 +33,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento met
 Se declara alerta Amarilla para la comuna de Angol por evento meteorológico
 
 22-10-2026 22:12
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-22-10-2026 19:00
 
 Se modifica Alerta Temprana Preventiva para la Región de Atacama a evento meteorológico
 
