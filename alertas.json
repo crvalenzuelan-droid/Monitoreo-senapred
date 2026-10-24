@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico|24-10-2026 15:53",
+    "accion": "Se modifica",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Magallanes",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Magallanes",
+    "fecha_senapred": "24-10-2026 15:53",
+    "titulo": "Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-ultima-esperanza-y-la-comuna-de-primavera-por-altas-temperaturas-2026-10-22-17-27-52",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A576\n\n\t\n\nAltas temperaturas en pampa patagónica norte, Laguna Blanca y San Gregorio.\n\n\t\n\n24-10\n\n\t\n\n24-10\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A581\n\n\t\n\nProbables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región.\n\n\t\n\n25-10\n\n\t\n\n25-10\n\n\t\n\nAbrir Aquí\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED modifica el evento y la cobertura de la Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico, que se mantiene vigente desde el 22 de octubre y hasta que las condiciones así lo ameriten.\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para las provincias de Magallanes y Última Esperanza y la comuna de Primavera por altas temperaturas\n\n22-10-2026 17:03"
+  },
+  {
     "id_alerta": "Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas|24-10-2026 15:43",
     "accion": "Se declara",
     "tipo": "ATP",
@@ -24,19 +37,6 @@
     "titulo": "Se declara Alerta Temprana Preventiva para la Región de O´Higgins por tormentas eléctricas",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de O´Higgins:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A582\n\n\t\n\nProbables Tormentas Eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n24-10\n\n\t\n\n24-10\n\n\t\n\nAbrir aquí\n\nAsimismo, según lo señalado en el informe de amenaza emitido el día de hoy, se pronostican los siguientes montos de precipitaciones, viento e isoterma 0°C en la región:\n\nPrecipitaciones: entre 1 y 3 mm.\nNevadas: entre 2 y 7 cm.\nViento: 25 – 40 km/h.\nIsoterma 0:  entre 1.800 – 3.400 m.s.n.m.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por tormentas eléctricas, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|23-10-2026 09:11",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Los Lagos",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Los Lagos",
-    "fecha_senapred": "23-10-2026 09:11",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-10-18-16-21-00",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A580\n\n\t\n\nProbables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, cordillera, Chiloé, litoral interior y cordillera austral.\n\n\t\n\n23-10\n\n\t\n\n23-10\n\n\t\n\nAbrir aquí\n\n                       \n\nAsimismo, se informa que se han cancelado los siguientes alertamientos meteorológicos, debido al debilitamiento de las condiciones que los originaron:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\n\n\nAviso A573\n\n\t\n\nProbables tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera, cordillera, Chiloé, litoral interior y cordillera austral.\n\n\n\n\nAviso A575-1\n\n\t\n\nProbable desarrollo de nubes convectivas con características\n\ntornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle.\n\nAdicionalmente, según lo indicado por la Dirección Meteorológica de Chile en su alertamiento vigente e informe de amenaza emitido en la presente jornada, se pronostican los siguientes montos de precipitaciones e isoterma 0°C en la región:\n\nPrecipitaciones: entre 1 y 20 mm.\nIsoterma 0:  entre 2.200 – 2.700 m.s.n.m.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, que se encuentra vigente desde el 18 de octubre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico\n\n22-10-2026 14:13\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico\n\n21-10-2026 18:22\n\nSe modifica evento de Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico\n\n20-10-2026 14:53\n\nSe declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas\n\n18-10-2026 15:45"
   },
   {
     "id_alerta": "Se declara alerta Amarilla para la comuna de Angol por evento meteorológico|22-10-2026 22:12",

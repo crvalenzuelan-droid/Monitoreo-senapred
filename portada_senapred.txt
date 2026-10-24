@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
+
+24-10-2026 15:53
+
 Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
 
 24-10-2026 15:43
@@ -25,10 +29,6 @@ Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas el
 Se declara Alerta Temprana Preventiva para la Región de O´Higgins por tormentas eléctricas
 
 24-10-2026 15:01
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-23-10-2026 09:11
 
 Se declara alerta Amarilla para la comuna de Angol por evento meteorológico
 
@@ -41,10 +41,6 @@ Se modifica Alerta Temprana Preventiva para la Región de Atacama a evento meteo
 Se modifica Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico
 
 22-10-2026 17:43
-
-Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Última Esperanza y la comuna de Primavera por altas temperaturas
-
-22-10-2026 17:03
 
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
