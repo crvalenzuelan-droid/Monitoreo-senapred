@@ -38,10 +38,6 @@ Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Últim
 
 22-10-2026 17:03
 
-Se cancela Alerta Roja regional y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-22-10-2026 14:45
-
 Se cancela Alerta Roja comunal y se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 22-10-2026 14:07
@@ -49,10 +45,6 @@ Se cancela Alerta Roja comunal y se declara Alerta Amarilla para las comunas de 
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 21-10-2026 13:40
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-21-10-2026 11:30
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
 
