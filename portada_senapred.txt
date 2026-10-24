@@ -38,10 +38,6 @@ Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Últim
 
 22-10-2026 17:03
 
-Se cancela Alerta Roja comunal y se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-22-10-2026 14:07
-
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 21-10-2026 13:40
@@ -65,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida
 Monitoreo Alerta Temprana Preventiva para las comunas de Corral y Valdivia por remoción en masa
 
 16-10-2026 14:58
-
-Monitoreo Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-14-10-2026 11:59
 
 Ayuda
 Biblio GRD
