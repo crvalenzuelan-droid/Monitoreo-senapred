@@ -46,10 +46,6 @@ Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Últim
 
 22-10-2026 17:03
 
-Se modifica evento de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a evento meteorológico
-
-22-10-2026 16:21
-
 Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
 
 22-10-2026 16:04
