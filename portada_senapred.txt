@@ -22,10 +22,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento met
 
 23-10-2026 09:11
 
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico
-
-23-10-2026 01:21
-
 Se declara alerta Amarilla para la comuna de Angol por evento meteorológico
 
 22-10-2026 22:12
@@ -42,25 +38,13 @@ Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Últim
 
 22-10-2026 17:03
 
-Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico
-
-22-10-2026 16:04
-
 Se cancela Alerta Roja regional y declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 22-10-2026 14:45
 
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico
-
-22-10-2026 14:37
-
 Se cancela Alerta Roja comunal y se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 22-10-2026 14:07
-
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-22-10-2026 13:01
 
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
@@ -69,10 +53,6 @@ Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 21-10-2026 11:30
-
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-21-10-2026 02:13
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
 
