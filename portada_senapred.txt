@@ -18,9 +18,9 @@ Limpiar Filtros
 <<
 >>
 
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
-24-10-2026 23:01
+25-10-2026 08:11
 
 Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
