@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
+
+25-10-2026 16:08
+
+Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas
+
+25-10-2026 15:33
+
 Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 25-10-2026 15:06
@@ -29,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
 
 24-10-2026 15:53
-
-Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
-
-24-10-2026 15:43
 
 Se declara Alerta Temprana Preventiva para la Región de O´Higgins por tormentas eléctricas
 
