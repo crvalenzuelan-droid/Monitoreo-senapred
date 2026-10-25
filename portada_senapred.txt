@@ -38,10 +38,6 @@ Se modifica Alerta Temprana Preventiva para la Región de Atacama a evento meteo
 
 22-10-2026 17:55
 
-Se modifica Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico
-
-22-10-2026 17:43
-
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 21-10-2026 13:40
