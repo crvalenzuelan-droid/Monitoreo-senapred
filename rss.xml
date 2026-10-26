@@ -6,11 +6,19 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-25-22-34-36</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|26-10-2026 19:51]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Ñuble|Prioridad=Media|Fecha=26-10-2026 19:51|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
+<pubDate>Mon, 26 Oct 2026 23:53:21 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Se declara Alerta Roja y cancela Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Roja y cancela Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|26-10-2026 19:45]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Roja|Region=Metropolitana|Prioridad=Alta|Fecha=26-10-2026 19:45|NivelCobertura=Comuna|UbicacionCobertura=san jose de maipo,lo barnechea,puente alto,la florida,las condes,penalolen,la reina,vitacura,pirque,colina]]></description>
-<pubDate>Mon, 26 Oct 2026 23:16:14 GMT</pubDate>
+<pubDate>Mon, 26 Oct 2026 23:53:21 GMT</pubDate>
 </item>
 
 <item>
@@ -18,7 +26,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-requinoa-por-tornado-2026-10-26-19-45-51</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Roja para la comuna de Requínoa por tornado|26-10-2026 19:31]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Roja|Region=No identificada|Prioridad=Alta|Fecha=26-10-2026 19:31|NivelCobertura=No identificada|UbicacionCobertura=]]></description>
-<pubDate>Mon, 26 Oct 2026 23:16:14 GMT</pubDate>
+<pubDate>Mon, 26 Oct 2026 23:53:21 GMT</pubDate>
 </item>
 
 <item>
@@ -26,23 +34,15 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|26-10-2026 18:53]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Maule|Prioridad=Media|Fecha=26-10-2026 18:53|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Mon, 26 Oct 2026 23:16:14 GMT</pubDate>
+<pubDate>Mon, 26 Oct 2026 23:53:21 GMT</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Se declara Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento-2026-10-26-19-42-10</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento|26-10-2026 17:49]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=26-10-2026 17:49|NivelCobertura=Comuna|UbicacionCobertura=freirina,huasco]]></description>
-<pubDate>Mon, 26 Oct 2026 23:16:14 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico-2026-10-26-19-21-11</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico|26-10-2026 17:29]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=26-10-2026 17:29|NivelCobertura=Comuna|UbicacionCobertura=antofagasta,taltal]]></description>
-<pubDate>Mon, 26 Oct 2026 23:16:14 GMT</pubDate>
+<title><![CDATA[Se modifica evento y cobertura de Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-tormentas-electricas-2026-10-26-12-48-46</link>
+<guid isPermaLink="false"><![CDATA[Se modifica evento y cobertura de Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico|26-10-2026 18:32]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=26-10-2026 18:32|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
+<pubDate>Mon, 26 Oct 2026 23:53:21 GMT</pubDate>
 </item>
 
 </channel>
