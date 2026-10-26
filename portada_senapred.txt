@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Roja y cancela Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+26-10-2026 19:45
+
 Se declara Alerta Roja para la comuna de Requínoa por tornado
 
 26-10-2026 19:31
@@ -73,10 +77,6 @@ Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas
 Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 25-10-2026 15:06
-
-Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-24-10-2026 12:47
 
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
