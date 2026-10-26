@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+26-10-2026 16:01
+
+Monitoreo Alerta Temprana Preventiva para las Provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
+
+26-10-2026 15:31
+
+Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por tormentas eléctricas
+
+26-10-2026 12:01
+
 Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 26-10-2026 10:03
@@ -25,10 +37,6 @@ Se modifica Alerta Temprana Preventiva para la Región del Maule por evento mete
 Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 26-10-2026 09:09
-
-Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-26-10-2026 08:11
 
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
@@ -53,10 +61,6 @@ Se declara Alerta Temprana Preventiva para la Región de La Araucanía por torme
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 24-10-2026 23:20
-
-Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
-
-24-10-2026 15:53
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
