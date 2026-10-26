@@ -18,6 +18,30 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Roja para la comuna de Requínoa por tornado
+
+26-10-2026 19:31
+
+Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+26-10-2026 18:53
+
+Se declara Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento
+
+26-10-2026 17:49
+
+Se declara Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico
+
+26-10-2026 17:29
+
+Monitoreo Alerta Temprana Preventiva para la región Metropolitana por evento meteorológico
+
+26-10-2026 17:19
+
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+26-10-2026 17:07
+
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 26-10-2026 16:01
@@ -29,14 +53,6 @@ Monitoreo Alerta Temprana Preventiva para las Provincias de Los Andes y San Feli
 Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por tormentas eléctricas
 
 26-10-2026 12:01
-
-Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-26-10-2026 10:03
-
-Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-26-10-2026 09:09
 
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
@@ -57,10 +73,6 @@ Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas
 Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 25-10-2026 15:06
-
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-24-10-2026 23:20
 
 Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
