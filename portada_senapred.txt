@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+26-10-2026 10:03
+
+Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+26-10-2026 09:09
+
 Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 26-10-2026 08:11
@@ -33,10 +41,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
 25-10-2026 18:53
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
-
-25-10-2026 16:08
 
 Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas
 

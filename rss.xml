@@ -6,11 +6,27 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09</link>
+<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|26-10-2026 10:03]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=26-10-2026 10:03|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
+<pubDate>Mon, 26 Oct 2026 14:16:08 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico|26-10-2026 09:09]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Metropolitana|Prioridad=Baja|Fecha=26-10-2026 09:09|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
+<pubDate>Mon, 26 Oct 2026 14:16:08 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52</link>
 <guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico|26-10-2026 08:11]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=O´Higgins|Prioridad=Baja|Fecha=26-10-2026 08:11|NivelCobertura=Región|UbicacionCobertura=O´Higgins]]></description>
-<pubDate>Mon, 26 Oct 2026 11:45:51 GMT</pubDate>
+<pubDate>Mon, 26 Oct 2026 14:16:08 GMT</pubDate>
 </item>
 
 <item>
@@ -18,7 +34,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-10-25-20-24-57</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas|25-10-2026 20:23]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=25-10-2026 20:23|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
-<pubDate>Mon, 26 Oct 2026 11:45:51 GMT</pubDate>
+<pubDate>Mon, 26 Oct 2026 14:16:08 GMT</pubDate>
 </item>
 
 <item>
@@ -26,23 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|25-10-2026 19:08]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=25-10-2026 19:08|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
-<pubDate>Mon, 26 Oct 2026 11:45:51 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-tormentas-electricas-2026-10-25-18-54-39</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas|25-10-2026 18:53]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Biobío|Prioridad=Baja|Fecha=25-10-2026 18:53|NivelCobertura=Región|UbicacionCobertura=Biobío]]></description>
-<pubDate>Mon, 26 Oct 2026 11:45:51 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-24-16-03-09</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas|25-10-2026 16:08]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=25-10-2026 16:08|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Mon, 26 Oct 2026 11:45:51 GMT</pubDate>
+<pubDate>Mon, 26 Oct 2026 14:16:08 GMT</pubDate>
 </item>
 
 </channel>
