@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva y Declara Alerta Amarilla para la Región de O´Higgins por evento meteorológico
+
+26-10-2026 20:21
+
 Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 26-10-2026 19:51
@@ -49,10 +53,6 @@ Se declara Alerta Temprana Preventiva para la Provincia de El Loa y comunas de A
 Monitoreo Alerta Temprana Preventiva para la región Metropolitana por evento meteorológico
 
 26-10-2026 17:19
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-26-10-2026 16:01
 
 Monitoreo Alerta Temprana Preventiva para las Provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
 
