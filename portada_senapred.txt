@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
+
+27-10-2026 16:31
+
+Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
+
+27-10-2026 16:15
+
 Monitoreo Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico
 
 27-10-2026 14:35
