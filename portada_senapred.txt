@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por tormentas eléctricas
+
+28-10-2026 17:13
+
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
 
 28-10-2026 16:11
@@ -49,10 +53,6 @@ Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Feli
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 28-10-2026 13:45
-
-Se declara Alerta Temprana Preventiva para la Región de O’Higgins por tormentas eléctricas
-
-27-10-2026 21:02
 
 Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
 
