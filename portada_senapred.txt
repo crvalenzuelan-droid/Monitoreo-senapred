@@ -18,6 +18,22 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
+
+27-10-2026 19:29
+
+Se modifica Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas
+
+27-10-2026 17:53
+
+Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas
+
+27-10-2026 17:35
+
+Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico
+
+27-10-2026 17:23
+
 Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
 
 27-10-2026 16:31
@@ -41,10 +57,6 @@ Se declara Alerta Roja y cancela Alerta Temprana Preventiva para las comunas de 
 Se declara Alerta Roja para la comuna de Requínoa por tornado
 
 26-10-2026 19:31
-
-Se modifica evento y cobertura de Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por evento meteorológico
-
-26-10-2026 18:32
 
 Se declara Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento
 
