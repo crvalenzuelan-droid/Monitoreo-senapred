@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas
+
+29-10-2026 10:32
+
 Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
 
 29-10-2026 10:00
@@ -46,17 +50,9 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copia
 
 28-10-2026 15:03
 
-Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
-
-28-10-2026 13:48
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 28-10-2026 13:45
-
-Se modifica Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas
-
-27-10-2026 17:53
 
 Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
