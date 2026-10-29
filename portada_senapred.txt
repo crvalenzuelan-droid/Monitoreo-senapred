@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
+
+29-10-2026 13:30
+
 Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas
 
 29-10-2026 10:32
@@ -57,10 +61,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Región de Antofagas
 Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
 27-10-2026 16:15
-
-Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
-
-21-10-2026 13:40
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
 
