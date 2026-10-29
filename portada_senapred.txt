@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
+
+29-10-2026 10:00
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 28-10-2026 19:16
@@ -29,10 +33,6 @@ Se declara Alerta Temprana Preventiva para la comuna de Cabo de Hornos por preci
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
 
 28-10-2026 16:11
-
-Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
-
-28-10-2026 16:02
 
 Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
@@ -53,10 +53,6 @@ Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Feli
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
 
 28-10-2026 13:45
-
-Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
-
-27-10-2026 19:29
 
 Se modifica Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas
 

@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas|29-10-2026 10:00",
+    "accion": "Monitoreo",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Coquimbo",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "monte patria,rio hurtado,la higuera,combarbala,salamanca,illapel,vicuna",
+    "fecha_senapred": "29-10-2026 10:00",
+    "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
+    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas, que se encuentra vigente desde el 27 de octubre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas\n\n28-10-2026 16:02\n\nSe declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas\n\n27-10-2026 16:31"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|28-10-2026 19:16",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -37,19 +50,6 @@
     "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-10-27-18-38-29",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región de Tarapacá:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A587-2\n\n\t\n\nProbables tormentas eléctricas en cordillera de la costal, pampa, precordillera y cordillera.\n\n\t\n\n28-10\n\n\t\n\n29-10\n\n\t\n\nAbrir\naquí\n\n\n\n\nAviso A592-1\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n28-10\n\n\t\n\n30-10\n\n\t\n\nAbrir\naquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva a Regional por evento meteorológico, vigente desde el 27 de octubre y hasta que las condiciones así lo ameriten.\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico\n\n27-10-2026 17:23"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas|28-10-2026 16:02",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "monte patria,rio hurtado,la higuera,combarbala,salamanca,illapel,vicuna",
-    "fecha_senapred": "28-10-2026 16:02",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31",
-    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas, que se encuentra vigente desde el 27 de octubre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas\n\n27-10-2026 16:31"
   },
   {
     "id_alerta": "Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|28-10-2026 15:42",
