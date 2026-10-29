@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
+
+29-10-2026 16:26
+
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
+
+29-10-2026 15:51
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas
+
+29-10-2026 15:47
+
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 29-10-2026 13:30
@@ -25,10 +37,6 @@ Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por altas temperaturas
 
 29-10-2026 10:32
-
-Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
-
-29-10-2026 10:00
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
@@ -49,14 +57,6 @@ Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirqu
 Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 28-10-2026 15:07
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas
-
-28-10-2026 15:03
-
-Se modifica cobertura de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
-
-28-10-2026 13:45
 
 Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
