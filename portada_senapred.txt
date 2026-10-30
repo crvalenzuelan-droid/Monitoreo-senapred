@@ -18,6 +18,30 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla para la comuna de La Serena por incendio forestal
+
+30-10-2026 15:37
+
+Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+30-10-2026 13:58
+
+Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+30-10-2026 13:30
+
+Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
+
+30-10-2026 13:15
+
+Se declara Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
+
+30-10-2026 11:12
+
+Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+30-10-2026 10:52
+
 Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 30-10-2026 08:10
@@ -54,14 +78,6 @@ Se declara Alerta Temprana Preventiva para la Región de Ñuble por tormentas el
 
 29-10-2026 16:50
 
-Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
-
-29-10-2026 16:33
-
-Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
-
-29-10-2026 16:29
-
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 29-10-2026 13:30
@@ -73,18 +89,6 @@ Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 28-10-2026 19:16
-
-Se declara Alerta Temprana Preventiva para la comuna de Cabo de Hornos por precipitaciones
-
-28-10-2026 19:09
-
-Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-28-10-2026 15:42
-
-Monitoreo Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-28-10-2026 15:07
 
 Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
 
