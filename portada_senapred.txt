@@ -18,13 +18,25 @@ Limpiar Filtros
 <<
 >>
 
-Se declara Alerta Amarilla para la comuna de La Serena por incendio forestal
+Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
 
-30-10-2026 15:37
+30-10-2026 19:21
 
-Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
-30-10-2026 13:58
+30-10-2026 19:16
+
+Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
+
+30-10-2026 19:12
+
+Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas
+
+30-10-2026 18:57
+
+Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
+
+30-10-2026 18:04
 
 Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
@@ -38,17 +50,9 @@ Se declara Alerta Temprana Preventiva para la Región de Magallanes por evento m
 
 30-10-2026 11:12
 
-Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-30-10-2026 10:52
-
 Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
 30-10-2026 08:10
-
-Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas
-
-30-10-2026 01:55
 
 Se modifica Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano y Vicuña por crecida
 
@@ -62,21 +66,13 @@ Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento met
 
 29-10-2026 18:50
 
-Se declara Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
-
-29-10-2026 18:29
-
-Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-29-10-2026 17:01
-
 Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 29-10-2026 17:00
 
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por tormentas eléctricas
+Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
-29-10-2026 16:50
+29-10-2026 16:53
 
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
