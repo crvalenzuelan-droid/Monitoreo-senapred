@@ -62,10 +62,6 @@ Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas 
 
 29-10-2026 16:29
 
-Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas
-
-29-10-2026 15:47
-
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 29-10-2026 13:30
