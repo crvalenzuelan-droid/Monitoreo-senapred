@@ -18,13 +18,13 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+30-10-2026 08:10
+
 Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas
 
 30-10-2026 01:55
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
-
-30-10-2026 01:37
 
 Se modifica Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano y Vicuña por crecida
 
@@ -41,6 +41,10 @@ Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento met
 Se declara Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
 
 29-10-2026 18:29
+
+Se declara Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+29-10-2026 17:01
 
 Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
