@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas
+
+30-10-2026 01:55
+
+Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
+
+30-10-2026 01:37
+
+Se modifica Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano y Vicuña por crecida
+
+29-10-2026 21:15
+
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria
 
 29-10-2026 19:34
@@ -34,10 +46,6 @@ Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento me
 
 29-10-2026 17:00
 
-Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas
-
-29-10-2026 16:53
-
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por tormentas eléctricas
 
 29-10-2026 16:50
@@ -49,10 +57,6 @@ Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas el
 Se declara Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
 29-10-2026 16:29
-
-Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico
-
-29-10-2026 15:51
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas
 
