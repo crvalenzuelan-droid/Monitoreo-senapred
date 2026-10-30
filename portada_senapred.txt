@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria
+
+29-10-2026 19:34
+
+Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
+
+29-10-2026 18:50
+
+Se declara Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
+
+29-10-2026 18:29
+
 Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 29-10-2026 17:00
@@ -61,10 +73,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Se declara Alerta Temprana Preventiva para la comuna de Cabo de Hornos por precipitaciones
 
 28-10-2026 19:09
-
-Se modifica cobertura de Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
-
-28-10-2026 16:11
 
 Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
