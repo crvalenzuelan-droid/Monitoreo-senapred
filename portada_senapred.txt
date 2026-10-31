@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
+
+31-10-2026 17:30
+
 Se modifica Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico
 
 31-10-2026 16:06
@@ -53,10 +57,6 @@ Monitoreo Alerta Amarilla para la región Metropolitana por evento meteorológic
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
 30-10-2026 13:15
-
-Se declara Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
-
-30-10-2026 11:12
 
 Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
