@@ -18,17 +18,21 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+31-10-2026 11:40
+
+Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+31-10-2026 07:57
+
+Monitoreo Alerta Amarilla para la región Metropolitana por evento meteorológico
+
+31-10-2026 07:47
+
 Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
 
 30-10-2026 19:21
-
-Monitoreo Alerta Roja para las comuna de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-30-10-2026 19:16
-
-Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico
-
-30-10-2026 19:12
 
 Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas
 
@@ -37,10 +41,6 @@ Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña 
 Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 30-10-2026 18:04
-
-Se modifica Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-30-10-2026 13:30
 
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
 
