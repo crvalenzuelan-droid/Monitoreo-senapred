@@ -6,43 +6,43 @@
 <description>Alertas SENAPRED</description>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-29-16-34-51</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|31-10-2026 11:40]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=31-10-2026 11:40|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Sat, 31 Oct 2026 15:20:09 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-roja-y-cancela-la-alerta-amarilla-para-las-comunas-de-san-jose-de-maipo-puente-alto-pirque-la-florida-penalolen-la-reina-las-condes-lo-barnechea-vitacura-y-colina-por-remocion-en-masa-2026-10-18-11-45-04</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa|31-10-2026 07:57]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Metropolitana|Prioridad=Alta|Fecha=31-10-2026 07:57|NivelCobertura=Comuna|UbicacionCobertura=san jose de maipo,lo barnechea,puente alto,la florida,las condes,penalolen,la reina,vitacura,pirque,colina]]></description>
-<pubDate>Sat, 31 Oct 2026 15:20:09 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Amarilla para la región Metropolitana por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para la región Metropolitana por evento meteorológico|31-10-2026 07:47]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Metropolitana|Prioridad=Media|Fecha=31-10-2026 07:47|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
-<pubDate>Sat, 31 Oct 2026 15:20:09 GMT</pubDate>
+<title><![CDATA[Se modifica Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31</link>
+<guid isPermaLink="false"><![CDATA[Se modifica Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico|31-10-2026 16:06]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=31-10-2026 16:06|NivelCobertura=Comuna|UbicacionCobertura=rio hurtado,salamanca,vicuna]]></description>
+<pubDate>Sat, 31 Oct 2026 19:33:45 GMT</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico|30-10-2026 19:21]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=30-10-2026 19:21|NivelCobertura=Comuna|UbicacionCobertura=san felipe,los andes]]></description>
-<pubDate>Sat, 31 Oct 2026 15:20:09 GMT</pubDate>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico|31-10-2026 15:28]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=31-10-2026 15:28|NivelCobertura=Comuna|UbicacionCobertura=san felipe,los andes]]></description>
+<pubDate>Sat, 31 Oct 2026 19:33:45 GMT</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por tormentas eléctricas|30-10-2026 18:57]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=30-10-2026 18:57|NivelCobertura=Comuna|UbicacionCobertura=rio hurtado,salamanca,vicuna]]></description>
-<pubDate>Sat, 31 Oct 2026 15:20:09 GMT</pubDate>
+<title><![CDATA[Se modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21</link>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida|31-10-2026 14:57]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=31-10-2026 14:57|NivelCobertura=Comuna|UbicacionCobertura=monte patria,salamanca,illapel,vicuna]]></description>
+<pubDate>Sat, 31 Oct 2026 19:33:45 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-tormentas-electricas-2026-10-29-16-51-29</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|31-10-2026 13:32]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=31-10-2026 13:32|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
+<pubDate>Sat, 31 Oct 2026 19:33:45 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico|31-10-2026 12:00]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=O´Higgins|Prioridad=Baja|Fecha=31-10-2026 12:00|NivelCobertura=Región|UbicacionCobertura=O´Higgins]]></description>
+<pubDate>Sat, 31 Oct 2026 19:33:45 GMT</pubDate>
 </item>
 
 </channel>
