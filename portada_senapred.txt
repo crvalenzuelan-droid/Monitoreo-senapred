@@ -18,6 +18,30 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña a evento meteorológico
+
+01-11-2026 16:00
+
+Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
+
+01-11-2026 15:29
+
+Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento
+
+01-11-2026 14:53
+
+Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Huasco, Freirina y Alto del Carmen por viento
+
+01-11-2026 14:05
+
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+01-11-2026 13:56
+
+Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
+
+01-11-2026 13:48
+
 Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hurtado, Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida
 
 01-11-2026 03:23
@@ -38,25 +62,9 @@ Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento me
 
 31-10-2026 17:30
 
-Se modifica Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico
-
-31-10-2026 16:06
-
-Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
-
-31-10-2026 15:28
-
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 31-10-2026 13:32
-
-Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
-
-31-10-2026 12:00
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-31-10-2026 11:40
 
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria
 
