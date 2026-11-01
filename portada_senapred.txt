@@ -30,10 +30,6 @@ Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región 
 
 31-10-2026 23:16
 
-Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
-
-31-10-2026 22:39
-
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
 
 31-10-2026 22:01
@@ -61,10 +57,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O'Higgins por evento met
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 31-10-2026 11:40
-
-Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas
-
-30-10-2026 13:15
 
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria
 
