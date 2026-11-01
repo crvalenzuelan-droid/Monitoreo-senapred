@@ -46,6 +46,10 @@ Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hur
 
 01-11-2026 03:23
 
+Se declara Alerta Temprana Preventiva Nacional por calor
+
+01-11-2026 00:02
+
 Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
 
 31-10-2026 23:40
