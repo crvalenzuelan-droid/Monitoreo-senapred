@@ -6,11 +6,27 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-10-27-18-38-29</link>
+<guid isPermaLink="false"><![CDATA[Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico|31-10-2026 22:39]]></guid>
+<description><![CDATA[Accion=Se cancela|Tipo=ATP|Region=Tarapacá|Prioridad=Baja|Fecha=31-10-2026 22:39|NivelCobertura=Región|UbicacionCobertura=Tarapacá]]></description>
+<pubDate>Sun, 01 Nov 2026 02:14:09 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento|31-10-2026 22:01]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=31-10-2026 22:01|NivelCobertura=Comuna|UbicacionCobertura=camarones]]></description>
+<pubDate>Sun, 01 Nov 2026 02:14:09 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico|31-10-2026 17:30]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=31-10-2026 17:30|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
-<pubDate>Sat, 31 Oct 2026 22:50:55 GMT</pubDate>
+<pubDate>Sun, 01 Nov 2026 02:14:09 GMT</pubDate>
 </item>
 
 <item>
@@ -18,7 +34,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31</link>
 <guid isPermaLink="false"><![CDATA[Se modifica Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico|31-10-2026 16:06]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=31-10-2026 16:06|NivelCobertura=Comuna|UbicacionCobertura=rio hurtado,salamanca,vicuna]]></description>
-<pubDate>Sat, 31 Oct 2026 22:50:55 GMT</pubDate>
+<pubDate>Sun, 01 Nov 2026 02:14:09 GMT</pubDate>
 </item>
 
 <item>
@@ -26,23 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico|31-10-2026 15:28]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=31-10-2026 15:28|NivelCobertura=Comuna|UbicacionCobertura=san felipe,los andes]]></description>
-<pubDate>Sat, 31 Oct 2026 22:50:55 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21</link>
-<guid isPermaLink="false"><![CDATA[Se modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida|31-10-2026 14:57]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=31-10-2026 14:57|NivelCobertura=Comuna|UbicacionCobertura=monte patria,salamanca,illapel,vicuna]]></description>
-<pubDate>Sat, 31 Oct 2026 22:50:55 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-tormentas-electricas-2026-10-29-16-51-29</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|31-10-2026 13:32]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=31-10-2026 13:32|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
-<pubDate>Sat, 31 Oct 2026 22:50:55 GMT</pubDate>
+<pubDate>Sun, 01 Nov 2026 02:14:09 GMT</pubDate>
 </item>
 
 </channel>

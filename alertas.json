@@ -1,5 +1,31 @@
 [
   {
+    "id_alerta": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico|31-10-2026 22:39",
+    "accion": "Se cancela",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Tarapacá",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Tarapacá",
+    "fecha_senapred": "31-10-2026 22:39",
+    "titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-10-27-18-38-29",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de Tarapacá, debido al debilitamiento de las condiciones meteorológicas que los originaron:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\n\n\nAviso A587-1\n\n\t\n\nProbables tormentas eléctricas en precordillera y cordillera.\n\n\n\n\nAviso A592\n\n\t\n\nViento normal a moderado en cordillera.\n\n\n\n\nEn consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por evento meteorológico para la provincia del Tamarugal, que se mantuvo vigente desde el 27 de Octubre de 2026.\n\nMonitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico\n\n29-10-2026 18:50\n\nSe modifica cobertura de Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico\n\n28-10-2026 16:11\n\nSe declara Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico\n\n27-10-2026 17:23"
+  },
+  {
+    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento|31-10-2026 22:01",
+    "accion": "Monitoreo",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Arica y Parinacota",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "camarones",
+    "fecha_senapred": "31-10-2026 22:01",
+    "titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\n\n\nAviso A592\n\n\t\n\nViento normal a moderado en cordillera.\n\n\n\n\nAdicionalmente la Dirección Meteorológica de Chile (DMC), indica mediante su Informe de Amenaza Meteorológica y Pronostico Público, que se prevé para los próximos viento normal entre 40 y 60 km/h en cordillera y para el resto de la región entre 25 y 40 km/h.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por viento para la provincia de Parinacota y la comuna de Camarones, que se encuentra vigente desde el 27 de octubre de 2026 y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento\n\n27-10-2026 16:15"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico|31-10-2026 17:30",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -37,31 +63,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-10-29-18-30-53",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Valparaíso:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A591-5\n\n\t\n\nProbables tormentas eléctricas asociadas con probabilidad de granizos en precordillera y valles precordilleranos y cordillera.\n\n\t\n\n30-10\n\n\t\n\n01-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAsimismo, conforme a lo indicado por la DMC en el Informe de Amenaza Meteorológica de la presente jornada, para los próximos días los montos pronosticados de precipitaciones, velocidades de viento y altura de isoterma cero, son los siguientes:\n\nPrecipitaciones: entre 2 y 10 mm.\nViento: 25 – 50 km/h.\nIsoterma 0:  entre 3.100 – 3.500 m.s.n.m.\n\n\n\n\nPor otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es Moderada en valles precordilleranos y precordillera y cordillera; Baja en litoral y cordillera de la costa; Isla de Pascua y A. Juan Fernández.\n\n\n\n\nCabe señalar que, la Dirección Regional de la Dirección General de Aguas (DGA) de Valparaíso ha informado que, de acuerdo con sus observaciones, se estima la presencia de nieve acumulada en sectores cordilleranos desde aproximadamente los 2.300 m. s. n. m; mientras que, el Reporte de Nieves, actualizado hoy 31 de octubre a las 08:00 horas, registra las siguientes alturas de nieve en estaciones de monitoreo ubicadas en las cuencas de Petorca y Aconcagua:\n\nCuenca\n\n\t\n\nEstación\n\n\t\n\nElevación estación (m.s.n.m\n\n\t\n\nAltura de nieve en la estación (cm)\n\n\n\n\nPetorca\n\n\t\n\nNacimiento del Sobrante\n\n\t\n\n3.143\n\n\t\n\n196\n\n\n\n\nAconcagua\n\n\t\n\nPortillo\n\n\t\n\n3.032\n\n\t\n\n225\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por evento meteorológico para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo, que se encuentra vigente desde el 29 de octubre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico\n\n30-10-2026 19:21\n\nSe declara Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico\n\n29-10-2026 18:29"
-  },
-  {
-    "id_alerta": "Se modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida|31-10-2026 14:57",
-    "accion": "Se modifica",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "monte patria,salamanca,illapel,vicuna",
-    "fecha_senapred": "31-10-2026 14:57",
-    "titulo": "Se modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
-    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida, que se encuentra vigente desde el 2 de octubre y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano y Vicuña por crecida\n\n29-10-2026 21:15\n\nSe declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida\n\n02-10-2026 16:41"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|31-10-2026 13:32",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Ñuble",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Ñuble",
-    "fecha_senapred": "31-10-2026 13:32",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-tormentas-electricas-2026-10-29-16-51-29",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A591-5\n\n\t\n\nProbables tormentas eléctricas con probabilidad de granizos en valle, precordillera y cordillera.\n\n\t\n\n31-10\n\n\t\n\n31-10\n\n\t\n\nAbrir aquí\n\n\n\n\nPor otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es Moderada en precordillera y cordillera; Baja en litoral, cordillera de la costa y valle longitudinal.\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED mantiene Alerta Temprana Preventiva Regional por evento meteorológico, que se mantiene vigente desde el 29 de octubre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico\n\n29-10-2026 16:53"
   }
 ]

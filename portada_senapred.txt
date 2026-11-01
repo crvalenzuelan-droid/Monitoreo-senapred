@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
+
+31-10-2026 22:39
+
+Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento
+
+31-10-2026 22:01
+
 Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
 
 31-10-2026 17:30
@@ -58,17 +66,9 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por tormentas e
 
 30-10-2026 13:15
 
-Se modifica Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-30-10-2026 08:10
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria
 
 29-10-2026 19:34
-
-Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico
-
-29-10-2026 18:50
 
 Se declara Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
@@ -85,10 +85,6 @@ Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 28-10-2026 19:16
-
-Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento
-
-27-10-2026 16:15
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del Volcán Villarrica
 
