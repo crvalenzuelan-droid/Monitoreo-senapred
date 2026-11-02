@@ -1,24 +1,23 @@
 name: Pronostico Temperaturas Chile
 
-name: Pronostico Temperaturas Chile
-
-'on':
+on:
   workflow_dispatch:
 
   schedule:
-    - cron: '10 10 * * *'
-    - cron: '40 10 * * *'
+    - cron: "10 10 * * *"
+    - cron: "40 10 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: repositorio-alertas-gobierno
+  group: pronostico-temperaturas-chile
   cancel-in-progress: false
 
 jobs:
   pronostico-temperaturas:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Descargar repositorio
@@ -29,7 +28,7 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Instalar Playwright
         shell: bash
@@ -45,6 +44,8 @@ jobs:
 
       - name: Ejecutar scraper de temperaturas
         shell: bash
+        env:
+          TZ: America/Santiago
         run: |
           python meteochile_temperatura/scraper_temperaturas.py
 
@@ -56,11 +57,11 @@ jobs:
 
           echo ""
           echo "Verificando JSON:"
-          test -f meteochile_temperatura/pronostico_temperaturas.json
+          test -s meteochile_temperatura/pronostico_temperaturas.json
 
           echo ""
           echo "Verificando XML:"
-          test -f meteochile_temperatura/pronostico_temperaturas.xml
+          test -s meteochile_temperatura/pronostico_temperaturas.xml
 
           echo ""
           echo "Primeras lineas del JSON:"
@@ -74,14 +75,14 @@ jobs:
         if: always()
         shell: bash
         run: |
-          find meteochile_temperatura -type d -name '__pycache__' -exec rm -rf '{}' + || true
-          find meteochile_temperatura -type f -name '*.pyc' -delete || true
+          find meteochile_temperatura -type d -name "__pycache__" -exec rm -rf "{}" + || true
+          find meteochile_temperatura -type f -name "*.pyc" -delete || true
 
       - name: Guardar pronostico en GitHub
         shell: bash
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add -f meteochile_temperatura/pronostico_temperaturas.json
           git add -f meteochile_temperatura/pronostico_temperaturas.xml
@@ -89,10 +90,22 @@ jobs:
           git status --short
 
           if git diff --cached --quiet; then
-            echo 'No hay cambios en el pronostico de temperaturas.'
+            echo "No hay cambios en el pronostico de temperaturas."
             exit 0
           fi
 
-          git commit -m 'Actualizar pronostico de temperaturas'
-          git pull --rebase origin main
-          git push origin main
+          git commit -m "Actualizar pronostico de temperaturas"
+
+          for intento in 1 2 3; do
+            if git pull --rebase origin main && git push origin main; then
+              echo "Pronostico guardado correctamente."
+              exit 0
+            fi
+
+            echo "Intento ${intento} fallido. Reintentando..."
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+
+          echo "No fue posible guardar el pronostico despues de 3 intentos."
+          exit 1
