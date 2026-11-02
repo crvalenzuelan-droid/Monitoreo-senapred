@@ -66,10 +66,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento me
 
 31-10-2026 17:30
 
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-31-10-2026 13:32
-
 Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria
 
 29-10-2026 19:34
