@@ -1,11 +1,14 @@
 name: Pronostico Nacional UV
 
 'on':
-  workflow_dispatch:
+  *orkflow_dispatch:
 
   schedule:
-    - cron: '20 8 * * *'
-      timezone: 'America/Santiago'
+   *- cron: '20 7 * * *'
+      timezon*: 'America/Santiago'
+
+    - cron: *50 7 * * *'
+      timezone: 'Ameri*a/Santiago'
 
 permissions:
   contents: write
