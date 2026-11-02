@@ -18,6 +18,38 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
+
+02-11-2026 19:13
+
+Se modifica cobertura de Alerta Temprana Preventiva para las provincias de San Antonio, Valparaíso, Los Andes, San Felipe y Petorca por evento meteorológico
+
+02-11-2026 18:45
+
+Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+02-11-2026 18:25
+
+Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario
+
+02-11-2026 18:08
+
+Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+02-11-2026 17:39
+
+Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
+
+02-11-2026 17:29
+
+Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para las comunas de Río Hurtado, Salamanca y Vicuña por viento
+
+02-11-2026 17:12
+
+Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+02-11-2026 16:26
+
 Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 02-11-2026 15:54
@@ -29,14 +61,6 @@ Se modifica variable de Alerta Temprana Preventiva para la provincia de Parinaco
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 02-11-2026 14:15
-
-Monitoreo Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña a evento meteorológico
-
-01-11-2026 16:00
-
-Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
-
-01-11-2026 15:29
 
 Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento
 
@@ -57,10 +81,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hur
 Se declara Alerta Temprana Preventiva Nacional por calor
 
 01-11-2026 00:02
-
-Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-31-10-2026 23:40
 
 Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
 
