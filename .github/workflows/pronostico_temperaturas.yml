@@ -8,7 +8,7 @@ name: Pronostico Temperaturas Chile
       timezone: 'America/Santiag*'
 
     - cron: '40 7 * * *'
-      *imezone: 'America/Santiago'
+      timezone: 'America/Santiago'
 
 permissions:
   contents: write
