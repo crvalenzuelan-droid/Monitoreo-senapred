@@ -1,10 +1,11 @@
 name: Pronostico Nacional UV
 
-on:
+'on':
   workflow_dispatch:
 
   schedule:
-    - cron: "0 11 * * *"
+    - cron: '20 8 * * *'
+      timezone: 'America/Santiago'
 
 permissions:
   contents: write
