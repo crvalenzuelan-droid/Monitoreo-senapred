@@ -1,25 +1,23 @@
 name: Pronostico Nacional UV
 
-'on':
-  *orkflow_dispatch:
+on:
+  workflow_dispatch:
 
   schedule:
-   *- cron: '20 7 * * *'
-      timezon*: 'America/Santiago'
-
-    - cron: *50 7 * * *'
-      timezone: 'Ameri*a/Santiago'
+    - cron: "20 10 * * *"
+    - cron: "50 10 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: repositorio-alertas-gobierno
+  group: pronostico-nacional-uv
   cancel-in-progress: false
 
 jobs:
   pronostico-uv:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Descargar repositorio
@@ -33,33 +31,55 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar Playwright
+        shell: bash
         run: |
           python -m pip install --upgrade pip
           pip install playwright
           playwright install --with-deps chromium
 
       - name: Validar sintaxis del scraper
+        shell: bash
         run: |
           python -m py_compile meteochile_uv/scraper_uv_pronostico.py
 
       - name: Ejecutar pronostico UV
+        shell: bash
+        env:
+          TZ: America/Santiago
         run: |
           python meteochile_uv/scraper_uv_pronostico.py
 
       - name: Verificar archivos generados
+        shell: bash
         run: |
           echo "Archivos generados:"
           ls -la meteochile_uv
+
+          echo ""
+          echo "Verificando JSON:"
+          test -s meteochile_uv/pronostico_uv.json
+
+          echo ""
+          echo "Verificando XML:"
+          test -s meteochile_uv/pronostico_uv.xml
 
           echo ""
           echo "Contenido inicial del JSON:"
           head -n 40 meteochile_uv/pronostico_uv.json
 
           echo ""
-          echo "Contenido del RSS:"
-          cat meteochile_uv/pronostico_uv.xml
+          echo "Contenido inicial del XML:"
+          head -n 80 meteochile_uv/pronostico_uv.xml
+
+      - name: Limpiar archivos temporales
+        if: always()
+        shell: bash
+        run: |
+          find meteochile_uv -type d -name "__pycache__" -exec rm -rf "{}" + || true
+          find meteochile_uv -type f -name "*.pyc" -delete || true
 
       - name: Guardar pronostico UV en GitHub
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -67,29 +87,29 @@ jobs:
           git add -f meteochile_uv/pronostico_uv.json
           git add -f meteochile_uv/pronostico_uv.xml
 
+          echo "Cambios detectados:"
+          git status --short
+
           if git diff --cached --quiet; then
             echo "No hay cambios en el pronostico UV."
-          else
-            git commit -m "Actualizar pronostico nacional UV"
-
-            git pull --rebase origin main
-
-            for intento in 1 2 3
-            do
-              if git push origin main; then
-                echo "Pronostico UV guardado correctamente."
-                break
-              fi
-
-              echo "Push rechazado. Actualizando repositorio."
-              echo "Intento $intento de 3."
-
-              git pull --rebase origin main
-              sleep 5
-
-              if [ "$intento" -eq 3 ]; then
-                echo "No fue posible guardar el pronostico UV."
-                exit 1
-              fi
-            done
+            exit 0
           fi
+
+          git commit -m "Actualizar pronostico nacional UV"
+
+          for intento in 1 2 3; do
+            echo "Intento ${intento} de guardar cambios."
+
+            if git pull --rebase origin main && git push origin main; then
+              echo "Pronostico UV guardado correctamente."
+              exit 0
+            fi
+
+            echo "Intento ${intento} fallido."
+
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+
+          echo "No fue posible guardar el pronostico UV despues de 3 intentos."
+          exit 1
