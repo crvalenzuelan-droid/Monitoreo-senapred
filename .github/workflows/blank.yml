@@ -1,21 +1,22 @@
 name: Monitor SENAPRED
 
-'on':
-  workflow_dispatch: {}
+on:
+  workflow_dispatch:
 
   schedule:
-    - cron: '17,47 * * * *'
+    - cron: "17,47 * * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: repositorio-alertas-gobierno
+  group: monitor-senapred
   cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Descargar repositorio
@@ -26,14 +27,14 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Instalar Playwright
         shell: bash
         run: |
           python -m pip install --upgrade pip
           pip install playwright
-          playwright install chromium
+          playwright install --with-deps chromium
 
       - name: Validar sintaxis del scraper
         shell: bash
@@ -42,6 +43,8 @@ jobs:
 
       - name: Ejecutar scraper
         shell: bash
+        env:
+          TZ: America/Santiago
         run: |
           python scraper.py
 
@@ -50,9 +53,9 @@ jobs:
         run: |
           echo "Revisando archivos SENAPRED..."
 
-          test -f rss.xml
-          test -f alertas.json
-          test -f portada_senapred.txt
+          test -s rss.xml
+          test -s alertas.json
+          test -s portada_senapred.txt
 
           echo ""
           echo "Estado de los archivos:"
@@ -62,13 +65,29 @@ jobs:
           echo "Primeras lineas del RSS:"
           head -n 30 rss.xml
 
+          echo ""
+          echo "Primeras lineas del JSON:"
+          head -n 40 alertas.json
+
+      - name: Limpiar archivos temporales
+        if: always()
+        shell: bash
+        run: |
+          find . -type d -name "__pycache__" -exec rm -rf "{}" + || true
+          find . -type f -name "*.pyc" -delete || true
+
       - name: Guardar cambios
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add rss.xml alertas.json portada_senapred.txt
+          git add -f rss.xml
+          git add -f alertas.json
+          git add -f portada_senapred.txt
+
+          echo "Cambios detectados:"
+          git status --short
 
           if git diff --cached --quiet; then
             echo "No hay cambios para guardar."
@@ -77,19 +96,17 @@ jobs:
 
           git commit -m "Actualizar RSS SENAPRED"
 
-          for intento in 1 2 3
-          do
-            echo "Intento de envio $intento de 3."
+          for intento in 1 2 3; do
+            echo "Intento ${intento} de 3."
 
-            git pull --rebase origin main
-
-            if git push origin main; then
+            if git pull --rebase origin main && git push origin main; then
               echo "Cambios enviados correctamente."
               exit 0
             fi
 
-            echo "Push rechazado. Se intentara nuevamente."
-            sleep 5
+            echo "Intento ${intento} fallido."
+            git rebase --abort 2>/dev/null || true
+            sleep 10
           done
 
           echo "No fue posible enviar los cambios despues de 3 intentos."
