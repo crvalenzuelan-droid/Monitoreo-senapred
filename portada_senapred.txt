@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
+
+04-11-2026 15:45
+
 Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 03-11-2026 18:25
@@ -26,17 +30,9 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 
 03-11-2026 15:31
 
-Monitoreo Alerta Temprana Preventiva para la región de La Araucanía por tormentas eléctricas
-
-03-11-2026 12:35
-
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 03-11-2026 10:09
-
-Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por remoción en masa
-
-02-11-2026 19:13
 
 Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario
 
@@ -57,10 +53,6 @@ Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento
 Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Huasco, Freirina y Alto del Carmen por viento
 
 01-11-2026 14:05
-
-Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento meteorológico
-
-01-11-2026 13:48
 
 Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hurtado, Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida
 
