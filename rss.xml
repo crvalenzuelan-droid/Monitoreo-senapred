@@ -5,14 +5,14 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Thu, 05 Nov 2026 22:16:40 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 22:28:37 GMT</lastBuildDate>
 
 <item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento|05-11-2026 15:25]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=05-11-2026 15:25|NivelCobertura=Provincia|UbicacionCobertura=huasco]]></description>
-<pubDate>Thu, 05 Nov 2026 22:16:40 GMT</pubDate>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=05-11-2026 15:25|NivelCobertura=Comuna|UbicacionCobertura=freirina,huasco]]></description>
+<pubDate>Thu, 05 Nov 2026 22:28:37 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +20,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por viento|05-11-2026 14:22]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=05-11-2026 14:22|NivelCobertura=Región|UbicacionCobertura=Coquimbo]]></description>
-<pubDate>Thu, 05 Nov 2026 22:16:40 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 22:28:37 GMT</pubDate>
 </item>
 
 <item>
@@ -28,7 +28,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|05-11-2026 14:19]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=05-11-2026 14:19|NivelCobertura=Región|UbicacionCobertura=Los Lagos]]></description>
-<pubDate>Thu, 05 Nov 2026 22:16:40 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 22:28:37 GMT</pubDate>
 </item>
 
 <item>
@@ -36,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-05-13-47-01</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas|05-11-2026 13:46]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=05-11-2026 13:46|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
-<pubDate>Thu, 05 Nov 2026 22:16:40 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 22:28:37 GMT</pubDate>
 </item>
 
 <item>
@@ -44,7 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-05-13-32-11</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|05-11-2026 13:30]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=La Araucanía|Prioridad=Baja|Fecha=05-11-2026 13:30|NivelCobertura=Región|UbicacionCobertura=La Araucanía]]></description>
-<pubDate>Thu, 05 Nov 2026 22:16:40 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 22:28:37 GMT</pubDate>
 </item>
 
 </channel>
