@@ -1,0 +1,104 @@
+{
+  "fuente": "WeatherAPI.com",
+  "fecha_pronostico": "2026-11-05",
+  "fecha_generacion_chile": "2026-11-05T12:17:22.462550-03:00",
+  "maximo_nacional": 14.7,
+  "regiones": [
+    {
+      "region": "Arica y Parinacota",
+      "ciudad_referencia": "Arica",
+      "uv_maximo": 14.2,
+      "categoria": "Extremo"
+    },
+    {
+      "region": "Tarapacá",
+      "ciudad_referencia": "Iquique",
+      "uv_maximo": 14.6,
+      "categoria": "Extremo"
+    },
+    {
+      "region": "Antofagasta",
+      "ciudad_referencia": "Antofagasta",
+      "uv_maximo": 14.7,
+      "categoria": "Extremo"
+    },
+    {
+      "region": "Atacama",
+      "ciudad_referencia": "Copiapó",
+      "uv_maximo": 14.3,
+      "categoria": "Extremo"
+    },
+    {
+      "region": "Coquimbo",
+      "ciudad_referencia": "La Serena",
+      "uv_maximo": 12.6,
+      "categoria": "Extremo"
+    },
+    {
+      "region": "Valparaíso",
+      "ciudad_referencia": "Valparaíso",
+      "uv_maximo": 11.0,
+      "categoria": "Extremo"
+    },
+    {
+      "region": "Metropolitana",
+      "ciudad_referencia": "Santiago",
+      "uv_maximo": 10.8,
+      "categoria": "Muy Alto"
+    },
+    {
+      "region": "O´Higgins",
+      "ciudad_referencia": "Rancagua",
+      "uv_maximo": 10.5,
+      "categoria": "Muy Alto"
+    },
+    {
+      "region": "Maule",
+      "ciudad_referencia": "Talca",
+      "uv_maximo": 10.4,
+      "categoria": "Muy Alto"
+    },
+    {
+      "region": "Ñuble",
+      "ciudad_referencia": "Chillán",
+      "uv_maximo": 9.8,
+      "categoria": "Muy Alto"
+    },
+    {
+      "region": "Biobío",
+      "ciudad_referencia": "Concepción",
+      "uv_maximo": 9.2,
+      "categoria": "Muy Alto"
+    },
+    {
+      "region": "La Araucanía",
+      "ciudad_referencia": "Temuco",
+      "uv_maximo": 7.8,
+      "categoria": "Alto"
+    },
+    {
+      "region": "Los Ríos",
+      "ciudad_referencia": "Valdivia",
+      "uv_maximo": 8.8,
+      "categoria": "Muy Alto"
+    },
+    {
+      "region": "Los Lagos",
+      "ciudad_referencia": "Puerto Montt",
+      "uv_maximo": 7.0,
+      "categoria": "Alto"
+    },
+    {
+      "region": "Aysén",
+      "ciudad_referencia": "Coyhaique",
+      "uv_maximo": 6.8,
+      "categoria": "Alto"
+    },
+    {
+      "region": "Magallanes",
+      "ciudad_referencia": "Punta Arenas",
+      "uv_maximo": 4.6,
+      "categoria": "Moderado"
+    }
+  ]
+}
