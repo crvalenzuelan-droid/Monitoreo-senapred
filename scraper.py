@@ -43,7 +43,10 @@ def normalizar_texto(texto):
     texto = texto.replace("’", "'")
     texto = texto.replace("`", "'")
 
-    texto = unicodedata.normalize("NFD", texto)
+    texto = unicodedata.normalize(
+        "NFD",
+        texto
+    )
 
     texto = "".join(
         caracter
@@ -118,7 +121,9 @@ def titulo_es_alerta(titulo):
     Confirma que el texto parece corresponder a una
     publicación oficial de alerta SENAPRED.
     """
-    titulo_normalizado = normalizar_texto(titulo)
+    titulo_normalizado = normalizar_texto(
+        titulo
+    )
 
     return titulo_normalizado.startswith(
         INICIOS_TITULO_VALIDOS
@@ -139,13 +144,21 @@ def extraer_fecha_datetime(fecha_texto):
         return datetime.min
 
 
-def similitud_titulos(titulo_portada, titulo_detalle):
+def similitud_titulos(
+    titulo_portada,
+    titulo_detalle
+):
     """
     Compara palabras significativas entre el titulo visible
     en la portada y el titulo recuperado desde el detalle.
     """
-    portada = normalizar_texto(titulo_portada)
-    detalle = normalizar_texto(titulo_detalle)
+    portada = normalizar_texto(
+        titulo_portada
+    )
+
+    detalle = normalizar_texto(
+        titulo_detalle
+    )
 
     if not portada or not detalle:
         return 0.0
@@ -522,53 +535,6 @@ COMUNA_REGION = {
 # FUNCIONES TERRITORIALES
 # ============================================================
 
-def normalizar_region(region):
-    """
-    Convierte variantes regionales al nombre utilizado
-    en PE - Tiendas Falabella.
-    """
-    region_original = str(region).strip()
-    region_normalizada = normalizar_texto(
-        region_original
-    )
-
-    if not region_normalizada:
-        return "No identificada"
-
-    region_normalizada = re.sub(
-        r"^(region|región)\s+",
-        "",
-        region_normalizada,
-        flags=re.IGNORECASE
-    ).strip()
-
-    candidatos = [
-        region_normalizada
-    ]
-
-    prefijos = [
-        "de los ",
-        "de las ",
-        "del ",
-        "de la ",
-        "de ",
-    ]
-
-    for prefijo in prefijos:
-        if region_normalizada.startswith(prefijo):
-            candidatos.append(
-                region_normalizada[
-                    len(prefijo):
-                ].strip()
-            )
-
-    for candidato in candidatos:
-        if candidato in REGIONES_ALIAS:
-            return REGIONES_ALIAS[candidato]
-
-    return region_original
-
-
 def buscar_regiones_explicitas(titulo):
     """
     Busca regiones escritas dentro del titulo.
@@ -606,7 +572,8 @@ def buscar_regiones_explicitas(titulo):
 
 def buscar_provincias_en_texto(titulo):
     """
-    Devuelve todas las provincias detectadas.
+    Devuelve todas las provincias detectadas dentro del
+    segmento territorial anterior a la palabra 'por'.
     """
     titulo_normalizado = normalizar_texto(
         titulo
@@ -647,8 +614,8 @@ def buscar_provincias_en_texto(titulo):
 
 def buscar_comunas_en_texto(titulo):
     """
-    Detecta comunas en el segmento territorial anterior a
-    la palabra 'por'.
+    Detecta comunas dentro del segmento territorial anterior
+    a la palabra 'por'.
     """
     titulo_normalizado = normalizar_texto(
         titulo
@@ -736,16 +703,12 @@ def obtener_region_y_cobertura(titulo):
     """
     Determina region, nivel de cobertura y ubicacion.
 
-    Prioridad territorial:
-    1. Expresion regional explicita.
-    2. Expresion mixta provincia + comuna.
-    3. Expresion provincial explicita.
-    4. Expresion comunal explicita.
+    Prioridad:
+    1. Region explicita.
+    2. Cobertura mixta provincia + comuna.
+    3. Comuna explicita.
+    4. Provincia explicita.
     5. Inferencias de respaldo.
-
-    Las coberturas mixtas provincia + comuna se elevan a
-    nivel regional para no dejar tiendas afectadas fuera,
-    ya que Power Automate utiliza un unico nivel territorial.
     """
     titulo_normalizado = normalizar_texto(
         titulo
@@ -786,6 +749,8 @@ def obtener_region_y_cobertura(titulo):
         "para las regiones ",
         "en la region de ",
         "en las regiones de ",
+        "en la region ",
+        "en las regiones ",
         "region de ",
         "regiones de ",
     ]
@@ -793,8 +758,12 @@ def obtener_region_y_cobertura(titulo):
     indicadores_provinciales = [
         "para la provincia de ",
         "para las provincias de ",
+        "para la provincia ",
+        "para las provincias ",
         "en la provincia de ",
         "en las provincias de ",
+        "en la provincia ",
+        "en las provincias ",
         "provincia de ",
         "provincias de ",
     ]
@@ -802,8 +771,12 @@ def obtener_region_y_cobertura(titulo):
     indicadores_comunales = [
         "para la comuna de ",
         "para las comunas de ",
+        "para la comuna ",
+        "para las comunas ",
         "en la comuna de ",
         "en las comunas de ",
+        "en la comuna ",
+        "en las comunas ",
         "comuna de ",
         "comunas de ",
     ]
@@ -859,20 +832,7 @@ def obtener_region_y_cobertura(titulo):
             )
 
     # --------------------------------------------------------
-    # 3. COBERTURA PROVINCIAL EXPLICITA
-    # --------------------------------------------------------
-
-    if es_provincial and provincias:
-        return (
-            ",".join(regiones_provincias)
-            if regiones_provincias
-            else "No identificada",
-            "Provincia",
-            ",".join(provincias)
-        )
-
-    # --------------------------------------------------------
-    # 4. COBERTURA COMUNAL EXPLICITA
+    # 3. COBERTURA COMUNAL EXPLICITA
     # --------------------------------------------------------
 
     if es_comunal and comunas:
@@ -882,6 +842,19 @@ def obtener_region_y_cobertura(titulo):
             else "No identificada",
             "Comuna",
             ",".join(comunas)
+        )
+
+    # --------------------------------------------------------
+    # 4. COBERTURA PROVINCIAL EXPLICITA
+    # --------------------------------------------------------
+
+    if es_provincial and provincias:
+        return (
+            ",".join(regiones_provincias)
+            if regiones_provincias
+            else "No identificada",
+            "Provincia",
+            ",".join(provincias)
         )
 
     # --------------------------------------------------------
@@ -895,15 +868,6 @@ def obtener_region_y_cobertura(titulo):
             ",".join(regiones_explicitas)
         )
 
-    if provincias:
-        return (
-            ",".join(regiones_provincias)
-            if regiones_provincias
-            else "No identificada",
-            "Provincia",
-            ",".join(provincias)
-        )
-
     if comunas:
         return (
             ",".join(regiones_comunas)
@@ -911,6 +875,15 @@ def obtener_region_y_cobertura(titulo):
             else "No identificada",
             "Comuna",
             ",".join(comunas)
+        )
+
+    if provincias:
+        return (
+            ",".join(regiones_provincias)
+            if regiones_provincias
+            else "No identificada",
+            "Provincia",
+            ",".join(provincias)
         )
 
     return (
@@ -927,7 +900,7 @@ def obtener_region_y_cobertura(titulo):
 def obtener_enlaces_candidatos(page):
     """
     Obtiene enlaces visibles de alertas y conserva el texto
-    mostrado por SENAPRED junto con la URL.
+    mostrado junto con la URL.
     """
     enlaces = page.locator(
         'a[href*="/alerta/"]'
@@ -972,7 +945,9 @@ def obtener_enlaces_candidatos(page):
         ):
             continue
 
-        urls_vistas.add(href)
+        urls_vistas.add(
+            href
+        )
 
         candidatos.append(
             {
@@ -1093,8 +1068,8 @@ def procesar_alerta(
         if similitud < 0.55:
             print(
                 "ALERTA OMITIDA: "
-                "el titulo de portada no coincide "
-                "con el detalle enlazado"
+                "titulo de portada no coincide "
+                "con detalle enlazado"
             )
             print(
                 "PORTADA:",
