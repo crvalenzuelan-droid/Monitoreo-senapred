@@ -18,15 +18,18 @@ ZONA_HORARIA_CHILE = ZoneInfo("America/Santiago")
 CARPETA_SALIDA = Path("weatherapi_chile")
 
 ARCHIVO_JSON_COMPLETO = (
-    CARPETA_SALIDA / "pronostico_weatherapi_chile.json"
+    CARPETA_SALIDA
+    / "pronostico_weatherapi_chile.json"
 )
 
 ARCHIVO_JSON_UV = (
-    CARPETA_SALIDA / "pronostico_uv_weatherapi.json"
+    CARPETA_SALIDA
+    / "pronostico_uv_weatherapi.json"
 )
 
 ARCHIVO_XML_UV = (
-    CARPETA_SALIDA / "pronostico_uv_weatherapi.xml"
+    CARPETA_SALIDA
+    / "pronostico_uv_weatherapi.xml"
 )
 
 ARCHIVO_JSON_TEMPERATURAS = (
@@ -40,7 +43,8 @@ ARCHIVO_XML_TEMPERATURAS = (
 )
 
 ARCHIVO_ESTADO = (
-    CARPETA_SALIDA / "estado_weatherapi.json"
+    CARPETA_SALIDA
+    / "estado_weatherapi.json"
 )
 
 URL_API = (
@@ -48,11 +52,12 @@ URL_API = (
 )
 
 MAXIMO_INTENTOS = 3
+
 ESPERA_ENTRE_INTENTOS = 5
 
 
 # ============================================================
-# CIUDADES DE REFERENCIA
+# CIUDADES DE REFERENCIA POR REGION
 # ============================================================
 
 CIUDADES = [
@@ -156,19 +161,25 @@ CIUDADES = [
 
 
 # ============================================================
-# FUNCIONES GENERALES
+# FUNCIONES GENERALES DE FECHA Y ARCHIVOS
 # ============================================================
 
 def ahora_chile():
-    return datetime.now(ZONA_HORARIA_CHILE)
+    return datetime.now(
+        ZONA_HORARIA_CHILE
+    )
 
 
 def fecha_hoy_chile():
-    return ahora_chile().strftime("%Y-%m-%d")
+    return ahora_chile().strftime(
+        "%Y-%m-%d"
+    )
 
 
 def fecha_hoy_local():
-    return ahora_chile().strftime("%d-%m-%Y")
+    return ahora_chile().strftime(
+        "%d-%m-%Y"
+    )
 
 
 def fecha_rss():
@@ -201,9 +212,14 @@ def validar_numero(
             f"{nombre} no es numerico: {valor}"
         )
 
-    if numero < minimo or numero > maximo:
+    if numero < minimo:
         raise ValueError(
-            f"{nombre} fuera de rango: {numero}"
+            f"{nombre} menor al minimo: {numero}"
+        )
+
+    if numero > maximo:
+        raise ValueError(
+            f"{nombre} mayor al maximo: {numero}"
         )
 
     return numero
@@ -227,7 +243,10 @@ def clasificar_uv(valor_uv):
     return "Extremo"
 
 
-def escribir_json(ruta, contenido):
+def escribir_json(
+    ruta,
+    contenido
+):
     ruta.parent.mkdir(
         parents=True,
         exist_ok=True
@@ -238,7 +257,6 @@ def escribir_json(ruta, contenido):
         "w",
         encoding="utf-8"
     ) as archivo:
-
         json.dump(
             contenido,
             archivo,
@@ -247,7 +265,10 @@ def escribir_json(ruta, contenido):
         )
 
 
-def escribir_texto(ruta, contenido):
+def escribir_texto(
+    ruta,
+    contenido
+):
     ruta.parent.mkdir(
         parents=True,
         exist_ok=True
@@ -258,12 +279,13 @@ def escribir_texto(ruta, contenido):
         "w",
         encoding="utf-8"
     ) as archivo:
-
-        archivo.write(contenido)
+        archivo.write(
+            contenido
+        )
 
 
 # ============================================================
-# CONSULTA WEATHERAPI
+# CONSULTA A WEATHERAPI
 # ============================================================
 
 def consultar_weatherapi(
@@ -311,7 +333,6 @@ def consultar_weatherapi(
                 solicitud,
                 timeout=45
             ) as respuesta:
-
                 codigo = respuesta.getcode()
 
                 if codigo != 200:
@@ -320,20 +341,25 @@ def consultar_weatherapi(
                         f"HTTP {codigo}"
                     )
 
-                contenido = (
-                    respuesta.read().decode("utf-8")
+                contenido = respuesta.read().decode(
+                    "utf-8"
                 )
 
-                datos = json.loads(contenido)
+                datos = json.loads(
+                    contenido
+                )
 
                 if "error" in datos:
-                    mensaje = datos["error"].get(
-                        "message",
-                        "Error no identificado"
+                    mensaje_error = (
+                        datos["error"].get(
+                            "message",
+                            "Error no identificado"
+                        )
                     )
 
                     raise RuntimeError(
-                        f"WeatherAPI: {mensaje}"
+                        "WeatherAPI: "
+                        f"{mensaje_error}"
                     )
 
                 return datos
@@ -342,8 +368,9 @@ def consultar_weatherapi(
             ultimo_error = error
 
             print(
-                f"Intento {intento} fallido para "
-                f"{ciudad['ciudad']}: {error}"
+                f"Intento {intento} fallido "
+                f"para {ciudad['ciudad']}: "
+                f"{error}"
             )
 
             if intento < MAXIMO_INTENTOS:
@@ -353,12 +380,13 @@ def consultar_weatherapi(
 
     raise RuntimeError(
         "No fue posible consultar "
-        f"{ciudad['ciudad']}: {ultimo_error}"
+        f"{ciudad['ciudad']}: "
+        f"{ultimo_error}"
     )
 
 
 # ============================================================
-# PROCESAMIENTO POR CIUDAD
+# PROCESAMIENTO DE CADA CIUDAD
 # ============================================================
 
 def procesar_ciudad(
@@ -448,14 +476,17 @@ def procesar_ciudad(
 
     if temperatura_maxima < temperatura_minima:
         raise ValueError(
-            "Temperatura maxima menor que "
-            f"la minima en {ciudad['ciudad']}"
+            "Temperatura maxima menor "
+            "que la minima en "
+            f"{ciudad['ciudad']}"
         )
 
     valores_uv_horarios = []
 
     for hora in horas:
-        valor_uv = hora.get("uv")
+        valor_uv = hora.get(
+            "uv"
+        )
 
         if valor_uv is None:
             continue
@@ -468,10 +499,14 @@ def procesar_ciudad(
         except (TypeError, ValueError):
             continue
 
-    uv_diario = day.get("uv")
+    uv_diario = day.get(
+        "uv"
+    )
 
     if uv_diario is None:
-        uv_diario = current.get("uv")
+        uv_diario = current.get(
+            "uv"
+        )
 
     valores_uv_disponibles = []
 
@@ -503,7 +538,10 @@ def procesar_ciudad(
 
     condicion = (
         day.get("condition", {})
-        .get("text", "No informada")
+        .get(
+            "text",
+            "No informada"
+        )
     )
 
     humedad = validar_numero(
@@ -600,7 +638,7 @@ def procesar_ciudad(
 
 
 # ============================================================
-# VALIDACION NACIONAL
+# VALIDACION DE RESULTADOS NACIONALES
 # ============================================================
 
 def validar_resultados(
@@ -650,18 +688,23 @@ def validar_resultados(
 
     if fechas != {fecha_hoy_chile()}:
         raise RuntimeError(
-            f"Fechas inconsistentes: {fechas}"
+            "Fechas inconsistentes: "
+            f"{fechas}"
         )
 
 
 # ============================================================
-# JSON COMPLETO
+# GENERAR JSON COMPLETO
 # ============================================================
 
-def generar_json_completo(resultados):
+def generar_json_completo(
+    resultados
+):
     contenido = {
         "fuente": "WeatherAPI.com",
-        "fecha_pronostico": fecha_hoy_chile(),
+        "fecha_pronostico": (
+            fecha_hoy_chile()
+        ),
         "fecha_generacion_chile": (
             ahora_chile().isoformat()
         ),
@@ -677,10 +720,12 @@ def generar_json_completo(resultados):
 
 
 # ============================================================
-# PRODUCTO UV
+# GENERAR JSON UV DETALLADO
 # ============================================================
 
-def generar_json_uv(resultados):
+def generar_json_uv(
+    resultados
+):
     maximo_nacional = max(
         registro["uv_maximo"]
         for registro in resultados
@@ -688,7 +733,9 @@ def generar_json_uv(resultados):
 
     contenido = {
         "fuente": "WeatherAPI.com",
-        "fecha_pronostico": fecha_hoy_chile(),
+        "fecha_pronostico": (
+            fecha_hoy_chile()
+        ),
         "fecha_generacion_chile": (
             ahora_chile().isoformat()
         ),
@@ -699,7 +746,9 @@ def generar_json_uv(resultados):
                 "ciudad_referencia": (
                     registro["ciudad_referencia"]
                 ),
-                "uv_maximo": registro["uv_maximo"],
+                "uv_maximo": (
+                    registro["uv_maximo"]
+                ),
                 "categoria": (
                     registro["categoria_uv"]
                 )
@@ -714,7 +763,13 @@ def generar_json_uv(resultados):
     )
 
 
-def generar_xml_uv(resultados):
+# ============================================================
+# GENERAR XML UV NACIONAL CONSOLIDADO
+# ============================================================
+
+def generar_xml_uv(
+    resultados
+):
     fecha_local = fecha_hoy_local()
     fecha_publicacion = fecha_rss()
 
@@ -723,29 +778,86 @@ def generar_xml_uv(resultados):
         for registro in resultados
     )
 
-    items = ""
+    categorias = {
+        "Extremo": [],
+        "Muy Alto": [],
+        "Alto": [],
+        "Moderado": [],
+        "Bajo": []
+    }
 
     for registro in resultados:
-        guid = (
-            "UV-WEATHERAPI|"
-            f"{fecha_local}|"
-            f"{registro['region']}"
+        categoria = registro[
+            "categoria_uv"
+        ]
+
+        texto_region = (
+            f"{registro['region']} "
+            f"({registro['uv_maximo']})"
         )
 
-        descripcion = (
-            "Fuente=WeatherAPI.com"
-            f"|FechaPronostico={fecha_local}"
-            f"|Region={registro['region']}"
-            "|CiudadReferencia="
-            f"{registro['ciudad_referencia']}"
-            f"|UVMaximo={registro['uv_maximo']}"
-            f"|Categoria={registro['categoria_uv']}"
-            f"|MaximoNacional={maximo_nacional}"
+        if categoria not in categorias:
+            categorias[categoria] = []
+
+        categorias[categoria].append(
+            texto_region
         )
 
-        items += f"""
+    extremo = ", ".join(
+        categorias.get(
+            "Extremo",
+            []
+        )
+    )
+
+    muy_alto = ", ".join(
+        categorias.get(
+            "Muy Alto",
+            []
+        )
+    )
+
+    alto = ", ".join(
+        categorias.get(
+            "Alto",
+            []
+        )
+    )
+
+    moderado = ", ".join(
+        categorias.get(
+            "Moderado",
+            []
+        )
+    )
+
+    bajo = ", ".join(
+        categorias.get(
+            "Bajo",
+            []
+        )
+    )
+
+    guid = (
+        "UV-NACIONAL-WEATHERAPI|"
+        f"{fecha_local}"
+    )
+
+    descripcion = (
+        "Fuente=WeatherAPI.com"
+        f"|FechaPronostico={fecha_local}"
+        f"|MaximoNacional={maximo_nacional}"
+        f"|Extremo={extremo}"
+        f"|MuyAlto={muy_alto}"
+        f"|Alto={alto}"
+        f"|Moderado={moderado}"
+        f"|Bajo={bajo}"
+        "|NoDisponible="
+    )
+
+    item = f"""
 <item>
-<title><![CDATA[Pronóstico UV | {proteger_cdata(registro['region'])} | {fecha_local}]]></title>
+<title><![CDATA[Pronóstico Nacional de Radiación UV WeatherAPI | {fecha_local}]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[{proteger_cdata(guid)}]]></guid>
 <description><![CDATA[{proteger_cdata(descripcion)}]]></description>
@@ -756,12 +868,12 @@ def generar_xml_uv(resultados):
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Pronóstico UV Chile WeatherAPI</title>
+<title>Pronóstico Nacional Radiación UV WeatherAPI</title>
 <link>https://www.weatherapi.com/</link>
-<description>Pronóstico diario UV por región de Chile</description>
+<description>Pronóstico nacional diario de radiación UV</description>
 <language>es-cl</language>
 <lastBuildDate>{fecha_publicacion}</lastBuildDate>
-{items}
+{item}
 </channel>
 </rss>
 """
@@ -773,7 +885,7 @@ def generar_xml_uv(resultados):
 
 
 # ============================================================
-# PRODUCTO TEMPERATURAS
+# GENERAR JSON DE TEMPERATURAS
 # ============================================================
 
 def generar_json_temperaturas(
@@ -781,40 +893,46 @@ def generar_json_temperaturas(
 ):
     contenido = {
         "fuente": "WeatherAPI.com",
-        "fecha_pronostico": fecha_hoy_chile(),
+        "fecha_pronostico": (
+            fecha_hoy_chile()
+        ),
         "fecha_generacion_chile": (
             ahora_chile().isoformat()
         ),
         "regiones": [
             {
-                "region": registro["region"],
-                "ciudad_referencia": (
-                    registro["ciudad_referencia"]
-                ),
-                "temperatura_actual_c": (
-                    registro["temperatura_actual_c"]
-                ),
-                "temperatura_minima_c": (
-                    registro["temperatura_minima_c"]
-                ),
-                "temperatura_maxima_c": (
-                    registro["temperatura_maxima_c"]
-                ),
-                "sensacion_termica_c": (
-                    registro["sensacion_termica_c"]
-                ),
-                "humedad_porcentaje": (
-                    registro["humedad_porcentaje"]
-                ),
-                "viento_maximo_kmh": (
-                    registro["viento_maximo_kmh"]
-                ),
+                "region": registro[
+                    "region"
+                ],
+                "ciudad_referencia": registro[
+                    "ciudad_referencia"
+                ],
+                "temperatura_actual_c": registro[
+                    "temperatura_actual_c"
+                ],
+                "temperatura_minima_c": registro[
+                    "temperatura_minima_c"
+                ],
+                "temperatura_maxima_c": registro[
+                    "temperatura_maxima_c"
+                ],
+                "sensacion_termica_c": registro[
+                    "sensacion_termica_c"
+                ],
+                "humedad_porcentaje": registro[
+                    "humedad_porcentaje"
+                ],
+                "viento_maximo_kmh": registro[
+                    "viento_maximo_kmh"
+                ],
                 "probabilidad_lluvia_porcentaje": (
                     registro[
                         "probabilidad_lluvia_porcentaje"
                     ]
                 ),
-                "condicion": registro["condicion"]
+                "condicion": registro[
+                    "condicion"
+                ]
             }
             for registro in resultados
         ]
@@ -825,6 +943,10 @@ def generar_json_temperaturas(
         contenido
     )
 
+
+# ============================================================
+# GENERAR XML DE TEMPERATURAS POR REGION
+# ============================================================
 
 def generar_xml_temperaturas(
     resultados
@@ -909,8 +1031,12 @@ def escribir_estado(
         "fecha_revision_chile": (
             ahora_chile().isoformat()
         ),
-        "fecha_esperada": fecha_hoy_chile(),
-        "cantidad_regiones": cantidad_regiones,
+        "fecha_esperada": (
+            fecha_hoy_chile()
+        ),
+        "cantidad_regiones": (
+            cantidad_regiones
+        ),
         "errores": errores or []
     }
 
@@ -946,7 +1072,8 @@ def main():
         return 1
 
     print(
-        "Iniciando pronostico WeatherAPI Chile"
+        "Iniciando pronostico "
+        "WeatherAPI Chile"
     )
 
     print(
@@ -963,7 +1090,8 @@ def main():
     ):
         print(
             f"[{indice}/{len(CIUDADES)}] "
-            f"Consultando {ciudad['ciudad']} "
+            f"Consultando "
+            f"{ciudad['ciudad']} "
             f"({ciudad['region']})"
         )
 
@@ -994,7 +1122,8 @@ def main():
 
         except Exception as error:
             mensaje_error = (
-                f"{ciudad['region']}: {error}"
+                f"{ciudad['region']}: "
+                f"{error}"
             )
 
             errores.append(
@@ -1015,17 +1144,20 @@ def main():
         escribir_estado(
             estado="ERROR",
             mensaje=str(error),
-            cantidad_regiones=len(resultados),
+            cantidad_regiones=len(
+                resultados
+            ),
             errores=errores
         )
 
         print(
-            f"ERROR DE VALIDACION: {error}"
+            "ERROR DE VALIDACION: "
+            f"{error}"
         )
 
         print(
-            "No se generaran nuevos archivos "
-            "de pronostico."
+            "No se generaran nuevos "
+            "archivos de pronostico."
         )
 
         return 1
@@ -1053,15 +1185,19 @@ def main():
     escribir_estado(
         estado="OK",
         mensaje=(
-            "Pronostico generado correctamente"
+            "Pronostico generado "
+            "correctamente"
         ),
-        cantidad_regiones=len(resultados)
+        cantidad_regiones=len(
+            resultados
+        )
     )
 
     print("")
+
     print(
-        "Pronostico WeatherAPI generado "
-        "correctamente."
+        "Pronostico WeatherAPI "
+        "generado correctamente."
     )
 
     print(
@@ -1078,4 +1214,6 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(
+        main()
+    )
