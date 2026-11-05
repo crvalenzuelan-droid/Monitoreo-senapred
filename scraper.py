@@ -8,6 +8,24 @@ import unicodedata
 
 
 # ============================================================
+# CONFIGURACION GENERAL
+# ============================================================
+
+URL_ALERTAS_SENAPRED = "https://www.senapred.cl/alertas"
+
+MAXIMO_ENLACES_CANDIDATOS = 25
+MAXIMO_ALERTAS_SALIDA = 5
+
+INICIOS_TITULO_VALIDOS = (
+    "monitoreo",
+    "se declara",
+    "se modifica",
+    "se cancela",
+    "se actualiza",
+)
+
+
+# ============================================================
 # NORMALIZACION GENERAL
 # ============================================================
 
@@ -33,24 +51,33 @@ def normalizar_texto(texto):
         if unicodedata.category(caracter) != "Mn"
     )
 
-    texto = re.sub(r"\s+", " ", texto)
+    texto = re.sub(
+        r"\s+",
+        " ",
+        texto
+    )
 
     return texto.strip()
 
 
 def limpiar_url(url):
     """
-    Limpia y valida una URL antes de guardarla en JSON o RSS.
+    Limpia y valida una URL antes de guardarla.
     """
     if not url:
         return ""
 
     url = str(url).strip()
+
     url = url.replace("\r", "")
     url = url.replace("\n", "")
     url = url.replace("&amp;", "&")
 
-    if not re.match(r"^https?://", url, flags=re.IGNORECASE):
+    if not re.match(
+        r"^https?://",
+        url,
+        flags=re.IGNORECASE
+    ):
         return ""
 
     try:
@@ -80,7 +107,107 @@ def proteger_cdata(texto):
     if texto is None:
         return ""
 
-    return str(texto).replace("]]>", "]]]]><![CDATA[>")
+    return str(texto).replace(
+        "]]>",
+        "]]]]><![CDATA[>"
+    )
+
+
+def titulo_es_alerta(titulo):
+    """
+    Confirma que el texto parece corresponder a una
+    publicación oficial de alerta SENAPRED.
+    """
+    titulo_normalizado = normalizar_texto(titulo)
+
+    return titulo_normalizado.startswith(
+        INICIOS_TITULO_VALIDOS
+    )
+
+
+def extraer_fecha_datetime(fecha_texto):
+    """
+    Convierte DD-MM-AAAA HH:MM en datetime para ordenar.
+    """
+    try:
+        return datetime.strptime(
+            fecha_texto,
+            "%d-%m-%Y %H:%M"
+        )
+
+    except (TypeError, ValueError):
+        return datetime.min
+
+
+def similitud_titulos(titulo_portada, titulo_detalle):
+    """
+    Compara palabras significativas entre el titulo visible
+    en la portada y el titulo recuperado desde el detalle.
+    """
+    portada = normalizar_texto(titulo_portada)
+    detalle = normalizar_texto(titulo_detalle)
+
+    if not portada or not detalle:
+        return 0.0
+
+    palabras_ignoradas = {
+        "se",
+        "de",
+        "del",
+        "la",
+        "las",
+        "los",
+        "para",
+        "por",
+        "y",
+        "el",
+        "en",
+        "alerta",
+        "temprana",
+        "preventiva",
+    }
+
+    palabras_portada = {
+        palabra
+        for palabra in re.findall(
+            r"[a-z0-9']+",
+            portada
+        )
+        if (
+            len(palabra) >= 3
+            and palabra not in palabras_ignoradas
+        )
+    }
+
+    palabras_detalle = {
+        palabra
+        for palabra in re.findall(
+            r"[a-z0-9']+",
+            detalle
+        )
+        if (
+            len(palabra) >= 3
+            and palabra not in palabras_ignoradas
+        )
+    }
+
+    if not palabras_portada or not palabras_detalle:
+        return 0.0
+
+    coincidencias = (
+        palabras_portada
+        & palabras_detalle
+    )
+
+    base = min(
+        len(palabras_portada),
+        len(palabras_detalle)
+    )
+
+    if base == 0:
+        return 0.0
+
+    return len(coincidencias) / base
 
 
 # ============================================================
@@ -117,7 +244,7 @@ REGIONES_ALIAS = {
     "aysen": "Aysén",
     "aysen del general carlos ibanez del campo": "Aysén",
     "magallanes": "Magallanes",
-    "magallanes y de la antartica chilena": "Magallanes"
+    "magallanes y de la antartica chilena": "Magallanes",
 }
 
 
@@ -196,7 +323,7 @@ PROVINCIA_REGION = {
     "magallanes": "Magallanes",
     "ultima esperanza": "Magallanes",
     "tierra del fuego": "Magallanes",
-    "antartica chilena": "Magallanes"
+    "antartica chilena": "Magallanes",
 }
 
 
@@ -387,7 +514,7 @@ COMUNA_REGION = {
 
     # Magallanes
     "punta arenas": "Magallanes",
-    "puerto natales": "Magallanes"
+    "puerto natales": "Magallanes",
 }
 
 
@@ -401,7 +528,9 @@ def normalizar_region(region):
     en PE - Tiendas Falabella.
     """
     region_original = str(region).strip()
-    region_normalizada = normalizar_texto(region_original)
+    region_normalizada = normalizar_texto(
+        region_original
+    )
 
     if not region_normalizada:
         return "No identificada"
@@ -413,20 +542,24 @@ def normalizar_region(region):
         flags=re.IGNORECASE
     ).strip()
 
-    candidatos = [region_normalizada]
+    candidatos = [
+        region_normalizada
+    ]
 
     prefijos = [
         "de los ",
         "de las ",
         "del ",
         "de la ",
-        "de "
+        "de ",
     ]
 
     for prefijo in prefijos:
         if region_normalizada.startswith(prefijo):
             candidatos.append(
-                region_normalizada[len(prefijo):].strip()
+                region_normalizada[
+                    len(prefijo):
+                ].strip()
             )
 
     for candidato in candidatos:
@@ -438,10 +571,12 @@ def normalizar_region(region):
 
 def buscar_regiones_explicitas(titulo):
     """
-    Busca todas las regiones escritas explicitamente
-    dentro del titulo.
+    Busca regiones escritas dentro del titulo.
     """
-    titulo_normalizado = normalizar_texto(titulo)
+    titulo_normalizado = normalizar_texto(
+        titulo
+    )
+
     regiones = []
 
     aliases_ordenados = sorted(
@@ -451,9 +586,16 @@ def buscar_regiones_explicitas(titulo):
     )
 
     for alias in aliases_ordenados:
-        patron = r"\b" + re.escape(alias) + r"\b"
+        patron = (
+            r"\b"
+            + re.escape(alias)
+            + r"\b"
+        )
 
-        if re.search(patron, titulo_normalizado):
+        if re.search(
+            patron,
+            titulo_normalizado
+        ):
             region = REGIONES_ALIAS[alias]
 
             if region not in regiones:
@@ -462,11 +604,21 @@ def buscar_regiones_explicitas(titulo):
     return regiones
 
 
-def buscar_region_por_provincia(titulo):
+def buscar_provincias_en_texto(titulo):
     """
-    Busca provincias conocidas dentro del titulo.
+    Devuelve todas las provincias detectadas.
     """
-    titulo_normalizado = normalizar_texto(titulo)
+    titulo_normalizado = normalizar_texto(
+        titulo
+    )
+
+    segmento_territorial = re.split(
+        r"\s+por\s+",
+        titulo_normalizado,
+        maxsplit=1
+    )[0]
+
+    provincias = []
 
     provincias_ordenadas = sorted(
         PROVINCIA_REGION.keys(),
@@ -475,21 +627,32 @@ def buscar_region_por_provincia(titulo):
     )
 
     for provincia in provincias_ordenadas:
-        patron = r"\b" + re.escape(provincia) + r"\b"
+        patron = (
+            r"\b"
+            + re.escape(provincia)
+            + r"\b"
+        )
 
-        if re.search(patron, titulo_normalizado):
-            return PROVINCIA_REGION[provincia]
+        if re.search(
+            patron,
+            segmento_territorial
+        ):
+            if provincia not in provincias:
+                provincias.append(
+                    provincia
+                )
 
-    return ""
+    return provincias
 
 
 def buscar_comunas_en_texto(titulo):
     """
-    Detecta comunas solamente en el segmento territorial.
-    Evita interpretar como cobertura nombres de volcanes,
-    complejos volcanicos o tipos de eventos.
+    Detecta comunas en el segmento territorial anterior a
+    la palabra 'por'.
     """
-    titulo_normalizado = normalizar_texto(titulo)
+    titulo_normalizado = normalizar_texto(
+        titulo
+    )
 
     segmento_territorial = re.split(
         r"\s+por\s+",
@@ -506,80 +669,248 @@ def buscar_comunas_en_texto(titulo):
     )
 
     for comuna in comunas_ordenadas:
-        patron = r"\b" + re.escape(comuna) + r"\b"
+        patron = (
+            r"\b"
+            + re.escape(comuna)
+            + r"\b"
+        )
 
-        if re.search(patron, segmento_territorial):
-            comunas_encontradas.append(comuna)
+        if re.search(
+            patron,
+            segmento_territorial
+        ):
+            comunas_encontradas.append(
+                comuna
+            )
 
     resultado = []
 
     for comuna in comunas_encontradas:
         if comuna not in resultado:
-            resultado.append(comuna)
+            resultado.append(
+                comuna
+            )
 
     return resultado
+
+
+def regiones_desde_provincias(provincias):
+    regiones = []
+
+    for provincia in provincias:
+        region = PROVINCIA_REGION.get(
+            provincia
+        )
+
+        if region and region not in regiones:
+            regiones.append(region)
+
+    return regiones
+
+
+def regiones_desde_comunas(comunas):
+    regiones = []
+
+    for comuna in comunas:
+        region = COMUNA_REGION.get(
+            comuna
+        )
+
+        if region and region not in regiones:
+            regiones.append(region)
+
+    return regiones
+
+
+def contiene_indicador(
+    titulo_normalizado,
+    indicadores
+):
+    return any(
+        indicador in titulo_normalizado
+        for indicador in indicadores
+    )
 
 
 def obtener_region_y_cobertura(titulo):
     """
     Determina region, nivel de cobertura y ubicacion.
+
+    Prioridad territorial:
+    1. Expresion regional explicita.
+    2. Expresion mixta provincia + comuna.
+    3. Expresion provincial explicita.
+    4. Expresion comunal explicita.
+    5. Inferencias de respaldo.
+
+    Las coberturas mixtas provincia + comuna se elevan a
+    nivel regional para no dejar tiendas afectadas fuera,
+    ya que Power Automate utiliza un unico nivel territorial.
     """
-    comunas = buscar_comunas_en_texto(titulo)
+    titulo_normalizado = normalizar_texto(
+        titulo
+    )
 
-    regiones_por_comuna = []
+    regiones_explicitas = (
+        buscar_regiones_explicitas(
+            titulo
+        )
+    )
 
-    for comuna in comunas:
-        region_comuna = COMUNA_REGION.get(comuna)
+    provincias = buscar_provincias_en_texto(
+        titulo
+    )
 
-        if region_comuna and region_comuna not in regiones_por_comuna:
-            regiones_por_comuna.append(region_comuna)
+    comunas = buscar_comunas_en_texto(
+        titulo
+    )
 
-    regiones_explicitas = buscar_regiones_explicitas(titulo)
+    regiones_provincias = (
+        regiones_desde_provincias(
+            provincias
+        )
+    )
 
-    regiones_finales = []
+    regiones_comunas = (
+        regiones_desde_comunas(
+            comunas
+        )
+    )
 
-    for region in regiones_explicitas + regiones_por_comuna:
-        if region not in regiones_finales:
-            regiones_finales.append(region)
+    indicadores_regionales = [
+        "para la region de ",
+        "para las regiones de ",
+        "para la region del ",
+        "para las regiones del ",
+        "para la region ",
+        "para las regiones ",
+        "en la region de ",
+        "en las regiones de ",
+        "region de ",
+        "regiones de ",
+    ]
 
-    if comunas:
+    indicadores_provinciales = [
+        "para la provincia de ",
+        "para las provincias de ",
+        "en la provincia de ",
+        "en las provincias de ",
+        "provincia de ",
+        "provincias de ",
+    ]
 
-        if len(regiones_finales) == 1:
-            return (
-                regiones_finales[0],
-                "Comuna",
-                ",".join(comunas)
-            )
+    indicadores_comunales = [
+        "para la comuna de ",
+        "para las comunas de ",
+        "en la comuna de ",
+        "en las comunas de ",
+        "comuna de ",
+        "comunas de ",
+    ]
 
-        if len(regiones_finales) > 1:
-            return (
-                ",".join(regiones_finales),
-                "Comuna",
-                ",".join(comunas)
-            )
+    es_regional = contiene_indicador(
+        titulo_normalizado,
+        indicadores_regionales
+    )
 
-    if regiones_explicitas:
+    es_provincial = contiene_indicador(
+        titulo_normalizado,
+        indicadores_provinciales
+    )
 
-        if len(regiones_explicitas) == 1:
-            return (
-                regiones_explicitas[0],
-                "Región",
-                regiones_explicitas[0]
-            )
+    es_comunal = contiene_indicador(
+        titulo_normalizado,
+        indicadores_comunales
+    )
 
+    # --------------------------------------------------------
+    # 1. COBERTURA REGIONAL EXPLICITA
+    # --------------------------------------------------------
+
+    if es_regional and regiones_explicitas:
         return (
             ",".join(regiones_explicitas),
             "Región",
             ",".join(regiones_explicitas)
         )
 
-    region_provincia = buscar_region_por_provincia(titulo)
+    # --------------------------------------------------------
+    # 2. COBERTURA MIXTA PROVINCIA + COMUNA
+    # --------------------------------------------------------
 
-    if region_provincia:
+    if es_provincial and es_comunal:
+        regiones_mixtas = []
+
+        for region in (
+            regiones_provincias
+            + regiones_comunas
+            + regiones_explicitas
+        ):
+            if region not in regiones_mixtas:
+                regiones_mixtas.append(
+                    region
+                )
+
+        if regiones_mixtas:
+            return (
+                ",".join(regiones_mixtas),
+                "Región",
+                ",".join(regiones_mixtas)
+            )
+
+    # --------------------------------------------------------
+    # 3. COBERTURA PROVINCIAL EXPLICITA
+    # --------------------------------------------------------
+
+    if es_provincial and provincias:
         return (
-            region_provincia,
+            ",".join(regiones_provincias)
+            if regiones_provincias
+            else "No identificada",
             "Provincia",
-            region_provincia
+            ",".join(provincias)
+        )
+
+    # --------------------------------------------------------
+    # 4. COBERTURA COMUNAL EXPLICITA
+    # --------------------------------------------------------
+
+    if es_comunal and comunas:
+        return (
+            ",".join(regiones_comunas)
+            if regiones_comunas
+            else "No identificada",
+            "Comuna",
+            ",".join(comunas)
+        )
+
+    # --------------------------------------------------------
+    # 5. RESPALDOS
+    # --------------------------------------------------------
+
+    if regiones_explicitas:
+        return (
+            ",".join(regiones_explicitas),
+            "Región",
+            ",".join(regiones_explicitas)
+        )
+
+    if provincias:
+        return (
+            ",".join(regiones_provincias)
+            if regiones_provincias
+            else "No identificada",
+            "Provincia",
+            ",".join(provincias)
+        )
+
+    if comunas:
+        return (
+            ",".join(regiones_comunas)
+            if regiones_comunas
+            else "No identificada",
+            "Comuna",
+            ",".join(comunas)
         )
 
     return (
@@ -590,14 +921,367 @@ def obtener_region_y_cobertura(titulo):
 
 
 # ============================================================
-# EXTRACCION DE ALERTAS
+# EXTRACCION DE PORTADA
 # ============================================================
 
-alertas = []
+def obtener_enlaces_candidatos(page):
+    """
+    Obtiene enlaces visibles de alertas y conserva el texto
+    mostrado por SENAPRED junto con la URL.
+    """
+    enlaces = page.locator(
+        'a[href*="/alerta/"]'
+    ).evaluate_all(
+        """
+        links => links.map(link => ({
+            texto: (
+                link.innerText
+                || link.textContent
+                || link.getAttribute("aria-label")
+                || link.getAttribute("title")
+                || ""
+            ).trim(),
+            href: link.href
+        }))
+        """
+    )
+
+    candidatos = []
+    urls_vistas = set()
+
+    for enlace in enlaces:
+        href = limpiar_url(
+            enlace.get("href", "")
+        )
+
+        titulo_portada = str(
+            enlace.get("texto", "")
+        ).strip()
+
+        if not href:
+            continue
+
+        if "/alerta/" not in href:
+            continue
+
+        if href in urls_vistas:
+            continue
+
+        if not titulo_es_alerta(
+            titulo_portada
+        ):
+            continue
+
+        urls_vistas.add(href)
+
+        candidatos.append(
+            {
+                "titulo_portada": titulo_portada,
+                "url": href,
+            }
+        )
+
+        if len(candidatos) >= MAXIMO_ENLACES_CANDIDATOS:
+            break
+
+    return candidatos
+
+
+# ============================================================
+# EXTRACCION DE UNA ALERTA
+# ============================================================
+
+def procesar_alerta(
+    context,
+    candidato
+):
+    url = candidato["url"]
+
+    titulo_portada = candidato[
+        "titulo_portada"
+    ]
+
+    detalle_page = None
+
+    try:
+        detalle_page = context.new_page()
+
+        detalle_page.goto(
+            url,
+            wait_until="domcontentloaded",
+            timeout=60000
+        )
+
+        detalle_page.wait_for_timeout(
+            5000
+        )
+
+        texto = detalle_page.locator(
+            "body"
+        ).inner_text()
+
+        lineas = [
+            linea.strip()
+            for linea in texto.split("\n")
+            if linea.strip()
+        ]
+
+        titulo = ""
+        fecha = ""
+        accion = ""
+        tipo = "No definido"
+        prioridad = "Baja"
+
+        # ----------------------------------------------------
+        # TITULO Y ACCION
+        # ----------------------------------------------------
+
+        for linea in lineas:
+            linea_normalizada = normalizar_texto(
+                linea
+            )
+
+            if linea_normalizada.startswith(
+                INICIOS_TITULO_VALIDOS
+            ):
+                titulo = linea.strip()
+
+                if linea_normalizada.startswith(
+                    "monitoreo"
+                ):
+                    accion = "Monitoreo"
+
+                elif linea_normalizada.startswith(
+                    "se declara"
+                ):
+                    accion = "Se declara"
+
+                elif linea_normalizada.startswith(
+                    "se modifica"
+                ):
+                    accion = "Se modifica"
+
+                elif linea_normalizada.startswith(
+                    "se cancela"
+                ):
+                    accion = "Se cancela"
+
+                elif linea_normalizada.startswith(
+                    "se actualiza"
+                ):
+                    accion = "Se actualiza"
+
+                break
+
+        if not titulo:
+            print(
+                "ALERTA OMITIDA: "
+                "no se encontro titulo"
+            )
+            print(url)
+            return None
+
+        # ----------------------------------------------------
+        # VALIDAR TITULO Y URL
+        # ----------------------------------------------------
+
+        similitud = similitud_titulos(
+            titulo_portada,
+            titulo
+        )
+
+        if similitud < 0.55:
+            print(
+                "ALERTA OMITIDA: "
+                "el titulo de portada no coincide "
+                "con el detalle enlazado"
+            )
+            print(
+                "PORTADA:",
+                titulo_portada
+            )
+            print(
+                "DETALLE:",
+                titulo
+            )
+            print(
+                "URL:",
+                url
+            )
+            print(
+                "SIMILITUD:",
+                round(similitud, 2)
+            )
+            return None
+
+        # ----------------------------------------------------
+        # FECHA SENAPRED
+        # ----------------------------------------------------
+
+        fecha_match = re.search(
+            r"\d{2}-\d{2}-\d{4}\s+\d{2}:\d{2}",
+            texto
+        )
+
+        if fecha_match:
+            fecha = fecha_match.group(
+                0
+            ).strip()
+
+        if not fecha:
+            print(
+                "ALERTA OMITIDA: "
+                "no se encontro fecha"
+            )
+            print(titulo)
+            return None
+
+        # ----------------------------------------------------
+        # TIPO Y PRIORIDAD
+        # ----------------------------------------------------
+
+        titulo_normalizado = normalizar_texto(
+            titulo
+        )
+
+        if "alerta roja" in titulo_normalizado:
+            tipo = "Roja"
+            prioridad = "Alta"
+
+        elif (
+            "alerta amarilla"
+            in titulo_normalizado
+        ):
+            tipo = "Amarilla"
+            prioridad = "Media"
+
+        elif (
+            "temprana preventiva"
+            in titulo_normalizado
+        ):
+            tipo = "ATP"
+            prioridad = "Baja"
+
+        # ----------------------------------------------------
+        # REGION Y COBERTURA
+        # ----------------------------------------------------
+
+        (
+            region,
+            nivel_cobertura,
+            ubicacion_cobertura
+        ) = obtener_region_y_cobertura(
+            titulo
+        )
+
+        # ----------------------------------------------------
+        # DETALLE LIMPIO
+        # ----------------------------------------------------
+
+        detalle = texto
+
+        inicios_detalle = [
+            "De acuerdo con la información",
+            "En consideración a estos antecedentes",
+        ]
+
+        for texto_inicio in inicios_detalle:
+            posicion_inicio = detalle.find(
+                texto_inicio
+            )
+
+            if posicion_inicio >= 0:
+                detalle = detalle[
+                    posicion_inicio:
+                ]
+                break
+
+        textos_pie = [
+            "Volver",
+            "Ayuda",
+            "Biblio GRD",
+            "Planos de evacuación",
+            "Visor Chile Preparado",
+            "Contacto",
+        ]
+
+        for texto_pie in textos_pie:
+            posicion_pie = detalle.find(
+                texto_pie
+            )
+
+            if posicion_pie > 0:
+                detalle = detalle[
+                    :posicion_pie
+                ]
+                break
+
+        detalle = detalle.strip()
+
+        # ----------------------------------------------------
+        # IDENTIFICADOR ESTABLE
+        # ----------------------------------------------------
+
+        id_alerta = (
+            f"{titulo}|{fecha}"
+        )
+
+        alerta = {
+            "id_alerta": id_alerta,
+            "accion": accion,
+            "tipo": tipo,
+            "prioridad": prioridad,
+            "region": region,
+            "nivel_cobertura": nivel_cobertura,
+            "ubicacion_cobertura": ubicacion_cobertura,
+            "fecha_senapred": fecha,
+            "titulo": titulo,
+            "url": limpiar_url(url),
+            "detalle": detalle,
+            "_fecha_orden": extraer_fecha_datetime(
+                fecha
+            ),
+        }
+
+        print(
+            "OK:",
+            titulo,
+            "| Region:",
+            region,
+            "| NivelCobertura:",
+            nivel_cobertura,
+            "| UbicacionCobertura:",
+            ubicacion_cobertura,
+            "| URL:",
+            url
+        )
+
+        return alerta
+
+    except Exception as error:
+        print(
+            "ERROR PROCESANDO ALERTA"
+        )
+        print(url)
+        print(str(error))
+
+        return None
+
+    finally:
+        if detalle_page:
+            detalle_page.close()
+
+
+# ============================================================
+# PROCESO PRINCIPAL DE EXTRACCION
+# ============================================================
+
+alertas_validas = []
 
 with sync_playwright() as p:
-
-    browser = p.chromium.launch(headless=True)
+    browser = p.chromium.launch(
+        headless=True
+    )
 
     context = browser.new_context(
         timezone_id="America/Santiago"
@@ -606,249 +1290,76 @@ with sync_playwright() as p:
     page = context.new_page()
 
     page.goto(
-        "https://www.senapred.cl/alertas",
+        URL_ALERTAS_SENAPRED,
         wait_until="domcontentloaded",
         timeout=60000
     )
 
-    page.wait_for_timeout(10000)
+    page.wait_for_timeout(
+        10000
+    )
 
-    texto_portada = page.locator("body").inner_text()
+    texto_portada = page.locator(
+        "body"
+    ).inner_text()
 
     with open(
         "portada_senapred.txt",
         "w",
         encoding="utf-8"
     ) as archivo:
-        archivo.write(texto_portada)
-
-    enlaces = page.locator("a").evaluate_all(
-        """
-        links => links.map(link => ({
-            texto: link.innerText,
-            href: link.href
-        }))
-        """
-    )
-
-    urls = []
-
-    for enlace in enlaces:
-
-        href = limpiar_url(
-            enlace.get("href", "")
+        archivo.write(
+            texto_portada
         )
 
-        if "/alerta/" in href and href not in urls:
-            urls.append(href)
+    candidatos = obtener_enlaces_candidatos(
+        page
+    )
 
-    # Procesar solamente las cinco alertas mas recientes.
-    urls = urls[:5]
+    print(
+        "Enlaces candidatos encontrados:",
+        len(candidatos)
+    )
 
-    print(f"Alertas encontradas: {len(urls)}")
+    for candidato in candidatos:
+        alerta = procesar_alerta(
+            context,
+            candidato
+        )
 
-    for url in urls:
-
-        detalle_page = None
-
-        try:
-
-            detalle_page = context.new_page()
-
-            detalle_page.goto(
-                url,
-                wait_until="domcontentloaded",
-                timeout=60000
+        if alerta:
+            alertas_validas.append(
+                alerta
             )
-
-            detalle_page.wait_for_timeout(5000)
-
-            texto = detalle_page.locator("body").inner_text()
-
-            lineas = [
-                linea.strip()
-                for linea in texto.split("\n")
-                if linea.strip()
-            ]
-
-            titulo = ""
-            fecha = ""
-            accion = ""
-            tipo = ""
-            prioridad = "Baja"
-
-            # ------------------------------------------------
-            # TITULO Y ACCION
-            # ------------------------------------------------
-
-            for linea in lineas:
-
-                linea_normalizada = normalizar_texto(linea)
-
-                if (
-                    linea_normalizada.startswith("monitoreo")
-                    or linea_normalizada.startswith("se declara")
-                    or linea_normalizada.startswith("se modifica")
-                    or linea_normalizada.startswith("se cancela")
-                    or linea_normalizada.startswith("se actualiza")
-                ):
-
-                    titulo = linea.strip()
-
-                    if linea_normalizada.startswith("monitoreo"):
-                        accion = "Monitoreo"
-
-                    elif linea_normalizada.startswith("se declara"):
-                        accion = "Se declara"
-
-                    elif linea_normalizada.startswith("se modifica"):
-                        accion = "Se modifica"
-
-                    elif linea_normalizada.startswith("se cancela"):
-                        accion = "Se cancela"
-
-                    elif linea_normalizada.startswith("se actualiza"):
-                        accion = "Se actualiza"
-
-                    break
-
-            if not titulo:
-                print("ALERTA OMITIDA: no se encontro titulo")
-                print(url)
-                continue
-
-            # ------------------------------------------------
-            # FECHA SENAPRED
-            # ------------------------------------------------
-
-            fecha_match = re.search(
-                r"\d{2}-\d{2}-\d{4}\s+\d{2}:\d{2}",
-                texto
-            )
-
-            if fecha_match:
-                fecha = fecha_match.group(0).strip()
-
-            if not fecha:
-                print("ALERTA OMITIDA: no se encontro fecha")
-                print(titulo)
-                continue
-
-            # ------------------------------------------------
-            # TIPO Y PRIORIDAD
-            # ------------------------------------------------
-
-            titulo_normalizado = normalizar_texto(titulo)
-
-            if "alerta roja" in titulo_normalizado:
-                tipo = "Roja"
-                prioridad = "Alta"
-
-            elif "alerta amarilla" in titulo_normalizado:
-                tipo = "Amarilla"
-                prioridad = "Media"
-
-            elif "temprana preventiva" in titulo_normalizado:
-                tipo = "ATP"
-                prioridad = "Baja"
-
-            else:
-                tipo = "No definido"
-                prioridad = "Baja"
-
-            # ------------------------------------------------
-            # REGION Y COBERTURA
-            # ------------------------------------------------
-
-            (
-                region,
-                nivel_cobertura,
-                ubicacion_cobertura
-            ) = obtener_region_y_cobertura(titulo)
-
-            # ------------------------------------------------
-            # DETALLE LIMPIO
-            # ------------------------------------------------
-
-            detalle = texto
-
-            inicios_detalle = [
-                "De acuerdo con la información",
-                "En consideración a estos antecedentes"
-            ]
-
-            for texto_inicio in inicios_detalle:
-
-                posicion_inicio = detalle.find(texto_inicio)
-
-                if posicion_inicio >= 0:
-                    detalle = detalle[posicion_inicio:]
-                    break
-
-            textos_pie = [
-                "Volver",
-                "Ayuda",
-                "Biblio GRD",
-                "Planos de evacuación",
-                "Visor Chile Preparado",
-                "Contacto"
-            ]
-
-            for texto_pie in textos_pie:
-
-                posicion_pie = detalle.find(texto_pie)
-
-                if posicion_pie > 0:
-                    detalle = detalle[:posicion_pie]
-                    break
-
-            detalle = detalle.strip()
-
-            # ------------------------------------------------
-            # IDENTIFICADOR ESTABLE
-            # ------------------------------------------------
-
-            id_alerta = f"{titulo}|{fecha}"
-
-            alerta = {
-                "id_alerta": id_alerta,
-                "accion": accion,
-                "tipo": tipo,
-                "prioridad": prioridad,
-                "region": region,
-                "nivel_cobertura": nivel_cobertura,
-                "ubicacion_cobertura": ubicacion_cobertura,
-                "fecha_senapred": fecha,
-                "titulo": titulo,
-                "url": limpiar_url(url),
-                "detalle": detalle
-            }
-
-            alertas.append(alerta)
-
-            print(
-                "OK:",
-                titulo,
-                "| Region:",
-                region,
-                "| NivelCobertura:",
-                nivel_cobertura,
-                "| UbicacionCobertura:",
-                ubicacion_cobertura
-            )
-
-        except Exception as error:
-
-            print("ERROR PROCESANDO ALERTA")
-            print(url)
-            print(str(error))
-
-        finally:
-
-            if detalle_page:
-                detalle_page.close()
 
     browser.close()
+
+
+# ============================================================
+# ORDENAR Y LIMITAR ALERTAS
+# ============================================================
+
+alertas_validas.sort(
+    key=lambda alerta: alerta[
+        "_fecha_orden"
+    ],
+    reverse=True
+)
+
+alertas = alertas_validas[
+    :MAXIMO_ALERTAS_SALIDA
+]
+
+for alerta in alertas:
+    alerta.pop(
+        "_fecha_orden",
+        None
+    )
+
+print(
+    "Alertas validas seleccionadas:",
+    len(alertas)
+)
 
 
 # ============================================================
@@ -860,7 +1371,6 @@ with open(
     "w",
     encoding="utf-8"
 ) as archivo:
-
     json.dump(
         alertas,
         archivo,
@@ -882,15 +1392,16 @@ fecha_rss = datetime.now(
 items = ""
 
 for alerta in alertas:
-
     summary = (
         f"Accion={alerta['accion']}"
         f"|Tipo={alerta['tipo']}"
         f"|Region={alerta['region']}"
         f"|Prioridad={alerta['prioridad']}"
         f"|Fecha={alerta['fecha_senapred']}"
-        f"|NivelCobertura={alerta['nivel_cobertura']}"
-        f"|UbicacionCobertura={alerta['ubicacion_cobertura']}"
+        f"|NivelCobertura="
+        f"{alerta['nivel_cobertura']}"
+        f"|UbicacionCobertura="
+        f"{alerta['ubicacion_cobertura']}"
     )
 
     titulo_cdata = proteger_cdata(
@@ -927,6 +1438,8 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <title>Alertas SENAPRED</title>
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
+<language>es-cl</language>
+<lastBuildDate>{fecha_rss}</lastBuildDate>
 {items}
 </channel>
 </rss>
@@ -938,8 +1451,11 @@ with open(
     "w",
     encoding="utf-8"
 ) as archivo:
+    archivo.write(
+        rss
+    )
 
-    archivo.write(rss)
 
-
-print(f"RSS generado con {len(alertas)} alertas")
+print(
+    f"RSS generado con {len(alertas)} alertas"
+)
