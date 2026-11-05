@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento
+
+05-11-2026 15:25
+
 Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por viento
 
 05-11-2026 14:22
@@ -37,10 +41,6 @@ Se declara Alerta Temprana Preventiva para la Región de La Araucanía por torme
 Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
 05-11-2026 13:25
-
-Se modifica cobertura de Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento
-
-04-11-2026 22:35
 
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
