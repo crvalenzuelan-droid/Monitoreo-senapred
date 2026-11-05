@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica variable de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a viento
+
+04-11-2026 23:14
+
+Se modifica cobertura de Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento
+
+04-11-2026 22:35
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 04-11-2026 20:11
@@ -41,14 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por e
 Se cancela Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña por evento meteorológico y declara Alerta Temprana Preventiva para la Región de Coquimbo por viento
 
 02-11-2026 17:15
-
-Se modifica variable de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
-
-02-11-2026 15:10
-
-Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Huasco, Freirina y Alto del Carmen por viento
-
-01-11-2026 14:05
 
 Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hurtado, Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida
 
