@@ -6,19 +6,19 @@
 <description>Alertas SENAPRED</description>
 
 <item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|04-11-2026 20:11]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=04-11-2026 20:11|NivelCobertura=Región|UbicacionCobertura=Los Lagos]]></description>
+<pubDate>Thu, 05 Nov 2026 01:49:45 GMT</pubDate>
+</item>
+
+<item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-10-30-06-42-18</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico|04-11-2026 15:45]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=O´Higgins|Prioridad=Baja|Fecha=04-11-2026 15:45|NivelCobertura=Región|UbicacionCobertura=O´Higgins]]></description>
-<pubDate>Wed, 04 Nov 2026 21:20:46 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-11-02-16-27-15</link>
-<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|03-11-2026 18:25]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=03-11-2026 18:25|NivelCobertura=Región|UbicacionCobertura=Los Lagos]]></description>
-<pubDate>Wed, 04 Nov 2026 21:20:46 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 01:49:45 GMT</pubDate>
 </item>
 
 <item>
@@ -26,7 +26,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-10-29-16-34-51</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|03-11-2026 15:31]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=03-11-2026 15:31|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Wed, 04 Nov 2026 21:20:46 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 01:49:45 GMT</pubDate>
 </item>
 
 <item>
@@ -34,7 +34,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-02-17-41-09</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|03-11-2026 10:09]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=03-11-2026 10:09|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
-<pubDate>Wed, 04 Nov 2026 21:20:46 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 01:49:45 GMT</pubDate>
 </item>
 
 <item>
@@ -42,7 +42,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-zoosanitario-2026-06-03-13-37-19</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario|02-11-2026 18:08]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=02-11-2026 18:08|NivelCobertura=Comuna|UbicacionCobertura=arica]]></description>
-<pubDate>Wed, 04 Nov 2026 21:20:46 GMT</pubDate>
+<pubDate>Thu, 05 Nov 2026 01:49:45 GMT</pubDate>
 </item>
 
 </channel>

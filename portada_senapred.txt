@@ -18,13 +18,13 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+04-11-2026 20:11
+
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 04-11-2026 15:45
-
-Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-03-11-2026 18:25
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
@@ -45,10 +45,6 @@ Se cancela Alerta Amarilla para las comunas de Río Hurtado, Salamanca y Vicuña
 Se modifica variable de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
 02-11-2026 15:10
-
-Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento
-
-01-11-2026 14:53
 
 Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Huasco, Freirina y Alto del Carmen por viento
 
