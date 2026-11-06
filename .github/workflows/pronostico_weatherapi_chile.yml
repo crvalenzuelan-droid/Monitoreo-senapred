@@ -2,7 +2,6 @@ name: Pronostico WeatherAPI Chile
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "0,20,40 10-12 * * *"
 
@@ -15,7 +14,7 @@ concurrency:
 
 jobs:
   generar-pronostico:
-    name: generar-pronostico
+    name: Generar pronostico
     runs-on: ubuntu-latest
 
     steps:
@@ -29,7 +28,7 @@ jobs:
           HORA_CHILE=$(TZ=America/Santiago date +%H)
           FECHA_CHILE=$(TZ=America/Santiago date '+%Y-%m-%d %H:%M:%S %Z')
 
-          echo "Fecha y hora actual en Chile: $FECHA_CHILE"
+          echo "Fecha y hora en Chile: $FECHA_CHILE"
           echo "Tipo de ejecucion: ${{ github.event_name }}"
 
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
@@ -40,7 +39,7 @@ jobs:
             echo "Horario automatico autorizado."
           else
             echo "ejecutar=false" >> "$GITHUB_OUTPUT"
-            echo "Ejecucion omitida. En Chile no son las 07:00 ni las 08:00."
+            echo "Ejecucion omitida por horario."
           fi
 
       - name: Configurar Python
@@ -54,4 +53,122 @@ jobs:
         shell: bash
         env:
           WEATHERAPI_KEY: ${{ secrets.WEATHERAPI_KEY }}
-        
+        run: |
+          if [ -z "$WEATHERAPI_KEY" ]; then
+            echo "ERROR: no existe el secreto WEATHERAPI_KEY."
+            exit 1
+          fi
+
+          echo "El secreto WEATHERAPI_KEY existe."
+
+      - name: Validar scraper
+        if: steps.horario_chile.outputs.ejecutar == 'true'
+        shell: bash
+        run: |
+          if [ ! -s "weatherapi_chile/scraper_weatherapi.py" ]; then
+            echo "ERROR: no existe weatherapi_chile/scraper_weatherapi.py"
+            exit 1
+          fi
+
+          python -m py_compile weatherapi_chile/scraper_weatherapi.py
+          echo "Sintaxis del scraper correcta."
+
+      - name: Ejecutar pronostico WeatherAPI
+        if: steps.horario_chile.outputs.ejecutar == 'true'
+        shell: bash
+        env:
+          WEATHERAPI_KEY: ${{ secrets.WEATHERAPI_KEY }}
+        run: |
+          python weatherapi_chile/scraper_weatherapi.py
+
+      - name: Verificar archivos generados
+        if: steps.horario_chile.outputs.ejecutar == 'true'
+        shell: bash
+        run: |
+          ARCHIVOS=(
+            "weatherapi_chile/estado_weatherapi.json"
+            "weatherapi_chile/pronostico_weatherapi_chile.json"
+            "weatherapi_chile/pronostico_uv_weatherapi.json"
+            "weatherapi_chile/pronostico_uv_weatherapi.xml"
+            "weatherapi_chile/pronostico_temperaturas_weatherapi.json"
+            "weatherapi_chile/pronostico_temperaturas_weatherapi.xml"
+          )
+
+          for ARCHIVO in "${ARCHIVOS[@]}"; do
+            if [ ! -s "$ARCHIVO" ]; then
+              echo "ERROR: archivo inexistente o vacio: $ARCHIVO"
+              exit 1
+            fi
+
+            echo "OK: $ARCHIVO"
+          done
+
+          python - <<'PY'
+          import json
+          import sys
+          from pathlib import Path
+
+          ruta = Path("weatherapi_chile/estado_weatherapi.json")
+
+          with ruta.open("r", encoding="utf-8") as archivo:
+              estado = json.load(archivo)
+
+          if estado.get("estado") != "OK":
+              print("ERROR: el estado no es OK.")
+              print(json.dumps(estado, ensure_ascii=False, indent=2))
+              sys.exit(1)
+
+          if estado.get("cantidad_regiones") != 16:
+              print(
+                  "ERROR: se esperaban 16 regiones y se obtuvieron "
+                  f"{estado.get('cantidad_regiones')}"
+              )
+              sys.exit(1)
+
+          if estado.get("errores"):
+              print("ERROR: existen errores regionales.")
+              print(json.dumps(estado["errores"], ensure_ascii=False, indent=2))
+              sys.exit(1)
+
+          print("Estado validado correctamente.")
+          print("Regiones procesadas: 16")
+          PY
+
+      - name: Guardar pronosticos en GitHub
+        if: steps.horario_chile.outputs.ejecutar == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add weatherapi_chile/estado_weatherapi.json
+          git add weatherapi_chile/pronostico_weatherapi_chile.json
+          git add weatherapi_chile/pronostico_uv_weatherapi.json
+          git add weatherapi_chile/pronostico_uv_weatherapi.xml
+          git add weatherapi_chile/pronostico_temperaturas_weatherapi.json
+          git add weatherapi_chile/pronostico_temperaturas_weatherapi.xml
+
+          if git diff --cached --quiet; then
+            echo "No existen cambios nuevos para guardar."
+            exit 0
+          fi
+
+          git commit -m "Actualizar pronosticos WeatherAPI Chile"
+
+          for INTENTO in 1 2 3; do
+            echo "Intento de publicacion $INTENTO de 3"
+
+            if git push; then
+              echo "Pronosticos publicados correctamente."
+              exit 0
+            fi
+
+            if [ "$INTENTO" -lt 3 ]; then
+              echo "Reintentando publicacion..."
+              git pull --rebase origin main
+              sleep 5
+            fi
+          done
+
+          echo "ERROR: no fue posible publicar los cambios."
+          exit 1
