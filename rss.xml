@@ -5,14 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Fri, 06 Nov 2026 18:31:11 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 22:31:54 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|06-11-2026 18:01]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=06-11-2026 18:01|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
+<pubDate>Fri, 06 Nov 2026 22:31:54 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-zoosanitario-2026-04-23-19-16-12</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario|06-11-2026 15:39]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=06-11-2026 15:39|NivelCobertura=Región|UbicacionCobertura=Los Lagos]]></description>
+<pubDate>Fri, 06 Nov 2026 22:31:54 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-coquimbo-por-calor-intenso-2026-11-06-14-02-41</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso|06-11-2026 14:02]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=06-11-2026 14:02|NivelCobertura=Región|UbicacionCobertura=Coquimbo]]></description>
-<pubDate>Fri, 06 Nov 2026 18:31:11 GMT</pubDate>
+<pubDate>Fri, 06 Nov 2026 22:31:54 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales|05-11-2026 21:29]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=05-11-2026 21:29|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
-<pubDate>Fri, 06 Nov 2026 18:31:11 GMT</pubDate>
+<pubDate>Fri, 06 Nov 2026 22:31:54 GMT</pubDate>
 </item>
 
 <item>
@@ -28,23 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-huasco-freirina-y-alto-del-carmen-por-viento-2026-11-01-14-11-51</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento|05-11-2026 15:25]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=05-11-2026 15:25|NivelCobertura=Comuna|UbicacionCobertura=freirina,huasco]]></description>
-<pubDate>Fri, 06 Nov 2026 18:31:11 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por viento]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas-2026-10-27-17-03-31</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por viento|05-11-2026 14:22]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=05-11-2026 14:22|NivelCobertura=Región|UbicacionCobertura=Coquimbo]]></description>
-<pubDate>Fri, 06 Nov 2026 18:31:11 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22</link>
-<guid isPermaLink="false"><![CDATA[Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico|05-11-2026 13:25]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=05-11-2026 13:25|NivelCobertura=Región|UbicacionCobertura=Arica y Parinacota]]></description>
-<pubDate>Fri, 06 Nov 2026 18:31:11 GMT</pubDate>
+<pubDate>Fri, 06 Nov 2026 22:31:54 GMT</pubDate>
 </item>
 
 </channel>

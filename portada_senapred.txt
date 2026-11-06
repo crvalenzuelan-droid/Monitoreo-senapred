@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+06-11-2026 18:01
+
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario
+
+06-11-2026 15:39
+
 Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso
 
 06-11-2026 14:02
@@ -69,10 +77,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaí
 Monitoreo Alerta Roja para la comuna de Arauco por remoción en masa
 
 29-10-2026 13:30
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-28-10-2026 19:16
 
 Ayuda
 Biblio GRD
