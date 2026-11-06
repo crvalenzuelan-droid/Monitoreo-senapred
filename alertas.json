@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales|05-11-2026 21:29",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Valparaíso",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Valparaíso",
+    "fecha_senapred": "05-11-2026 21:29",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57",
+    "detalle": "En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n\n\n\nSENAPRED recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder; no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (https://web.senapred.cl/visor-chile-preparado/). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134)."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por viento|05-11-2026 15:25",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -50,18 +63,5 @@
     "titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-05-13-47-01",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A608\n\n\t\n\nProbables tormentas eléctricas en sectores de Valle y precordillera de la región, con probabilidad de fuertes rachas de vientos locales.\n\n\t\n\n05-11\n\n\t\n\n05-11\n\n\t\n\nAbrir aquí\n\n\n\n\nPor otra parte, el Centro Zonal de Meteorología Marina de Talcahuano, mantiene vigente el aviso especial por la probabilidad de ocurrencia de nubes convectivas, con factibilidad de generar trombas marinas en el sector oceánico y costero de la región, con vigencia entre el jueves 05 y el viernes 06 de noviembre de 2026.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|05-11-2026 13:30",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "La Araucanía",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "La Araucanía",
-    "fecha_senapred": "05-11-2026 13:30",
-    "titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-05-13-32-11",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A608\n\n\t\n\nProbables tormentas eléctricas en precordillera de la región, con probabilidad de fuertes rachas de vientos locales.\n\n\t\n\n05-11\n\n\t\n\n05-11\n\n\t\n\nAbrir aquí\n\n\n\n\nPor otra parte, el Centro Zonal de Meteorología Marina de Talcahuano, mantiene vigente el aviso especial por la probabilidad de ocurrencia de nubes convectivas, con factibilidad de generar trombas marinas en el sector oceánico y costero de la región, con vigencia entre las 12:00 horas del jueves 05 y las 13:00 horas del viernes 06 de noviembre de 2026.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva regional por tormentas eléctricas, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
   }
 ]
