@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso
+
+06-11-2026 14:02
+
 Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales
 
 05-11-2026 21:29
@@ -29,14 +33,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por vien
 Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por viento
 
 05-11-2026 14:22
-
-Se declara Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
-
-05-11-2026 13:46
-
-Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-05-11-2026 13:30
 
 Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
