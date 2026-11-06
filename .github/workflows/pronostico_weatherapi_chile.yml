@@ -1,10 +1,10 @@
 name: Pronostico WeatherAPI Chile
 
-'on':
+on:
   workflow_dispatch:
 
   schedule:
-    - cron: "15 10 * * *"
+    - cron: "0,20,40 10-12 * * *"
 
 permissions:
   contents: write
@@ -15,105 +15,43 @@ concurrency:
 
 jobs:
   generar-pronostico:
+    name: generar-pronostico
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+
+      - name: Validar horario de Chile
+        id: horario_chile
+        shell: bash
+        run: |
+          HORA_CHILE=$(TZ=America/Santiago date +%H)
+          FECHA_CHILE=$(TZ=America/Santiago date '+%Y-%m-%d %H:%M:%S %Z')
+
+          echo "Fecha y hora actual en Chile: $FECHA_CHILE"
+          echo "Tipo de ejecucion: ${{ github.event_name }}"
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "ejecutar=true" >> "$GITHUB_OUTPUT"
+            echo "Ejecucion manual autorizada."
+          elif [ "$HORA_CHILE" = "07" ] || [ "$HORA_CHILE" = "08" ]; then
+            echo "ejecutar=true" >> "$GITHUB_OUTPUT"
+            echo "Horario automatico autorizado."
+          else
+            echo "ejecutar=false" >> "$GITHUB_OUTPUT"
+            echo "Ejecucion omitida. En Chile no son las 07:00 ni las 08:00."
+          fi
 
       - name: Configurar Python
+        if: steps.horario_chile.outputs.ejecutar == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Validar secreto WeatherAPI
+        if: steps.horario_chile.outputs.ejecutar == 'true'
         shell: bash
         env:
           WEATHERAPI_KEY: ${{ secrets.WEATHERAPI_KEY }}
-        run: |
-          if [ -z "$WEATHERAPI_KEY" ]; then
-            echo "ERROR: no existe el secreto WEATHERAPI_KEY."
-            exit 1
-          fi
-
-          echo "Secreto WEATHERAPI_KEY disponible."
-
-      - name: Validar sintaxis del scraper
-        shell: bash
-        run: |
-          python -m py_compile weatherapi_chile/scraper_weatherapi.py
-
-      - name: Ejecutar pronostico WeatherAPI
-        shell: bash
-        env:
-          WEATHERAPI_KEY: ${{ secrets.WEATHERAPI_KEY }}
-          TZ: America/Santiago
-        run: |
-          python weatherapi_chile/scraper_weatherapi.py
-
-      - name: Verificar archivos generados
-        shell: bash
-        run: |
-          echo "Archivos WeatherAPI Chile:"
-          ls -la weatherapi_chile
-
-          test -s weatherapi_chile/pronostico_weatherapi_chile.json
-          test -s weatherapi_chile/pronostico_uv_weatherapi.json
-          test -s weatherapi_chile/pronostico_uv_weatherapi.xml
-          test -s weatherapi_chile/pronostico_temperaturas_weatherapi.json
-          test -s weatherapi_chile/pronostico_temperaturas_weatherapi.xml
-          test -s weatherapi_chile/estado_weatherapi.json
-
-          echo ""
-          echo "Estado del proceso:"
-          cat weatherapi_chile/estado_weatherapi.json
-
-          echo ""
-          echo "Primeras lineas del XML UV:"
-          head -n 40 weatherapi_chile/pronostico_uv_weatherapi.xml
-
-          echo ""
-          echo "Primeras lineas del XML Temperaturas:"
-          head -n 40 weatherapi_chile/pronostico_temperaturas_weatherapi.xml
-
-      - name: Guardar pronosticos en GitHub
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add -f weatherapi_chile/pronostico_weatherapi_chile.json
-          git add -f weatherapi_chile/pronostico_uv_weatherapi.json
-          git add -f weatherapi_chile/pronostico_uv_weatherapi.xml
-          git add -f weatherapi_chile/pronostico_temperaturas_weatherapi.json
-          git add -f weatherapi_chile/pronostico_temperaturas_weatherapi.xml
-          git add -f weatherapi_chile/estado_weatherapi.json
-
-          echo "Cambios detectados:"
-          git status --short
-
-          if git diff --cached --quiet; then
-            echo "No hay cambios en los pronosticos WeatherAPI."
-            exit 0
-          fi
-
-          git commit -m "Actualizar pronosticos WeatherAPI Chile"
-
-          for intento in 1 2 3; do
-            echo "Intento ${intento} de guardar cambios."
-
-            if git pull --rebase origin main && git push origin main; then
-              echo "Pronosticos WeatherAPI guardados correctamente."
-              exit 0
-            fi
-
-            echo "Intento ${intento} fallido."
-            git rebase --abort 2>/dev/null || true
-            sleep 10
-          done
-
-          echo "No fue posible guardar los pronosticos."
-          exit 1
+        
