@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla para la comuna de Monte Patria por crecida
+
+06-11-2026 23:35
+
+Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida
+
+06-11-2026 20:33
+
 Se declara Alerta Temprana Preventiva para la Región de Magallanes y la Antártica Chilena por viento
 
 06-11-2026 19:31

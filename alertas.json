@@ -1,5 +1,31 @@
 [
   {
+    "id_alerta": "Se declara Alerta Amarilla para la comuna de Monte Patria por crecida|06-11-2026 23:35",
+    "accion": "Se declara",
+    "tipo": "Amarilla",
+    "prioridad": "Media",
+    "region": "Coquimbo",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "monte patria",
+    "fecha_senapred": "06-11-2026 23:35",
+    "titulo": "Se declara Alerta Amarilla para la comuna de Monte Patria por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo:\n\n\n\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nRío Grande Las Ramadas\n\n\t\n\nAmarillo\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Monte Patria, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nCon la declaración de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente."
+  },
+  {
+    "id_alerta": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida|06-11-2026 20:33",
+    "accion": "Se modifica",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Atacama",
+    "nivel_cobertura": "Provincia",
+    "ubicacion_cobertura": "copiapo,huasco",
+    "fecha_senapred": "06-11-2026 20:33",
+    "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
+    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva por crecida a las provincias de Huasco y Copiapó, que se encuentra vigente desde el 26 de septiembre y hasta que las condiciones así lo ameriten.\n\nEsta modificación de alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nEn el caso de la cuenca del Río Copiapó, se recomienda mantener especial vigilancia sobre los cauces y sectores ubicados aguas arriba del embalse Lautaro, donde eventuales incrementos de caudal asociados al deshielo podrían generar aumentos de los niveles del río y sus afluentes.\n\nPor su parte, en la cuenca del Río Huasco, resulta importante mantener el monitoreo de los ríos El Carmen y El Tránsito, así como del río Huasco, tanto aguas arriba como aguas abajo del embalse Santa Juana. En este último caso, se debe considerar que el embalse se encuentra al 100 % de su capacidad, por lo que presenta una capacidad limitada para amortiguar incrementos adicionales de los aportes, los cuales podrían traducirse en mayores caudales hacia los sectores ubicados aguas abajo. Por lo que se hace necesario reforzar el monitoreo preventivo de los cauces, riberas, sectores habitados e infraestructura emplazada en áreas susceptibles de afectación.\n\nEn este contexto, se recomienda mantener especial vigilancia sobre aquellos puntos que, por sus condiciones locales, pudieran presentar mayor susceptibilidad a desbordes o afectaciones producto del incremento de caudal, particularmente sectores estrechos del cauce, curvas, cruces y obras viales, puentes, zonas con menor capacidad de porteo, sectores con acumulación de sedimentos o vegetación en el cauce y áreas habitadas próximas al río, tanto en la parte alta de la cuenca del río Copiapó como en la cuenca del río Huasco, particularmente en las comunas de Alto del Carmen, Vallenar, Freirina y Huasco.\n\nAsimismo, se considera pertinente mantener atención sobre eventuales cambios rápidos en la tendencia de los caudales, especialmente ante aumentos sostenidos en los aportes a los embalses, dado que la actual condición de llenado limita significativamente su capacidad para amortiguar nuevos incrementos de caudal.\n\nMonitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida\n\n19-10-2026 21:15\n\nSe modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida\n\n02-10-2026 23:38\n\nSe modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida\n\n02-10-2026 20:26\n\nMonitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n28-09-2026 19:51\n\nSe declara Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n26-09-2026 02:09"
+  },
+  {
     "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de Magallanes y la Antártica Chilena por viento|06-11-2026 19:31",
     "accion": "Se declara",
     "tipo": "ATP",
@@ -37,31 +63,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-zoosanitario-2026-04-23-19-16-12",
     "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento zoosanitario, vigente desde el 23 de abril y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n\n\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario\n\n29-07-2026 20:21\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario\n\n02-06-2026 16:24\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario\n\n19-05-2026 11:15\n\nMonitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario\n\n11-05-2026 18:19\n\nSe declara Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario\n\n23-04-2026 19:08"
-  },
-  {
-    "id_alerta": "Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso|06-11-2026 14:02",
-    "accion": "Se declara",
-    "tipo": "Amarilla",
-    "prioridad": "Media",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Coquimbo",
-    "fecha_senapred": "06-11-2026 14:02",
-    "titulo": "Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-de-coquimbo-por-calor-intenso-2026-11-06-14-02-41",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAlerta AA193\n\n\t\n\nEvento de altas temperaturas extremas en cordillera de la costa y precordillera y valles precordilleranos.\n\n\t\n\n07-11\n\n\t\n\n08-11\n\n\t\n\nAbrir aquí\n\n\n\n\nCabe mencionar que, las temperaturas proyectadas serán las siguientes:\n\n\n\n\nZona\n\n\t\n\nTemperaturas °C\n\n\n\n\nSábado 07\n\n\t\n\nDomingo 08\n\n\n\n\nCordillera de la costa\n\n\t\n\n31 - 33\n\n\t\n\n31 - 33\n\n\n\n\nPrecordillera y valles precordilleranos\n\n\t\n\n33 - 35\n\n\t\n\n33 - 35\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla Regional por calor intenso, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.\n\nCon la declaración de esta alerta se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de minimizar los efectos negativos en las personas, sus bienes y el medio ambiente.\n\nEl SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del calor intenso, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo."
-  },
-  {
-    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales|05-11-2026 21:29",
-    "accion": "Se declara",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Valparaíso",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Valparaíso",
-    "fecha_senapred": "05-11-2026 21:29",
-    "titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57",
-    "detalle": "En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n\n\n\nSENAPRED recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder; no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (https://web.senapred.cl/visor-chile-preparado/). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134)."
   }
 ]
