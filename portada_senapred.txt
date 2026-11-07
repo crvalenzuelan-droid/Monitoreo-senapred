@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida
+
+07-11-2026 00:39
+
 Se declara Alerta Amarilla para la comuna de Monte Patria por crecida
 
 06-11-2026 23:35
@@ -73,10 +77,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteor
 Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario
 
 02-11-2026 18:08
-
-Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hurtado, Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida
-
-01-11-2026 03:23
 
 Se declara Alerta Temprana Preventiva Nacional por calor
 
