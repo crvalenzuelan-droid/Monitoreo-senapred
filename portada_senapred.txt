@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por viento
+
+07-11-2026 17:16
+
 Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida
 
 07-11-2026 00:39
@@ -29,10 +33,6 @@ Se declara Alerta Amarilla para la comuna de Monte Patria por crecida
 Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida
 
 06-11-2026 20:33
-
-Se declara Alerta Temprana Preventiva para la Región de Magallanes y la Antártica Chilena por viento
-
-06-11-2026 19:31
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
