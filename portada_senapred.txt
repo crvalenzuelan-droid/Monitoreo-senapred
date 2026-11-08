@@ -18,17 +18,17 @@ Limpiar Filtros
 <<
 >>
 
-Se declara Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
+Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
 
-08-11-2026 15:14
+08-11-2026 18:37
 
-Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
 
-08-11-2026 13:15
+08-11-2026 16:45
 
-Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por viento
+Monitoreo Alerta Temprana Preventiva para la región de Magallanes por viento
 
-07-11-2026 17:16
+08-11-2026 16:00
 
 Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida
 
