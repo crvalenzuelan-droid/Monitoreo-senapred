@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
+
+08-11-2026 15:14
+
+Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
+
+08-11-2026 13:15
+
 Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por viento
 
 07-11-2026 17:16
@@ -53,10 +61,6 @@ Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza
 Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
 05-11-2026 13:25
-
-Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
-
-04-11-2026 15:45
 
 Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario
 
