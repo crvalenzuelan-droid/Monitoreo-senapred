@@ -54,10 +54,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas Huasco y Freirina por vien
 
 05-11-2026 15:25
 
-Monitoreo Alerta Temprana Preventiva para la Región de Coquimbo por viento
-
-05-11-2026 14:22
-
 Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
 05-11-2026 13:25
@@ -65,14 +61,6 @@ Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota
 Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico
 
 04-11-2026 15:45
-
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-03-11-2026 15:31
-
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-03-11-2026 10:09
 
 Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario
 
