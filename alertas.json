@@ -1,5 +1,31 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal|09-11-2026 15:46",
+    "accion": "Monitoreo",
+    "tipo": "Amarilla",
+    "prioridad": "Media",
+    "region": "No identificada",
+    "nivel_cobertura": "No identificada",
+    "ubicacion_cobertura": "",
+    "fecha_senapred": "09-11-2026 15:46",
+    "titulo": "Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10",
+    "detalle": "De acuerdo con la información técnica proporcionada por Conaf y el SINAPRED, respecto al incendio forestal en la comuna de Natales, se informa el siguiente detalle:\n\nNombre del incendio\n\n\t\n\nSeno Obstrucción\n\n\n\n\nEstado\n\n\t\n\nEn combate\n\n\n\n\nSuperficie\n\n\t\n\n1.6 (ha)\n\n\n\n\nRecursos\n\n\t\n\nCuerpo de bomberos de Natales, 2 brigadas CONAF, 1 brigada del ejército, 5 técnicos CONAF, 1 Helicóptero FACH, 2 Maquinaria pesada, 1 Camión cisterna Y 3 personas de Emergencia municipal.\n\nEn consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes y de la Antártica Chilena, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Natales, por incendio forestal, que se encuentra vigente desde el 08 de noviembre de 2026.\n\nSe declara Alerta Amarilla para la comuna de Natales por incendio forestal\n\n08-11-2026 21:25"
+  },
+  {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico|09-11-2026 15:08",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "O´Higgins",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "O´Higgins",
+    "fecha_senapred": "09-11-2026 15:08",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-ohiggins-de-por-evento-meteorologico-2026-11-09-16-08-06",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O´Higgins:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A611\n\n\t\n\nProbables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos, y cordillera.\n\n\t\n\n09-11\n\n\t\n\n10-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A612\n\n\t\n\nPrecipitaciones normales a moderadas en precordillera y valles precordilleranos.\n\n\t\n\n09-11\n\n\t\n\n10-11\n\n\t\n\nAbrir aquí\n\nAsimismo, según lo señalado en los alertamientos vigentes y en Informe de Amenaza Meteorológica, se pronostican los siguientes montos de precipitaciones, viento e isoterma 0°C en la región:\n\nPrecipitaciones: entre 1 y 20 mm.\nViento: entre 25 – 40 km/h.\nIsoterma 0:  entre 3.500 – 4.800 m.s.n.m.\n\nPor otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es moderada en precordillera y cordillera y baja en litoral, cordillera de la costa y valle longitudinal.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico|09-11-2026 14:24",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -37,31 +63,5 @@
     "titulo": "Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
     "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo:\n\nComuna\n\n\t\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nPaihuano\n\n\t\n\nEstero Derecho en Alcohuaz\n\n\t\n\nAzul\n\n\n\n\nPaihuano\n\n\t\n\nRío Cochiguaz en El Peñón\n\n\t\n\nAzul\n\n\n\n\nVicuña\n\n\t\n\nRío Elqui en Algarrobal\n\n\t\n\nAzul\n\n\n\n\nVicuña\n\n\t\n\nRío Toro antes Junta Río La Laguna\n\n\t\n\nAzul\n\n\n\n\nCabe señalar que, en la comuna de Illapel, sector Los Perales, a consecuencia del deshielo se produjo la activación de la quebrada El Chañar, la cual comprometió parcialmente el flujo y circulación habitual del cauce del Río Choapa.\n\n\n\n\nPor otro lado, se declaró la Alerta Roja para la comuna de Río Hurtado por desborde y Alerta Amarilla para la comuna de Salamanca por crecida, las que se encuentran vigentes desde hoy 09 de noviembre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva por crecida para las comunas de Paihuano, Vicuña e Illapel, que se encuentra vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida\n\n07-11-2026 00:39\n\nSe modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hurtado, Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida\n\n01-11-2026 03:23\n\nSe modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida\n\n31-10-2026 14:57\n\nSe modifica Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano y Vicuña por crecida\n\n29-10-2026 21:15\n\nSe declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida\n\n02-10-2026 16:41"
-  },
-  {
-    "id_alerta": "Se declara Alerta Roja para la comuna de Río Hurtado por desborde|09-11-2026 03:46",
-    "accion": "Se declara",
-    "tipo": "Roja",
-    "prioridad": "Alta",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "rio hurtado",
-    "fecha_senapred": "09-11-2026 03:46",
-    "titulo": "Se declara Alerta Roja para la comuna de Río Hurtado por desborde",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-desborde-2026-11-09-03-47-13",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo:\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nRío Hurtado en San Agustín\n\n\t\n\nRoja\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Roja para la comuna de Río Hurtado por desborde, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nCon la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento."
-  },
-  {
-    "id_alerta": "Se declara Alerta Amarilla para la comuna de Salamanca por crecida|09-11-2026 02:12",
-    "accion": "Se declara",
-    "tipo": "Amarilla",
-    "prioridad": "Media",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "salamanca",
-    "fecha_senapred": "09-11-2026 02:12",
-    "titulo": "Se declara Alerta Amarilla para la comuna de Salamanca por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo:\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nRío Choapa en Cuncumén\n\n\t\n\nAmarillo\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla para la comuna de Salamanca por crecida, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nCon la declaración de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente."
   }
 ]

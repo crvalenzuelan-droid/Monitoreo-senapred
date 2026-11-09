@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal
+
+09-11-2026 15:46
+
+Se declara Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico
+
+09-11-2026 15:08
+
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
 09-11-2026 14:24
@@ -41,10 +49,6 @@ Se declara Alerta Amarilla para la comuna de Salamanca por crecida
 Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida
 
 09-11-2026 00:25
-
-Se declara Alerta Amarilla para la comuna de Natales por incendio forestal
-
-08-11-2026 21:25
 
 Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
