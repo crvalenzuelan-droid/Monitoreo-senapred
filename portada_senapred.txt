@@ -18,6 +18,22 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida
+
+09-11-2026 04:59
+
+Se declara Alerta Roja para la comuna de Río Hurtado por desborde
+
+09-11-2026 03:46
+
+Se declara Alerta Amarilla para la comuna de Salamanca por crecida
+
+09-11-2026 02:12
+
+Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida
+
+09-11-2026 00:25
+
 Se declara Alerta Amarilla para la comuna de Natales por incendio forestal
 
 08-11-2026 21:25
@@ -38,14 +54,6 @@ Monitoreo Alerta Temprana Preventiva para la región de Magallanes por viento
 
 08-11-2026 16:00
 
-Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida
-
-07-11-2026 00:39
-
-Se declara Alerta Amarilla para la comuna de Monte Patria por crecida
-
-06-11-2026 23:35
-
 Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida
 
 06-11-2026 20:33
@@ -57,10 +65,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario
 
 06-11-2026 15:39
-
-Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso
-
-06-11-2026 14:02
 
 Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
