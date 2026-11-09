@@ -5,14 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Mon, 09 Nov 2026 13:42:49 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 17:36:12 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico|09-11-2026 14:24]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=09-11-2026 14:24|NivelCobertura=Región|UbicacionCobertura=Arica y Parinacota]]></description>
+<pubDate>Mon, 09 Nov 2026 17:36:12 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas|09-11-2026 14:04]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=09-11-2026 14:04|NivelCobertura=Región|UbicacionCobertura=Antofagasta]]></description>
+<pubDate>Mon, 09 Nov 2026 17:36:12 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21</link>
 <guid isPermaLink="false"><![CDATA[Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida|09-11-2026 04:59]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=09-11-2026 04:59|NivelCobertura=Comuna|UbicacionCobertura=illapel,vicuna]]></description>
-<pubDate>Mon, 09 Nov 2026 13:42:49 GMT</pubDate>
+<pubDate>Mon, 09 Nov 2026 17:36:12 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-desborde-2026-11-09-03-47-13</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Roja para la comuna de Río Hurtado por desborde|09-11-2026 03:46]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=09-11-2026 03:46|NivelCobertura=Comuna|UbicacionCobertura=rio hurtado]]></description>
-<pubDate>Mon, 09 Nov 2026 13:42:49 GMT</pubDate>
+<pubDate>Mon, 09 Nov 2026 17:36:12 GMT</pubDate>
 </item>
 
 <item>
@@ -28,23 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la comuna de Salamanca por crecida|09-11-2026 02:12]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=09-11-2026 02:12|NivelCobertura=Comuna|UbicacionCobertura=salamanca]]></description>
-<pubDate>Mon, 09 Nov 2026 13:42:49 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida|09-11-2026 00:25]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=09-11-2026 00:25|NivelCobertura=Comuna|UbicacionCobertura=monte patria]]></description>
-<pubDate>Mon, 09 Nov 2026 13:42:49 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Amarilla para la comuna de Natales por incendio forestal]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la comuna de Natales por incendio forestal|08-11-2026 21:25]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=No identificada|Prioridad=Media|Fecha=08-11-2026 21:25|NivelCobertura=No identificada|UbicacionCobertura=]]></description>
-<pubDate>Mon, 09 Nov 2026 13:42:49 GMT</pubDate>
+<pubDate>Mon, 09 Nov 2026 17:36:12 GMT</pubDate>
 </item>
 
 </channel>

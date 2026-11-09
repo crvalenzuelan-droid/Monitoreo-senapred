@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
+
+09-11-2026 14:24
+
+Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas
+
+09-11-2026 14:04
+
 Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida
 
 09-11-2026 04:59
@@ -65,10 +73,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario
 
 06-11-2026 15:39
-
-Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
-
-05-11-2026 13:25
 
 Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario
 

@@ -1,5 +1,31 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico|09-11-2026 14:24",
+    "accion": "Monitoreo",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Arica y Parinacota",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Arica y Parinacota",
+    "fecha_senapred": "09-11-2026 14:24",
+    "titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAlerta AA195\n\n\t\n\nTormentas eléctricas asociadas a chubascos aislados en cordillera de la región.\n\n\t\n\n09-11\n\n\t\n\n09-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A607-2\n\n\t\n\nProbables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región.\n\n\t\n\n09-11\n\n\t\n\n10-11\n\n\t\n\nAbrir aquí\n\nEn consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED Mantiene la Alerta Temprana Preventiva por evento meteorológico para la Provincia de Parinacota y la comuna de Camarones, que se encuentra vigente desde el 27 de octubre de 2026 y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico\n\n09-11-2026 12:45\n\nSe modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico\n\n05-11-2026 13:25\n\nSe modifica variable de Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones a viento\n\n04-11-2026 23:14\n\nSe modifica variable de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico\n\n02-11-2026 15:10\n\nMonitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por viento\n\n31-10-2026 22:01\n\nSe declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento\n\n27-10-2026 16:15"
+  },
+  {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas|09-11-2026 14:04",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Antofagasta",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Antofagasta",
+    "fecha_senapred": "09-11-2026 14:04",
+    "titulo": "Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), está vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A607-2\n\n\t\n\nProbables Tormentas Eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en cordillera de la región.\n\n\t\n\n09-11\n\n\t\n\n09-11\n\n\t\n\nAbrir aquí\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por tormentas eléctricas para la provincia de El Loa y comunas de Antofagasta y Taltal, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta."
+  },
+  {
     "id_alerta": "Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida|09-11-2026 04:59",
     "accion": "Se modifica",
     "tipo": "ATP",
@@ -37,31 +63,5 @@
     "titulo": "Se declara Alerta Amarilla para la comuna de Salamanca por crecida",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
     "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo:\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nRío Choapa en Cuncumén\n\n\t\n\nAmarillo\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla para la comuna de Salamanca por crecida, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nCon la declaración de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente."
-  },
-  {
-    "id_alerta": "Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida|09-11-2026 00:25",
-    "accion": "Se declara",
-    "tipo": "Roja",
-    "prioridad": "Alta",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "monte patria",
-    "fecha_senapred": "09-11-2026 00:25",
-    "titulo": "Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo:\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nRío Grande Las Ramadas\n\n\t\n\nRoja\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Monte Patria por crecida, que se mantuvo vigente desde el 06 de octubre y declara Alerta Roja para la comuna de Monte Patria por desborde, vigente a contar del 08 de noviembre del 2026 y hasta que las condiciones así lo ameriten.\n\n\n\n\nCon la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.\n\nSe declara Alerta Amarilla para la comuna de Monte Patria por crecida\n\n06-11-2026 23:35"
-  },
-  {
-    "id_alerta": "Se declara Alerta Amarilla para la comuna de Natales por incendio forestal|08-11-2026 21:25",
-    "accion": "Se declara",
-    "tipo": "Amarilla",
-    "prioridad": "Media",
-    "region": "No identificada",
-    "nivel_cobertura": "No identificada",
-    "ubicacion_cobertura": "",
-    "fecha_senapred": "08-11-2026 21:25",
-    "titulo": "Se declara Alerta Amarilla para la comuna de Natales por incendio forestal",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10",
-    "detalle": "De acuerdo con la información técnica proporcionada por Conaf,respecto al incendio forestal en la comuna de Natales se informa el siguiente detalle:\n\nNombre del incendio\n\n\t\n\nSeno Obstrucción\n\n\n\n\nSuperficie\n\n\t\n\n1 (ha)\n\n\n\n\nRecursos\n\n\t\n\nBomberos de Natales; 1 brigada y 1 técnico de CONAF; 1 maquinaria pesada y 1 camión cisterna\n\n\n\n\nDe acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en el incendio forestal “Seno Obstrucción” que se desarrolla en la comuna de Natales, se observan condiciones meteorológicas que podrían favorecer la propagación del incendio forestal. A lo anterior, se suma la ubicación geográfica del siniestro y la distancia respecto de los recursos de combate, factores que podrían dificultar las labores de respuesta y control del evento.\n\n\n\n\nEn consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes y de la Antártica Chilena, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Comuna de Natales por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.\n\n\n\n\nCon la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objetivo de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente."
   }
 ]
