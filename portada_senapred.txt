@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla para la comuna de Natales por incendio forestal
+
+08-11-2026 21:25
+
+Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
+
+08-11-2026 19:59
+
 Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
 
 08-11-2026 18:37
@@ -53,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoo
 Se declara Alerta Amarilla para la Región de Coquimbo por calor intenso
 
 06-11-2026 14:02
-
-Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales
-
-05-11-2026 21:29
 
 Se modifica evento de Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 

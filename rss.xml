@@ -5,14 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Sun, 08 Nov 2026 22:31:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 02:00:45 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Se declara Alerta Amarilla para la comuna de Natales por incendio forestal]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la comuna de Natales por incendio forestal|08-11-2026 21:25]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=No identificada|Prioridad=Media|Fecha=08-11-2026 21:25|NivelCobertura=No identificada|UbicacionCobertura=]]></description>
+<pubDate>Mon, 09 Nov 2026 02:00:45 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-11-08-20-09-10</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico|08-11-2026 19:59]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Metropolitana|Prioridad=Baja|Fecha=08-11-2026 19:59|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
+<pubDate>Mon, 09 Nov 2026 02:00:45 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-y-san-felipe-y-las-comunas-de-la-ligua-petorca-y-cabildo-por-evento-meteorologico-2026-11-08-15-19-16</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico|08-11-2026 18:37]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=08-11-2026 18:37|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
-<pubDate>Sun, 08 Nov 2026 22:31:24 GMT</pubDate>
+<pubDate>Mon, 09 Nov 2026 02:00:45 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-11-08-13-20-05</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas|08-11-2026 16:45]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=08-11-2026 16:45|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Sun, 08 Nov 2026 22:31:24 GMT</pubDate>
+<pubDate>Mon, 09 Nov 2026 02:00:45 GMT</pubDate>
 </item>
 
 <item>
@@ -28,23 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la región de Magallanes por viento|08-11-2026 16:00]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=08-11-2026 16:00|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
-<pubDate>Sun, 08 Nov 2026 22:31:24 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21</link>
-<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida|07-11-2026 00:39]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=07-11-2026 00:39|NivelCobertura=Comuna|UbicacionCobertura=rio hurtado,salamanca,illapel,vicuna]]></description>
-<pubDate>Sun, 08 Nov 2026 22:31:24 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Amarilla para la comuna de Monte Patria por crecida]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la comuna de Monte Patria por crecida|06-11-2026 23:35]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=06-11-2026 23:35|NivelCobertura=Comuna|UbicacionCobertura=monte patria]]></description>
-<pubDate>Sun, 08 Nov 2026 22:31:24 GMT</pubDate>
+<pubDate>Mon, 09 Nov 2026 02:00:45 GMT</pubDate>
 </item>
 
 </channel>

@@ -1,5 +1,31 @@
 [
   {
+    "id_alerta": "Se declara Alerta Amarilla para la comuna de Natales por incendio forestal|08-11-2026 21:25",
+    "accion": "Se declara",
+    "tipo": "Amarilla",
+    "prioridad": "Media",
+    "region": "No identificada",
+    "nivel_cobertura": "No identificada",
+    "ubicacion_cobertura": "",
+    "fecha_senapred": "08-11-2026 21:25",
+    "titulo": "Se declara Alerta Amarilla para la comuna de Natales por incendio forestal",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-natales-por-incendio-forestal-2026-11-08-21-28-10",
+    "detalle": "De acuerdo con la información técnica proporcionada por Conaf,respecto al incendio forestal en la comuna de Natales se informa el siguiente detalle:\n\nNombre del incendio\n\n\t\n\nSeno Obstrucción\n\n\n\n\nSuperficie\n\n\t\n\n1 (ha)\n\n\n\n\nRecursos\n\n\t\n\nBomberos de Natales; 1 brigada y 1 técnico de CONAF; 1 maquinaria pesada y 1 camión cisterna\n\n\n\n\nDe acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en el incendio forestal “Seno Obstrucción” que se desarrolla en la comuna de Natales, se observan condiciones meteorológicas que podrían favorecer la propagación del incendio forestal. A lo anterior, se suma la ubicación geográfica del siniestro y la distancia respecto de los recursos de combate, factores que podrían dificultar las labores de respuesta y control del evento.\n\n\n\n\nEn consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes y de la Antártica Chilena, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Comuna de Natales por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.\n\n\n\n\nCon la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objetivo de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente."
+  },
+  {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico|08-11-2026 19:59",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Metropolitana",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Metropolitana",
+    "fecha_senapred": "08-11-2026 19:59",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-11-08-20-09-10",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A611\n\n\t\n\nProbables tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de tiempo en precordillera y valles precordilleranos, y cordillera.\n\n\t\n\n09-11\n\n\t\n\n10-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A612\n\n\t\n\nPrecipitaciones normales a moderadas en precordillera y valles precordilleranos.\n\n\t\n\n09-11\n\n\t\n\n10-11\n\n\t\n\nAbrir aquí\n\nPor otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por peligro de remoción en masa, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es moderada en precordillera y cordillera y baja en cordillera de la costa y valle longitudinal.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico|08-11-2026 18:37",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -37,31 +63,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la región de Magallanes por viento",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAlerta AA194\n\n\t\n\nViento moderado a fuerte en comunas de Laguna Blanca, Río Verde, Punta Arenas y San Gregorio.\n\n\t\n\n08-11\n\n\t\n\n08-11\n\n\t\n\nAbrir\naquí\n\n\n\n\nAviso A609-1\n\n\t\n\nViento normal a moderado en la región.\n\n\t\n\n08-11\n\n\t\n\n10-11\n\n\t\n\nAbrir\naquí\n\nPor otro lado, se informa que el Parque Nacional Torres del Paine, ante el incremento sostenido de las ráfagas de viento en la zona, aplicó cierres o restricciones temporales de acceso en los Senderos Mirador Base Torres, Salto Grande, Mirador Cuernos, Mirador Cóndor, Playa Grey y Ferrier.\n\nAsimismo, se informa que los puertos Primera Angostura, Punta Arenas, Skyring y Bahía Chilota se encuentran cerrados para el tráfico de embarcaciones menores. Además, en la comuna de San Gregorio se encuentra suspendido el Cruce 1ra Angostura y en la comuna de Porvenir fue cancelado el cruce de barcaza.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por viento, que se encuentra vigente desde el 06 de noviembre y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSENAPRED recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.\n\n\nMonitoreo Alerta Temprana Preventiva para la Región de Magallanes por viento\n\n07-11-2026 17:16\n\nSe declara Alerta Temprana Preventiva para la Región de Magallanes y la Antártica Chilena por viento\n\n06-11-2026 19:31"
-  },
-  {
-    "id_alerta": "Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida|07-11-2026 00:39",
-    "accion": "Se modifica",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "rio hurtado,salamanca,illapel,vicuna",
-    "fecha_senapred": "07-11-2026 00:39",
-    "titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-paihuannio-y-vicuna-por-crecida-2026-10-02-16-43-21",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo:\n\n\n\n\nComuna\n\n\t\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nRío Hurtado\n\n\t\n\nRío Hurtado en San Agustín\n\n\t\n\nAzul\n\n\n\n\nSalamanca\n\n\t\n\nRío Choapa en Cuncumén\n\n\t\n\nAzul\n\n\n\n\nPaihuano\n\n\t\n\nEstero Derecho en Alcohuaz\n\n\t\n\nAzul\n\n\n\n\nPaihuano\n\n\t\n\nRío Cochiguaz en El Peñón\n\n\t\n\nAzul\n\n\n\n\nVicuña\n\n\t\n\nRío Elqui en Algarrobal\n\n\t\n\nAzul\n\n\n\n\nCabe señalar que en la comuna de Illapel, sector Los Perales, a consecuencia del deshielo se produjo la activación de la quebrada El Chañar, la cual comprometió parcialmente el flujo y circulación habitual del cauce del Río Choapa.\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva por crecida para las comunas de Río Hurtado, Paihuano, Vicuña, Illapel y Salamanca, que se encuentra vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica cobertura de Alerta Temprana Preventiva para las comunas de Río Hurtado, Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida\n\n01-11-2026 03:23\n\nSe modifica cobertura Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano, Vicuña, Illapel y Salamanca por crecida\n\n31-10-2026 14:57\n\nSe modifica Alerta Temprana Preventiva para las comunas de Monte Patria, Paihuano y Vicuña por crecida\n\n29-10-2026 21:15\n\nSe declara Alerta Temprana Preventiva para las comunas de Paihuano y Vicuña por crecida\n\n02-10-2026 16:41"
-  },
-  {
-    "id_alerta": "Se declara Alerta Amarilla para la comuna de Monte Patria por crecida|06-11-2026 23:35",
-    "accion": "Se declara",
-    "tipo": "Amarilla",
-    "prioridad": "Media",
-    "region": "Coquimbo",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "monte patria",
-    "fecha_senapred": "06-11-2026 23:35",
-    "titulo": "Se declara Alerta Amarilla para la comuna de Monte Patria por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Coquimbo:\n\n\n\n\nEstación hidrométrica\n\n\t\n\nUmbral\n\n\n\n\nRío Grande Las Ramadas\n\n\t\n\nAmarillo\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Monte Patria, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nCon la declaración de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente."
   }
 ]
