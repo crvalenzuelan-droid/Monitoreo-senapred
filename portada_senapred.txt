@@ -18,6 +18,34 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
+
+09-11-2026 19:48
+
+Se modifica evento de Alerta Temprana Preventiva para la Región de Magallanes a evento meteorológico
+
+09-11-2026 19:44
+
+Se declara Alerta Amarilla para las comunas de Mostazal, Codegua, Rancagua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por Remoción en Masa
+
+09-11-2026 18:57
+
+Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
+
+09-11-2026 18:46
+
+Se declara Alerta Amarilla para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por calor intenso
+
+09-11-2026 18:36
+
+Se declara Alerta Roja para la Provincia del Tamarugal por calor extremo
+
+09-11-2026 18:25
+
+Se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por Remoción en Masa
+
+09-11-2026 17:26
+
 Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal
 
 09-11-2026 15:46
@@ -25,10 +53,6 @@ Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal
 Se declara Alerta Temprana Preventiva para la Región O´Higgins de por evento meteorológico
 
 09-11-2026 15:08
-
-Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
-
-09-11-2026 14:24
 
 Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas
 
@@ -61,10 +85,6 @@ Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Feli
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
 
 08-11-2026 16:45
-
-Monitoreo Alerta Temprana Preventiva para la región de Magallanes por viento
-
-08-11-2026 16:00
 
 Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida
 
