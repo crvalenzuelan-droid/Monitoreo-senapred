@@ -5,14 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Tue, 10 Nov 2026 15:51:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 17:53:31 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida|10-11-2026 13:11]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=10-11-2026 13:11|NivelCobertura=Provincia|UbicacionCobertura=copiapo,huasco]]></description>
+<pubDate>Tue, 10 Nov 2026 17:53:31 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico|10-11-2026 12:37]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=10-11-2026 12:37|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
+<pubDate>Tue, 10 Nov 2026 17:53:31 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Se modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13</link>
 <guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida|10-11-2026 09:48]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=10-11-2026 09:48|NivelCobertura=Comuna|UbicacionCobertura=la higuera,combarbala,la serena,andacollo,punitaqui,los vilos,salamanca,coquimbo,illapel,vicuna,ovalle,canela]]></description>
-<pubDate>Tue, 10 Nov 2026 15:51:43 GMT</pubDate>
+<pubDate>Tue, 10 Nov 2026 17:53:31 GMT</pubDate>
 </item>
 
 <item>
@@ -20,15 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico|09-11-2026 19:48]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=09-11-2026 19:48|NivelCobertura=Región|UbicacionCobertura=Arica y Parinacota]]></description>
-<pubDate>Tue, 10 Nov 2026 15:51:43 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica evento de Alerta Temprana Preventiva para la Región de Magallanes a evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06</link>
-<guid isPermaLink="false"><![CDATA[Se modifica evento de Alerta Temprana Preventiva para la Región de Magallanes a evento meteorológico|09-11-2026 19:44]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=09-11-2026 19:44|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
-<pubDate>Tue, 10 Nov 2026 15:51:43 GMT</pubDate>
+<pubDate>Tue, 10 Nov 2026 17:53:31 GMT</pubDate>
 </item>
 
 <item>
@@ -36,15 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas|09-11-2026 18:46]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Tarapacá|Prioridad=Baja|Fecha=09-11-2026 18:46|NivelCobertura=Provincia|UbicacionCobertura=tamarugal]]></description>
-<pubDate>Tue, 10 Nov 2026 15:51:43 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Amarilla para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por calor intenso]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-calor-intenso-2026-11-09-18-41-37</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por calor intenso|09-11-2026 18:36]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Atacama|Prioridad=Media|Fecha=09-11-2026 18:36|NivelCobertura=Comuna|UbicacionCobertura=diego de almagro,tierra amarilla,alto del carmen,vallenar,copiapo]]></description>
-<pubDate>Tue, 10 Nov 2026 15:51:43 GMT</pubDate>
+<pubDate>Tue, 10 Nov 2026 17:53:31 GMT</pubDate>
 </item>
 
 </channel>
