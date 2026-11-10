@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Se cancela Alerta Amarilla para las comunas de Mostazal, Codegua, Rancagua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por remoción en masa
+
+10-11-2026 07:28
+
+Monitoreo Alerta Amarilla para la comuna de Salamanca por crecida
+
+10-11-2026 06:12
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida
+
+10-11-2026 00:31
+
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
 09-11-2026 19:48
@@ -25,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna
 Se modifica evento de Alerta Temprana Preventiva para la Región de Magallanes a evento meteorológico
 
 09-11-2026 19:44
-
-Se declara Alerta Amarilla para las comunas de Mostazal, Codegua, Rancagua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por Remoción en Masa
-
-09-11-2026 18:57
 
 Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
 
@@ -58,17 +66,9 @@ Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de A
 
 09-11-2026 14:04
 
-Se modifica cobertura Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida
-
-09-11-2026 04:59
-
 Se declara Alerta Roja para la comuna de Río Hurtado por desborde
 
 09-11-2026 03:46
-
-Se declara Alerta Amarilla para la comuna de Salamanca por crecida
-
-09-11-2026 02:12
 
 Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida
 
@@ -77,10 +77,6 @@ Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Ale
 Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
 
 08-11-2026 19:59
-
-Monitoreo Alerta Temprana Preventiva para las provincias de Los Andes y San Felipe y las comunas de La Ligua, Petorca y Cabildo por evento meteorológico
-
-08-11-2026 18:37
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
 
