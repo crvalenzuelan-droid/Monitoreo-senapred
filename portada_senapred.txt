@@ -18,17 +18,9 @@ Limpiar Filtros
 <<
 >>
 
-Se cancela Alerta Amarilla para las comunas de Mostazal, Codegua, Rancagua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por remoción en masa
+Se modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida
 
-10-11-2026 07:28
-
-Monitoreo Alerta Amarilla para la comuna de Salamanca por crecida
-
-10-11-2026 06:12
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Paihuano, Vicuña e Illapel por crecida
-
-10-11-2026 00:31
+10-11-2026 09:48
 
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
@@ -50,10 +42,6 @@ Se declara Alerta Roja para la Provincia del Tamarugal por calor extremo
 
 09-11-2026 18:25
 
-Se declara Alerta Amarilla para las comunas de San José de Maipo, Puente Alto, Pirque, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Vitacura y Colina por Remoción en Masa
-
-09-11-2026 17:26
-
 Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal
 
 09-11-2026 15:46
@@ -73,10 +61,6 @@ Se declara Alerta Roja para la comuna de Río Hurtado por desborde
 Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida
 
 09-11-2026 00:25
-
-Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico
-
-08-11-2026 19:59
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
 
