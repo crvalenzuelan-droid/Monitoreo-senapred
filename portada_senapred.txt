@@ -18,29 +18,41 @@ Limpiar Filtros
 <<
 >>
 
-Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
-10-11-2026 13:11
+10-11-2026 20:17
+
+Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas
+
+10-11-2026 19:47
+
+Se declara Alerta Roja comunal por calor extremo para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen y cancela Alerta Amarilla para las mismas comunas por calor intenso
+
+10-11-2026 19:33
+
+Se declara alerta roja para la comuna de Alto del Carmen por desborde
+
+10-11-2026 18:41
 
 Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
 
-10-11-2026 12:37
+10-11-2026 16:27
+
+Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
+
+10-11-2026 16:04
+
+Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida
+
+10-11-2026 13:11
 
 Se modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida
 
 10-11-2026 09:48
 
-Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
-
-09-11-2026 19:48
-
 Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
 
 09-11-2026 18:46
-
-Se declara Alerta Amarilla para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por calor intenso
-
-09-11-2026 18:36
 
 Se declara Alerta Roja para la Provincia del Tamarugal por calor extremo
 
@@ -50,10 +62,6 @@ Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal
 
 09-11-2026 15:46
 
-Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas
-
-09-11-2026 14:04
-
 Se declara Alerta Roja para la comuna de Río Hurtado por desborde
 
 09-11-2026 03:46
@@ -61,10 +69,6 @@ Se declara Alerta Roja para la comuna de Río Hurtado por desborde
 Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida
 
 09-11-2026 00:25
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-06-11-2026 18:01
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario
 
