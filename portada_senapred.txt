@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
+
+11-11-2026 09:33
+
+Se declara Alerta Amarilla para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por calor intenso
+
+11-11-2026 09:19
+
 Monitoreo Alerta roja para la comuna de Alto del Carmen por desborde
 
 11-11-2026 00:49
@@ -41,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y comunas de An
 Se declara Alerta Roja comunal por calor extremo para las Comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen y cancela Alerta Amarilla para las mismas comunas por calor intenso
 
 10-11-2026 19:33
-
-Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
-
-10-11-2026 16:27
 
 Monitoreo Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
