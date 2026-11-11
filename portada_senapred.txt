@@ -18,6 +18,22 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla para la Región Metropolitana por calor intenso
+
+11-11-2026 14:49
+
+Se modifica cobertura de Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado, por desborde
+
+11-11-2026 13:49
+
+Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
+
+11-11-2026 13:45
+
+Se declara Alerta Roja para la Provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena por calor extremo
+
+11-11-2026 13:19
+
 Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
 
 11-11-2026 09:33
@@ -25,14 +41,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento me
 Se declara Alerta Amarilla para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por calor intenso
 
 11-11-2026 09:19
-
-Monitoreo Alerta roja para la comuna de Alto del Carmen por desborde
-
-11-11-2026 00:49
-
-Se modifica cobertura Alerta Roja para las comunas de Salamanca, Monte Patria y Río Hurtado por desborde
-
-11-11-2026 00:20
 
 Se modifica cobertura Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Illapel, Canela y Los Vilos por crecida
 
