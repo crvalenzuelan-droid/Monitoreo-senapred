@@ -5,134 +5,134 @@
 <link>https://www.weatherapi.com/</link>
 <description>Pronóstico diario de temperaturas por región de Chile</description>
 <language>es-cl</language>
-<lastBuildDate>Tue, 10 Nov 2026 07:34:34 -0300</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 08:32:22 -0300</lastBuildDate>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Arica y Parinacota | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Arica y Parinacota | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Arica y Parinacota]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Arica y Parinacota|CiudadReferencia=Arica|TemperaturaActual=19.3|TemperaturaMinima=19.3|TemperaturaMaxima=26.2|SensacionTermica=21.4|Humedad=84.0|VientoMaximo=14.8|ProbabilidadLluvia=9|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Arica y Parinacota]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Arica y Parinacota|CiudadReferencia=Arica|TemperaturaActual=21.1|TemperaturaMinima=20.2|TemperaturaMaxima=26.3|SensacionTermica=23.2|Humedad=79.0|VientoMaximo=14.8|ProbabilidadLluvia=13|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Tarapacá | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Tarapacá | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Tarapacá]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Tarapacá|CiudadReferencia=Iquique|TemperaturaActual=19.3|TemperaturaMinima=16.1|TemperaturaMaxima=21.8|SensacionTermica=19.3|Humedad=77.0|VientoMaximo=21.2|ProbabilidadLluvia=11|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Tarapacá]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Tarapacá|CiudadReferencia=Iquique|TemperaturaActual=18.0|TemperaturaMinima=16.4|TemperaturaMaxima=22.1|SensacionTermica=18.0|Humedad=74.0|VientoMaximo=13.7|ProbabilidadLluvia=11|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Antofagasta | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Antofagasta | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Antofagasta]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Antofagasta|CiudadReferencia=Antofagasta|TemperaturaActual=16.7|TemperaturaMinima=13.8|TemperaturaMaxima=22.3|SensacionTermica=17.4|Humedad=88.0|VientoMaximo=17.3|ProbabilidadLluvia=13|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Antofagasta]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Antofagasta|CiudadReferencia=Antofagasta|TemperaturaActual=18.7|TemperaturaMinima=15.1|TemperaturaMaxima=22.3|SensacionTermica=19.3|Humedad=76.0|VientoMaximo=15.8|ProbabilidadLluvia=17|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Atacama | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Atacama | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Atacama]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Atacama|CiudadReferencia=Copiapó|TemperaturaActual=15.2|TemperaturaMinima=12.2|TemperaturaMaxima=30.9|SensacionTermica=15.7|Humedad=92.0|VientoMaximo=19.4|ProbabilidadLluvia=3|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Atacama]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Atacama|CiudadReferencia=Copiapó|TemperaturaActual=15.9|TemperaturaMinima=13.8|TemperaturaMaxima=30.3|SensacionTermica=15.1|Humedad=63.0|VientoMaximo=14.8|ProbabilidadLluvia=2|Condicion=Soleado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Coquimbo | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Coquimbo | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Coquimbo]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Coquimbo|CiudadReferencia=La Serena|TemperaturaActual=15.8|TemperaturaMinima=15.6|TemperaturaMaxima=22.2|SensacionTermica=16.7|Humedad=87.0|VientoMaximo=15.5|ProbabilidadLluvia=20|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Coquimbo]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Coquimbo|CiudadReferencia=La Serena|TemperaturaActual=18.0|TemperaturaMinima=14.4|TemperaturaMaxima=23.6|SensacionTermica=18.5|Humedad=79.0|VientoMaximo=12.6|ProbabilidadLluvia=7|Condicion=Soleado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Valparaíso | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Valparaíso | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Valparaíso]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Valparaíso|CiudadReferencia=Valparaíso|TemperaturaActual=16.2|TemperaturaMinima=15.4|TemperaturaMaxima=23.1|SensacionTermica=17.1|Humedad=84.0|VientoMaximo=18.0|ProbabilidadLluvia=37|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Valparaíso]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Valparaíso|CiudadReferencia=Valparaíso|TemperaturaActual=17.4|TemperaturaMinima=13.4|TemperaturaMaxima=24.5|SensacionTermica=18.3|Humedad=77.0|VientoMaximo=14.0|ProbabilidadLluvia=9|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Metropolitana | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Metropolitana | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Metropolitana]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Metropolitana|CiudadReferencia=Santiago|TemperaturaActual=15.2|TemperaturaMinima=14.0|TemperaturaMaxima=26.9|SensacionTermica=15.2|Humedad=89.0|VientoMaximo=10.4|ProbabilidadLluvia=62|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Metropolitana]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Metropolitana|CiudadReferencia=Santiago|TemperaturaActual=18.2|TemperaturaMinima=13.9|TemperaturaMaxima=30.2|SensacionTermica=18.3|Humedad=60.0|VientoMaximo=11.9|ProbabilidadLluvia=4|Condicion=Soleado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | O´Higgins | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | O´Higgins | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|O´Higgins]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=O´Higgins|CiudadReferencia=Rancagua|TemperaturaActual=13.3|TemperaturaMinima=13.2|TemperaturaMaxima=25.2|SensacionTermica=13.9|Humedad=96.0|VientoMaximo=11.9|ProbabilidadLluvia=69|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|O´Higgins]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=O´Higgins|CiudadReferencia=Rancagua|TemperaturaActual=17.7|TemperaturaMinima=13.1|TemperaturaMaxima=28.6|SensacionTermica=18.1|Humedad=65.0|VientoMaximo=5.8|ProbabilidadLluvia=6|Condicion=Soleado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Maule | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Maule | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Maule]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Maule|CiudadReferencia=Talca|TemperaturaActual=13.0|TemperaturaMinima=12.9|TemperaturaMaxima=25.4|SensacionTermica=12.6|Humedad=94.0|VientoMaximo=10.8|ProbabilidadLluvia=57|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Maule]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Maule|CiudadReferencia=Talca|TemperaturaActual=16.2|TemperaturaMinima=13.5|TemperaturaMaxima=29.2|SensacionTermica=16.0|Humedad=82.0|VientoMaximo=10.4|ProbabilidadLluvia=7|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Ñuble | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Ñuble | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Ñuble]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Ñuble|CiudadReferencia=Chillán|TemperaturaActual=12.7|TemperaturaMinima=11.9|TemperaturaMaxima=24.3|SensacionTermica=12.4|Humedad=95.0|VientoMaximo=14.4|ProbabilidadLluvia=20|Condicion=Cubierto]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Ñuble]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Ñuble|CiudadReferencia=Chillán|TemperaturaActual=14.7|TemperaturaMinima=13.2|TemperaturaMaxima=28.3|SensacionTermica=13.0|Humedad=86.0|VientoMaximo=13.3|ProbabilidadLluvia=10|Condicion=Nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Biobío | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Biobío | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Biobío]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Biobío|CiudadReferencia=Concepción|TemperaturaActual=13.5|TemperaturaMinima=13.5|TemperaturaMaxima=19.4|SensacionTermica=13.7|Humedad=95.0|VientoMaximo=12.2|ProbabilidadLluvia=28|Condicion=Neblina]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Biobío]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Biobío|CiudadReferencia=Concepción|TemperaturaActual=15.3|TemperaturaMinima=13.6|TemperaturaMaxima=23.2|SensacionTermica=15.3|Humedad=84.0|VientoMaximo=10.8|ProbabilidadLluvia=14|Condicion=Nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | La Araucanía | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | La Araucanía | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|La Araucanía]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=La Araucanía|CiudadReferencia=Temuco|TemperaturaActual=7.4|TemperaturaMinima=7.4|TemperaturaMaxima=24.9|SensacionTermica=6.7|Humedad=98.0|VientoMaximo=14.4|ProbabilidadLluvia=17|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|La Araucanía]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=La Araucanía|CiudadReferencia=Temuco|TemperaturaActual=11.7|TemperaturaMinima=9.4|TemperaturaMaxima=24.0|SensacionTermica=11.2|Humedad=91.0|VientoMaximo=13.7|ProbabilidadLluvia=18|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Los Ríos | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Los Ríos | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Los Ríos]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Los Ríos|CiudadReferencia=Valdivia|TemperaturaActual=5.6|TemperaturaMinima=5.6|TemperaturaMaxima=22.7|SensacionTermica=4.7|Humedad=85.0|VientoMaximo=11.2|ProbabilidadLluvia=8|Condicion=Soleado]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Los Ríos]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Los Ríos|CiudadReferencia=Valdivia|TemperaturaActual=11.6|TemperaturaMinima=8.2|TemperaturaMaxima=23.1|SensacionTermica=10.4|Humedad=82.0|VientoMaximo=7.9|ProbabilidadLluvia=17|Condicion=Cubierto]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Los Lagos | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Los Lagos | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Los Lagos]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Los Lagos|CiudadReferencia=Puerto Montt|TemperaturaActual=10.9|TemperaturaMinima=10.4|TemperaturaMaxima=15.8|SensacionTermica=9.0|Humedad=86.0|VientoMaximo=20.9|ProbabilidadLluvia=14|Condicion=Cubierto]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Los Lagos]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Los Lagos|CiudadReferencia=Puerto Montt|TemperaturaActual=11.5|TemperaturaMinima=9.2|TemperaturaMaxima=16.1|SensacionTermica=10.8|Humedad=87.0|VientoMaximo=14.0|ProbabilidadLluvia=15|Condicion=Nublado]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Aysén | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Aysén | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Aysén]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Aysén|CiudadReferencia=Coyhaique|TemperaturaActual=1.1|TemperaturaMinima=0.6|TemperaturaMaxima=15.4|SensacionTermica=-2.1|Humedad=91.0|VientoMaximo=21.2|ProbabilidadLluvia=60|Condicion=Cubierto]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Aysén]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Aysén|CiudadReferencia=Coyhaique|TemperaturaActual=10.6|TemperaturaMinima=7.9|TemperaturaMaxima=14.3|SensacionTermica=8.3|Humedad=92.0|VientoMaximo=19.4|ProbabilidadLluvia=67|Condicion=Lluvia irregular en las cercanías]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Magallanes | 10-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Magallanes | 11-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|10-11-2026|Magallanes]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=10-11-2026|Region=Magallanes|CiudadReferencia=Punta Arenas|TemperaturaActual=9.9|TemperaturaMinima=4.5|TemperaturaMaxima=10.8|SensacionTermica=6.4|Humedad=54.0|VientoMaximo=52.2|ProbabilidadLluvia=76|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Tue, 10 Nov 2026 07:34:34 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|11-11-2026|Magallanes]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|Region=Magallanes|CiudadReferencia=Punta Arenas|TemperaturaActual=4.9|TemperaturaMinima=3.7|TemperaturaMaxima=8.5|SensacionTermica=-0.1|Humedad=87.0|VientoMaximo=34.9|ProbabilidadLluvia=64|Condicion=Lluvia irregular en las cercanías]]></description>
+<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
 </item>
 
 </channel>
