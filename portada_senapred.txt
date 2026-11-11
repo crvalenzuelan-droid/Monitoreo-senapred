@@ -18,6 +18,18 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para la comuna de Monte Patria por desborde
+
+10-11-2026 21:38
+
+Monitoreo Alerta Roja para la comuna de Río Hurtado por desborde
+
+10-11-2026 21:26
+
+Monitoreo Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida
+
+10-11-2026 21:05
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 10-11-2026 20:17
@@ -46,10 +58,6 @@ Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por c
 
 10-11-2026 13:11
 
-Se modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida
-
-10-11-2026 09:48
-
 Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
 
 09-11-2026 18:46
@@ -57,18 +65,6 @@ Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormen
 Se declara Alerta Roja para la Provincia del Tamarugal por calor extremo
 
 09-11-2026 18:25
-
-Monitoreo Alerta Amarilla para la Comuna de Natales por incendio forestal
-
-09-11-2026 15:46
-
-Se declara Alerta Roja para la comuna de Río Hurtado por desborde
-
-09-11-2026 03:46
-
-Se declara Alerta Roja para la comuna de Monte Patria por desborde y cancela Alerta Amarilla por crecida
-
-09-11-2026 00:25
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario
 
