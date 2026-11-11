@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso
+
+11-11-2026 16:03
+
+Modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Combarbalá, Andacollo, Punitaqui, Canela y Los Vilos por crecida
+
+11-11-2026 16:01
+
 Se declara Alerta Amarilla para la Región Metropolitana por calor intenso
 
 11-11-2026 14:49
@@ -41,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento me
 Se declara Alerta Amarilla para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por calor intenso
 
 11-11-2026 09:19
-
-Se modifica cobertura Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Illapel, Canela y Los Vilos por crecida
-
-11-11-2026 00:01
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
