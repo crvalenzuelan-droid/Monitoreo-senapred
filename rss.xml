@@ -5,30 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Wed, 11 Nov 2026 03:04:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 10:57:19 GMT</lastBuildDate>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Roja para la comuna de Monte Patria por desborde]]></title>
+<title><![CDATA[Monitoreo Alerta roja para la comuna de Alto del Carmen por desborde]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta roja para la comuna de Alto del Carmen por desborde|11-11-2026 00:49]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Atacama|Prioridad=Alta|Fecha=11-11-2026 00:49|NivelCobertura=Comuna|UbicacionCobertura=alto del carmen]]></description>
+<pubDate>Wed, 11 Nov 2026 10:57:19 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se modifica cobertura Alerta Roja para las comunas de Salamanca, Monte Patria y Río Hurtado por desborde]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para la comuna de Monte Patria por desborde|10-11-2026 21:38]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=10-11-2026 21:38|NivelCobertura=Comuna|UbicacionCobertura=monte patria]]></description>
-<pubDate>Wed, 11 Nov 2026 03:04:16 GMT</pubDate>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura Alerta Roja para las comunas de Salamanca, Monte Patria y Río Hurtado por desborde|11-11-2026 00:20]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=11-11-2026 00:20|NivelCobertura=Comuna|UbicacionCobertura=monte patria,rio hurtado,salamanca]]></description>
+<pubDate>Wed, 11 Nov 2026 10:57:19 GMT</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Roja para la comuna de Río Hurtado por desborde]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-desborde-2026-11-09-03-47-13</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para la comuna de Río Hurtado por desborde|10-11-2026 21:26]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=10-11-2026 21:26|NivelCobertura=Comuna|UbicacionCobertura=rio hurtado]]></description>
-<pubDate>Wed, 11 Nov 2026 03:04:16 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida]]></title>
+<title><![CDATA[Se modifica cobertura Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Illapel, Canela y Los Vilos por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida|10-11-2026 21:05]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=10-11-2026 21:05|NivelCobertura=Comuna|UbicacionCobertura=la higuera,combarbala,la serena,andacollo,punitaqui,los vilos,salamanca,coquimbo,illapel,vicuna,ovalle,canela]]></description>
-<pubDate>Wed, 11 Nov 2026 03:04:16 GMT</pubDate>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Illapel, Canela y Los Vilos por crecida|11-11-2026 00:01]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=Amarilla|Region=Coquimbo|Prioridad=Media|Fecha=11-11-2026 00:01|NivelCobertura=Comuna|UbicacionCobertura=la higuera,combarbala,la serena,andacollo,punitaqui,los vilos,coquimbo,illapel,vicuna,ovalle,canela]]></description>
+<pubDate>Wed, 11 Nov 2026 10:57:19 GMT</pubDate>
 </item>
 
 <item>
@@ -36,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|10-11-2026 20:17]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=10-11-2026 20:17|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
-<pubDate>Wed, 11 Nov 2026 03:04:16 GMT</pubDate>
+<pubDate>Wed, 11 Nov 2026 10:57:19 GMT</pubDate>
 </item>
 
 <item>
@@ -44,7 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas|10-11-2026 19:47]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=10-11-2026 19:47|NivelCobertura=Región|UbicacionCobertura=Antofagasta]]></description>
-<pubDate>Wed, 11 Nov 2026 03:04:16 GMT</pubDate>
+<pubDate>Wed, 11 Nov 2026 10:57:19 GMT</pubDate>
 </item>
 
 </channel>
