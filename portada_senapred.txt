@@ -18,9 +18,13 @@ Limpiar Filtros
 <<
 >>
 
-Se declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida
+Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida
 
-11-11-2026 19:56
+12-11-2026 03:52
+
+Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
+
+11-11-2026 22:53
 
 Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso
 
@@ -37,10 +41,6 @@ Se declara Alerta Amarilla para la Región Metropolitana por calor intenso
 Se modifica cobertura de Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado, por desborde
 
 11-11-2026 13:49
-
-Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
-
-11-11-2026 13:45
 
 Se declara Alerta Roja para la Provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena por calor extremo
 
