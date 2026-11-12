@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida|11-11-2026 19:56",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Valparaíso",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Valparaíso",
+    "fecha_senapred": "11-11-2026 19:56",
+    "titulo": "Se declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
     "id_alerta": "Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso|11-11-2026 16:03",
     "accion": "Se declara",
     "tipo": "Amarilla",
@@ -50,18 +63,5 @@
     "titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAlerta AA196-3\n\n\t\n\nAltas temperaturas extremas en precordillera de la región.\n\n\t\n\n11-11\n\n\t\n\n12-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAdemás, acorde a lo informado por Dirección General de Aguas (DGA) se reporta que la estación de monitoreo “Río Huasco en el Maiten” en la comuna de Alto del Carmen, se encuentra en umbral azul con tendencia al alza.\n\n\n\n\nPor otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces en la región:\n\nCOMUNA\n\n\t\n\nAFECTACIÓN A PERSONAS - DAÑO A VIVIENDAS Y/O ESTRUCTURAS\n\n\n\n\nAlto del Carmen\n\n\t\n\nPor activación de quebradas en sectores de El Berraco y Las Breas se reporta 5 viviendas con daño menor.\n\n\n\n\nEn la Localidad Juntas de Valeriano se reportan 3 viviendas con daño menor.\n\n\n\n\nEl desborde del Río El Carmen ha provocado la interrupción de conectividad en los sectores de La Mesilla y El Retamo.\n\n\n\n\nProducto del desborde del Río El Tránsito, se ve afectada la Ruta C-477 a la altura de la localidad de Chanchoquin Chico.\n\n\n\n\nEn la localidad de Conay, se reportan desbordes en la Ruta C-495 a la altura del kilómetro 60, además en el sector Juntas de Valeriano y en el Km 10 y en el sector Quebrada de Colpe (Ruta C 555). Manteniéndose el tránsito interrumpido.\n\n\n\n\nEn la localidad de El Tránsito: Se informa del desborde de la Quebrada La Totora a la altura del kilómetro 25 de la Ruta C-495.\n\n\n\n\nEn la localidad de San Félix, se reporta un desborde en la Ruta C-489 a la altura del kilómetro 49, sector El Berraco. Manteniéndose el tránsito interrumpido.\n\n\n\n\nSector Crucecita, Valle del Carmen, se reporta desborde del Río El Carmen a la altura del badén Crucecita, Ruta C-489.\n\n\n\n\nSector el Maiten, se reportan desbordes menores en ruta C-485 a la altura del kilómetro 35.\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Atacama, la Dirección Regional del SENAPRED mantiene la alerta roja por desborde para la comuna de Alto del Carmen, que se mantiene vigente desde el 10 de noviembre y hasta que las condiciones así lo ameriten.\n\n\n\n\nCon esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.\n\nMonitoreo Alerta roja para la comuna de Alto del Carmen por desborde\n\n11-11-2026 00:49\n\nSe declara alerta roja para la comuna de Alto del Carmen por desborde\n\n10-11-2026 18:41"
-  },
-  {
-    "id_alerta": "Se declara Alerta Roja para la Provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena por calor extremo|11-11-2026 13:19",
-    "accion": "Se declara",
-    "tipo": "Roja",
-    "prioridad": "Alta",
-    "region": "Antofagasta",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Antofagasta",
-    "fecha_senapred": "11-11-2026 13:19",
-    "titulo": "Se declara Alerta Roja para la Provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena por calor extremo",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-extremo-2026-11-11-13-20-47",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAlerta AA196-3\n\n\t\n\nAltas Temperaturas Extremas en Pampa de la Región.\n\n\t\n\n11-11\n\n\t\n\n12-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A610-4\n\n\t\n\nAltas Temperaturas en Pampa, Precordillera Occidental y Precordillera Salar de la Región.\n\n\t\n\n11-11\n\n\t\n\n14-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Roja por calor extremo para la Provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.\n\n\n\n\nCon la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.\n\n\n\n\nEl SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo."
   }
 ]
