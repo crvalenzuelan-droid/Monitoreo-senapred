@@ -5,14 +5,14 @@
 <link>https://www.weatherapi.com/</link>
 <description>Pronóstico nacional diario de radiación UV</description>
 <language>es-cl</language>
-<lastBuildDate>Wed, 11 Nov 2026 08:32:22 -0300</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:16:17 -0300</lastBuildDate>
 
 <item>
-<title><![CDATA[Pronóstico Nacional de Radiación UV WeatherAPI | 11-11-2026]]></title>
+<title><![CDATA[Pronóstico Nacional de Radiación UV WeatherAPI | 12-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[UV-NACIONAL-WEATHERAPI|11-11-2026]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=11-11-2026|MaximoNacional=14.5|Extremo=Arica y Parinacota (13.4), Tarapacá (14.5), Antofagasta (13.8), Atacama (13.5), Coquimbo (12.4), Maule (11.1)|MuyAlto=Valparaíso (10.4), Metropolitana (10.6), O´Higgins (10.1), Ñuble (10.8), Biobío (10.7), La Araucanía (10.2), Los Ríos (9.3), Los Lagos (9.4)|Alto=Aysén (7.2), Magallanes (6.7)|Moderado=|Bajo=|NoDisponible=]]></description>
-<pubDate>Wed, 11 Nov 2026 08:32:22 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[UV-NACIONAL-WEATHERAPI|12-11-2026]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=12-11-2026|MaximoNacional=14.2|Extremo=Arica y Parinacota (14.2), Tarapacá (13.7), Antofagasta (13.7), Atacama (13.6), Coquimbo (12.2)|MuyAlto=Valparaíso (10.4), Metropolitana (9.8), O´Higgins (10.4), Maule (10.6), Ñuble (10.6), Biobío (9.9), La Araucanía (10.4), Los Ríos (9.9), Los Lagos (9.1)|Alto=Magallanes (7.3)|Moderado=Aysén (4.5)|Bajo=|NoDisponible=]]></description>
+<pubDate>Thu, 12 Nov 2026 07:16:17 -0300</pubDate>
 </item>
 
 </channel>
