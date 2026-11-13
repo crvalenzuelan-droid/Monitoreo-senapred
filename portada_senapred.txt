@@ -20,7 +20,15 @@ Limpiar Filtros
 
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
-13-11-2026 11:22
+13-11-2026 19:39
+
+Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
+
+13-11-2026 18:58
+
+Se declara Alerta Temprana Preventiva para la Región del Maule por viento
+
+13-11-2026 16:35
 
 Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida
 
@@ -57,10 +65,6 @@ Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y comunas de An
 Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida
 
 10-11-2026 13:11
-
-Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
-
-09-11-2026 18:46
 
 Se declara Alerta Roja para la Provincia del Tamarugal por calor extremo
 
