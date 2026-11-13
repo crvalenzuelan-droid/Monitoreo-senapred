@@ -18,25 +18,25 @@ Limpiar Filtros
 <<
 >>
 
-Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida
+Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida
 
-12-11-2026 03:52
+12-11-2026 22:29
+
+Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
+
+12-11-2026 22:13
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán
+
+12-11-2026 20:01
 
 Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
 
 11-11-2026 22:53
 
-Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso
-
-11-11-2026 16:03
-
 Modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Combarbalá, Andacollo, Punitaqui, Canela y Los Vilos por crecida
 
 11-11-2026 16:01
-
-Se declara Alerta Amarilla para la Región Metropolitana por calor intenso
-
-11-11-2026 14:49
 
 Se modifica cobertura de Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado, por desborde
 
@@ -49,10 +49,6 @@ Se declara Alerta Roja para la Provincia de El Loa y las comunas de Antofagasta,
 Se declara Alerta Amarilla para las comunas de Combarbalá, Illapel, La Higuera, Monte Patria, Paihuano, Río Hurtado, Salamanca y Vicuña por calor intenso
 
 11-11-2026 09:19
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-10-11-2026 20:17
 
 Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas
 

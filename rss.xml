@@ -5,14 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Thu, 12 Nov 2026 22:45:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 02:58:23 GMT</lastBuildDate>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida]]></title>
+<title><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida|12-11-2026 03:52]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=12-11-2026 03:52|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
-<pubDate>Thu, 12 Nov 2026 22:45:51 GMT</pubDate>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida|12-11-2026 22:29]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=12-11-2026 22:29|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
+<pubDate>Fri, 13 Nov 2026 02:58:23 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida|12-11-2026 22:13]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=12-11-2026 22:13|NivelCobertura=Comuna|UbicacionCobertura=los andes]]></description>
+<pubDate>Fri, 13 Nov 2026 02:58:23 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán|12-11-2026 20:01]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=12-11-2026 20:01|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
+<pubDate>Fri, 13 Nov 2026 02:58:23 GMT</pubDate>
 </item>
 
 <item>
@@ -20,23 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde|11-11-2026 22:53]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Atacama|Prioridad=Alta|Fecha=11-11-2026 22:53|NivelCobertura=Comuna|UbicacionCobertura=alto del carmen]]></description>
-<pubDate>Thu, 12 Nov 2026 22:45:51 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-comunas-de-la-ligua-petorca-y-cabildo-por-calor-intenso-2026-11-11-18-01-59</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para las Provincias de San Felipe y Los Andes y comunas de La Ligua, Petorca y Cabildo por calor intenso|11-11-2026 16:03]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=11-11-2026 16:03|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
-<pubDate>Thu, 12 Nov 2026 22:45:51 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Amarilla para la Región Metropolitana por calor intenso]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-11-11-14-50-00</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la Región Metropolitana por calor intenso|11-11-2026 14:49]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Metropolitana|Prioridad=Media|Fecha=11-11-2026 14:49|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
-<pubDate>Thu, 12 Nov 2026 22:45:51 GMT</pubDate>
+<pubDate>Fri, 13 Nov 2026 02:58:23 GMT</pubDate>
 </item>
 
 <item>
@@ -44,7 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42</link>
 <guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado, por desborde|11-11-2026 13:49]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=11-11-2026 13:49|NivelCobertura=Comuna|UbicacionCobertura=monte patria,rio hurtado,salamanca,illapel,vicuna,ovalle]]></description>
-<pubDate>Thu, 12 Nov 2026 22:45:51 GMT</pubDate>
+<pubDate>Fri, 13 Nov 2026 02:58:23 GMT</pubDate>
 </item>
 
 </channel>
