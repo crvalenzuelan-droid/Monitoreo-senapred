@@ -1,5 +1,31 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida|14-11-2026 01:45",
+    "accion": "Monitoreo",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Valparaíso",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Valparaíso",
+    "fecha_senapred": "14-11-2026 01:45",
+    "titulo": "Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED mantiene Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida,que se encuentra vigente desde el 11 de noviembre de 2026 y hasta que las condiciones así lo ameriten.\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nCURSOS DE ACCIÓN:\n\nEn la comuna de San Felipe, se realizó un COGRID comunal para evaluar la situación del sector Barrancas, el cual se mantiene en monitoreo.\n\nPor otra parte, se notificó preventivamente a varios sistemas de Agua Potable Rural (APR) ante posibles episodios de turbiedad por aumento de caudal.\n\nEn tanto, continua el monitoreo de los caudales y niveles del río Aconcagua mediante información de la DGA.\n\nAsimismo, se mantiene la vigilancia en puntos críticos de Quillota, Limache, Quintero y la Provincia de San Felipe.\n\nFinalmente, se realiza la coordinación con organismos del SINAPRED y sistemas APR para detectar oportunamente cualquier afectación.\n\nSe modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida\n\n12-11-2026 22:29\n\nMonitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n12-11-2026 03:52\n\nSe declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n11-11-2026 19:56"
+  },
+  {
+    "id_alerta": "Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida|14-11-2026 01:05",
+    "accion": "Monitoreo",
+    "tipo": "Amarilla",
+    "prioridad": "Media",
+    "region": "Valparaíso",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "los andes",
+    "fecha_senapred": "14-11-2026 01:05",
+    "titulo": "Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
+    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED mantiene Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida, que se encuentra vigente desde el 12 de noviembre y hasta que las condiciones así lo ameriten.\n\nCon esta alerta, permanecen alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.\n\nCURSOS DE ACCIÓN:\n\nSe establecieron coordinaciones entre SENAPRED Valparaíso y la Dirección General de Aguas (DGA) para el seguimiento de caudales y niveles del río Aconcagua.\n\nDe igual forma, se realizaron las coordinaciones correspondientes con los equipos de gestión del riesgo de las comunas de Los Andes y San Esteban, además de la Delegación Presidencial Provincial de Los Andes, para mantener vigilancia de cauces y sectores ribereños.\n\nSe declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida\n\n12-11-2026 22:13"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico|13-11-2026 19:39",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -37,31 +63,5 @@
     "titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por viento",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A619\n\n\t\n\nViento normal a moderado en zonas de litoral, cordillera costa, valle, precordillera y cordillera de la región.\n\n\t\n\n15-11\n\n\t\n\n16-11\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por viento, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
-  },
-  {
-    "id_alerta": "Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida|12-11-2026 22:29",
-    "accion": "Se modifica",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Valparaíso",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Valparaíso",
-    "fecha_senapred": "12-11-2026 22:29",
-    "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
-    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida,que se encuentra vigente desde el 11 de noviembre de 2026 y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n12-11-2026 03:52\n\nSe declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n11-11-2026 19:56"
-  },
-  {
-    "id_alerta": "Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida|12-11-2026 22:13",
-    "accion": "Se declara",
-    "tipo": "Amarilla",
-    "prioridad": "Media",
-    "region": "Valparaíso",
-    "nivel_cobertura": "Comuna",
-    "ubicacion_cobertura": "los andes",
-    "fecha_senapred": "12-11-2026 22:13",
-    "titulo": "Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
-    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\nCon la declaración de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente."
   }
 ]

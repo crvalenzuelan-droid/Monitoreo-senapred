@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida
+
+14-11-2026 01:45
+
+Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
+
+14-11-2026 01:05
+
 Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
 
 13-11-2026 19:39
@@ -29,14 +37,6 @@ Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por torment
 Se declara Alerta Temprana Preventiva para la Región del Maule por viento
 
 13-11-2026 16:35
-
-Se modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida
-
-12-11-2026 22:29
-
-Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
-
-12-11-2026 22:13
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán
 
