@@ -5,14 +5,22 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Sat, 14 Nov 2026 06:22:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:50:04 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico|14-11-2026 09:14]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=14-11-2026 09:14|NivelCobertura=Región|UbicacionCobertura=Arica y Parinacota]]></description>
+<pubDate>Sat, 14 Nov 2026 13:50:04 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida|14-11-2026 01:45]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=14-11-2026 01:45|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
-<pubDate>Sat, 14 Nov 2026 06:22:15 GMT</pubDate>
+<pubDate>Sat, 14 Nov 2026 13:50:04 GMT</pubDate>
 </item>
 
 <item>
@@ -20,15 +28,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida|14-11-2026 01:05]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=14-11-2026 01:05|NivelCobertura=Comuna|UbicacionCobertura=los andes]]></description>
-<pubDate>Sat, 14 Nov 2026 06:22:15 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-10-27-16-57-22</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico|13-11-2026 19:39]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=13-11-2026 19:39|NivelCobertura=Región|UbicacionCobertura=Arica y Parinacota]]></description>
-<pubDate>Sat, 14 Nov 2026 06:22:15 GMT</pubDate>
+<pubDate>Sat, 14 Nov 2026 13:50:04 GMT</pubDate>
 </item>
 
 <item>
@@ -36,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2026-11-09-19-00-47</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas|13-11-2026 18:58]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Tarapacá|Prioridad=Baja|Fecha=13-11-2026 18:58|NivelCobertura=Provincia|UbicacionCobertura=tamarugal]]></description>
-<pubDate>Sat, 14 Nov 2026 06:22:15 GMT</pubDate>
+<pubDate>Sat, 14 Nov 2026 13:50:04 GMT</pubDate>
 </item>
 
 <item>
@@ -44,7 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región del Maule por viento|13-11-2026 16:35]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=13-11-2026 16:35|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Sat, 14 Nov 2026 06:22:15 GMT</pubDate>
+<pubDate>Sat, 14 Nov 2026 13:50:04 GMT</pubDate>
 </item>
 
 </channel>

@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
+
+14-11-2026 09:14
+
 Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida
 
 14-11-2026 01:45
@@ -25,10 +29,6 @@ Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comu
 Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
 
 14-11-2026 01:05
-
-Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
-
-13-11-2026 19:39
 
 Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
 
