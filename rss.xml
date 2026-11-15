@@ -5,46 +5,46 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:58:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 17:11:44 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10</link>
+<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|15-11-2026 11:00]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Los Lagos|Prioridad=Baja|Fecha=15-11-2026 11:00|NivelCobertura=Región|UbicacionCobertura=Los Lagos]]></description>
+<pubDate>Sun, 15 Nov 2026 17:11:44 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|15-11-2026 09:16]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=15-11-2026 09:16|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
+<pubDate>Sun, 15 Nov 2026 17:11:44 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|15-11-2026 08:26]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=La Araucanía|Prioridad=Baja|Fecha=15-11-2026 08:26|NivelCobertura=Región|UbicacionCobertura=La Araucanía]]></description>
+<pubDate>Sun, 15 Nov 2026 17:11:44 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico|15-11-2026 08:10]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Biobío|Prioridad=Baja|Fecha=15-11-2026 08:10|NivelCobertura=Región|UbicacionCobertura=Biobío]]></description>
+<pubDate>Sun, 15 Nov 2026 17:11:44 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18</link>
 <guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida|15-11-2026 02:15]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=15-11-2026 02:15|NivelCobertura=Comuna|UbicacionCobertura=san felipe]]></description>
-<pubDate>Sun, 15 Nov 2026 09:58:42 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado|14-11-2026 23:21]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=No identificada|Prioridad=Alta|Fecha=14-11-2026 23:21|NivelCobertura=No identificada|UbicacionCobertura=]]></description>
-<pubDate>Sun, 15 Nov 2026 09:58:42 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal a viento]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-11-09-14-14-37</link>
-<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal a viento|14-11-2026 23:09]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Antofagasta|Prioridad=Baja|Fecha=14-11-2026 23:09|NivelCobertura=Región|UbicacionCobertura=Antofagasta]]></description>
-<pubDate>Sun, 15 Nov 2026 09:58:42 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes, San Esteban, Concón, Quintero, Quillota y Limache por crecida]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04</link>
-<guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes, San Esteban, Concón, Quintero, Quillota y Limache por crecida|14-11-2026 22:33]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=14-11-2026 22:33|NivelCobertura=Comuna|UbicacionCobertura=los andes,quillota,limache,concon]]></description>
-<pubDate>Sun, 15 Nov 2026 09:58:42 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|14-11-2026 22:27]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=14-11-2026 22:27|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
-<pubDate>Sun, 15 Nov 2026 09:58:42 GMT</pubDate>
+<pubDate>Sun, 15 Nov 2026 17:11:44 GMT</pubDate>
 </item>
 
 </channel>
