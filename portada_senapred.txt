@@ -50,10 +50,6 @@ Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes, San Este
 
 14-11-2026 22:33
 
-Se declara Alerta Roja para la comuna de Chonchi por incendio forestal
-
-14-11-2026 22:21
-
 Se modifica Alerta Temprana Preventiva para la región del Maule por Evento Meteorológico
 
 14-11-2026 22:11
