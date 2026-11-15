@@ -18,6 +18,38 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado
+
+14-11-2026 23:21
+
+Se modifica Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal a viento
+
+14-11-2026 23:09
+
+Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes, San Esteban, Concón, Quintero, Quillota y Limache por crecida
+
+14-11-2026 22:33
+
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+14-11-2026 22:27
+
+Se declara Alerta Roja para la comuna de Chonchi por incendio forestal
+
+14-11-2026 22:21
+
+Se modifica Alerta Temprana Preventiva para la región del Maule por Evento Meteorológico
+
+14-11-2026 22:11
+
+Se modifica cobertura de Alerta Temprana Preventiva para la provincia de Copiapó por crecida
+
+14-11-2026 21:47
+
+Se declara Alerta Amarilla para las Comunas de Huasco, Freirina y Vallenar por crecida
+
+14-11-2026 21:33
+
 Se declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas
 
 14-11-2026 18:31
@@ -46,37 +78,17 @@ Monitoreo Alerta Roja para la provincia del Tamarugal por calor extremo
 
 14-11-2026 16:41
 
-Monitoreo Alerta Temprana Preventiva para la provincia de Parinacota y la comuna de Camarones por evento meteorológico
-
-14-11-2026 16:36
-
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 14-11-2026 15:38
-
-Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-14-11-2026 15:35
-
-Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde
-
-14-11-2026 11:17
 
 Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida
 
 14-11-2026 01:45
 
-Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
-
-14-11-2026 01:05
-
 Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
 
 13-11-2026 18:58
-
-Se declara Alerta Temprana Preventiva para la Región del Maule por viento
-
-13-11-2026 16:35
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán
 
@@ -90,14 +102,6 @@ Modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena,
 
 11-11-2026 16:01
 
-Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas
-
-10-11-2026 19:47
-
-Monitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida
-
-10-11-2026 13:11
-
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoosanitario
 
 06-11-2026 15:39
@@ -109,10 +113,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por e
 Se declara Alerta Temprana Preventiva Nacional por calor
 
 01-11-2026 00:02
-
-Se modifica cobertura de Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria
-
-29-10-2026 19:34
 
 Ayuda
 Biblio GRD
