@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida|15-11-2026 02:15",
+    "accion": "Se modifica",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Valparaíso",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "san felipe",
+    "fecha_senapred": "15-11-2026 02:15",
+    "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, el aumento de caudal del Río Aconcagua motivó la ampliación de la Alerta Amarilla por crecida, donde fueron incorporadas las comunas de Concón, Quintero, Quillota y Limache, sumándose a Los Andes y San Esteban declaradas inicialmente y modificando la cobertura de la presente Alerta Temprana Preventiva.\n\n\n\n\nConforme a lo indicado por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Valparaíso:\n\n\n\n\nEstación\n\n\t\n\nUmbral\n\n\n\n\nRío Aconcagua en Chacabuquito\n\n\t\n\nRojo\n\n\n\n\nRío Putaendo en Resguardo Los Patos\n\n\t\n\nAmarillo\n\n\n\n\nRío Aconcagua en San Felipe 2\n\n\t\n\nAzul\n\n\n\n\nLos umbrales de cada estación orientan el seguimiento de la crecida, evaluando junto a otras condición observadas en terreno. En la Provincia de San Felipe, los equipos comunales de Gestión del Riesgo de Desastres mantienen el monitoreo de sus respectivas jurisdicciones, sin novedades a la hora de este informe.\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva a las Provincia de San Felipe por crecida, vigente desde el 11 de noviembre de 2026 y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida\n\n14-11-2026 01:45\n\nSe modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida\n\n12-11-2026 22:29\n\nMonitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n12-11-2026 03:52\n\nSe declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n11-11-2026 19:56"
+  },
+  {
     "id_alerta": "Monitoreo Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado|14-11-2026 23:21",
     "accion": "Monitoreo",
     "tipo": "Roja",
@@ -50,18 +63,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A619-1\n\n\t\n\nViento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n14-11\n\n\t\n\n16-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A621\n\n\t\n\nProbables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n15-11\n\n\t\n\n15-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A624\n\n\t\n\nProbable desarrollo de nubes convectivas con características tornádicas y probabilidad de intensos vientos locales arrachados y tornádicos en valle.\n\n\t\n\n15-11\n\n\t\n\n15-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, que se encuentra vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico\n\n14-11-2026 15:35"
-  },
-  {
-    "id_alerta": "Se declara Alerta Roja para la comuna de Chonchi por incendio forestal|14-11-2026 22:21",
-    "accion": "Se declara",
-    "tipo": "Roja",
-    "prioridad": "Alta",
-    "region": "No identificada",
-    "nivel_cobertura": "No identificada",
-    "ubicacion_cobertura": "",
-    "fecha_senapred": "14-11-2026 22:21",
-    "titulo": "Se declara Alerta Roja para la comuna de Chonchi por incendio forestal",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal-2026-11-14-22-22-00",
-    "detalle": "De acuerdo con la información técnica proporcionada por Conaf y el SINAPRED, respecto al incendio forestal en la comuna de Chonchi, se informa el siguiente detalle:\n\n\n\n\nNombre del incendio\n\n\t\n\nHuentemo\n\n\n\n\nEstado\n\n\t\n\nEn combate.\n\n\n\n\nSuperficie\n\n\t\n\n0.01 (ha)\n\n\n\n\nObservaciones\n\n\t\n\nEl incendio forestal se desarrolla cercano a Área Silvestre Protegida (ASP) Parque Nacional Chiloé.\n\n\n\n\nEn consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Chonchi por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.\n\n\n\n\nCon esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento."
   }
 ]

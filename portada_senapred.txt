@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida
+
+15-11-2026 02:15
+
 Monitoreo Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado
 
 14-11-2026 23:21
@@ -81,10 +85,6 @@ Monitoreo Alerta Roja para la provincia del Tamarugal por calor extremo
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 14-11-2026 15:38
-
-Monitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida
-
-14-11-2026 01:45
 
 Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
 
