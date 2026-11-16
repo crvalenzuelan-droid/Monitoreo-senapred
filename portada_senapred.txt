@@ -18,13 +18,21 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+16-11-2026 11:36
+
+Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
+
+16-11-2026 11:32
+
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+16-11-2026 10:14
+
 Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
 
 16-11-2026 00:40
-
-Se declara Alerta Roja para las comunas de Concón, Quintero, Quillota y Limache por desborde
-
-15-11-2026 23:31
 
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
@@ -42,25 +50,13 @@ Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, 
 
 15-11-2026 19:42
 
-Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
-
-15-11-2026 18:05
-
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 15-11-2026 17:50
 
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-15-11-2026 17:08
-
 Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 15-11-2026 16:45
-
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-15-11-2026 09:16
 
 Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
 
@@ -82,17 +78,9 @@ Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copi
 
 14-11-2026 17:32
 
-Monitoreo Alerta Roja para la provincia del Tamarugal por calor extremo
-
-14-11-2026 16:41
-
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 14-11-2026 15:38
-
-Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas
-
-13-11-2026 18:58
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán
 
