@@ -18,6 +18,26 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
+
+16-11-2026 13:43
+
+Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por viento
+
+16-11-2026 12:36
+
+Se modifica cobertura Alerta Amarilla para las comunas de Los Andes, San Esteban, Concón, Quintero, Quillota y Limache por crecida
+
+16-11-2026 12:26
+
+Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde
+
+16-11-2026 12:17
+
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+16-11-2026 11:48
+
 Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
 
 16-11-2026 11:36
@@ -29,10 +49,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 16-11-2026 10:14
-
-Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
-
-16-11-2026 00:40
 
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
@@ -50,10 +66,6 @@ Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, 
 
 15-11-2026 19:42
 
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-15-11-2026 17:50
-
 Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 15-11-2026 16:45
@@ -65,18 +77,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento mete
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida
 
 15-11-2026 02:15
-
-Monitoreo Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado
-
-14-11-2026 23:21
-
-Se modifica Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal a viento
-
-14-11-2026 23:09
-
-Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
-
-14-11-2026 17:32
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
