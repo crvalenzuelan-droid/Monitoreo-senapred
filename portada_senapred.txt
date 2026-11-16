@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
+
+16-11-2026 16:22
+
+Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
+
+16-11-2026 16:14
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
 16-11-2026 13:43
@@ -62,10 +70,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó
 
 15-11-2026 20:31
 
-Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
-
-15-11-2026 19:42
-
 Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 15-11-2026 16:45
@@ -86,10 +90,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 
 12-11-2026 20:01
 
-Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
-
-11-11-2026 22:53
-
 Modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Combarbalá, Andacollo, Punitaqui, Canela y Los Vilos por crecida
 
 11-11-2026 16:01
@@ -101,10 +101,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento zoo
 Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario
 
 02-11-2026 18:08
-
-Se declara Alerta Temprana Preventiva Nacional por calor
-
-01-11-2026 00:02
 
 Ayuda
 Biblio GRD
