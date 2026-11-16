@@ -5,14 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Mon, 16 Nov 2026 02:08:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 09:44:05 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04</link>
+<guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida|16-11-2026 00:40]]></guid>
+<description><![CDATA[Accion=Se modifica|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=16-11-2026 00:40|NivelCobertura=Comuna|UbicacionCobertura=los andes]]></description>
+<pubDate>Mon, 16 Nov 2026 09:44:05 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Se declara Alerta Roja para las comunas de Concón, Quintero, Quillota y Limache por desborde]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-las-comunas-de-concon-quintero-quillota-y-limache-por-desborde-2026-11-15-23-32-36</link>
+<guid isPermaLink="false"><![CDATA[Se declara Alerta Roja para las comunas de Concón, Quintero, Quillota y Limache por desborde|15-11-2026 23:31]]></guid>
+<description><![CDATA[Accion=Se declara|Tipo=Roja|Region=Valparaíso|Prioridad=Alta|Fecha=15-11-2026 23:31|NivelCobertura=Comuna|UbicacionCobertura=quillota,limache,concon]]></description>
+<pubDate>Mon, 16 Nov 2026 09:44:05 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-huasco-freirina-y-vallenar-por-crecida-2026-11-14-21-37-54</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida|15-11-2026 22:37]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Atacama|Prioridad=Media|Fecha=15-11-2026 22:37|NivelCobertura=Comuna|UbicacionCobertura=vallenar,freirina,huasco]]></description>
-<pubDate>Mon, 16 Nov 2026 02:08:13 GMT</pubDate>
+<pubDate>Mon, 16 Nov 2026 09:44:05 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para la comuna de Tierra Amarilla por crecida|15-11-2026 20:52]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Atacama|Prioridad=Media|Fecha=15-11-2026 20:52|NivelCobertura=Comuna|UbicacionCobertura=tierra amarilla]]></description>
-<pubDate>Mon, 16 Nov 2026 02:08:13 GMT</pubDate>
+<pubDate>Mon, 16 Nov 2026 09:44:05 GMT</pubDate>
 </item>
 
 <item>
@@ -28,23 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03</link>
 <guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida|15-11-2026 20:31]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=15-11-2026 20:31|NivelCobertura=Comuna|UbicacionCobertura=copiapo,caldera]]></description>
-<pubDate>Mon, 16 Nov 2026 02:08:13 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-11-15-19-44-35</link>
-<guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico|15-11-2026 19:42]]></guid>
-<description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Coquimbo|Prioridad=Baja|Fecha=15-11-2026 19:42|NivelCobertura=Comuna|UbicacionCobertura=monte patria,rio hurtado,la higuera,combarbala,salamanca,illapel,vicuna]]></description>
-<pubDate>Mon, 16 Nov 2026 02:08:13 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|15-11-2026 18:05]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Maule|Prioridad=Baja|Fecha=15-11-2026 18:05|NivelCobertura=Región|UbicacionCobertura=Maule]]></description>
-<pubDate>Mon, 16 Nov 2026 02:08:13 GMT</pubDate>
+<pubDate>Mon, 16 Nov 2026 09:44:05 GMT</pubDate>
 </item>
 
 </channel>

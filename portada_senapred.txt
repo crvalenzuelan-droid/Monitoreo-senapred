@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida
+
+16-11-2026 00:40
+
+Se declara Alerta Roja para las comunas de Concón, Quintero, Quillota y Limache por desborde
+
+15-11-2026 23:31
+
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
 15-11-2026 22:37
@@ -69,10 +77,6 @@ Monitoreo Alerta Roja por desborde para las comunas de Paihuano, Vicuña, Ovalle
 Se modifica Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal a viento
 
 14-11-2026 23:09
-
-Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes, San Esteban, Concón, Quintero, Quillota y Limache por crecida
-
-14-11-2026 22:33
 
 Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
