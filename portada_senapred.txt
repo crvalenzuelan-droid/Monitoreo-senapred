@@ -18,6 +18,22 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
+
+15-11-2026 22:37
+
+Se declara Alerta Amarilla para la comuna de Tierra Amarilla por crecida
+
+15-11-2026 20:52
+
+Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida
+
+15-11-2026 20:31
+
+Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
+
+15-11-2026 19:42
+
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
 15-11-2026 18:05
@@ -58,21 +74,9 @@ Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes, San Este
 
 14-11-2026 22:33
 
-Se modifica cobertura de Alerta Temprana Preventiva para la provincia de Copiapó por crecida
-
-14-11-2026 21:47
-
-Se declara Alerta Amarilla para las Comunas de Huasco, Freirina y Vallenar por crecida
-
-14-11-2026 21:33
-
 Se declara Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento
 
 14-11-2026 17:32
-
-Se modifica cobertura de Alerta Roja para las comunas de Antofagasta, Sierra Gorda, María Elena y San Pedro de Atacama por calor extremo
-
-14-11-2026 17:08
 
 Monitoreo Alerta Roja para la provincia del Tamarugal por calor extremo
 

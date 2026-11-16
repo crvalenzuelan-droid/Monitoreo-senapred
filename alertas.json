@@ -1,5 +1,57 @@
 [
   {
+    "id_alerta": "Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida|15-11-2026 22:37",
+    "accion": "Monitoreo",
+    "tipo": "Amarilla",
+    "prioridad": "Media",
+    "region": "Atacama",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "vallenar,freirina,huasco",
+    "fecha_senapred": "15-11-2026 22:37",
+    "titulo": "Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-comunas-de-huasco-freirina-y-vallenar-por-crecida-2026-11-14-21-37-54",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) Atacama, las estaciones hidrométricas de monitoreo mantienen un registro al alza en los niveles de caudales de los ríos El Carmen y Huasco, asociado a la intensificación de deshielos y su evolución en los caudales de los cursos de agua de la cuenca del Río Huasco.\n\nDicha condición ha generado un aumento del caudal circulante hacia los sectores ubicados aguas abajo del embalse, y eventuales crecidas en el cauce del río Huasco en las comunas de Huasco, Freirina y Vallenar.\n\nDel mismo modo, conforme a lo indicado por la Ilustre Municipalidad de Freirina y debido a la crecida del río Huasco, se ha reportado la evacuación preventiva y posterior traslado a casas de familiares de 29 personas (5 familias) pertenecientes al sector Los vientos.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla por crecida para las comunas de Huasco, Freirina y Vallenar, que se encuentra vigente a desde el 14 de noviembre y hasta que las condiciones del evento así lo ameriten.\n\nCon esta alerta se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de minimizar los efectos negativos en las personas, sus bienes y el medio ambiente.\n\nProducto de este evento, se mantienen desplegados los distintos equipos municipales en terreno, para evaluar oportunamente las necesidades locales en cada comuna. Manteniendo el monitoreo de los sectores vulnerables y condiciones asociadas.\n\nAsimismo, la Ilustre Municipalidad de Freirina ha realizado la correspondiente ayuda social a las familias evacuadas. Mientras en la Municipalidad de Huasco, ayer 14 de noviembre, se llevó a cabo un COGRID comunal para mantener alistados los equipos de emergencia y conocer el monitoreo de los puntos críticos que pueden verse afectados por crecidas o desbordes del río Huasco.\n\nSe declara Alerta Amarilla para las Comunas de Huasco, Freirina y Vallenar por crecida\n\n14-11-2026 21:33"
+  },
+  {
+    "id_alerta": "Se declara Alerta Amarilla para la comuna de Tierra Amarilla por crecida|15-11-2026 20:52",
+    "accion": "Se declara",
+    "tipo": "Amarilla",
+    "prioridad": "Media",
+    "region": "Atacama",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "tierra amarilla",
+    "fecha_senapred": "15-11-2026 20:52",
+    "titulo": "Se declara Alerta Amarilla para la comuna de Tierra Amarilla por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), indica que los últimos siete días se han registrado condiciones de altas temperaturas en sectores interiores y precordilleranos de la región, las cuales han provocado un incremento sostenido de los caudales. Actualmente, se observan caudales de entrada al embalse Lautaro del orden de 8 a 10 m³/s (2 m³/s provenientes del río Jorquera, 4 a 6 m³/s del río Pulido y 2 a 4 m³/s del río Manflas). Todos estos caudales se encuentran sobre sus valores habituales. No obstante, la tendencia de incremento se evidencia de manera consistente en el conjunto de las estaciones de monitoreo.\n\nLa crecida del río Manflas podrían generar situaciones de riesgo y un aumento de caudal en la confluencia con el río Copiapó. Por su parte, las condiciones favorables al deshielo podrían continuar generando nuevos pulsos de escorrentía durante los próximos días, manteniendo un escenario de riesgo sostenido y una posible tendencia al incremento de la temperatura aumentando los caudales de la zona, según la evolución meteorológica.\n\nPor otro lado, la Dirección de GRD de la Comuna de Tierra Amarilla reporta afectación en la Ruta C-393 sector Hacienda Manflas, la cual al momento se encuentra transitable para vehículos 4x4 con precaución.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Tierra Amarilla, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.\n\nCon la declaración de esta alerta se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de minimizar los efectos negativos en las personas, sus bienes y el medio ambiente."
+  },
+  {
+    "id_alerta": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida|15-11-2026 20:31",
+    "accion": "Se modifica",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Atacama",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "copiapo,caldera",
+    "fecha_senapred": "15-11-2026 20:31",
+    "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03",
+    "detalle": "En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva por crecida a las comunas de Copiapó y Caldera, que se encuentra vigente desde el 26 de septiembre y hasta que las condiciones así lo ameriten.\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica cobertura de Alerta Temprana Preventiva para la provincia de Copiapó por crecida\n\n14-11-2026 21:47\n\nMonitoreo Alerta Temprana Preventiva a las provincias de Huasco y Copiapó por crecida\n\n10-11-2026 13:11\n\nSe modifica cobertura de Alerta Temprana Preventiva para las provincias de Huasco y Copiapó por crecida\n\n06-11-2026 20:33\n\nMonitoreo Alerta Temprana Preventiva para la Provincia de Huasco por crecida\n\n19-10-2026 21:15\n\nSe modifica cobertura de Alerta Temprana Preventiva para la Provincia de Huasco por crecida\n\n02-10-2026 23:38\n\nSe modifica Alerta Temprana Preventiva para la comuna de Alto del Carmen y Vallenar por crecida\n\n02-10-2026 20:26\n\nMonitoreo Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n28-09-2026 19:51\n\nSe declara Alerta Temprana Preventiva para la comuna de Alto del Carmen por crecida\n\n26-09-2026 02:09"
+  },
+  {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico|15-11-2026 19:42",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Coquimbo",
+    "nivel_cobertura": "Comuna",
+    "ubicacion_cobertura": "monte patria,rio hurtado,la higuera,combarbala,salamanca,illapel,vicuna",
+    "fecha_senapred": "15-11-2026 19:42",
+    "titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-paihuano-vicuna-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-11-15-19-44-35",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A619-1\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n15-11\n\n\t\n\n16-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A621-2\n\n\t\n\nProbables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en cordillera.\n\n\t\n\n17-11\n\n\t\n\n17-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A622-2\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n16-11\n\n\t\n\n18-11\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva por evento meteorológico para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca, vigente desde hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\n\n\n\nAnte las tormentas eléctricas SENAPRED recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico|15-11-2026 18:05",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -11,57 +63,5 @@
     "titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-11-13-16-36-34",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A619-1\n\n\t\n\nViento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n15-11\n\n\t\n\n16-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A621-2\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n15-11\n\n\t\n\n17-11\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, vigente desde el 13 de noviembre y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica Alerta Temprana Preventiva para la región del Maule por Evento Meteorológico\n\n14-11-2026 22:11\n\nSe declara Alerta Temprana Preventiva para la Región del Maule por viento\n\n13-11-2026 16:35"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico|15-11-2026 17:50",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Los Lagos",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Los Lagos",
-    "fecha_senapred": "15-11-2026 17:50",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2026-11-14-18-32-10",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Los Lagos:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A621-2\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle, precordillera, cordillera y litoral interior.\n\n\t\n\n15-11\n\n\t\n\n16-11\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, vigente desde el 14 de noviembre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico\n\n15-11-2026 11:00\n\nSe declara Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas\n\n14-11-2026 18:31"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|15-11-2026 17:08",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "La Araucanía",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "La Araucanía",
-    "fecha_senapred": "15-11-2026 17:08",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A621-2\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n15-11\n\n\t\n\n16-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A624-1\n\n\t\n\nProbable desarrollo de nubes convectivas con características tornádicas con probabilidad de intensos vientos locales arrachados y tornádicos en valle.\n\n\t\n\n15-11\n\n\t\n\n15-11\n\n\t\n\nAbrir aquí\n\nPor otra parte, el Centro Zonal de Meteorología Marina de Talcahuano, mantiene vigente el aviso especial por la probabilidad de ocurrencia de nubes convectivas, con factibilidad de generar trombas marinas en el sector oceánico y costero de la región, entre las 11:00 y las 21:00 horas del 15 de noviembre.\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por tormentas eléctricas, que se encuentra vigente desde el 14 noviembre del 2026 y hasta que las condiciones así lo ameriten\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas\n\n15-11-2026 08:26\n\nMonitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas\n\n14-11-2026 17:51\n\nSe declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas\n\n14-11-2026 14:15"
-  },
-  {
-    "id_alerta": "Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico|15-11-2026 16:45",
-    "accion": "Se modifica",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "O´Higgins",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "O´Higgins",
-    "fecha_senapred": "15-11-2026 16:45",
-    "titulo": "Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento-2026-11-14-17-37-04",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A619-1\n\n\t\n\nViento normal a moderado en cordillera.\n\n\t\n\n15-11\n\n\t\n\n15-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A623\n\n\t\n\nViento normal a moderado con viento de dirección ESTE (Raco, puelche) en valle y precordillera.\n\n\t\n\n15-11\n\n\t\n\n15-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A621-2\n\n\t\n\nProbables tormentas eléctricas preferentemente durante la tarde noche, con precipitaciones aisladas en valle, precordillera y cordillera.\n\n\t\n\n15-11\n\n\t\n\n17-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED modifica el evento de la Alerta Temprana Preventiva Regional a evento meteorológico, vigente desde el 14 de noviembre y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para la Región de O'Higgins por viento\n\n14-11-2026 17:35"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|15-11-2026 09:16",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Ñuble",
-    "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Ñuble",
-    "fecha_senapred": "15-11-2026 09:16",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble:\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A619-1\n\n\t\n\nViento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n14-11\n\n\t\n\n16-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nAviso A621-1\n\n\t\n\nProbables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales en litoral, cordillera de la costa, valle, precordillera y cordillera.\n\n\t\n\n15-11\n\n\t\n\n15-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A624-1\n\n\t\n\nProbable desarrollo de nubes convectivas con características tornádicas y probabilidad de intensos vientos locales arrachados y tornádicos en litoral, cordillera de la costa y valle.\n\n\t\n\n15-11\n\n\t\n\n15-11\n\n\t\n\nAbrir Aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, que se encuentra vigente desde el 14 noviembre del 2026 y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nMonitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico\n\n14-11-2026 22:27\n\nSe declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico\n\n14-11-2026 15:35"
   }
 ]
