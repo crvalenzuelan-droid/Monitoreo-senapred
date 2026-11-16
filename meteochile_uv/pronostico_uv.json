@@ -1,8 +1,8 @@
 {
   "fuente": "Dirección Meteorológica de Chile",
   "producto": "Pronóstico nacional de radiación UV",
-  "fecha_pronostico": "15-11-2026",
-  "fecha_generacion_utc": "2026-11-15T17:29:18.699309+00:00",
+  "fecha_pronostico": "16-11-2026",
+  "fecha_generacion_utc": "2026-11-16T20:33:11.032462+00:00",
   "valor_maximo_nacional": null,
   "regiones": [
     {
