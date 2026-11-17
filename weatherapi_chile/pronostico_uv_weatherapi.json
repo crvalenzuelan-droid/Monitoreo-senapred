@@ -1,103 +1,103 @@
 {
   "fuente": "WeatherAPI.com",
-  "fecha_pronostico": "2026-11-16",
-  "fecha_generacion_chile": "2026-11-16T08:37:56.189932-03:00",
-  "maximo_nacional": 14.2,
+  "fecha_pronostico": "2026-11-17",
+  "fecha_generacion_chile": "2026-11-17T09:09:44.138288-03:00",
+  "maximo_nacional": 14.3,
   "regiones": [
     {
       "region": "Arica y Parinacota",
       "ciudad_referencia": "Arica",
-      "uv_maximo": 13.8,
+      "uv_maximo": 14.3,
       "categoria": "Extremo"
     },
     {
       "region": "Tarapacá",
       "ciudad_referencia": "Iquique",
-      "uv_maximo": 14.2,
+      "uv_maximo": 14.1,
       "categoria": "Extremo"
     },
     {
       "region": "Antofagasta",
       "ciudad_referencia": "Antofagasta",
-      "uv_maximo": 13.6,
+      "uv_maximo": 13.8,
       "categoria": "Extremo"
     },
     {
       "region": "Atacama",
       "ciudad_referencia": "Copiapó",
-      "uv_maximo": 12.7,
+      "uv_maximo": 12.8,
       "categoria": "Extremo"
     },
     {
       "region": "Coquimbo",
       "ciudad_referencia": "La Serena",
-      "uv_maximo": 11.9,
-      "categoria": "Extremo"
+      "uv_maximo": 10.6,
+      "categoria": "Muy Alto"
     },
     {
       "region": "Valparaíso",
       "ciudad_referencia": "Valparaíso",
-      "uv_maximo": 10.5,
-      "categoria": "Muy Alto"
+      "uv_maximo": 11.2,
+      "categoria": "Extremo"
     },
     {
       "region": "Metropolitana",
       "ciudad_referencia": "Santiago",
-      "uv_maximo": 8.2,
-      "categoria": "Muy Alto"
+      "uv_maximo": 11.3,
+      "categoria": "Extremo"
     },
     {
       "region": "O´Higgins",
       "ciudad_referencia": "Rancagua",
-      "uv_maximo": 9.7,
-      "categoria": "Muy Alto"
+      "uv_maximo": 11.1,
+      "categoria": "Extremo"
     },
     {
       "region": "Maule",
       "ciudad_referencia": "Talca",
-      "uv_maximo": 9.9,
+      "uv_maximo": 10.4,
       "categoria": "Muy Alto"
     },
     {
       "region": "Ñuble",
       "ciudad_referencia": "Chillán",
-      "uv_maximo": 7.2,
-      "categoria": "Alto"
+      "uv_maximo": 9.6,
+      "categoria": "Muy Alto"
     },
     {
       "region": "Biobío",
       "ciudad_referencia": "Concepción",
-      "uv_maximo": 7.4,
+      "uv_maximo": 7.2,
       "categoria": "Alto"
     },
     {
       "region": "La Araucanía",
       "ciudad_referencia": "Temuco",
-      "uv_maximo": 6.3,
-      "categoria": "Alto"
+      "uv_maximo": 5.8,
+      "categoria": "Moderado"
     },
     {
       "region": "Los Ríos",
       "ciudad_referencia": "Valdivia",
-      "uv_maximo": 8.6,
-      "categoria": "Muy Alto"
+      "uv_maximo": 3.7,
+      "categoria": "Moderado"
     },
     {
       "region": "Los Lagos",
       "ciudad_referencia": "Puerto Montt",
-      "uv_maximo": 2.9,
-      "categoria": "Bajo"
+      "uv_maximo": 7.4,
+      "categoria": "Alto"
     },
     {
       "region": "Aysén",
       "ciudad_referencia": "Coyhaique",
-      "uv_maximo": 9.1,
-      "categoria": "Muy Alto"
+      "uv_maximo": 7.7,
+      "categoria": "Alto"
     },
     {
       "region": "Magallanes",
       "ciudad_referencia": "Punta Arenas",
-      "uv_maximo": 7.0,
+      "uv_maximo": 6.5,
       "categoria": "Alto"
     }
   ]
