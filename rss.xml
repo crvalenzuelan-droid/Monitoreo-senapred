@@ -5,14 +5,22 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Tue, 17 Nov 2026 17:26:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 20:56:09 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas|17-11-2026 16:54]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=17-11-2026 16:54|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
+<pubDate>Tue, 17 Nov 2026 20:56:09 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Monitoreo Alerta Amarilla para la Comuna de Tierra Amarilla por crecida]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para la Comuna de Tierra Amarilla por crecida|17-11-2026 13:30]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Atacama|Prioridad=Media|Fecha=17-11-2026 13:30|NivelCobertura=Comuna|UbicacionCobertura=tierra amarilla]]></description>
-<pubDate>Tue, 17 Nov 2026 17:26:22 GMT</pubDate>
+<pubDate>Tue, 17 Nov 2026 20:56:09 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +28,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-11-14-15-36-40</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico|17-11-2026 09:07]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=17-11-2026 09:07|NivelCobertura=Región|UbicacionCobertura=Ñuble]]></description>
-<pubDate>Tue, 17 Nov 2026 17:26:22 GMT</pubDate>
+<pubDate>Tue, 17 Nov 2026 20:56:09 GMT</pubDate>
 </item>
 
 <item>
@@ -28,15 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-11-14-14-22-49</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico|17-11-2026 08:41]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Biobío|Prioridad=Baja|Fecha=17-11-2026 08:41|NivelCobertura=Región|UbicacionCobertura=Biobío]]></description>
-<pubDate>Tue, 17 Nov 2026 17:26:22 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-2026-11-14-14-06-56</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas|17-11-2026 01:57]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=17-11-2026 01:57|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
-<pubDate>Tue, 17 Nov 2026 17:26:22 GMT</pubDate>
+<pubDate>Tue, 17 Nov 2026 20:56:09 GMT</pubDate>
 </item>
 
 <item>
@@ -44,7 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-11-14-14-16-28</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas|17-11-2026 01:00]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=La Araucanía|Prioridad=Baja|Fecha=17-11-2026 01:00|NivelCobertura=Región|UbicacionCobertura=La Araucanía]]></description>
-<pubDate>Tue, 17 Nov 2026 17:26:22 GMT</pubDate>
+<pubDate>Tue, 17 Nov 2026 20:56:09 GMT</pubDate>
 </item>
 
 </channel>
