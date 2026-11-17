@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
+
+17-11-2026 01:57
+
+Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
+
+17-11-2026 01:00
+
 Monitoreo Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico
 
 16-11-2026 16:22
@@ -45,10 +53,6 @@ Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Sa
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 16-11-2026 11:48
-
-Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas
-
-16-11-2026 11:36
 
 Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico
 
@@ -81,10 +85,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento mete
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida
 
 15-11-2026 02:15
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
-
-14-11-2026 15:38
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán
 
