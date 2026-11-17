@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la Comuna de Tierra Amarilla por crecida
+
+17-11-2026 13:30
+
 Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 17-11-2026 09:07
@@ -69,10 +73,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
 15-11-2026 22:37
-
-Se declara Alerta Amarilla para la comuna de Tierra Amarilla por crecida
-
-15-11-2026 20:52
 
 Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida
 
