@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
+
+17-11-2026 09:07
+
+Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
+
+17-11-2026 08:41
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por tormentas eléctricas
 
 17-11-2026 01:57
@@ -58,10 +66,6 @@ Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteor
 
 16-11-2026 11:32
 
-Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
-
-16-11-2026 10:14
-
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
 15-11-2026 22:37
@@ -77,10 +81,6 @@ Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó
 Se modifica Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico
 
 15-11-2026 16:45
-
-Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
-
-15-11-2026 08:10
 
 Se modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida
 
