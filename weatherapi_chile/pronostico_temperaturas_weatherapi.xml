@@ -5,134 +5,134 @@
 <link>https://www.weatherapi.com/</link>
 <description>Pronóstico diario de temperaturas por región de Chile</description>
 <language>es-cl</language>
-<lastBuildDate>Tue, 17 Nov 2026 09:09:44 -0300</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 08:31:55 -0300</lastBuildDate>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Arica y Parinacota | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Arica y Parinacota | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Arica y Parinacota]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Arica y Parinacota|CiudadReferencia=Arica|TemperaturaActual=22.0|TemperaturaMinima=20.6|TemperaturaMaxima=24.4|SensacionTermica=24.6|Humedad=77.0|VientoMaximo=18.4|ProbabilidadLluvia=24|Condicion=Parcialmente nublado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Arica y Parinacota]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Arica y Parinacota|CiudadReferencia=Arica|TemperaturaActual=22.4|TemperaturaMinima=21.9|TemperaturaMaxima=24.6|SensacionTermica=24.0|Humedad=77.0|VientoMaximo=18.4|ProbabilidadLluvia=31|Condicion=Cubierto]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Tarapacá | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Tarapacá | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Tarapacá]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Tarapacá|CiudadReferencia=Iquique|TemperaturaActual=20.9|TemperaturaMinima=18.9|TemperaturaMaxima=25.4|SensacionTermica=22.0|Humedad=82.0|VientoMaximo=13.3|ProbabilidadLluvia=15|Condicion=Parcialmente nublado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Tarapacá]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Tarapacá|CiudadReferencia=Iquique|TemperaturaActual=19.3|TemperaturaMinima=18.3|TemperaturaMaxima=25.1|SensacionTermica=21.6|Humedad=86.0|VientoMaximo=14.0|ProbabilidadLluvia=16|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Antofagasta | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Antofagasta | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Antofagasta]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Antofagasta|CiudadReferencia=Antofagasta|TemperaturaActual=19.9|TemperaturaMinima=16.3|TemperaturaMaxima=25.2|SensacionTermica=20.1|Humedad=65.0|VientoMaximo=21.6|ProbabilidadLluvia=7|Condicion=Soleado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Antofagasta]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Antofagasta|CiudadReferencia=Antofagasta|TemperaturaActual=17.9|TemperaturaMinima=15.6|TemperaturaMaxima=24.1|SensacionTermica=18.4|Humedad=73.0|VientoMaximo=22.3|ProbabilidadLluvia=12|Condicion=Parcialmente nublado]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Atacama | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Atacama | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Atacama]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Atacama|CiudadReferencia=Copiapó|TemperaturaActual=18.1|TemperaturaMinima=14.3|TemperaturaMaxima=25.5|SensacionTermica=18.0|Humedad=64.0|VientoMaximo=18.0|ProbabilidadLluvia=12|Condicion=Nublado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Atacama]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Atacama|CiudadReferencia=Copiapó|TemperaturaActual=17.7|TemperaturaMinima=15.3|TemperaturaMaxima=26.3|SensacionTermica=17.9|Humedad=65.0|VientoMaximo=16.6|ProbabilidadLluvia=13|Condicion=Cubierto]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Coquimbo | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Coquimbo | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Coquimbo]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Coquimbo|CiudadReferencia=La Serena|TemperaturaActual=17.8|TemperaturaMinima=14.4|TemperaturaMaxima=21.8|SensacionTermica=18.2|Humedad=72.0|VientoMaximo=13.0|ProbabilidadLluvia=13|Condicion=Nublado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Coquimbo]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Coquimbo|CiudadReferencia=La Serena|TemperaturaActual=17.1|TemperaturaMinima=15.2|TemperaturaMaxima=23.8|SensacionTermica=17.5|Humedad=70.0|VientoMaximo=13.0|ProbabilidadLluvia=15|Condicion=Cubierto]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Valparaíso | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Valparaíso | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Valparaíso]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Valparaíso|CiudadReferencia=Valparaíso|TemperaturaActual=16.7|TemperaturaMinima=11.3|TemperaturaMaxima=20.6|SensacionTermica=17.2|Humedad=76.0|VientoMaximo=16.9|ProbabilidadLluvia=9|Condicion=Soleado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Valparaíso]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Valparaíso|CiudadReferencia=Valparaíso|TemperaturaActual=16.1|TemperaturaMinima=12.7|TemperaturaMaxima=22.2|SensacionTermica=15.5|Humedad=73.0|VientoMaximo=18.7|ProbabilidadLluvia=14|Condicion=Cubierto]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Metropolitana | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Metropolitana | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Metropolitana]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Metropolitana|CiudadReferencia=Santiago|TemperaturaActual=16.4|TemperaturaMinima=13.7|TemperaturaMaxima=24.2|SensacionTermica=15.7|Humedad=68.0|VientoMaximo=12.6|ProbabilidadLluvia=36|Condicion=Parcialmente nublado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Metropolitana]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Metropolitana|CiudadReferencia=Santiago|TemperaturaActual=14.8|TemperaturaMinima=13.1|TemperaturaMaxima=24.8|SensacionTermica=14.5|Humedad=72.0|VientoMaximo=13.0|ProbabilidadLluvia=17|Condicion=Soleado]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | O´Higgins | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | O´Higgins | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|O´Higgins]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=O´Higgins|CiudadReferencia=Rancagua|TemperaturaActual=14.4|TemperaturaMinima=11.9|TemperaturaMaxima=21.5|SensacionTermica=14.4|Humedad=85.0|VientoMaximo=6.8|ProbabilidadLluvia=82|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|O´Higgins]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=O´Higgins|CiudadReferencia=Rancagua|TemperaturaActual=13.2|TemperaturaMinima=10.8|TemperaturaMaxima=22.3|SensacionTermica=12.9|Humedad=81.0|VientoMaximo=7.2|ProbabilidadLluvia=66|Condicion=Lluvia irregular en las cercanías]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Maule | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Maule | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Maule]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Maule|CiudadReferencia=Talca|TemperaturaActual=15.9|TemperaturaMinima=12.9|TemperaturaMaxima=22.2|SensacionTermica=15.6|Humedad=80.0|VientoMaximo=16.9|ProbabilidadLluvia=74|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Maule]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Maule|CiudadReferencia=Talca|TemperaturaActual=14.8|TemperaturaMinima=13.2|TemperaturaMaxima=23.8|SensacionTermica=14.3|Humedad=91.0|VientoMaximo=13.7|ProbabilidadLluvia=72|Condicion=Lluvia irregular en las cercanías]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Ñuble | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Ñuble | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Ñuble]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Ñuble|CiudadReferencia=Chillán|TemperaturaActual=14.7|TemperaturaMinima=11.9|TemperaturaMaxima=19.4|SensacionTermica=13.7|Humedad=87.0|VientoMaximo=16.2|ProbabilidadLluvia=82|Condicion=Chubasco ligero]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Ñuble]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Ñuble|CiudadReferencia=Chillán|TemperaturaActual=13.4|TemperaturaMinima=11.4|TemperaturaMaxima=21.3|SensacionTermica=11.7|Humedad=92.0|VientoMaximo=14.4|ProbabilidadLluvia=66|Condicion=Lluvia irregular en las cercanías]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Biobío | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Biobío | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Biobío]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Biobío|CiudadReferencia=Concepción|TemperaturaActual=14.0|TemperaturaMinima=12.0|TemperaturaMaxima=17.8|SensacionTermica=13.3|Humedad=92.0|VientoMaximo=19.1|ProbabilidadLluvia=72|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Biobío]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Biobío|CiudadReferencia=Concepción|TemperaturaActual=12.9|TemperaturaMinima=11.5|TemperaturaMaxima=18.6|SensacionTermica=12.0|Humedad=93.0|VientoMaximo=17.3|ProbabilidadLluvia=79|Condicion=Lluvia irregular en las cercanías]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | La Araucanía | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | La Araucanía | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|La Araucanía]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=La Araucanía|CiudadReferencia=Temuco|TemperaturaActual=14.6|TemperaturaMinima=11.7|TemperaturaMaxima=19.2|SensacionTermica=13.4|Humedad=91.0|VientoMaximo=14.8|ProbabilidadLluvia=84|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|La Araucanía]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=La Araucanía|CiudadReferencia=Temuco|TemperaturaActual=12.8|TemperaturaMinima=10.6|TemperaturaMaxima=17.9|SensacionTermica=10.8|Humedad=93.0|VientoMaximo=16.6|ProbabilidadLluvia=89|Condicion=Chubasco ligero]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Los Ríos | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Los Ríos | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Los Ríos]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Los Ríos|CiudadReferencia=Valdivia|TemperaturaActual=14.4|TemperaturaMinima=11.6|TemperaturaMaxima=16.8|SensacionTermica=14.3|Humedad=95.0|VientoMaximo=10.4|ProbabilidadLluvia=89|Condicion=Chubasco ligero]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Los Ríos]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Los Ríos|CiudadReferencia=Valdivia|TemperaturaActual=12.3|TemperaturaMinima=10.9|TemperaturaMaxima=16.7|SensacionTermica=11.6|Humedad=98.0|VientoMaximo=12.2|ProbabilidadLluvia=92|Condicion=Chubasco ligero]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Los Lagos | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Los Lagos | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Los Lagos]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Los Lagos|CiudadReferencia=Puerto Montt|TemperaturaActual=14.7|TemperaturaMinima=12.5|TemperaturaMaxima=18.7|SensacionTermica=13.4|Humedad=85.0|VientoMaximo=14.8|ProbabilidadLluvia=88|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Los Lagos]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Los Lagos|CiudadReferencia=Puerto Montt|TemperaturaActual=12.9|TemperaturaMinima=11.4|TemperaturaMaxima=16.8|SensacionTermica=11.2|Humedad=93.0|VientoMaximo=16.6|ProbabilidadLluvia=87|Condicion=Chubasco ligero]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Aysén | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Aysén | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Aysén]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Aysén|CiudadReferencia=Coyhaique|TemperaturaActual=15.0|TemperaturaMinima=11.1|TemperaturaMaxima=20.9|SensacionTermica=14.0|Humedad=66.0|VientoMaximo=6.5|ProbabilidadLluvia=24|Condicion=Cubierto]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Aysén]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Aysén|CiudadReferencia=Coyhaique|TemperaturaActual=12.6|TemperaturaMinima=10.7|TemperaturaMaxima=15.6|SensacionTermica=12.5|Humedad=90.0|VientoMaximo=6.8|ProbabilidadLluvia=86|Condicion=Neblina]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 <item>
-<title><![CDATA[Pronóstico Temperaturas | Magallanes | 17-11-2026]]></title>
+<title><![CDATA[Pronóstico Temperaturas | Magallanes | 18-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
-<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|17-11-2026|Magallanes]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=17-11-2026|Region=Magallanes|CiudadReferencia=Punta Arenas|TemperaturaActual=11.1|TemperaturaMinima=4.1|TemperaturaMaxima=19.7|SensacionTermica=9.3|Humedad=61.0|VientoMaximo=14.4|ProbabilidadLluvia=9|Condicion=Nublado]]></description>
-<pubDate>Tue, 17 Nov 2026 09:09:44 -0300</pubDate>
+<guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|18-11-2026|Magallanes]]></guid>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=18-11-2026|Region=Magallanes|CiudadReferencia=Punta Arenas|TemperaturaActual=10.0|TemperaturaMinima=7.1|TemperaturaMaxima=18.0|SensacionTermica=8.1|Humedad=71.0|VientoMaximo=9.4|ProbabilidadLluvia=17|Condicion=Cubierto]]></description>
+<pubDate>Wed, 18 Nov 2026 08:31:55 -0300</pubDate>
 </item>
 
 </channel>
