@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
+
+19-11-2026 07:59
+
+Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
+
+19-11-2026 07:53
+
 Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico
 
 18-11-2026 21:25
@@ -33,10 +41,6 @@ Se modifica cobertura de Alerta Amarilla para las Provincia de El Loa y comunas 
 Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
 
 18-11-2026 18:23
-
-Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
-
-18-11-2026 17:10
 
 Se declara Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas
 
@@ -57,10 +61,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de O´Higgins por evento me
 Se declara Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso por marejadas anormales
 
 18-11-2026 14:36
-
-Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico
-
-18-11-2026 14:23
 
 Monitoreo Alerta Amarilla para las Comunas de Huasco, Freirina y Vallenar por crecida
 
