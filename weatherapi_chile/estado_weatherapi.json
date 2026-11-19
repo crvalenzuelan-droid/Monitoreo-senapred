@@ -1,8 +1,8 @@
 {
   "estado": "OK",
   "mensaje": "Pronostico generado correctamente",
-  "fecha_revision_chile": "2026-11-18T08:31:55.748858-03:00",
-  "fecha_esperada": "2026-11-18",
+  "fecha_revision_chile": "2026-11-19T08:58:28.315729-03:00",
+  "fecha_esperada": "2026-11-19",
   "cantidad_regiones": 16,
   "errores": []
 }
