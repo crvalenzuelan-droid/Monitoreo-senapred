@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas
+
+19-11-2026 17:53
+
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+19-11-2026 16:51
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico
 
 19-11-2026 07:59
@@ -41,10 +49,6 @@ Se modifica cobertura de Alerta Amarilla para las Provincia de El Loa y comunas 
 Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
 
 18-11-2026 18:23
-
-Se declara Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas
-
-18-11-2026 16:57
 
 Se declara Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas
 
@@ -93,10 +97,6 @@ Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por cr
 Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida
 
 15-11-2026 20:31
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del complejo volcánico Nevados de Chillán
-
-12-11-2026 20:01
 
 Modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Combarbalá, Andacollo, Punitaqui, Canela y Los Vilos por crecida
 
