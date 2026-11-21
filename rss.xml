@@ -5,14 +5,22 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Sat, 21 Nov 2026 04:19:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 13:03:18 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario|21-11-2026 07:08]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Los Ríos|Prioridad=Baja|Fecha=21-11-2026 07:08|NivelCobertura=Región|UbicacionCobertura=Los Ríos]]></description>
+<pubDate>Sat, 21 Nov 2026 13:03:18 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-desborde-2026-11-10-18-43-26</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde|20-11-2026 19:48]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Atacama|Prioridad=Alta|Fecha=20-11-2026 19:48|NivelCobertura=Comuna|UbicacionCobertura=alto del carmen]]></description>
-<pubDate>Sat, 21 Nov 2026 04:19:14 GMT</pubDate>
+<pubDate>Sat, 21 Nov 2026 13:03:18 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +28,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-11-14-17-33-44</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Huasco y Freirina por viento|20-11-2026 18:06]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=20-11-2026 18:06|NivelCobertura=Comuna|UbicacionCobertura=freirina,huasco]]></description>
-<pubDate>Sat, 21 Nov 2026 04:19:14 GMT</pubDate>
+<pubDate>Sat, 21 Nov 2026 13:03:18 GMT</pubDate>
 </item>
 
 <item>
@@ -28,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18</link>
 <guid isPermaLink="false"><![CDATA[Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida|20-11-2026 17:48]]></guid>
 <description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Valparaíso|Prioridad=Baja|Fecha=20-11-2026 17:48|NivelCobertura=Comuna|UbicacionCobertura=quillota,limache,concon]]></description>
-<pubDate>Sat, 21 Nov 2026 04:19:14 GMT</pubDate>
+<pubDate>Sat, 21 Nov 2026 13:03:18 GMT</pubDate>
 </item>
 
 <item>
@@ -36,15 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2026-11-18-17-33-59</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas|19-11-2026 17:53]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=19-11-2026 17:53|NivelCobertura=Provincia|UbicacionCobertura=ultima esperanza,tierra del fuego,magallanes]]></description>
-<pubDate>Sat, 21 Nov 2026 04:19:14 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|19-11-2026 16:51]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=19-11-2026 16:51|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
-<pubDate>Sat, 21 Nov 2026 04:19:14 GMT</pubDate>
+<pubDate>Sat, 21 Nov 2026 13:03:18 GMT</pubDate>
 </item>
 
 </channel>
