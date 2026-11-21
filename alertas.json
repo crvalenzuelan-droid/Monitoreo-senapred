@@ -1,5 +1,18 @@
 [
   {
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas|21-11-2026 16:59",
+    "accion": "Se declara",
+    "tipo": "ATP",
+    "prioridad": "Baja",
+    "region": "Magallanes",
+    "nivel_cobertura": "Región",
+    "ubicacion_cobertura": "Magallanes",
+    "fecha_senapred": "21-11-2026 16:59",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38",
+    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A635\n\n\t\n\nProbables tormentas eléctricas en cordillera austral norte, cordillera austral sur, insular central, insular sur, pampa patagónica norte y pampa patagónica sur de la región\n\n\t\n\n22-11\n\n\t\n\n24-11\n\n\t\n\nAbrir aquí\n\n​\n\n\nEn consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por tormentas eléctricas, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\nLa declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
+  },
+  {
     "id_alerta": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario|21-11-2026 07:08",
     "accion": "Monitoreo",
     "tipo": "ATP",
@@ -50,18 +63,5 @@
     "titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida",
     "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
     "detalle": "De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, a través de las estaciones fluviométricas del Río Aconcagua, se puede observar una tendencia a la baja y estabilización de sus caudales, manteniéndose actualmente dentro de parámetros normales correspondientes al umbral verde (a excepción de la estación Puente Colmo en umbral azul).\n\nSe prevé que los caudales mantengan un comportamiento relativamente estable, sin perjuicio de eventuales incrementos que sean detectados con el monitoreo permanente de la Dirección General de Aguas (DGA).\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED modifica la cobertura de la Alerta Temprana Preventiva por crecida para las comunas de Concón, Quintero, Quillota y Limache, vigente desde el 11 de noviembre de 2026 y hasta que las condiciones así lo ameriten.\n\nLa modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe y las comunas de Los Andes, San Esteban, Concón, Quintero, Quillota y Limache por crecida\n\n18-11-2026 19:33\n\nSe modifica cobertura de Alerta Temprana Preventiva para la Provincia de San Felipe por crecida\n\n15-11-2026 02:15\n\nMonitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida\n\n14-11-2026 01:45\n\nSe modifica cobertura de Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Concón, Quintero, Quillota y Limache por crecida\n\n12-11-2026 22:29\n\nMonitoreo Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n12-11-2026 03:52\n\nSe declara Alerta Temprana Preventiva para las Provincia de San Felipe y las comunas de Los Andes y San Esteban por crecida\n\n11-11-2026 19:56"
-  },
-  {
-    "id_alerta": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas|19-11-2026 17:53",
-    "accion": "Monitoreo",
-    "tipo": "ATP",
-    "prioridad": "Baja",
-    "region": "Magallanes",
-    "nivel_cobertura": "Provincia",
-    "ubicacion_cobertura": "ultima esperanza,tierra del fuego,magallanes",
-    "fecha_senapred": "19-11-2026 17:53",
-    "titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2026-11-18-17-33-59",
-    "detalle": "De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Magallanes:\n\n\n\n\nAlertamiento\n\n\t\n\nPronóstico\n\n\t\n\nInicio\n\n\t\n\nFin\n\n\t\n\nEnlace\n\n\n\n\nAviso A631\n\n\t\n\nProbables tormentas eléctricas en cordillera austral norte, insular norte, pampa patagónica norte y pampa patagónica sur de la región\n\n\t\n\n19-11\n\n\t\n\n19-11\n\n\t\n\nAbrir aquí\n\n\n\n\nAviso A633\n\n\t\n\nProbables tormentas eléctricas en las comunas de Torres del Paine, Natales, Laguna Blanca y San Gregorio\n\n\t\n\n20-11\n\n\t\n\n20-11\n\n\t\n\nAbrir aquí\n\n\n\n\nEn consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva por tormentas eléctricas para las provincias de Magallanes, Última Esperanza y Tierra del Fuego, la cual se encuentra vigente desde el 18 de noviembre y hasta que las condiciones así lo ameriten.\n\n\n\n\nEsta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.\n\nSe declara Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas\n\n18-11-2026 16:57"
   }
 ]

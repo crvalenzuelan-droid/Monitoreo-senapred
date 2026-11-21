@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Se declara Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas
+
+21-11-2026 16:59
+
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 21-11-2026 07:08
@@ -33,10 +37,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Huasco y Freirina por v
 Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida
 
 20-11-2026 17:48
-
-Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas
-
-19-11-2026 17:53
 
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
