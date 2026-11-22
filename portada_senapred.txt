@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida
+
+22-11-2026 12:20
+
+Monitoreo Alerta Amarilla para la provincia de El Loa y las comunas de Antofagasta, Sierra Gorda y María Elena por calor intenso
+
+22-11-2026 09:38
+
 Monitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales
 
 21-11-2026 23:51
@@ -38,25 +46,13 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Huasco y Freirina por v
 
 20-11-2026 18:06
 
-Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida
-
-20-11-2026 17:48
-
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
 
 19-11-2026 16:51
 
-Se modifica cobertura de Alerta Amarilla para las Provincia de El Loa y comunas de Antofagasta, Sierra Gorda y María Elena por calor intenso
-
-18-11-2026 19:24
-
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
 18-11-2026 13:00
-
-Monitoreo Alerta Amarilla para la Comuna de Tierra Amarilla por crecida
-
-17-11-2026 13:30
 
 Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde
 
