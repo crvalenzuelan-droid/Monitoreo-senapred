@@ -18,9 +18,9 @@ Limpiar Filtros
 <<
 >>
 
-Monitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales
+Monitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández por marejadas anormales
 
-22-11-2026 20:31
+23-11-2026 12:58
 
 Se modifica Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
 
