@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
+<rss version="2.0"><channel>
 <title>Pronóstico Nacional Radiación UV WeatherAPI</title>
 <link>https://www.weatherapi.com/</link>
 <description>Pronóstico nacional diario de radiación UV</description>
 <language>es-cl</language>
-<lastBuildDate>Mon, 23 Nov 2026 08:32:37 -0300</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 09:55:15 -0300</lastBuildDate>
 
 <item>
 <title><![CDATA[Pronóstico Nacional de Radiación UV WeatherAPI | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[UV-NACIONAL-WEATHERAPI|23-11-2026]]></guid>
 <description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|MaximoNacional=15.0|Extremo=Arica y Parinacota (14.0), Tarapacá (15.0), Antofagasta (15.0), Atacama (14.2), Coquimbo (12.4), Valparaíso (11.0), Metropolitana (11.0)|MuyAlto=O´Higgins (10.2), Maule (10.9), Ñuble (9.0), Biobío (10.1), La Araucanía (8.6), Los Ríos (8.8), Los Lagos (9.4), Aysén (8.6)|Alto=|Moderado=Magallanes (3.9)|Bajo=|NoDisponible=]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
-
-</channel>
-</rss>
+</channel></rss>

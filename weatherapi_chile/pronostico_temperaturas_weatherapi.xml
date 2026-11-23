@@ -1,139 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
+<rss version="2.0"><channel>
 <title>Pronóstico Temperaturas Chile WeatherAPI</title>
 <link>https://www.weatherapi.com/</link>
-<description>Pronóstico diario de temperaturas por región de Chile</description>
+<description>Pronóstico diario de temperaturas y UV por región de Chile</description>
 <language>es-cl</language>
-<lastBuildDate>Mon, 23 Nov 2026 08:32:37 -0300</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 09:55:15 -0300</lastBuildDate>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Arica y Parinacota | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Arica y Parinacota]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Arica y Parinacota|CiudadReferencia=Arica|TemperaturaActual=22.3|TemperaturaMinima=21.8|TemperaturaMaxima=24.7|SensacionTermica=24.2|Humedad=77.0|VientoMaximo=20.5|ProbabilidadLluvia=22|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Arica y Parinacota|CiudadReferencia=Arica|TemperaturaActual=22.8|TemperaturaMinima=21.8|TemperaturaMaxima=24.7|SensacionTermica=24.5|Humedad=75.0|VientoMaximo=20.5|ProbabilidadLluvia=22|Condicion=Lluvia irregular en las cercanías|UVHoraReporte=0.3|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=14.0|HoraUVMaximo=14:00|CategoriaUVMaximo=Extremo]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Tarapacá | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Tarapacá]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Tarapacá|CiudadReferencia=Iquique|TemperaturaActual=20.6|TemperaturaMinima=19.0|TemperaturaMaxima=25.4|SensacionTermica=22.1|Humedad=76.0|VientoMaximo=14.0|ProbabilidadLluvia=13|Condicion=Parcialmente nublado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Tarapacá|CiudadReferencia=Iquique|TemperaturaActual=21.4|TemperaturaMinima=19.0|TemperaturaMaxima=25.4|SensacionTermica=22.6|Humedad=72.0|VientoMaximo=14.0|ProbabilidadLluvia=13|Condicion=Parcialmente nublado|UVHoraReporte=0.4|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=15.0|HoraUVMaximo=14:00|CategoriaUVMaximo=Extremo]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Antofagasta | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Antofagasta]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Antofagasta|CiudadReferencia=Antofagasta|TemperaturaActual=16.9|TemperaturaMinima=15.1|TemperaturaMaxima=24.6|SensacionTermica=17.9|Humedad=84.0|VientoMaximo=23.4|ProbabilidadLluvia=9|Condicion=Soleado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Antofagasta|CiudadReferencia=Antofagasta|TemperaturaActual=18.3|TemperaturaMinima=15.1|TemperaturaMaxima=24.6|SensacionTermica=18.9|Humedad=75.0|VientoMaximo=23.4|ProbabilidadLluvia=9|Condicion=Soleado|UVHoraReporte=0.3|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=15.0|HoraUVMaximo=14:00|CategoriaUVMaximo=Extremo]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Atacama | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Atacama]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Atacama|CiudadReferencia=Copiapó|TemperaturaActual=15.4|TemperaturaMinima=14.3|TemperaturaMaxima=24.0|SensacionTermica=14.9|Humedad=79.0|VientoMaximo=16.2|ProbabilidadLluvia=11|Condicion=Nublado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Atacama|CiudadReferencia=Copiapó|TemperaturaActual=16.5|TemperaturaMinima=14.3|TemperaturaMaxima=24.0|SensacionTermica=15.6|Humedad=72.0|VientoMaximo=16.2|ProbabilidadLluvia=11|Condicion=Nublado|UVHoraReporte=0.5|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=14.2|HoraUVMaximo=14:00|CategoriaUVMaximo=Extremo]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Coquimbo | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Coquimbo]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Coquimbo|CiudadReferencia=La Serena|TemperaturaActual=16.4|TemperaturaMinima=14.2|TemperaturaMaxima=22.7|SensacionTermica=16.6|Humedad=79.0|VientoMaximo=14.4|ProbabilidadLluvia=13|Condicion=Nublado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Coquimbo|CiudadReferencia=La Serena|TemperaturaActual=17.6|TemperaturaMinima=14.2|TemperaturaMaxima=22.7|SensacionTermica=17.5|Humedad=73.0|VientoMaximo=14.4|ProbabilidadLluvia=13|Condicion=Nublado|UVHoraReporte=0.4|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=12.4|HoraUVMaximo=14:00|CategoriaUVMaximo=Extremo]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Valparaíso | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Valparaíso]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Valparaíso|CiudadReferencia=Valparaíso|TemperaturaActual=14.5|TemperaturaMinima=11.2|TemperaturaMaxima=23.5|SensacionTermica=14.3|Humedad=78.0|VientoMaximo=23.0|ProbabilidadLluvia=9|Condicion=Parcialmente nublado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Valparaíso|CiudadReferencia=Valparaíso|TemperaturaActual=16.1|TemperaturaMinima=11.2|TemperaturaMaxima=23.5|SensacionTermica=16.1|Humedad=70.0|VientoMaximo=23.0|ProbabilidadLluvia=9|Condicion=Parcialmente nublado|UVHoraReporte=0.4|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=11.0|HoraUVMaximo=14:00|CategoriaUVMaximo=Extremo]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Metropolitana | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Metropolitana]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Metropolitana|CiudadReferencia=Santiago|TemperaturaActual=15.7|TemperaturaMinima=14.1|TemperaturaMaxima=25.9|SensacionTermica=14.5|Humedad=61.0|VientoMaximo=16.6|ProbabilidadLluvia=9|Condicion=Nublado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Metropolitana|CiudadReferencia=Santiago|TemperaturaActual=16.9|TemperaturaMinima=14.1|TemperaturaMaxima=25.9|SensacionTermica=15.6|Humedad=56.0|VientoMaximo=16.6|ProbabilidadLluvia=9|Condicion=Nublado|UVHoraReporte=0.4|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=11.0|HoraUVMaximo=14:00|CategoriaUVMaximo=Extremo]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | O´Higgins | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|O´Higgins]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=O´Higgins|CiudadReferencia=Rancagua|TemperaturaActual=13.7|TemperaturaMinima=12.4|TemperaturaMaxima=23.3|SensacionTermica=12.5|Humedad=65.0|VientoMaximo=7.9|ProbabilidadLluvia=20|Condicion=Cubierto]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=O´Higgins|CiudadReferencia=Rancagua|TemperaturaActual=14.4|TemperaturaMinima=12.4|TemperaturaMaxima=23.3|SensacionTermica=13.0|Humedad=63.0|VientoMaximo=7.9|ProbabilidadLluvia=20|Condicion=Cubierto|UVHoraReporte=0.4|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=10.2|HoraUVMaximo=14:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Maule | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Maule]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Maule|CiudadReferencia=Talca|TemperaturaActual=12.6|TemperaturaMinima=10.1|TemperaturaMaxima=23.9|SensacionTermica=10.9|Humedad=72.0|VientoMaximo=15.1|ProbabilidadLluvia=17|Condicion=Soleado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Maule|CiudadReferencia=Talca|TemperaturaActual=14.2|TemperaturaMinima=10.1|TemperaturaMaxima=23.9|SensacionTermica=11.8|Humedad=67.0|VientoMaximo=15.1|ProbabilidadLluvia=17|Condicion=Soleado|UVHoraReporte=0.5|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=10.9|HoraUVMaximo=14:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Ñuble | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Ñuble]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Ñuble|CiudadReferencia=Chillán|TemperaturaActual=12.1|TemperaturaMinima=9.3|TemperaturaMaxima=23.2|SensacionTermica=10.0|Humedad=77.0|VientoMaximo=14.4|ProbabilidadLluvia=38|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Ñuble|CiudadReferencia=Chillán|TemperaturaActual=13.8|TemperaturaMinima=9.3|TemperaturaMaxima=23.2|SensacionTermica=11.2|Humedad=72.0|VientoMaximo=14.4|ProbabilidadLluvia=38|Condicion=Lluvia irregular en las cercanías|UVHoraReporte=0.5|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=9.0|HoraUVMaximo=15:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Biobío | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Biobío]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Biobío|CiudadReferencia=Concepción|TemperaturaActual=13.2|TemperaturaMinima=9.6|TemperaturaMaxima=20.9|SensacionTermica=12.5|Humedad=77.0|VientoMaximo=18.4|ProbabilidadLluvia=36|Condicion=Soleado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Biobío|CiudadReferencia=Concepción|TemperaturaActual=15.3|TemperaturaMinima=9.6|TemperaturaMaxima=20.9|SensacionTermica=14.5|Humedad=71.0|VientoMaximo=18.4|ProbabilidadLluvia=36|Condicion=Soleado|UVHoraReporte=0.4|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=10.1|HoraUVMaximo=14:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | La Araucanía | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|La Araucanía]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=La Araucanía|CiudadReferencia=Temuco|TemperaturaActual=12.2|TemperaturaMinima=8.3|TemperaturaMaxima=18.3|SensacionTermica=11.7|Humedad=92.0|VientoMaximo=19.8|ProbabilidadLluvia=64|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=La Araucanía|CiudadReferencia=Temuco|TemperaturaActual=12.9|TemperaturaMinima=8.3|TemperaturaMaxima=18.3|SensacionTermica=12.5|Humedad=92.0|VientoMaximo=19.8|ProbabilidadLluvia=64|Condicion=Lluvia irregular en las cercanías|UVHoraReporte=0.1|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=8.6|HoraUVMaximo=14:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Los Ríos | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Los Ríos]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Los Ríos|CiudadReferencia=Valdivia|TemperaturaActual=12.3|TemperaturaMinima=9.3|TemperaturaMaxima=17.0|SensacionTermica=12.0|Humedad=97.0|VientoMaximo=17.6|ProbabilidadLluvia=66|Condicion=Soleado]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Los Ríos|CiudadReferencia=Valdivia|TemperaturaActual=12.6|TemperaturaMinima=9.3|TemperaturaMaxima=17.0|SensacionTermica=12.4|Humedad=96.0|VientoMaximo=17.6|ProbabilidadLluvia=66|Condicion=Soleado|UVHoraReporte=0.3|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=8.8|HoraUVMaximo=15:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Los Lagos | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Los Lagos]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Los Lagos|CiudadReferencia=Puerto Montt|TemperaturaActual=10.7|TemperaturaMinima=9.0|TemperaturaMaxima=15.1|SensacionTermica=9.3|Humedad=84.0|VientoMaximo=14.0|ProbabilidadLluvia=57|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Los Lagos|CiudadReferencia=Puerto Montt|TemperaturaActual=11.5|TemperaturaMinima=9.0|TemperaturaMaxima=15.1|SensacionTermica=10.0|Humedad=79.0|VientoMaximo=14.0|ProbabilidadLluvia=57|Condicion=Lluvia irregular en las cercanías|UVHoraReporte=0.3|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=9.4|HoraUVMaximo=14:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Aysén | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Aysén]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Aysén|CiudadReferencia=Coyhaique|TemperaturaActual=4.9|TemperaturaMinima=1.5|TemperaturaMaxima=10.7|SensacionTermica=2.1|Humedad=79.0|VientoMaximo=25.6|ProbabilidadLluvia=70|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Aysén|CiudadReferencia=Coyhaique|TemperaturaActual=6.8|TemperaturaMinima=1.5|TemperaturaMaxima=10.7|SensacionTermica=3.9|Humedad=71.0|VientoMaximo=25.6|ProbabilidadLluvia=70|Condicion=Lluvia irregular en las cercanías|UVHoraReporte=0.6|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=8.6|HoraUVMaximo=14:00|CategoriaUVMaximo=Muy Alto]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
 
 <item>
 <title><![CDATA[Pronóstico Temperaturas | Magallanes | 23-11-2026]]></title>
 <link>https://www.weatherapi.com/</link>
 <guid isPermaLink="false"><![CDATA[TEMP-WEATHERAPI|23-11-2026|Magallanes]]></guid>
-<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Magallanes|CiudadReferencia=Punta Arenas|TemperaturaActual=6.9|TemperaturaMinima=4.2|TemperaturaMaxima=9.5|SensacionTermica=3.4|Humedad=70.0|VientoMaximo=32.4|ProbabilidadLluvia=59|Condicion=Lluvia irregular en las cercanías]]></description>
-<pubDate>Mon, 23 Nov 2026 08:32:37 -0300</pubDate>
+<description><![CDATA[Fuente=WeatherAPI.com|FechaPronostico=23-11-2026|Region=Magallanes|CiudadReferencia=Punta Arenas|TemperaturaActual=6.9|TemperaturaMinima=4.2|TemperaturaMaxima=9.5|SensacionTermica=3.0|Humedad=70.0|VientoMaximo=32.4|ProbabilidadLluvia=59|Condicion=Lluvia irregular en las cercanías|UVHoraReporte=0.4|HoraReporteUV=08:00|CategoriaUVHora=Bajo|UVMaximo=3.9|HoraUVMaximo=14:00|CategoriaUVMaximo=Moderado]]></description>
+<pubDate>Mon, 23 Nov 2026 09:55:15 -0300</pubDate>
 </item>
-
-</channel>
-</rss>
+</channel></rss>
