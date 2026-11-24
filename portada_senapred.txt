@@ -34,14 +34,6 @@ Se declara Alerta Temprana Preventiva para provincia de Parinacota y la comuna d
 
 22-11-2026 13:21
 
-Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Alto del Carmen, Vallenar, Huasco y Freirina por viento
-
-22-11-2026 13:16
-
-Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Paihuano, Vicuña, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas
-
-22-11-2026 13:03
-
 Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida
 
 22-11-2026 12:20
