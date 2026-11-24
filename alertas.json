@@ -1,16 +1,16 @@
 [
   {
-    "id_alerta": "Se cancela Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández por marejadas anormales|24-11-2026 07:08",
-    "accion": "Se cancela",
+    "id_alerta": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales|24-11-2026 13:08",
+    "accion": "Se declara",
     "tipo": "ATP",
     "prioridad": "Baja",
-    "region": "Arica y Parinacota,Biobío",
+    "region": "Metropolitana",
     "nivel_cobertura": "Región",
-    "ubicacion_cobertura": "Arica y Parinacota,Biobío",
-    "fecha_senapred": "24-11-2026 07:08",
-    "titulo": "Se cancela Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández por marejadas anormales",
-    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-11-18-15-17-52",
-    "detalle": "En consideración a estos antecedentes, SENAPRED cancela Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales, la cual se mantuvo vigente desde el 18 de noviembre de 2026.\n\nLas Direcciones Regionales de SENAPRED continúan el monitoreo y coordinaciones con los integrantes del Sistema Regional de Prevención y Respuesta ante Desastres para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia producto de la condición del mar.\n\nMonitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández por marejadas anormales\n\n23-11-2026 12:58\n\nMonitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales\n\n22-11-2026 20:31\n\nMonitoreo Alerta Temprana Preventiva para las comunas del borde costero entre las regiones de Arica y Parinacota y Biobío y la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales\n\n21-11-2026 23:51\n\nSe declara Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso por marejadas anormales\n\n18-11-2026 14:36"
+    "ubicacion_cobertura": "Metropolitana",
+    "fecha_senapred": "24-11-2026 13:08",
+    "titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+    "url": "https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2026-11-24-13-17-30",
+    "detalle": "Nosotros\nIniciativas\nParticipación Ciudadana\nSismos / Alertas\n\nSe declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales\n\nRegión Metropolitana de Santiago\n\n24-11-2026 13:08\n\nDe acuerdo con el análisis técnico de CONAF, además del pronóstico de condiciones meteorológicas favorables para la ignición y propagación de incendios forestales, la Delegación Presidencial Regional Metropolitana de Santiago, en coordinación con la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.\n\n\n\n\nLa declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia."
   },
   {
     "id_alerta": "Se modifica Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico|22-11-2026 20:07",
