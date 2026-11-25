@@ -18,13 +18,17 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
+
+24-11-2026 21:39
+
+Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde
+
+24-11-2026 16:53
+
 Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales
 
 24-11-2026 13:08
-
-Se modifica Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico
-
-22-11-2026 20:07
 
 Se declara Alerta Amarilla para las provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por calor intenso
 
@@ -53,10 +57,6 @@ Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por ac
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
 18-11-2026 13:00
-
-Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde
-
-16-11-2026 12:17
 
 Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida
 

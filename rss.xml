@@ -5,22 +5,30 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Tue, 24 Nov 2026 17:43:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 01:38:28 GMT</lastBuildDate>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico|24-11-2026 21:39]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=24-11-2026 21:39|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
+<pubDate>Wed, 25 Nov 2026 01:38:28 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde|24-11-2026 16:53]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=24-11-2026 16:53|NivelCobertura=Comuna|UbicacionCobertura=monte patria,rio hurtado,salamanca,illapel,vicuna,ovalle]]></description>
+<pubDate>Wed, 25 Nov 2026 01:38:28 GMT</pubDate>
+</item>
 
 <item>
 <title><![CDATA[Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2026-11-24-13-17-30</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales|24-11-2026 13:08]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Metropolitana|Prioridad=Baja|Fecha=24-11-2026 13:08|NivelCobertura=Región|UbicacionCobertura=Metropolitana]]></description>
-<pubDate>Tue, 24 Nov 2026 17:43:54 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38</link>
-<guid isPermaLink="false"><![CDATA[Se modifica Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico|22-11-2026 20:07]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=22-11-2026 20:07|NivelCobertura=Región|UbicacionCobertura=Magallanes]]></description>
-<pubDate>Tue, 24 Nov 2026 17:43:54 GMT</pubDate>
+<pubDate>Wed, 25 Nov 2026 01:38:28 GMT</pubDate>
 </item>
 
 <item>
@@ -28,7 +36,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-las-comunas-de-petorca-y-cabildo-por-calor-intenso-2026-11-22-17-57-09</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Amarilla para las provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por calor intenso|22-11-2026 17:55]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=22-11-2026 17:55|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
-<pubDate>Tue, 24 Nov 2026 17:43:54 GMT</pubDate>
+<pubDate>Wed, 25 Nov 2026 01:38:28 GMT</pubDate>
 </item>
 
 <item>
@@ -36,15 +44,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-provincia-de-parinacota-y-la-comuna-de-camarones-por-tormentas-electricas-2026-11-22-13-22-34</link>
 <guid isPermaLink="false"><![CDATA[Se declara Alerta Temprana Preventiva para provincia de Parinacota y la comuna de Camarones por tormentas eléctricas|22-11-2026 13:21]]></guid>
 <description><![CDATA[Accion=Se declara|Tipo=ATP|Region=Arica y Parinacota|Prioridad=Baja|Fecha=22-11-2026 13:21|NivelCobertura=Región|UbicacionCobertura=Arica y Parinacota]]></description>
-<pubDate>Tue, 24 Nov 2026 17:43:54 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida|22-11-2026 12:20]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Atacama|Prioridad=Media|Fecha=22-11-2026 12:20|NivelCobertura=Comuna|UbicacionCobertura=tierra amarilla]]></description>
-<pubDate>Tue, 24 Nov 2026 17:43:54 GMT</pubDate>
+<pubDate>Wed, 25 Nov 2026 01:38:28 GMT</pubDate>
 </item>
 
 </channel>
