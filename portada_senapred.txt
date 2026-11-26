@@ -18,6 +18,22 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida
+
+25-11-2026 22:30
+
+Monitoreo Alerta Amarilla para las Provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por calor intenso
+
+25-11-2026 21:05
+
+Se declara Alerta Temprana Preventiva por para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen tormentas eléctricas
+
+25-11-2026 17:56
+
+Se declara Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas
+
+25-11-2026 17:36
+
 Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde
 
 25-11-2026 13:09
@@ -29,18 +45,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por evento me
 Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales
 
 24-11-2026 13:08
-
-Se declara Alerta Amarilla para las provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por calor intenso
-
-22-11-2026 17:55
-
-Se declara Alerta Temprana Preventiva para provincia de Parinacota y la comuna de Camarones por tormentas eléctricas
-
-22-11-2026 13:21
-
-Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida
-
-22-11-2026 12:20
 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
