@@ -18,6 +18,14 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
+
+27-11-2026 18:13
+
+Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y comuna de Camarones por tormentas eléctricas
+
+27-11-2026 16:57
+
 Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
 
 27-11-2026 11:01
@@ -45,10 +53,6 @@ Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza 
 Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario
 
 21-11-2026 07:08
-
-Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
-
-20-11-2026 19:48
 
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
