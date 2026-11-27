@@ -5,14 +5,14 @@
 <link>https://www.senapred.cl</link>
 <description>Alertas SENAPRED</description>
 <language>es-cl</language>
-<lastBuildDate>Fri, 27 Nov 2026 13:55:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 15:18:34 GMT</lastBuildDate>
 
 <item>
-<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán]]></title>
+<title><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán]]></title>
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10</link>
-<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán|27-11-2026 10:25]]></guid>
-<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=27-11-2026 10:25|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
-<pubDate>Fri, 27 Nov 2026 13:55:24 GMT</pubDate>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán|27-11-2026 11:01]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Ñuble|Prioridad=Baja|Fecha=27-11-2026 11:01|NivelCobertura=Comuna|UbicacionCobertura=coihueco,pinto]]></description>
+<pubDate>Fri, 27 Nov 2026 15:18:34 GMT</pubDate>
 </item>
 
 <item>
@@ -20,7 +20,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-y-las-comunas-de-petorca-y-cabildo-por-calor-intenso-2026-11-22-17-57-09</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para las Provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por calor intenso|26-11-2026 21:24]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Valparaíso|Prioridad=Media|Fecha=26-11-2026 21:24|NivelCobertura=Región|UbicacionCobertura=Valparaíso]]></description>
-<pubDate>Fri, 27 Nov 2026 13:55:24 GMT</pubDate>
+<pubDate>Fri, 27 Nov 2026 15:18:34 GMT</pubDate>
 </item>
 
 <item>
@@ -28,15 +28,7 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-comuna-de-alto-del-carmen-por-crecida-2026-09-26-02-27-03</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida|26-11-2026 18:42]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=ATP|Region=Atacama|Prioridad=Baja|Fecha=26-11-2026 18:42|NivelCobertura=Comuna|UbicacionCobertura=copiapo,caldera]]></description>
-<pubDate>Fri, 27 Nov 2026 13:55:24 GMT</pubDate>
-</item>
-
-<item>
-<title><![CDATA[Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento]]></title>
-<link>https://www.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38</link>
-<guid isPermaLink="false"><![CDATA[Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento|26-11-2026 13:38]]></guid>
-<description><![CDATA[Accion=Se modifica|Tipo=ATP|Region=Magallanes|Prioridad=Baja|Fecha=26-11-2026 13:38|NivelCobertura=Provincia|UbicacionCobertura=ultima esperanza,tierra del fuego,magallanes]]></description>
-<pubDate>Fri, 27 Nov 2026 13:55:24 GMT</pubDate>
+<pubDate>Fri, 27 Nov 2026 15:18:34 GMT</pubDate>
 </item>
 
 <item>
@@ -44,7 +36,15 @@
 <link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08</link>
 <guid isPermaLink="false"><![CDATA[Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida|25-11-2026 22:30]]></guid>
 <description><![CDATA[Accion=Monitoreo|Tipo=Amarilla|Region=Atacama|Prioridad=Media|Fecha=25-11-2026 22:30|NivelCobertura=Comuna|UbicacionCobertura=tierra amarilla]]></description>
-<pubDate>Fri, 27 Nov 2026 13:55:24 GMT</pubDate>
+<pubDate>Fri, 27 Nov 2026 15:18:34 GMT</pubDate>
+</item>
+
+<item>
+<title><![CDATA[Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde]]></title>
+<link>https://www.senapred.cl/alerta/se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42</link>
+<guid isPermaLink="false"><![CDATA[Monitoreo Alerta Roja para las comunas de Paihuano, Vicuña, Ovalle, Illapel, Salamanca, Monte Patria y Río Hurtado por desborde|25-11-2026 13:09]]></guid>
+<description><![CDATA[Accion=Monitoreo|Tipo=Roja|Region=Coquimbo|Prioridad=Alta|Fecha=25-11-2026 13:09|NivelCobertura=Comuna|UbicacionCobertura=monte patria,rio hurtado,salamanca,illapel,vicuna,ovalle]]></description>
+<pubDate>Fri, 27 Nov 2026 15:18:34 GMT</pubDate>
 </item>
 
 </channel>

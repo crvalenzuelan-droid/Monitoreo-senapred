@@ -18,9 +18,9 @@ Limpiar Filtros
 <<
 >>
 
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán
 
-27-11-2026 10:25
+27-11-2026 11:01
 
 Monitoreo Alerta Amarilla para las Provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por calor intenso
 
@@ -29,10 +29,6 @@ Monitoreo Alerta Amarilla para las Provincias de San Felipe y Los Andes y las co
 Monitoreo Alerta Temprana Preventiva para las comunas de Copiapó y Caldera por crecida
 
 26-11-2026 18:42
-
-Se modifica evento y cobertura de Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento
-
-26-11-2026 13:38
 
 Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida
 
