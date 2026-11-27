@@ -18,6 +18,10 @@ Limpiar Filtros
 <<
 >>
 
+Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
+
+27-11-2026 10:25
+
 Monitoreo Alerta Amarilla para las Provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por calor intenso
 
 26-11-2026 21:24
@@ -49,10 +53,6 @@ Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoo
 Monitoreo Alerta Roja para la comuna de Alto del Carmen por desborde
 
 20-11-2026 19:48
-
-Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán
-
-19-11-2026 16:51
 
 Monitoreo Alerta Amarilla para las comunas de Huasco, Freirina y Vallenar por crecida
 
